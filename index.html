@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Learning Platform</title>
+    <link rel="icon" type="image/x-icon" href="favicon (2).svg">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+<!-- FontAwesome for icons -->
+<script src="https://kit.fontawesome.com/4f3ce16e3e.js" crossorigin="anonymous"></script>
+
+
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<style>
+    .features-section {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 30px;
+        padding: 50px;
+        background-color: #e0f2f1;
+    }
+
+    .feature-card {
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        padding: 20px;
+        
+        position: relative;
+        border-top: 5px solid #b2dfdb;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .feature-card:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    }
+
+    .feature-card::before {
+        content: '';
+        position: absolute;
+        top: -5px;
+        left: 50%;
+        transform: translateX(-50%);
+        border-width: 0 15px 15px 15px;
+        border-style: solid;
+        border-color: transparent transparent #b2dfdb transparent;
+    }
+
+    .feature-image {
+        background-color: #f5f5f5;
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+        margin: -70px auto 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 5px solid white;
+        position: relative;
+    }
+
+    .feature-image img {
+        width: 108px;
+        height: 108px;
+        border-radius: 50%;
+    }
+
+    .feature-card h2 {
+        color: #c62828;
+        font-size: 20px;
+        margin: 0 0 10px;
+    }
+
+    .feature-card p {
+        color: #666;
+        font-size: 14px;
+        line-height: 1.6;
+    }
+
+    .details-btn {
+        background-color: white;
+        border: 1px solid #ccc;
+        border-radius: 20px;
+        padding: 10px 20px;
+        cursor: pointer;
+        margin-top: 20px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+
+    input[type=text] {
+        width: 70%;
+        box-sizing: border-box;
+        border: 2px solid #ccc;
+        border-radius: 15px;
+        font-size: 16px;
+        background-color: white;
+        background-image: url('/images/searchicon.png');
+        background-position: 10px 10px;
+        background-repeat: no-repeat;
+        padding: 12px 20px 12px 40px;
+    }
+
+    .scroll-down {
+        cursor: pointer;
+        /* display: flex;
+        flex-direction: column;
+        align-items: center; */
+    }
+
+    .scroll-down i {
+        font-size: 24px;
+        margin-top: 5px;
+        animation: bounce 2s infinite;
+    }
+
+    @keyframes bounce {
+
+        0%,
+        20%,
+        50%,
+        80%,
+        100% {
+            transform: translateY(0);
+        }
+
+        40% {
+            transform: translateY(-10px);
+        }
+
+        60% {
+            transform: translateY(-5px);
+        }
+    }
+    .footer {
+  background: #222;
+  color: #fff;
+  padding: 40px 0 20px;
+  font-family: Arial, sans-serif;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 20px;
+}
+
+.footer-col {
+  flex: 1;
+  min-width: 250px;
+  margin: 20px 0;
+}
+
+.footer-col h4 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  color: #812B8F;
+}
+
+.footer-col p {
+  font-size: 14px;
+  line-height: 22px;
+}
+
+.footer-col ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-col ul li {
+  margin-bottom: 10px;
+}
+
+.footer-col ul li a {
+  color: #ccc;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.footer-col ul li a:hover {
+  color: #812B8F;
+}
+
+.social-links a {
+  display: inline-block;
+  height: 35px;
+  width: 35px;
+  background: #444;
+  margin-right: 8px;
+  text-align: center;
+  line-height: 35px;
+  border-radius: 50%;
+  color: #fff;
+  transition: 0.3s;
+}
+
+.social-links a:hover {
+  background: #812B8F;
+}
+
+.footer-bottom {
+  text-align: center;
+  padding: 15px 0 0;
+  font-size: 14px;
+  color: #aaa;
+  border-top: 1px solid #333;
+}
+
+
+</style>
+
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <img src="images/versailogo.png" alt="Logo">
+            </div>
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="#">Courses</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Teachers</a></li>
+                    <li><a href="#">Students</a></li>
+                </ul>
+            </nav>
+            <div class="subscribe">
+                <button><a href="login.html" style="text-decoration: none; color: white;">Login</a></button>
+            </div>
+          <!-- Hamburger Icon -->
+<div class="hamburger">
+    <i class="fas fa-bars"></i>
+</div>
+
+<!-- Menu -->
+<ul class="nav-menu">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Services</a></li>
+    <li><a href="#">Contact</a></li>
+     
+</ul>
+
+<style>
+/* By default menu hidden in mobile */
+/* Hamburger Styling */
+.hamburger {
+    font-size: 28px;
+    cursor: pointer;
+    color: #333;
+    padding: 8px 12px;
+    border-radius: 8px;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+.hamburger:hover {
+    background: #f0f0f0;
+    transform: scale(1.05);
+}
+
+/* Nav Menu */
+.nav-menu {
+    display: none;
+    list-style: none;
+    background: #ffffff;
+    padding: 15px 0;
+    margin: 10px 0 0 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+/* Nav Menu Items */
+.nav-menu li {
+    padding: 12px 20px;
+    border-bottom: 1px solid #eee;
+    transition: background 0.3s ease;
+}
+.nav-menu li:last-child {
+    border-bottom: none;
+}
+.nav-menu li:hover {
+    background: #f7f7f7;
+}
+.nav-menu li a {
+    text-decoration: none;
+    color: #333;
+    font-size: 16px;
+    font-weight: 500;
+    display: block;
+}
+
+/* Show Class */
+.nav-menu.show {
+    display: block;
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+.nav-menu {
+    width: 100%;
+    border-radius: 0;
+    margin: 0;
+}
+
+</style>
+
+<script>
+// Toggle menu on click
+document.querySelector(".hamburger").addEventListener("click", function () {
+    document.querySelector(".nav-menu").classList.toggle("show");
+});
+</script>
+
+        </header>
+        <main>
+            <div class="content">
+                <h1>Start learning <span>Online.</span></h1>
+                <p>Search for courses</p>
+                <input type="text" name="search" placeholder="What are you looking for?">
+                <div class="scroll-down" onclick="scrollToFeatures()">
+                    <!-- <p>SCROLL DOWN</p> -->
+                    <i class="fa-thin fa-down"></i>
+                </div>
+            </div>
+            <div class="image">
+                <img src="images/bg.svg" alt="E-learning illustration">
+            </div>
+        </main>
+    </div>
+
+
+    <section class="features-section">
+        <!-- Web Development -->
+        <div class="feature-card">
+            <div class="feature-image">
+                <img src="images/web-d.png" alt="Web Development">
+            </div>
+            <h2>Web Development</h2>
+            <p>Learn to build modern, responsive, and dynamic websites using HTML, CSS, JavaScript, and more.</p>
+            <button class="details-btn">View Details</button>
+        </div>
+
+        <!-- Graphic Design -->
+        <div class="feature-card">
+            <div class="feature-image">
+                <img src="images/graphic.png" alt="Graphic Design">
+            </div>
+            <h2>Graphic Design</h2>
+            <p>Master tools like Photoshop, Illustrator, and Canva to create stunning designs and visuals.</p>
+            <button class="details-btn">View Details</button>
+        </div>
+
+        <!-- Digital Marketing -->
+        <div class="feature-card">
+            <div class="feature-image">
+                <img src="images/digi.png" alt="Digital Marketing">
+            </div>
+            <h2>Digital Marketing</h2>
+            <p>Learn SEO, Social Media Marketing, Google Ads, and strategies to grow businesses online.</p>
+            <button class="details-btn">View Details</button>
+        </div>
+
+        <div class="feature-card">
+            <div class="feature-image">
+                <img src="images/rscit1.png" alt="RS-CIT Course">
+            </div>
+            <h2>RS-CIT</h2>
+            <p>Learn basic computer concepts, Internet, MS Office, and essential digital skills with RS-CIT.</p>
+            <button class="details-btn">View Details</button>
+        </div>
+    </section>
+    <section class="features-section">
+        <!-- Web Development -->
+        <div class="feature-card">
+            <div class="feature-image">
+                <img src="images/python.png" alt="Web Development">
+            </div>
+            <h2>Python Programming</h2>
+            <p>Learn to program in Python, one of the most popular and versatile programming languages.</p>
+            <button class="details-btn">View Details</button>
+        </div>
+
+        <!-- Graphic Design -->
+        <div class="feature-card">
+            <div class="feature-image">
+                <img src="images/php.png" alt="Graphic Design">
+            </div>
+            <h2>PHP</h2>
+            <p>Master PHP, a popular server-side scripting language, to build dynamic web applications.</p>
+            <button class="details-btn">View Details</button>
+        </div>
+
+        <!-- Digital Marketing -->
+        <div class="feature-card">
+            <div class="feature-image">
+                <img src="images/java.png" alt="Digital Marketing">
+            </div>
+            <h2>Java</h2>
+            <p>Learn Java, a versatile and widely-used programming language, for building applications.</p>
+            <button class="details-btn">View Details</button>
+        </div>
+
+        <div class="feature-card">
+            <div class="feature-image">
+                <img src="images/digital.png" alt="RS-CIT Course">
+            </div>
+            <h2>Excel</h2>
+            <p>Learn Excel, a powerful spreadsheet application, to analyze data and automate tasks.</p>
+            <button class="details-btn">View Details</button>
+        </div>
+        
+    </section>
+    <section class="features-section">
+        <!-- Web Development -->
+        <div class="feature-card">
+            <div class="feature-image">
+                <img src="images/basic.png" alt="Web Development">
+            </div>
+            <h2>Basic Computer</h2>
+            <p>Learn basic computer concepts, Internet, MS Office, and essential digital skills.</p>
+            <button class="details-btn">View Details</button>
+        </div>
+
+        <!-- Graphic Design -->
+        <div class="feature-card">
+            <div class="feature-image">
+                <img src="images/tally.png" alt="Graphic Design">
+            </div>
+            <h2>Tally</h2>
+            <p>Master Tally, a powerful accounting software, to manage finances and accounts effectively.</p>
+            <button class="details-btn">View Details</button>
+        </div>
+
+        <!-- Digital Marketing -->
+        <div class="feature-card">
+            <div class="feature-image">
+                <img src="images/wordpress.png" alt="Digital Marketing">
+            </div>
+            <h2>wordpress</h2>
+            <p>Learn SEO, Social Media Marketing, Google Ads, and strategies to grow businesses online.</p>
+            <button class="details-btn">View Details</button>
+        </div>
+
+        <div class="feature-card">
+            <div class="feature-image">
+                <img src="images/videoedi.png" alt="RS-CIT Course">
+            </div>
+            <h2>Video Editing</h2>
+            <p>Learn basic video editing skills using popular software to create engaging content.</p>
+            <button class="details-btn">View Details</button>
+        </div>
+    </section>
+    <!-- Footer -->
+<footer class="footer">
+  <div class="footer-container">
+    <!-- About -->
+    <div class="footer-col">
+       <div class="logo">
+                <img src="images/versailogo.png" alt="Logo">
+            </div>
+      <p>
+        Versai Technology is dedicated to providing innovative web & app solutions.  
+        We focus on quality, creativity, and user satisfaction.
+      </p>
+    </div>
+
+    <!-- Quick Links -->
+    <div class="footer-col">
+      <h4>Quick Links</h4>
+      <ul>
+        <li><a href="about.html">About</a></li>
+        <li><a href="privacy-policy.html">Privacy Policy</a></li>
+        <li><a href="terms.html">Terms & Conditions</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </div>
+
+    <!-- Social Media -->
+    <div class="footer-col">
+      <h4>Follow Us</h4>
+      <div class="social-links">
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="https://www.instagram.com/versaiacademy?igsh=bXd3MHdwajRqczU0"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bottom -->
+  <div class="footer-bottom">
+    <p>© 2025 Versai Technology. All Rights Reserved.</p>
+  </div>
+</footer>
+
+
+
+
+
+    <script>
+        function scrollToFeatures() {
+            document.querySelector('.features-section').scrollIntoView({
+                behavior: 'smooth'
+            });
+        }
+
+        // Show emerging courses when hovering the scene
+        const scene = document.getElementById('scene');
+
+        scene.addEventListener('mouseenter', () => {
+            scene.classList.add('active');
+
+            // Animate cards with staggered delays
+            const cards = document.querySelectorAll('.course-card');
+            cards.forEach((card, i) => {
+                card.style.transitionDelay = `${i * 0.15}s`;
+            });
+        });
+
+        scene.addEventListener('mouseleave', () => {
+            scene.classList.remove('active');
+
+            // Reset card delays
+            const cards = document.querySelectorAll('.course-card');
+            cards.forEach(card => {
+                card.style.transitionDelay = '0s';
+            });
+        });
+
+        // Parallax tilt based on mouse position
+        const book = document.getElementById('book');
+        let targetRX = 10, targetRY = -25;
+        let rx = targetRX, ry = targetRY;
+
+        scene.addEventListener('mousemove', (e) => {
+            const rect = scene.getBoundingClientRect();
+            const x = (e.clientX - rect.left) / rect.width;
+            const y = (e.clientY - rect.top) / rect.height;
+            targetRY = (x - 0.5) * 40;
+            targetRX = 12 - (y * 12);
+        });
+
+        function tick() {
+            rx += (targetRX - rx) * 0.06;
+            ry += (targetRY - ry) * 0.06;
+            book.style.transform = `rotateX(${rx}deg) rotateY(${ry}deg) translateY(-12px)`;
+            requestAnimationFrame(tick);
+        }
+        tick();
+
+        const hamburger = document.querySelector('.hamburger');
+        const navLinks = document.querySelector('.nav-links');
+
+        hamburger.addEventListener('click', () => {
+            navLinks.classList.toggle('active');
+        });
+
+        // Add click handlers for buttons
+        document.querySelectorAll('.btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const courseTitle = btn.closest('.course-card').querySelector('h3').textContent;
+                alert(`You've enrolled in our ${courseTitle} program!`);
+            });
+        });
+    </script>
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</body>
+
+</html>

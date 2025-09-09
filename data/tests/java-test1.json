@@ -1,0 +1,1102 @@
+[
+    {
+        "text": "Java programs are compiled into _________ which can run on any platform with a Java Virtual Machine.",
+        "options": [
+            {
+                "text": "Source code",
+                "value": "a"
+            },
+            {
+                "text": "Bytecode",
+                "value": "b"
+            },
+            {
+                "text": "Machine code",
+                "value": "c"
+            },
+            {
+                "text": "Assembly code",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the primary goal of Java's platform independence?",
+        "options": [
+            {
+                "text": "To make Java run faster than C++",
+                "value": "a"
+            },
+            {
+                "text": "To allow Java programs to run on any operating system without recompilation",
+                "value": "b"
+            },
+            {
+                "text": "To make Java code easier to write",
+                "value": "c"
+            },
+            {
+                "text": "To prevent Java from being used on Windows",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which company developed the Java programming language?",
+        "options": [
+            {
+                "text": "Microsoft",
+                "value": "a"
+            },
+            {
+                "text": "IBM",
+                "value": "b"
+            },
+            {
+                "text": "Sun Microsystems",
+                "value": "c"
+            },
+            {
+                "text": "Apple",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the name of the Java browser that can run applets?",
+        "options": [
+            {
+                "text": "JavaView",
+                "value": "a"
+            },
+            {
+                "text": "HotJava",
+                "value": "b"
+            },
+            {
+                "text": "AppletRunner",
+                "value": "c"
+            },
+            {
+                "text": "JavaWeb",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Java applets are primarily used for:",
+        "options": [
+            {
+                "text": "System programming",
+                "value": "a"
+            },
+            {
+                "text": "Creating dynamic and interactive web pages",
+                "value": "b"
+            },
+            {
+                "text": "Mobile applications only",
+                "value": "c"
+            },
+            {
+                "text": "Database management",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the main difference between a Java application and a Java applet?",
+        "options": [
+            {
+                "text": "Applications are written in Java, applets are not",
+                "value": "a"
+            },
+            {
+                "text": "Applets require a Java-enabled browser to run, applications do not",
+                "value": "b"
+            },
+            {
+                "text": "Applications are faster than applets",
+                "value": "c"
+            },
+            {
+                "text": "Applets can only be run on Windows",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of the following is a key feature of object-oriented programming in Java?",
+        "options": [
+            {
+                "text": "Pointers",
+                "value": "a"
+            },
+            {
+                "text": "Inheritance",
+                "value": "b"
+            },
+            {
+                "text": "Global variables",
+                "value": "c"
+            },
+            {
+                "text": "Goto statements",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "In Java, what is a class?",
+        "options": [
+            {
+                "text": "A single object",
+                "value": "a"
+            },
+            {
+                "text": "A template for creating objects",
+                "value": "b"
+            },
+            {
+                "text": "A method",
+                "value": "c"
+            },
+            {
+                "text": "A variable",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What are instance variables?",
+        "options": [
+            {
+                "text": "Variables that are shared among all objects of a class",
+                "value": "a"
+            },
+            {
+                "text": "Variables that are defined inside methods",
+                "value": "b"
+            },
+            {
+                "text": "Variables that are unique to each object",
+                "value": "c"
+            },
+            {
+                "text": "Variables that are constant",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the 'new' keyword in Java?",
+        "options": [
+            {
+                "text": "To create a new variable",
+                "value": "a"
+            },
+            {
+                "text": "To create a new object",
+                "value": "b"
+            },
+            {
+                "text": "To define a new class",
+                "value": "c"
+            },
+            {
+                "text": "To import a package",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which method is the entry point for Java applications?",
+        "options": [
+            {
+                "text": "start()",
+                "value": "a"
+            },
+            {
+                "text": "init()",
+                "value": "b"
+            },
+            {
+                "text": "main()",
+                "value": "c"
+            },
+            {
+                "text": "run()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is inheritance in Java?",
+        "options": [
+            {
+                "text": "The process of one class acquiring the properties of another class",
+                "value": "a"
+            },
+            {
+                "text": "The process of creating multiple objects from a class",
+                "value": "b"
+            },
+            {
+                "text": "The process of hiding data",
+                "value": "c"
+            },
+            {
+                "text": "The process of compiling code",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of the following is not a primitive data type in Java?",
+        "options": [
+            {
+                "text": "int",
+                "value": "a"
+            },
+            {
+                "text": "float",
+                "value": "b"
+            },
+            {
+                "text": "String",
+                "value": "c"
+            },
+            {
+                "text": "boolean",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the default value of a boolean variable in Java?",
+        "options": [
+            {
+                "text": "true",
+                "value": "a"
+            },
+            {
+                "text": "false",
+                "value": "b"
+            },
+            {
+                "text": "0",
+                "value": "c"
+            },
+            {
+                "text": "1",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which operator is used to compare two values for equality in Java?",
+        "options": [
+            {
+                "text": "=",
+                "value": "a"
+            },
+            {
+                "text": "==",
+                "value": "b"
+            },
+            {
+                "text": "===",
+                "value": "c"
+            },
+            {
+                "text": "!=",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the 'this' keyword in Java?",
+        "options": [
+            {
+                "text": "To refer to the current object",
+                "value": "a"
+            },
+            {
+                "text": "To create a new object",
+                "value": "b"
+            },
+            {
+                "text": "To refer to the superclass",
+                "value": "c"
+            },
+            {
+                "text": "To import packages",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of the following is used to handle exceptions in Java?",
+        "options": [
+            {
+                "text": "try-catch blocks",
+                "value": "a"
+            },
+            {
+                "text": "if-else statements",
+                "value": "b"
+            },
+            {
+                "text": "for loops",
+                "value": "c"
+            },
+            {
+                "text": "switch statements",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is method overloading?",
+        "options": [
+            {
+                "text": "Defining multiple methods with the same name but different parameters",
+                "value": "a"
+            },
+            {
+                "text": "Redefining a method in a subclass",
+                "value": "b"
+            },
+            {
+                "text": "Making a method run faster",
+                "value": "c"
+            },
+            {
+                "text": "Hiding a method from other classes",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which package is automatically imported in every Java program?",
+        "options": [
+            {
+                "text": "java.util",
+                "value": "a"
+            },
+            {
+                "text": "java.lang",
+                "value": "b"
+            },
+            {
+                "text": "java.io",
+                "value": "c"
+            },
+            {
+                "text": "java.awt",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the Java Virtual Machine (JVM)?",
+        "options": [
+            {
+                "text": "A hardware device that runs Java code",
+                "value": "a"
+            },
+            {
+                "text": "A software that interprets Java bytecode",
+                "value": "b"
+            },
+            {
+                "text": "A compiler for Java source code",
+                "value": "c"
+            },
+            {
+                "text": "An IDE for Java development",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of the following is not a Java keyword?",
+        "options": [
+            {
+                "text": "native",
+                "value": "a"
+            },
+            {
+                "text": "friend",
+                "value": "b"
+            },
+            {
+                "text": "volatile",
+                "value": "c"
+            },
+            {
+                "text": "transient",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the size of an int in Java?",
+        "options": [
+            {
+                "text": "8 bits",
+                "value": "a"
+            },
+            {
+                "text": "16 bits",
+                "value": "b"
+            },
+            {
+                "text": "32 bits",
+                "value": "c"
+            },
+            {
+                "text": "64 bits",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which collection class allows duplicate elements?",
+        "options": [
+            {
+                "text": "Set",
+                "value": "a"
+            },
+            {
+                "text": "List",
+                "value": "b"
+            },
+            {
+                "text": "Map",
+                "value": "c"
+            },
+            {
+                "text": "Queue",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the superclass of all classes in Java?",
+        "options": [
+            {
+                "text": "Class",
+                "value": "a"
+            },
+            {
+                "text": "Object",
+                "value": "b"
+            },
+            {
+                "text": "Main",
+                "value": "c"
+            },
+            {
+                "text": "Super",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which modifier makes a variable accessible only within its own class?",
+        "options": [
+            {
+                "text": "public",
+                "value": "a"
+            },
+            {
+                "text": "private",
+                "value": "b"
+            },
+            {
+                "text": "protected",
+                "value": "c"
+            },
+            {
+                "text": "default",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is an interface in Java?",
+        "options": [
+            {
+                "text": "A class that cannot be instantiated",
+                "value": "a"
+            },
+            {
+                "text": "A blueprint of a class that contains only abstract methods",
+                "value": "b"
+            },
+            {
+                "text": "A type of variable",
+                "value": "c"
+            },
+            {
+                "text": "A method that has no body",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is a valid declaration of a String array?",
+        "options": [
+            {
+                "text": "String[] arr = new String();",
+                "value": "a"
+            },
+            {
+                "text": "String arr = new String[];",
+                "value": "b"
+            },
+            {
+                "text": "String[] arr = new String[10];",
+                "value": "c"
+            },
+            {
+                "text": "String arr = new String[10];",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the output of: System.out.println(10 + 20 + \"Hello\");",
+        "options": [
+            {
+                "text": "30Hello",
+                "value": "a"
+            },
+            {
+                "text": "1020Hello",
+                "value": "b"
+            },
+            {
+                "text": "Hello30",
+                "value": "c"
+            },
+            {
+                "text": "Compilation error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is called when an object is created?",
+        "options": [
+            {
+                "text": "main method",
+                "value": "a"
+            },
+            {
+                "text": "constructor",
+                "value": "b"
+            },
+            {
+                "text": "finalizer",
+                "value": "c"
+            },
+            {
+                "text": "static method",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is polymorphism?",
+        "options": [
+            {
+                "text": "The ability to take multiple forms",
+                "value": "a"
+            },
+            {
+                "text": "The ability to inherit from multiple classes",
+                "value": "b"
+            },
+            {
+                "text": "The ability to override methods",
+                "value": "c"
+            },
+            {
+                "text": "The ability to hide data",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is not a valid identifier in Java?",
+        "options": [
+            {
+                "text": "_hello",
+                "value": "a"
+            },
+            {
+                "text": "2hello",
+                "value": "b"
+            },
+            {
+                "text": "$hello",
+                "value": "c"
+            },
+            {
+                "text": "hello2",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the default value of an object reference?",
+        "options": [
+            {
+                "text": "null",
+                "value": "a"
+            },
+            {
+                "text": "0",
+                "value": "b"
+            },
+            {
+                "text": "false",
+                "value": "c"
+            },
+            {
+                "text": "undefined",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is a checked exception?",
+        "options": [
+            {
+                "text": "NullPointerException",
+                "value": "a"
+            },
+            {
+                "text": "IOException",
+                "value": "b"
+            },
+            {
+                "text": "ArrayIndexOutOfBoundsException",
+                "value": "c"
+            },
+            {
+                "text": "ArithmeticException",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the 'final' keyword?",
+        "options": [
+            {
+                "text": "To make a variable constant",
+                "value": "a"
+            },
+            {
+                "text": "To prevent inheritance",
+                "value": "b"
+            },
+            {
+                "text": "To prevent method overriding",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which of these is not a primitive data type?",
+        "options": [
+            {
+                "text": "byte",
+                "value": "a"
+            },
+            {
+                "text": "short",
+                "value": "b"
+            },
+            {
+                "text": "Integer",
+                "value": "c"
+            },
+            {
+                "text": "double",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the output of: System.out.println(5 > 3 ? \"Yes\" : \"No\");",
+        "options": [
+            {
+                "text": "Yes",
+                "value": "a"
+            },
+            {
+                "text": "No",
+                "value": "b"
+            },
+            {
+                "text": "true",
+                "value": "c"
+            },
+            {
+                "text": "false",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method must be implemented when using the Runnable interface?",
+        "options": [
+            {
+                "text": "start()",
+                "value": "a"
+            },
+            {
+                "text": "run()",
+                "value": "b"
+            },
+            {
+                "text": "execute()",
+                "value": "c"
+            },
+            {
+                "text": "main()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the scope of a variable declared inside a method?",
+        "options": [
+            {
+                "text": "Class level",
+                "value": "a"
+            },
+            {
+                "text": "Method level",
+                "value": "b"
+            },
+            {
+                "text": "Package level",
+                "value": "c"
+            },
+            {
+                "text": "Global level",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is a valid way to create a thread?",
+        "options": [
+            {
+                "text": "Extending the Thread class",
+                "value": "a"
+            },
+            {
+                "text": "Implementing the Runnable interface",
+                "value": "b"
+            },
+            {
+                "text": "Both a and b",
+                "value": "c"
+            },
+            {
+                "text": "Neither a nor b",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is garbage collection?",
+        "options": [
+            {
+                "text": "The process of deleting files",
+                "value": "a"
+            },
+            {
+                "text": "The process of freeing memory occupied by unused objects",
+                "value": "b"
+            },
+            {
+                "text": "The process of compiling code",
+                "value": "c"
+            },
+            {
+                "text": "The process of initializing variables",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is not a valid comment in Java?",
+        "options": [
+            {
+                "text": "// comment",
+                "value": "a"
+            },
+            {
+                "text": "/* comment */",
+                "value": "b"
+            },
+            {
+                "text": "/** comment */",
+                "value": "c"
+            },
+            {
+                "text": "# comment",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of: System.out.println(\"Hello\".length());",
+        "options": [
+            {
+                "text": "4",
+                "value": "a"
+            },
+            {
+                "text": "5",
+                "value": "b"
+            },
+            {
+                "text": "6",
+                "value": "c"
+            },
+            {
+                "text": "Compilation error",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which keyword is used to prevent method overriding?",
+        "options": [
+            {
+                "text": "static",
+                "value": "a"
+            },
+            {
+                "text": "final",
+                "value": "b"
+            },
+            {
+                "text": "private",
+                "value": "c"
+            },
+            {
+                "text": "native",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the 'super' keyword?",
+        "options": [
+            {
+                "text": "To call the superclass constructor",
+                "value": "a"
+            },
+            {
+                "text": "To call the superclass methods",
+                "value": "b"
+            },
+            {
+                "text": "To refer to the superclass object",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which of these is not a Java access modifier?",
+        "options": [
+            {
+                "text": "public",
+                "value": "a"
+            },
+            {
+                "text": "private",
+                "value": "b"
+            },
+            {
+                "text": "protected",
+                "value": "c"
+            },
+            {
+                "text": "internal",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of: System.out.println(10 / 3);",
+        "options": [
+            {
+                "text": "3",
+                "value": "a"
+            },
+            {
+                "text": "3.333",
+                "value": "b"
+            },
+            {
+                "text": "3.0",
+                "value": "c"
+            },
+            {
+                "text": "Compilation error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which package contains the Scanner class?",
+        "options": [
+            {
+                "text": "java.util",
+                "value": "a"
+            },
+            {
+                "text": "java.lang",
+                "value": "b"
+            },
+            {
+                "text": "java.io",
+                "value": "c"
+            },
+            {
+                "text": "java.awt",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the 'break' statement?",
+        "options": [
+            {
+                "text": "To terminate a loop or switch statement",
+                "value": "a"
+            },
+            {
+                "text": "To skip the current iteration of a loop",
+                "value": "b"
+            },
+            {
+                "text": "To exit the program",
+                "value": "c"
+            },
+            {
+                "text": "To continue to the next statement",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is a valid method declaration?",
+        "options": [
+            {
+                "text": "void method() {}",
+                "value": "a"
+            },
+            {
+                "text": "method void() {}",
+                "value": "b"
+            },
+            {
+                "text": "void method {}",
+                "value": "c"
+            },
+            {
+                "text": "method() void {}",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the output of: System.out.println(\"Hello\" + \"World\");",
+        "options": [
+            {
+                "text": "HelloWorld",
+                "value": "a"
+            },
+            {
+                "text": "Hello World",
+                "value": "b"
+            },
+            {
+                "text": "Hello+World",
+                "value": "c"
+            },
+            {
+                "text": "Compilation error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    }
+]

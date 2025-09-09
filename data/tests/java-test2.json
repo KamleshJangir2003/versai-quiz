@@ -1,0 +1,1542 @@
+[
+    {
+        "text": "Which of these is not a loop structure in Java?",
+        "options": [
+            {
+                "text": "for",
+                "value": "a"
+            },
+            {
+                "text": "while",
+                "value": "b"
+            },
+            {
+                "text": "do-while",
+                "value": "c"
+            },
+            {
+                "text": "repeat-until",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the purpose of the 'continue' statement?",
+        "options": [
+            {
+                "text": "To terminate the loop",
+                "value": "a"
+            },
+            {
+                "text": "To skip the current iteration and continue with the next",
+                "value": "b"
+            },
+            {
+                "text": "To exit the program",
+                "value": "c"
+            },
+            {
+                "text": "To break out of a switch statement",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is a valid way to create an ArrayList?",
+        "options": [
+            {
+                "text": "ArrayList list = new ArrayList();",
+                "value": "a"
+            },
+            {
+                "text": "List list = new ArrayList();",
+                "value": "b"
+            },
+            {
+                "text": "Both a and b",
+                "value": "c"
+            },
+            {
+                "text": "Neither a nor b",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the output of: System.out.println(Math.abs(-5.5));",
+        "options": [
+            {
+                "text": "-5.5",
+                "value": "a"
+            },
+            {
+                "text": "5.5",
+                "value": "b"
+            },
+            {
+                "text": "5",
+                "value": "c"
+            },
+            {
+                "text": "-5",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which keyword is used to define a constant?",
+        "options": [
+            {
+                "text": "const",
+                "value": "a"
+            },
+            {
+                "text": "final",
+                "value": "b"
+            },
+            {
+                "text": "static",
+                "value": "c"
+            },
+            {
+                "text": "volatile",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the 'instanceof' operator?",
+        "options": [
+            {
+                "text": "To check if an object is an instance of a class",
+                "value": "a"
+            },
+            {
+                "text": "To create a new instance",
+                "value": "b"
+            },
+            {
+                "text": "To compare two objects",
+                "value": "c"
+            },
+            {
+                "text": "To check the type of a variable",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is not a valid variable name?",
+        "options": [
+            {
+                "text": "_variable",
+                "value": "a"
+            },
+            {
+                "text": "variable1",
+                "value": "b"
+            },
+            {
+                "text": "1variable",
+                "value": "c"
+            },
+            {
+                "text": "$variable",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the output of: System.out.println(10 == 10.0);",
+        "options": [
+            {
+                "text": "true",
+                "value": "a"
+            },
+            {
+                "text": "false",
+                "value": "b"
+            },
+            {
+                "text": "0",
+                "value": "c"
+            },
+            {
+                "text": "1",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to compare two strings for equality?",
+        "options": [
+            {
+                "text": "equals()",
+                "value": "a"
+            },
+            {
+                "text": "compare()",
+                "value": "b"
+            },
+            {
+                "text": "==",
+                "value": "c"
+            },
+            {
+                "text": "equal()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the 'static' keyword?",
+        "options": [
+            {
+                "text": "To make a variable or method belong to the class rather than instances",
+                "value": "a"
+            },
+            {
+                "text": "To make a variable constant",
+                "value": "b"
+            },
+            {
+                "text": "To prevent inheritance",
+                "value": "c"
+            },
+            {
+                "text": "To allow method overriding",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is a valid import statement?",
+        "options": [
+            {
+                "text": "import java.util.*;",
+                "value": "a"
+            },
+            {
+                "text": "import java.util.ArrayList;",
+                "value": "b"
+            },
+            {
+                "text": "Both a and b",
+                "value": "c"
+            },
+            {
+                "text": "Neither a nor b",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the output of: System.out.println(\"Hello\".charAt(1));",
+        "options": [
+            {
+                "text": "H",
+                "value": "a"
+            },
+            {
+                "text": "e",
+                "value": "b"
+            },
+            {
+                "text": "l",
+                "value": "c"
+            },
+            {
+                "text": "o",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is not a wrapper class?",
+        "options": [
+            {
+                "text": "Integer",
+                "value": "a"
+            },
+            {
+                "text": "Float",
+                "value": "b"
+            },
+            {
+                "text": "String",
+                "value": "c"
+            },
+            {
+                "text": "Double",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the 'throws' keyword?",
+        "options": [
+            {
+                "text": "To throw an exception",
+                "value": "a"
+            },
+            {
+                "text": "To declare that a method might throw an exception",
+                "value": "b"
+            },
+            {
+                "text": "To catch an exception",
+                "value": "c"
+            },
+            {
+                "text": "To handle an exception",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is a valid way to create a HashMap?",
+        "options": [
+            {
+                "text": "HashMap map = new HashMap();",
+                "value": "a"
+            },
+            {
+                "text": "Map map = new HashMap();",
+                "value": "b"
+            },
+            {
+                "text": "Both a and b",
+                "value": "c"
+            },
+            {
+                "text": "Neither a nor b",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the output of: System.out.println(10 + 20 * 2);",
+        "options": [
+            {
+                "text": "60",
+                "value": "a"
+            },
+            {
+                "text": "50",
+                "value": "b"
+            },
+            {
+                "text": "40",
+                "value": "c"
+            },
+            {
+                "text": "30",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which method is used to convert a string to an integer?",
+        "options": [
+            {
+                "text": "Integer.parseInt()",
+                "value": "a"
+            },
+            {
+                "text": "String.toInt()",
+                "value": "b"
+            },
+            {
+                "text": "Integer.valueOf()",
+                "value": "c"
+            },
+            {
+                "text": "String.parseInt()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the 'finalize' method?",
+        "options": [
+            {
+                "text": "To clean up resources before an object is garbage collected",
+                "value": "a"
+            },
+            {
+                "text": "To initialize final variables",
+                "value": "b"
+            },
+            {
+                "text": "To prevent method overriding",
+                "value": "c"
+            },
+            {
+                "text": "To make a class final",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is not a valid type of variable in Java?",
+        "options": [
+            {
+                "text": "Local variable",
+                "value": "a"
+            },
+            {
+                "text": "Instance variable",
+                "value": "b"
+            },
+            {
+                "text": "Global variable",
+                "value": "c"
+            },
+            {
+                "text": "Class variable",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the output of: System.out.println(\"Hello\".substring(1, 3));",
+        "options": [
+            {
+                "text": "He",
+                "value": "a"
+            },
+            {
+                "text": "el",
+                "value": "b"
+            },
+            {
+                "text": "ll",
+                "value": "c"
+            },
+            {
+                "text": "lo",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which keyword is used to create a package?",
+        "options": [
+            {
+                "text": "package",
+                "value": "a"
+            },
+            {
+                "text": "import",
+                "value": "b"
+            },
+            {
+                "text": "class",
+                "value": "c"
+            },
+            {
+                "text": "static",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the 'volatile' keyword?",
+        "options": [
+            {
+                "text": "To indicate that a variable may change asynchronously",
+                "value": "a"
+            },
+            {
+                "text": "To make a variable constant",
+                "value": "b"
+            },
+            {
+                "text": "To prevent thread interference",
+                "value": "c"
+            },
+            {
+                "text": "To allow variable overriding",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is not a valid way to create a thread-safe class?",
+        "options": [
+            {
+                "text": "Using synchronized methods",
+                "value": "a"
+            },
+            {
+                "text": "Using volatile variables",
+                "value": "b"
+            },
+            {
+                "text": "Using the Thread class",
+                "value": "c"
+            },
+            {
+                "text": "Using the Runnable interface",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of: System.out.println(1 + 2 + \"3\" + 4 + 5);",
+        "options": [
+            {
+                "text": "3345",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "3345",
+                "value": "c"
+            },
+            {
+                "text": "12345",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to start a thread?",
+        "options": [
+            {
+                "text": "run()",
+                "value": "a"
+            },
+            {
+                "text": "start()",
+                "value": "b"
+            },
+            {
+                "text": "execute()",
+                "value": "c"
+            },
+            {
+                "text": "begin()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the 'transient' keyword?",
+        "options": [
+            {
+                "text": "To indicate that a variable should not be serialized",
+                "value": "a"
+            },
+            {
+                "text": "To make a variable temporary",
+                "value": "b"
+            },
+            {
+                "text": "To prevent variable initialization",
+                "value": "c"
+            },
+            {
+                "text": "To allow variable transmission",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is not a valid annotation in Java?",
+        "options": [
+            {
+                "text": "@Override",
+                "value": "a"
+            },
+            {
+                "text": "@Deprecated",
+                "value": "b"
+            },
+            {
+                "text": "@SuppressWarnings",
+                "value": "c"
+            },
+            {
+                "text": "@Function",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of: System.out.println(9 / 2);",
+        "options": [
+            {
+                "text": "4",
+                "value": "a"
+            },
+            {
+                "text": "4.5",
+                "value": "b"
+            },
+            {
+                "text": "4.0",
+                "value": "c"
+            },
+            {
+                "text": "5",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to generate a random number?",
+        "options": [
+            {
+                "text": "Math.random()",
+                "value": "a"
+            },
+            {
+                "text": "Random.nextInt()",
+                "value": "b"
+            },
+            {
+                "text": "Both a and b",
+                "value": "c"
+            },
+            {
+                "text": "Neither a nor b",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the 'assert' keyword?",
+        "options": [
+            {
+                "text": "To test assumptions about the program",
+                "value": "a"
+            },
+            {
+                "text": "To throw an exception",
+                "value": "b"
+            },
+            {
+                "text": "To check for null values",
+                "value": "c"
+            },
+            {
+                "text": "To create assertions",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is not a valid way to create a string?",
+        "options": [
+            {
+                "text": "String s = \"Hello\";",
+                "value": "a"
+            },
+            {
+                "text": "String s = new String(\"Hello\");",
+                "value": "b"
+            },
+            {
+                "text": "String s = new String();",
+                "value": "c"
+            },
+            {
+                "text": "String s = String.create(\"Hello\");",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of: System.out.println(\"Hello\".toUpperCase());",
+        "options": [
+            {
+                "text": "HELLO",
+                "value": "a"
+            },
+            {
+                "text": "hello",
+                "value": "b"
+            },
+            {
+                "text": "Hello",
+                "value": "c"
+            },
+            {
+                "text": "Compilation error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which keyword is used to return a value from a method?",
+        "options": [
+            {
+                "text": "return",
+                "value": "a"
+            },
+            {
+                "text": "void",
+                "value": "b"
+            },
+            {
+                "text": "break",
+                "value": "c"
+            },
+            {
+                "text": "exit",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the 'strictfp' keyword?",
+        "options": [
+            {
+                "text": "To ensure floating-point calculations are platform-independent",
+                "value": "a"
+            },
+            {
+                "text": "To make floating-point calculations faster",
+                "value": "b"
+            },
+            {
+                "text": "To restrict floating-point precision",
+                "value": "c"
+            },
+            {
+                "text": "To allow floating-point operations",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the primary security feature of Java applets?",
+        "options": [
+            {
+                "text": "They can read and write to the local disk",
+                "value": "a"
+            },
+            {
+                "text": "They can only connect to their original server",
+                "value": "b"
+            },
+            {
+                "text": "They can execute programs on the local system",
+                "value": "c"
+            },
+            {
+                "text": "They have full access to system resources",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is a valid Java comment style?",
+        "options": [
+            {
+                "text": "/* This is a comment */",
+                "value": "a"
+            },
+            {
+                "text": "// This is a comment",
+                "value": "b"
+            },
+            {
+                "text": "/** This is a comment */",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What does the 'void' keyword indicate in a method declaration?",
+        "options": [
+            {
+                "text": "The method returns no value",
+                "value": "a"
+            },
+            {
+                "text": "The method is empty",
+                "value": "b"
+            },
+            {
+                "text": "The method is virtual",
+                "value": "c"
+            },
+            {
+                "text": "The method is volatile",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is NOT a Java primitive data type?",
+        "options": [
+            {
+                "text": "int",
+                "value": "a"
+            },
+            {
+                "text": "float",
+                "value": "b"
+            },
+            {
+                "text": "String",
+                "value": "c"
+            },
+            {
+                "text": "boolean",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the default value of a boolean variable in Java?",
+        "options": [
+            {
+                "text": "true",
+                "value": "a"
+            },
+            {
+                "text": "false",
+                "value": "b"
+            },
+            {
+                "text": "0",
+                "value": "c"
+            },
+            {
+                "text": "null",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which operator is used to create objects in Java?",
+        "options": [
+            {
+                "text": "create",
+                "value": "a"
+            },
+            {
+                "text": "new",
+                "value": "b"
+            },
+            {
+                "text": "object",
+                "value": "c"
+            },
+            {
+                "text": "alloc",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the parent class of all Java classes?",
+        "options": [
+            {
+                "text": "Class",
+                "value": "a"
+            },
+            {
+                "text": "Object",
+                "value": "b"
+            },
+            {
+                "text": "Main",
+                "value": "c"
+            },
+            {
+                "text": "Parent",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which method is the entry point for Java applications?",
+        "options": [
+            {
+                "text": "start()",
+                "value": "a"
+            },
+            {
+                "text": "init()",
+                "value": "b"
+            },
+            {
+                "text": "main()",
+                "value": "c"
+            },
+            {
+                "text": "run()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the 'import' statement?",
+        "options": [
+            {
+                "text": "To include external libraries",
+                "value": "a"
+            },
+            {
+                "text": "To export classes",
+                "value": "b"
+            },
+            {
+                "text": "To create packages",
+                "value": "c"
+            },
+            {
+                "text": "To declare variables",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is a valid variable name in Java?",
+        "options": [
+            {
+                "text": "2variable",
+                "value": "a"
+            },
+            {
+                "text": "_variable",
+                "value": "b"
+            },
+            {
+                "text": "variable-name",
+                "value": "c"
+            },
+            {
+                "text": "class",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the size of an int in Java?",
+        "options": [
+            {
+                "text": "8 bits",
+                "value": "a"
+            },
+            {
+                "text": "16 bits",
+                "value": "b"
+            },
+            {
+                "text": "32 bits",
+                "value": "c"
+            },
+            {
+                "text": "64 bits",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which collection class does NOT allow duplicate elements?",
+        "options": [
+            {
+                "text": "List",
+                "value": "a"
+            },
+            {
+                "text": "Set",
+                "value": "b"
+            },
+            {
+                "text": "ArrayList",
+                "value": "c"
+            },
+            {
+                "text": "Vector",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the 'finally' block in exception handling?",
+        "options": [
+            {
+                "text": "To handle exceptions",
+                "value": "a"
+            },
+            {
+                "text": "To declare exceptions",
+                "value": "b"
+            },
+            {
+                "text": "To execute code regardless of whether an exception occurs",
+                "value": "c"
+            },
+            {
+                "text": "To throw exceptions",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which keyword is used to prevent method overriding?",
+        "options": [
+            {
+                "text": "static",
+                "value": "a"
+            },
+            {
+                "text": "final",
+                "value": "b"
+            },
+            {
+                "text": "private",
+                "value": "c"
+            },
+            {
+                "text": "protected",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the output of: System.out.println(10 + 20 + \"Hello\");",
+        "options": [
+            {
+                "text": "30Hello",
+                "value": "a"
+            },
+            {
+                "text": "1020Hello",
+                "value": "b"
+            },
+            {
+                "text": "Hello30",
+                "value": "c"
+            },
+            {
+                "text": "Compilation error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to compare two strings for equality?",
+        "options": [
+            {
+                "text": "equals()",
+                "value": "a"
+            },
+            {
+                "text": "compare()",
+                "value": "b"
+            },
+            {
+                "text": "==",
+                "value": "c"
+            },
+            {
+                "text": "equal()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the 'this' keyword?",
+        "options": [
+            {
+                "text": "To refer to the current object",
+                "value": "a"
+            },
+            {
+                "text": "To create a new object",
+                "value": "b"
+            },
+            {
+                "text": "To refer to the superclass",
+                "value": "c"
+            },
+            {
+                "text": "To import packages",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which package contains the Scanner class?",
+        "options": [
+            {
+                "text": "java.util",
+                "value": "a"
+            },
+            {
+                "text": "java.lang",
+                "value": "b"
+            },
+            {
+                "text": "java.io",
+                "value": "c"
+            },
+            {
+                "text": "java.awt",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the 'break' statement?",
+        "options": [
+            {
+                "text": "To terminate a loop or switch statement",
+                "value": "a"
+            },
+            {
+                "text": "To skip the current iteration of a loop",
+                "value": "b"
+            },
+            {
+                "text": "To exit the program",
+                "value": "c"
+            },
+            {
+                "text": "To continue to the next statement",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is a valid method declaration?",
+        "options": [
+            {
+                "text": "void method() {}",
+                "value": "a"
+            },
+            {
+                "text": "method void() {}",
+                "value": "b"
+            },
+            {
+                "text": "void method {}",
+                "value": "c"
+            },
+            {
+                "text": "method() void {}",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the output of: System.out.println(\"Hello\" + \"World\");",
+        "options": [
+            {
+                "text": "HelloWorld",
+                "value": "a"
+            },
+            {
+                "text": "Hello World",
+                "value": "b"
+            },
+            {
+                "text": "Hello+World",
+                "value": "c"
+            },
+            {
+                "text": "Compilation error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is not a loop structure in Java?",
+        "options": [
+            {
+                "text": "for",
+                "value": "a"
+            },
+            {
+                "text": "while",
+                "value": "b"
+            },
+            {
+                "text": "do-while",
+                "value": "c"
+            },
+            {
+                "text": "repeat-until",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the purpose of the 'continue' statement?",
+        "options": [
+            {
+                "text": "To terminate the loop",
+                "value": "a"
+            },
+            {
+                "text": "To skip the current iteration and continue with the next",
+                "value": "b"
+            },
+            {
+                "text": "To exit the program",
+                "value": "c"
+            },
+            {
+                "text": "To break out of a switch statement",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is a valid way to create an ArrayList?",
+        "options": [
+            {
+                "text": "ArrayList list = new ArrayList();",
+                "value": "a"
+            },
+            {
+                "text": "List list = new ArrayList();",
+                "value": "b"
+            },
+            {
+                "text": "Both a and b",
+                "value": "c"
+            },
+            {
+                "text": "Neither a nor b",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the output of: System.out.println(Math.abs(-5.5));",
+        "options": [
+            {
+                "text": "-5.5",
+                "value": "a"
+            },
+            {
+                "text": "5.5",
+                "value": "b"
+            },
+            {
+                "text": "5",
+                "value": "c"
+            },
+            {
+                "text": "-5",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which keyword is used to define a constant?",
+        "options": [
+            {
+                "text": "const",
+                "value": "a"
+            },
+            {
+                "text": "final",
+                "value": "b"
+            },
+            {
+                "text": "static",
+                "value": "c"
+            },
+            {
+                "text": "volatile",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the 'instanceof' operator?",
+        "options": [
+            {
+                "text": "To check if an object is an instance of a class",
+                "value": "a"
+            },
+            {
+                "text": "To create a new instance",
+                "value": "b"
+            },
+            {
+                "text": "To compare two objects",
+                "value": "c"
+            },
+            {
+                "text": "To check the type of a variable",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is not a valid variable name?",
+        "options": [
+            {
+                "text": "_variable",
+                "value": "a"
+            },
+            {
+                "text": "variable1",
+                "value": "b"
+            },
+            {
+                "text": "1variable",
+                "value": "c"
+            },
+            {
+                "text": "$variable",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the output of: System.out.println(10 == 10.0);",
+        "options": [
+            {
+                "text": "true",
+                "value": "a"
+            },
+            {
+                "text": "false",
+                "value": "b"
+            },
+            {
+                "text": "0",
+                "value": "c"
+            },
+            {
+                "text": "1",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the 'static' keyword?",
+        "options": [
+            {
+                "text": "To make a variable or method belong to the class rather than instances",
+                "value": "a"
+            },
+            {
+                "text": "To make a variable constant",
+                "value": "b"
+            },
+            {
+                "text": "To prevent inheritance",
+                "value": "c"
+            },
+            {
+                "text": "To allow method overriding",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is a valid import statement?",
+        "options": [
+            {
+                "text": "import java.util.*;",
+                "value": "a"
+            },
+            {
+                "text": "import java.util.ArrayList;",
+                "value": "b"
+            },
+            {
+                "text": "Both a and b",
+                "value": "c"
+            },
+            {
+                "text": "Neither a nor b",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the output of: System.out.println(\"Hello\".charAt(1));",
+        "options": [
+            {
+                "text": "H",
+                "value": "a"
+            },
+            {
+                "text": "e",
+                "value": "b"
+            },
+            {
+                "text": "l",
+                "value": "c"
+            },
+            {
+                "text": "o",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is not a wrapper class?",
+        "options": [
+            {
+                "text": "Integer",
+                "value": "a"
+            },
+            {
+                "text": "Float",
+                "value": "b"
+            },
+            {
+                "text": "String",
+                "value": "c"
+            },
+            {
+                "text": "Double",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the 'throws' keyword?",
+        "options": [
+            {
+                "text": "To throw an exception",
+                "value": "a"
+            },
+            {
+                "text": "To declare that a method might throw an exception",
+                "value": "b"
+            },
+            {
+                "text": "To catch an exception",
+                "value": "c"
+            },
+            {
+                "text": "To handle an exception",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is a valid way to create a HashMap?",
+        "options": [
+            {
+                "text": "HashMap map = new HashMap();",
+                "value": "a"
+            },
+            {
+                "text": "Map map = new HashMap();",
+                "value": "b"
+            },
+            {
+                "text": "Both a and b",
+                "value": "c"
+            },
+            {
+                "text": "Neither a nor b",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the output of: System.out.println(10 + 20 * 2);",
+        "options": [
+            {
+                "text": "60",
+                "value": "a"
+            },
+            {
+                "text": "50",
+                "value": "b"
+            },
+            {
+                "text": "40",
+                "value": "c"
+            },
+            {
+                "text": "30",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    }
+]

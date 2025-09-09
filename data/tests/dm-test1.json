@@ -1,0 +1,1103 @@
+[
+    {
+        "text": "What is 'search intent'?",
+        "options": [
+            {
+                "text": "The number of times a keyword is searched",
+                "value": "a"
+            },
+            {
+                "text": "The underlying goal a user has when typing a query into a search engine",
+                "value": "b"
+            },
+            {
+                "text": "Google's intention to show ads",
+                "value": "c"
+            },
+            {
+                "text": "A website's goal to rank #1",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is NOT a common category of search intent?",
+        "options": [
+            {
+                "text": "Informational (to learn)",
+                "value": "a"
+            },
+            {
+                "text": "Navigational (to find a site)",
+                "value": "b"
+            },
+            {
+                "text": "Transactional (to buy)",
+                "value": "c"
+            },
+            {
+                "text": "Imaginational (to daydream)",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "A search for 'best drip coffee maker 2024' demonstrates what type of intent?",
+        "options": [
+            {
+                "text": "Navigational",
+                "value": "a"
+            },
+            {
+                "text": "Commercial Investigation",
+                "value": "b"
+            },
+            {
+                "text": "Transactional",
+                "value": "c"
+            },
+            {
+                "text": "Informational",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the 'core web vitals' update from Google primarily concerned with?",
+        "options": [
+            {
+                "text": "Social media shares",
+                "value": "a"
+            },
+            {
+                "text": "User experience metrics like loading, interactivity, and visual stability",
+                "value": "b"
+            },
+            {
+                "text": "The number of backlinks",
+                "value": "c"
+            },
+            {
+                "text": "Keyword density",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which Core Web Vitals metric measures how quickly the main content of a page loads?",
+        "options": [
+            {
+                "text": "Largest Contentful Paint (LCP)",
+                "value": "a"
+            },
+            {
+                "text": "First Input Delay (FID)",
+                "value": "b"
+            },
+            {
+                "text": "Cumulative Layout Shift (CLS)",
+                "value": "c"
+            },
+            {
+                "text": "Interaction to Next Paint (INP)",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which metric measures how often users experience unexpected layout shifts on a page?",
+        "options": [
+            {
+                "text": "First Input Delay (FID)",
+                "value": "a"
+            },
+            {
+                "text": "Largest Contentful Paint (LCP)",
+                "value": "b"
+            },
+            {
+                "text": "Cumulative Layout Shift (CLS)",
+                "value": "c"
+            },
+            {
+                "text": "Time to First Byte (TTFB)",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the successor to the First Input Delay (FID) metric?",
+        "options": [
+            {
+                "text": "Largest Contentful Paint (LCP)",
+                "value": "a"
+            },
+            {
+                "text": "Cumulative Layout Shift (CLS)",
+                "value": "b"
+            },
+            {
+                "text": "Interaction to Next Paint (INP)",
+                "value": "c"
+            },
+            {
+                "text": "First Contentful Paint (FCP)",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What does 'TF-IDF' stand for in advanced keyword analysis?",
+        "options": [
+            {
+                "text": "Term Frequency - Inverse Document Frequency",
+                "value": "a"
+            },
+            {
+                "text": "Total Findings - Internet Data Files",
+                "value": "b"
+            },
+            {
+                "text": "Technical Focus - Internal Development Factor",
+                "value": "c"
+            },
+            {
+                "text": "Tagged For - Indexed Domain Files",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "In simple terms, TF-IDF helps you understand:",
+        "options": [
+            {
+                "text": "How fast your website is",
+                "value": "a"
+            },
+            {
+                "text": "The value of a backlink",
+                "value": "b"
+            },
+            {
+                "text": "How many social media followers you have",
+                "value": "c"
+            },
+            {
+                "text": "How important a word is to a document in a collection of documents",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is 'keyword cannibalization'?",
+        "options": [
+            {
+                "text": "When multiple pages on your site target the same keyword, confusing search engines and diluting ranking potential",
+                "value": "a"
+            },
+            {
+                "text": "When you eat while doing keyword research",
+                "value": "b"
+            },
+            {
+                "text": "When a competitor steals your keywords",
+                "value": "c"
+            },
+            {
+                "text": "When you use a keyword too many times on a page",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How do you typically fix keyword cannibalization?",
+        "options": [
+            {
+                "text": "Ignore it",
+                "value": "a"
+            },
+            {
+                "text": "Consolidate pages or use canonical tags to indicate the preferred URL",
+                "value": "b"
+            },
+            {
+                "text": "Delete all but one page",
+                "value": "c"
+            },
+            {
+                "text": "Build more links to all pages",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is a 'skyscraper technique' in link building?",
+        "options": [
+            {
+                "text": "Building a very tall website",
+                "value": "a"
+            },
+            {
+                "text": "Advertising on billboards in skyscrapers",
+                "value": "b"
+            },
+            {
+                "text": "A black hat technique involving link pyramids",
+                "value": "c"
+            },
+            {
+                "text": "Finding a popular piece of content, creating something better, and promoting it to people who linked to the original",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is 'broken link building'?",
+        "options": [
+            {
+                "text": "Fixing links on your own website",
+                "value": "a"
+            },
+            {
+                "text": "Finding broken links on other websites and suggesting your content as a replacement",
+                "value": "b"
+            },
+            {
+                "text": "Building links as quickly as possible",
+                "value": "c"
+            },
+            {
+                "text": "A strategy that doesn't work",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the primary purpose of a 'nofollow' link?",
+        "options": [
+            {
+                "text": "To tell search engines the link is paid or untrusted and shouldn't pass ranking authority",
+                "value": "a"
+            },
+            {
+                "text": "To make the link invisible",
+                "value": "b"
+            },
+            {
+                "text": "To make the link pass more authority",
+                "value": "c"
+            },
+            {
+                "text": "To break the link",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is now a hint rather than a directive, meaning Google may choose to ignore it for discovery?",
+        "options": [
+            {
+                "text": "The 'alt' attribute",
+                "value": "a"
+            },
+            {
+                "text": "The 'title' tag",
+                "value": "b"
+            },
+            {
+                "text": "The 'rel=nofollow' attribute",
+                "value": "c"
+            },
+            {
+                "text": "The 'H1' tag",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What are 'sponsored' and 'UGC' (User-Generated Content) link attributes used for?",
+        "options": [
+            {
+                "text": "They are stronger versions of 'dofollow'",
+                "value": "a"
+            },
+            {
+                "text": "They provide more specific signals about the nature of a link (paid vs. from comments/forums)",
+                "value": "b"
+            },
+            {
+                "text": "They hide the link from users",
+                "value": "c"
+            },
+            {
+                "text": "They are outdated and no longer used",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the main difference between 'dofollow' and 'nofollow' links?",
+        "options": [
+            {
+                "text": "Dofollow links are blue, nofollow are green",
+                "value": "a"
+            },
+            {
+                "text": "There is no difference",
+                "value": "b"
+            },
+            {
+                "text": "Dofollow links are only for images",
+                "value": "c"
+            },
+            {
+                "text": "Dofollow links can pass PageRank/authority, while nofollow links typically do not",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is a 'Google Algorithm Update'?",
+        "options": [
+            {
+                "text": "A change to the complex formula Google uses to rank websites in its search results",
+                "value": "a"
+            },
+            {
+                "text": "A new version of the Chrome browser",
+                "value": "b"
+            },
+            {
+                "text": "A new feature in Google Docs",
+                "value": "c"
+            },
+            {
+                "text": "A scheduled server reboot",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which algorithm update targeted websites with low-quality, thin, or spammy content?",
+        "options": [
+            {
+                "text": "Google Panda",
+                "value": "a"
+            },
+            {
+                "text": "Google Penguin",
+                "value": "b"
+            },
+            {
+                "text": "Google Hummingbird",
+                "value": "c"
+            },
+            {
+                "text": "Google Caffeine",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which algorithm update targeted websites using manipulative or spammy link practices?",
+        "options": [
+            {
+                "text": "Google Panda",
+                "value": "a"
+            },
+            {
+                "text": "Google Penguin",
+                "value": "b"
+            },
+            {
+                "text": "Google Hummingbird",
+                "value": "c"
+            },
+            {
+                "text": "Google Pirate",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which update was a core algorithm overhaul focused on understanding semantic search and user intent?",
+        "options": [
+            {
+                "text": "Google Panda",
+                "value": "a"
+            },
+            {
+                "text": "Google Penguin",
+                "value": "b"
+            },
+            {
+                "text": "Google Hummingbird",
+                "value": "c"
+            },
+            {
+                "text": "Google Pigeon",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What are 'Google Core Updates'?",
+        "options": [
+            {
+                "text": "Minor bug fixes",
+                "value": "a"
+            },
+            {
+                "text": "Broad, significant changes to Google's search algorithm and systems",
+                "value": "b"
+            },
+            {
+                "text": "Updates to the Google logo",
+                "value": "c"
+            },
+            {
+                "text": "Changes only to local search",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "After a core update, if your site loses rankings, Google's advice is generally to:",
+        "options": [
+            {
+                "text": "Focus on improving the overall quality and value of your content",
+                "value": "a"
+            },
+            {
+                "text": "Wait for the next update to fix it",
+                "value": "b"
+            },
+            {
+                "text": "Immediately buy more backlinks",
+                "value": "c"
+            },
+            {
+                "text": "Change your domain name",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does 'YMYL' stand for?",
+        "options": [
+            {
+                "text": "Your Marketing Your Leads",
+                "value": "a"
+            },
+            {
+                "text": "Yearly Marketing Yearly Loss",
+                "value": "b"
+            },
+            {
+                "text": "You Missed Your Link",
+                "value": "c"
+            },
+            {
+                "text": "Your Money Your Life",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Google holds YMYL pages to a higher standard because they:",
+        "options": [
+            {
+                "text": "Are always older",
+                "value": "a"
+            },
+            {
+                "text": "Could potentially impact a person's happiness, health, financial stability, or safety",
+                "value": "b"
+            },
+            {
+                "text": "Get more traffic",
+                "value": "c"
+            },
+            {
+                "text": "Are harder to crawl",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is an example of a YMYL topic?",
+        "options": [
+            {
+                "text": "A recipe for chocolate chip cookies",
+                "value": "a"
+            },
+            {
+                "text": "A review of a movie",
+                "value": "b"
+            },
+            {
+                "text": "Medical advice for treating a disease",
+                "value": "c"
+            },
+            {
+                "text": "Instructions for a craft project",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the main goal of a 'disavow file'?",
+        "options": [
+            {
+                "text": "To tell Google to ignore spammy or toxic backlinks pointing to your site",
+                "value": "a"
+            },
+            {
+                "text": "To claim ownership of good links",
+                "value": "b"
+            },
+            {
+                "text": "To list your competitors' domains",
+                "value": "c"
+            },
+            {
+                "text": "To increase your domain authority",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "When should you typically use the disavow tool?",
+        "options": [
+            {
+                "text": "As a proactive measure for every new website",
+                "value": "a"
+            },
+            {
+                "text": "Only if you have a manual penalty for bad links or are sure you have toxic links you cannot remove",
+                "value": "b"
+            },
+            {
+                "text": "Weekly, as part of routine maintenance",
+                "value": "c"
+            },
+            {
+                "text": "To disavow links from high-authority sites",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is 'negative SEO'?",
+        "options": [
+            {
+                "text": "Thinking pessimistically about your rankings",
+                "value": "a"
+            },
+            {
+                "text": "Removing bad content from your site",
+                "value": "b"
+            },
+            {
+                "text": "SEO that doesn't work",
+                "value": "c"
+            },
+            {
+                "text": "The malicious practice of using black hat techniques to harm a competitor's rankings",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the primary purpose of 'Google Search Console'?",
+        "options": [
+            {
+                "text": "To run paid ad campaigns",
+                "value": "a"
+            },
+            {
+                "text": "To monitor and maintain a site's presence in Google Search results",
+                "value": "b"
+            },
+            {
+                "text": "To track email marketing campaigns",
+                "value": "c"
+            },
+            {
+                "text": "To manage social media posts",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which report in Google Search Console shows you the search queries that bring users to your site?",
+        "options": [
+            {
+                "text": "Performance Report",
+                "value": "a"
+            },
+            {
+                "text": "Links Report",
+                "value": "b"
+            },
+            {
+                "text": "Index Coverage Report",
+                "value": "c"
+            },
+            {
+                "text": "Enhancements Report",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does a sudden drop in 'Impressions' in the Performance Report likely indicate?",
+        "options": [
+            {
+                "text": "Your website is loading faster",
+                "value": "a"
+            },
+            {
+                "text": "A drop in rankings or a indexing problem",
+                "value": "b"
+            },
+            {
+                "text": "Your CTR has improved dramatically",
+                "value": "c"
+            },
+            {
+                "text": "Google Search is down",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the difference between an 'Impression' and a 'Click'?",
+        "options": [
+            {
+                "text": "They are the same thing",
+                "value": "a"
+            },
+            {
+                "text": "An impression is when a URL appears in a result; a click is when a user visits that URL",
+                "value": "b"
+            },
+            {
+                "text": "A click is more valuable than an impression",
+                "value": "c"
+            },
+            {
+                "text": "An impression counts only for images",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is 'click-through rate (CTR)' calculated as?",
+        "options": [
+            {
+                "text": "Clicks / Impressions",
+                "value": "a"
+            },
+            {
+                "text": "Impressions / Clicks",
+                "value": "b"
+            },
+            {
+                "text": "Clicks * Impressions",
+                "value": "c"
+            },
+            {
+                "text": "Impressions - Clicks",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "A high CTR generally suggests that:",
+        "options": [
+            {
+                "text": "Your title tag and meta description are irrelevant to the query",
+                "value": "a"
+            },
+            {
+                "text": "You are getting very few impressions",
+                "value": "b"
+            },
+            {
+                "text": "Your title tag and meta description are compelling and relevant to the search query",
+                "value": "c"
+            },
+            {
+                "text": "Your website is broken",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is 'position' in the Search Console Performance report?",
+        "options": [
+            {
+                "text": "The physical location of the user",
+                "value": "a"
+            },
+            {
+                "text": "The job title of the SEO specialist",
+                "value": "b"
+            },
+            {
+                "text": "The placement of an element on your webpage",
+                "value": "c"
+            },
+            {
+                "text": "The average ranking of your site for a query or page",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is a 'sitemap' used for in Search Console?",
+        "options": [
+            {
+                "text": "To tell Google which pages on your site you think are important and provide metadata about them",
+                "value": "a"
+            },
+            {
+                "text": "To provide driving directions to Google's office",
+                "value": "b"
+            },
+            {
+                "text": "To list your competitors' websites",
+                "value": "c"
+            },
+            {
+                "text": "To design the layout of your homepage",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Index Coverage' report helps you:",
+        "options": [
+            {
+                "text": "See how many backlinks you have",
+                "value": "a"
+            },
+            {
+                "text": "Monitor keyword rankings in Google search results",
+                "value": "b"
+            },
+            {
+                "text": "Check your site's traffic levels",
+                "value": "c"
+            },
+            {
+                "text": "Identify pages that Google could or could not index and any errors",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the 'URL Inspection' tool used for?",
+        "options": [
+            {
+                "text": "To check for viruses on a page",
+                "value": "a"
+            },
+            {
+                "text": "To get detailed crawl, index, and serving information about a specific URL",
+                "value": "b"
+            },
+            {
+                "text": "To see who is linking to any URL on the web",
+                "value": "c"
+            },
+            {
+                "text": "To check the grammar on a page",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the main difference between Google Analytics and Google Search Console?",
+        "options": [
+            {
+                "text": "Analytics is about user behavior ON your site; Search Console is about your site's health and visibility IN Google Search",
+                "value": "a"
+            },
+            {
+                "text": "There is no difference",
+                "value": "b"
+            },
+            {
+                "text": "Search Console is for paid data; Analytics is for organic data",
+                "value": "c"
+            },
+            {
+                "text": "Analytics is more important",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Why is integrating Search Console with Google Analytics valuable?",
+        "options": [
+            {
+                "text": "It makes your site load faster",
+                "value": "a"
+            },
+            {
+                "text": "It allows you to see search query data alongside user behavior data in Analytics",
+                "value": "b"
+            },
+            {
+                "text": "It automatically fixes indexing errors",
+                "value": "c"
+            },
+            {
+                "text": "It gives you more backlinks",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the final, crucial step after implementing any SEO change?",
+        "options": [
+            {
+                "text": "Declare victory immediately",
+                "value": "a"
+            },
+            {
+                "text": "Monitor results and performance in analytics and search console to measure impact",
+                "value": "b"
+            },
+            {
+                "text": "Send an invoice to the client",
+                "value": "c"
+            },
+            {
+                "text": "Move on to the next task without checking",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The '@' symbol on Twitter is used to:",
+        "options": [
+            {
+                "text": "Mention another user",
+                "value": "a"
+            },
+            {
+                "text": "Signify a private message",
+                "value": "b"
+            },
+            {
+                "text": "Hashtag a topic",
+                "value": "c"
+            },
+            {
+                "text": "Make text bold",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does 'RT' stand for on Twitter?",
+        "options": [
+            {
+                "text": "Real Time",
+                "value": "a"
+            },
+            {
+                "text": "Right There",
+                "value": "b"
+            },
+            {
+                "text": "Read This",
+                "value": "c"
+            },
+            {
+                "text": "Retweet",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the purpose of a hashtag (#) on social media?",
+        "options": [
+            {
+                "text": "To tag a specific person",
+                "value": "a"
+            },
+            {
+                "text": "To categorize content and make it discoverable in a topic stream",
+                "value": "b"
+            },
+            {
+                "text": "To make a post look cooler",
+                "value": "c"
+            },
+            {
+                "text": "To bold the text that follows it",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Pinterest is primarily a:",
+        "options": [
+            {
+                "text": "Text-based news network",
+                "value": "a"
+            },
+            {
+                "text": "Visual discovery and bookmarking platform",
+                "value": "b"
+            },
+            {
+                "text": "Professional networking site",
+                "value": "c"
+            },
+            {
+                "text": "Video sharing platform",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "On Pinterest, a user's collection of pins around a theme is called a:",
+        "options": [
+            {
+                "text": "Board",
+                "value": "a"
+            },
+            {
+                "text": "Album",
+                "value": "b"
+            },
+            {
+                "text": "Folder",
+                "value": "c"
+            },
+            {
+                "text": "Group",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Saving an image from a website to a Pinterest board is called:",
+        "options": [
+            {
+                "text": "Liking",
+                "value": "a"
+            },
+            {
+                "text": "Posting",
+                "value": "b"
+            },
+            {
+                "text": "Repinning",
+                "value": "c"
+            },
+            {
+                "text": "Pinning",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Saving someone else's pin to your own board is called:",
+        "options": [
+            {
+                "text": "Posting",
+                "value": "a"
+            },
+            {
+                "text": "Pinning",
+                "value": "b"
+            },
+            {
+                "text": "Liking",
+                "value": "c"
+            },
+            {
+                "text": "Repinning",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which type of business tends to benefit MOST from using Pinterest?",
+        "options": [
+            {
+                "text": "B2B Software Companies",
+                "value": "a"
+            },
+            {
+                "text": "Industries with strong visual appeal (e.g., food, travel, fashion, decor)",
+                "value": "b"
+            },
+            {
+                "text": "Accounting Firms",
+                "value": "c"
+            },
+            {
+                "text": "Law Offices",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    }
+    
+]

@@ -1,0 +1,1102 @@
+[
+    {
+        "text": "What is Microsoft Excel primarily used for?",
+        "options": [
+            {
+                "text": "Word processing",
+                "value": "a"
+            },
+            {
+                "text": "Creating electronic spreadsheets to organize data and perform calculations",
+                "value": "b"
+            },
+            {
+                "text": "Designing presentations",
+                "value": "c"
+            },
+            {
+                "text": "Sending emails",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Where is the Microsoft Office button located in the Excel 2007 window?",
+        "options": [
+            {
+                "text": "On the Ribbon",
+                "value": "a"
+            },
+            {
+                "text": "On the Quick Access Toolbar",
+                "value": "b"
+            },
+            {
+                "text": "In the upper-left corner",
+                "value": "c"
+            },
+            {
+                "text": "On the Status bar",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the function of the Quick Access Toolbar?",
+        "options": [
+            {
+                "text": "To display the name of the workbook",
+                "value": "a"
+            },
+            {
+                "text": "To give quick access to frequently used commands",
+                "value": "b"
+            },
+            {
+                "text": "To show the sum of selected numbers",
+                "value": "c"
+            },
+            {
+                "text": "To organize data into rows and columns",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is displayed on the Title Bar in Excel?",
+        "options": [
+            {
+                "text": "The name of the current workbook",
+                "value": "a"
+            },
+            {
+                "text": "The formula being used",
+                "value": "b"
+            },
+            {
+                "text": "The sum of selected cells",
+                "value": "c"
+            },
+            {
+                "text": "A list of recent files",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "In Excel 2007, what is used to issue commands?",
+        "options": [
+            {
+                "text": "The Status Bar",
+                "value": "a"
+            },
+            {
+                "text": "The Formula Bar",
+                "value": "b"
+            },
+            {
+                "text": "The Ribbon",
+                "value": "c"
+            },
+            {
+                "text": "The Title Bar",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the combination of a column letter and a row number called?",
+        "options": [
+            {
+                "text": "A Ribbon",
+                "value": "a"
+            },
+            {
+                "text": "A Formula",
+                "value": "b"
+            },
+            {
+                "text": "A Cell Address",
+                "value": "c"
+            },
+            {
+                "text": "A Function",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "If the Formula Bar is turned on, where is the cell address displayed?",
+        "options": [
+            {
+                "text": "On the Ribbon",
+                "value": "a"
+            },
+            {
+                "text": "In the Status Bar",
+                "value": "b"
+            },
+            {
+                "text": "In the Name Box on the left side of the Formula Bar",
+                "value": "c"
+            },
+            {
+                "text": "On the Title Bar",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What information does the Status Bar provide?",
+        "options": [
+            {
+                "text": "The name of the workbook",
+                "value": "a"
+            },
+            {
+                "text": "The formula for the active cell",
+                "value": "b"
+            },
+            {
+                "text": "The sum, average, min, and max of selected numbers",
+                "value": "c"
+            },
+            {
+                "text": "A list of all available functions",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which key combination moves the cursor to the beginning of the worksheet?",
+        "options": [
+            {
+                "text": "Ctrl + End",
+                "value": "a"
+            },
+            {
+                "text": "Ctrl + Home",
+                "value": "b"
+            },
+            {
+                "text": "Alt + Home",
+                "value": "c"
+            },
+            {
+                "text": "Page Up",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the function of the F5 key in Excel?",
+        "options": [
+            {
+                "text": "To save the workbook",
+                "value": "a"
+            },
+            {
+                "text": "To open the Go To dialog box",
+                "value": "b"
+            },
+            {
+                "text": "To edit the active cell",
+                "value": "c"
+            },
+            {
+                "text": "To create a new chart",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How can you quickly go to a specific cell using the Name Box?",
+        "options": [
+            {
+                "text": "Type the cell address and press Tab",
+                "value": "a"
+            },
+            {
+                "text": "Type the cell address and press Enter",
+                "value": "b"
+            },
+            {
+                "text": "Type the cell address and press F5",
+                "value": "c"
+            },
+            {
+                "text": "Double-click the Name Box and type the address",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does pressing the F8 key do when selecting cells?",
+        "options": [
+            {
+                "text": "It cancels the selection",
+                "value": "a"
+            },
+            {
+                "text": "It anchors the cursor for Extend Selection mode",
+                "value": "b"
+            },
+            {
+                "text": "It selects the entire worksheet",
+                "value": "c"
+            },
+            {
+                "text": "It opens the Format Cells dialog box",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which key is used to delete one character to the left in a cell?",
+        "options": [
+            {
+                "text": "Delete key",
+                "value": "a"
+            },
+            {
+                "text": "Backspace key",
+                "value": "b"
+            },
+            {
+                "text": "Esc key",
+                "value": "c"
+            },
+            {
+                "text": "Enter key",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which key allows you to edit the contents of the active cell?",
+        "options": [
+            {
+                "text": "F1",
+                "value": "a"
+            },
+            {
+                "text": "F2",
+                "value": "b"
+            },
+            {
+                "text": "F5",
+                "value": "c"
+            },
+            {
+                "text": "F12",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What happens if you type new data into a cell that already has an entry?",
+        "options": [
+            {
+                "text": "The new data is appended to the old data",
+                "value": "a"
+            },
+            {
+                "text": "The old entry is replaced with the new information",
+                "value": "b"
+            },
+            {
+                "text": "A error message appears",
+                "value": "c"
+            },
+            {
+                "text": "The new data is ignored",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does the 'Wrap Text' feature do?",
+        "options": [
+            {
+                "text": "It deletes text that is too long",
+                "value": "a"
+            },
+            {
+                "text": "It makes text bold",
+                "value": "b"
+            },
+            {
+                "text": "It allows text to occupy multiple lines within a cell",
+                "value": "c"
+            },
+            {
+                "text": "It centers the text in the cell",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How do you delete the entry in a selected cell or group of cells?",
+        "options": [
+            {
+                "text": "Press the Spacebar",
+                "value": "a"
+            },
+            {
+                "text": "Press the Enter key",
+                "value": "b"
+            },
+            {
+                "text": "Press the Delete key",
+                "value": "c"
+            },
+            {
+                "text": "Press the Esc key",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What must you precede a mathematical formula with in Excel?",
+        "options": [
+            {
+                "text": "A plus sign (+)",
+                "value": "a"
+            },
+            {
+                "text": "An asterisk (*)",
+                "value": "b"
+            },
+            {
+                "text": "An equal sign (=)",
+                "value": "c"
+            },
+            {
+                "text": "A quote (\")",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which symbol is used for multiplication in an Excel formula?",
+        "options": [
+            {
+                "text": "+",
+                "value": "a"
+            },
+            {
+                "text": "-",
+                "value": "b"
+            },
+            {
+                "text": "/",
+                "value": "c"
+            },
+            {
+                "text": "*",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which symbol is used for exponentiation in an Excel formula?",
+        "options": [
+            {
+                "text": "*",
+                "value": "a"
+            },
+            {
+                "text": "/",
+                "value": "b"
+            },
+            {
+                "text": "^",
+                "value": "c"
+            },
+            {
+                "text": "E",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "In the formula =3+3+12/2*4, what is the result?",
+        "options": [
+            {
+                "text": "30",
+                "value": "a"
+            },
+            {
+                "text": "36",
+                "value": "b"
+            },
+            {
+                "text": "18",
+                "value": "c"
+            },
+            {
+                "text": "12",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the AutoSum button?",
+        "options": [
+            {
+                "text": "To automatically format cells",
+                "value": "a"
+            },
+            {
+                "text": "To automatically add a column or row of numbers",
+                "value": "b"
+            },
+            {
+                "text": "To create a new chart",
+                "value": "c"
+            },
+            {
+                "text": "To save the workbook",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "By default, how is text aligned in a cell?",
+        "options": [
+            {
+                "text": "Centered",
+                "value": "a"
+            },
+            {
+                "text": "Right-aligned",
+                "value": "b"
+            },
+            {
+                "text": "Left-aligned",
+                "value": "c"
+            },
+            {
+                "text": "Justified",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "By default, how are numbers aligned in a cell?",
+        "options": [
+            {
+                "text": "Centered",
+                "value": "a"
+            },
+            {
+                "text": "Right-aligned",
+                "value": "b"
+            },
+            {
+                "text": "Left-aligned",
+                "value": "c"
+            },
+            {
+                "text": "Justified",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which tab contains the buttons for aligning cell entries?",
+        "options": [
+            {
+                "text": "Insert tab",
+                "value": "a"
+            },
+            {
+                "text": "Page Layout tab",
+                "value": "b"
+            },
+            {
+                "text": "Formulas tab",
+                "value": "c"
+            },
+            {
+                "text": "Home tab",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the first step to copy or cut data?",
+        "options": [
+            {
+                "text": "Click the Paste button",
+                "value": "a"
+            },
+            {
+                "text": "Select the cells you want to copy or cut",
+                "value": "b"
+            },
+            {
+                "text": "Press the Enter key",
+                "value": "c"
+            },
+            {
+                "text": "Go to the destination cell",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "When you delete a column, what are you deleting?",
+        "options": [
+            {
+                "text": "Only the data in the selected cells of the column",
+                "value": "a"
+            },
+            {
+                "text": "The entire column from top to bottom of the worksheet",
+                "value": "b"
+            },
+            {
+                "text": "Only the formatting of the column",
+                "value": "c"
+            },
+            {
+                "text": "The column letter",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "If text is too long for a cell and the adjacent cell is empty, what happens?",
+        "options": [
+            {
+                "text": "The text is truncated",
+                "value": "a"
+            },
+            {
+                "text": "The text is deleted",
+                "value": "b"
+            },
+            {
+                "text": "The text spills over into the adjacent cell",
+                "value": "c"
+            },
+            {
+                "text": "An error message appears",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "If text is too long for a cell and the adjacent cell contains data, what happens?",
+        "options": [
+            {
+                "text": "The long text is truncated visually but remains intact in the cell",
+                "value": "a"
+            },
+            {
+                "text": "The data in the adjacent cell is overwritten",
+                "value": "b"
+            },
+            {
+                "text": "Both cells merge to display all text",
+                "value": "c"
+            },
+            {
+                "text": "The text automatically wraps",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Where can you find the option to change a column's width to a specific value?",
+        "options": [
+            {
+                "text": "Insert > Column Width",
+                "value": "a"
+            },
+            {
+                "text": "Home > Format > Column Width",
+                "value": "b"
+            },
+            {
+                "text": "Page Layout > Width",
+                "value": "c"
+            },
+            {
+                "text": "Formulas > Define Width",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the small black square in the lower-right corner of a selected cell called?",
+        "options": [
+            {
+                "text": "The Ribbon handle",
+                "value": "a"
+            },
+            {
+                "text": "The Fill handle",
+                "value": "b"
+            },
+            {
+                "text": "The Format pointer",
+                "value": "c"
+            },
+            {
+                "text": "The Selection box",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does the Accounting Number Format button ($) do?",
+        "options": [
+            {
+                "text": "It converts the number to text",
+                "value": "a"
+            },
+            {
+                "text": "It adds a dollar sign and two decimal places",
+                "value": "b"
+            },
+            {
+                "text": "It calculates the percentage of the number",
+                "value": "c"
+            },
+            {
+                "text": "It rounds the number to the nearest whole number",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does the Percent Style button (%) do?",
+        "options": [
+            {
+                "text": "It multiplies the number by 100",
+                "value": "a"
+            },
+            {
+                "text": "It displays the number as a percentage (e.g., 0.35 becomes 35%)",
+                "value": "b"
+            },
+            {
+                "text": "It calculates the percentage of a total",
+                "value": "c"
+            },
+            {
+                "text": "It formats the cell with a green color",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is a prewritten formula in Excel called?",
+        "options": [
+            {
+                "text": "A macro",
+                "value": "a"
+            },
+            {
+                "text": "A function",
+                "value": "b"
+            },
+            {
+                "text": "A reference",
+                "value": "c"
+            },
+            {
+                "text": "A value",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the correct syntax for a function?",
+        "options": [
+            {
+                "text": "function-name:arguments",
+                "value": "a"
+            },
+            {
+                "text": "function-name(arguments)",
+                "value": "b"
+            },
+            {
+                "text": "arguments(function-name)",
+                "value": "c"
+            },
+            {
+                "text": "[function-name]arguments",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does the AVERAGE function do?",
+        "options": [
+            {
+                "text": "Adds a series of numbers",
+                "value": "a"
+            },
+            {
+                "text": "Finds the middle number in a series",
+                "value": "b"
+            },
+            {
+                "text": "Calculates the mean of a series of numbers",
+                "value": "c"
+            },
+            {
+                "text": "Counts the number of cells",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does the MIN function do?",
+        "options": [
+            {
+                "text": "Finds the smallest number in a series",
+                "value": "a"
+            },
+            {
+                "text": "Finds the most frequent number",
+                "value": "b"
+            },
+            {
+                "text": "Subtracts the smallest number from the largest",
+                "value": "c"
+            },
+            {
+                "text": "Calculates the minimum payment",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does the MAX function do?",
+        "options": [
+            {
+                "text": "Finds the largest number in a series",
+                "value": "a"
+            },
+            {
+                "text": "Calculates the maximum possible value",
+                "value": "b"
+            },
+            {
+                "text": "Formats cells to a maximum width",
+                "value": "c"
+            },
+            {
+                "text": "Adds the maximum number of arguments",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does the COUNT function do?",
+        "options": [
+            {
+                "text": "Adds the numbers in a range",
+                "value": "a"
+            },
+            {
+                "text": "Counts the number of cells that contain numbers in a range",
+                "value": "b"
+            },
+            {
+                "text": "Finds the most common number",
+                "value": "c"
+            },
+            {
+                "text": "Estimates a value",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Dragging the fill handle with the text 'Sun' selected will likely fill the cells with:",
+        "options": [
+            {
+                "text": "Random numbers",
+                "value": "a"
+            },
+            {
+                "text": "The days of the week",
+                "value": "b"
+            },
+            {
+                "text": "The word 'Sun' repeated",
+                "value": "c"
+            },
+            {
+                "text": "The months of the year",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which tab is used to set page margins, orientation, and size?",
+        "options": [
+            {
+                "text": "Home tab",
+                "value": "a"
+            },
+            {
+                "text": "Insert tab",
+                "value": "b"
+            },
+            {
+                "text": "Page Layout tab",
+                "value": "c"
+            },
+            {
+                "text": "View tab",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does Landscape page orientation mean?",
+        "options": [
+            {
+                "text": "The page is wider than it is tall",
+                "value": "a"
+            },
+            {
+                "text": "The page is taller than it is wide",
+                "value": "b"
+            },
+            {
+                "text": "The page has landscape graphics",
+                "value": "c"
+            },
+            {
+                "text": "The margins are set to zero",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the simplest way to print using default settings?",
+        "options": [
+            {
+                "text": "Office Button > Print > Quick Print",
+                "value": "a"
+            },
+            {
+                "text": "Press Ctrl+P",
+                "value": "b"
+            },
+            {
+                "text": "Click the Print button on the Ribbon",
+                "value": "c"
+            },
+            {
+                "text": "Office Button > Save",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What do the dotted lines on a worksheet indicate?",
+        "options": [
+            {
+                "text": "Cell borders",
+                "value": "a"
+            },
+            {
+                "text": "The edges of the printed page",
+                "value": "b"
+            },
+            {
+                "text": "Hidden rows or columns",
+                "value": "c"
+            },
+            {
+                "text": "Formula errors",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Where can you choose from a variety of chart types?",
+        "options": [
+            {
+                "text": "The Formulas tab",
+                "value": "a"
+            },
+            {
+                "text": "The Data tab",
+                "value": "b"
+            },
+            {
+                "text": "The Insert tab",
+                "value": "c"
+            },
+            {
+                "text": "The Review tab",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the first step in creating a chart?",
+        "options": [
+            {
+                "text": "Choose the chart type",
+                "value": "a"
+            },
+            {
+                "text": "Select the data you want to include in the chart",
+                "value": "b"
+            },
+            {
+                "text": "Apply a chart layout",
+                "value": "c"
+            },
+            {
+                "text": "Click the Chart button",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What appears when you click on a chart, providing tools to customize it?",
+        "options": [
+            {
+                "text": "The Format dialog box",
+                "value": "a"
+            },
+            {
+                "text": "The Chart Wizard",
+                "value": "b"
+            },
+            {
+                "text": "The Chart Tools context tabs",
+                "value": "c"
+            },
+            {
+                "text": "The Formula bar",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What does a chart style change?",
+        "options": [
+            {
+                "text": "The underlying data",
+                "value": "a"
+            },
+            {
+                "text": "The color and format of the chart",
+                "value": "b"
+            },
+            {
+                "text": "The chart type (e.g., from column to bar)",
+                "value": "c"
+            },
+            {
+                "text": "The worksheet name",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "By default, where does Excel place a newly created chart?",
+        "options": [
+            {
+                "text": "On a new chart sheet",
+                "value": "a"
+            },
+            {
+                "text": "Embedded in the active worksheet",
+                "value": "b"
+            },
+            {
+                "text": "In a new workbook",
+                "value": "c"
+            },
+            {
+                "text": "On the Clipboard",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is a sheet dedicated to a single chart called?",
+        "options": [
+            {
+                "text": "A data sheet",
+                "value": "a"
+            },
+            {
+                "text": "A chart sheet",
+                "value": "b"
+            },
+            {
+                "text": "A function sheet",
+                "value": "c"
+            },
+            {
+                "text": "A design sheet",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    }
+]

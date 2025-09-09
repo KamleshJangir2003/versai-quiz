@@ -1,0 +1,52 @@
+[
+    {
+        "text": "What does CPU stand for?",
+        "options": [
+            { "value": "a", "text": "Central Processing Unit" },
+            { "value": "b", "text": "Computer Personal Unit" },
+            { "value": "c", "text": "Central Process Unit" },
+            { "value": "d", "text": "Central Processor Unit" }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of the following is an input device?",
+        "options": [
+            { "value": "a", "text": "Monitor" },
+            { "value": "b", "text": "Keyboard" },
+            { "value": "c", "text": "Printer" },
+            { "value": "d", "text": "Speaker" }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the main memory of a computer?",
+        "options": [
+            { "value": "a", "text": "RAM" },
+            { "value": "b", "text": "ROM" },
+            { "value": "c", "text": "Hard Disk" },
+            { "value": "d", "text": "CD-ROM" }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does 'OS' stand for in computer science?",
+        "options": [
+            { "value": "a", "text": "Operating System" },
+            { "value": "b", "text": "Open Software" },
+            { "value": "c", "text": "Optical Sensor" },
+            { "value": "d", "text": "Output System" }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of the following is a web browser?",
+        "options": [
+            { "value": "a", "text": "Google" },
+            { "value": "b", "text": "Yahoo" },
+            { "value": "c", "text": "Chrome" },
+            { "value": "d", "text": "Bing" }
+        ],
+        "correct": "c"
+    }
+]

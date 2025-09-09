@@ -1,0 +1,2202 @@
+[
+    {
+        "text": "Which HTML tag is used to define an internal stylesheet?",
+        "options": [
+            {
+                "text": "<css>",
+                "value": "a"
+            },
+            {
+                "text": "<style>",
+                "value": "b"
+            },
+            {
+                "text": "<script>",
+                "value": "c"
+            },
+            {
+                "text": "<link>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of the following is NOT a way to add JavaScript to a webpage?",
+        "options": [
+            {
+                "text": "Within an individual HTML event attribute",
+                "value": "a"
+            },
+            {
+                "text": "Within separate <script> elements",
+                "value": "b"
+            },
+            {
+                "text": "In external script files linked with a <link> tag",
+                "value": "c"
+            },
+            {
+                "text": "In external script files linked with a <script> tag",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which CSS property controls the text size?",
+        "options": [
+            {
+                "text": "text-style",
+                "value": "a"
+            },
+            {
+                "text": "font-size",
+                "value": "b"
+            },
+            {
+                "text": "text-size",
+                "value": "c"
+            },
+            {
+                "text": "font-style",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does the document.write() method do?",
+        "options": [
+            {
+                "text": "It adds text to the end of the HTML document as it is being parsed.",
+                "value": "a"
+            },
+            {
+                "text": "It writes text to a separate document file.",
+                "value": "b"
+            },
+            {
+                "text": "It is used to create a pop-up alert box.",
+                "value": "c"
+            },
+            {
+                "text": "It is a deprecated method and should not be used.",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How do you select an element with id 'demo' in CSS?",
+        "options": [
+            {
+                "text": ".demo",
+                "value": "a"
+            },
+            {
+                "text": "#demo",
+                "value": "b"
+            },
+            {
+                "text": "demo",
+                "value": "c"
+            },
+            {
+                "text": "*demo",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "In the example document.getElementById('Added').innerHTML='and using JavaScript', what is the purpose of getElementById?",
+        "options": [
+            {
+                "text": "To create a new HTML element with the id 'Added'",
+                "value": "a"
+            },
+            {
+                "text": "To define a new JavaScript variable",
+                "value": "b"
+            },
+            {
+                "text": "To check if an element with the id 'Added' exists",
+                "value": "c"
+            },
+            {
+                "text": "To find and return the HTML element that has the id attribute 'Added'",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which property is used to change the background color?",
+        "options": [
+            {
+                "text": "color",
+                "value": "a"
+            },
+            {
+                "text": "bgcolor",
+                "value": "b"
+            },
+            {
+                "text": "background-color",
+                "value": "c"
+            },
+            {
+                "text": "bg-color",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "How is a single-line comment written in JavaScript?",
+        "options": [
+            {
+                "text": "<!-- This is a comment -->",
+                "value": "a"
+            },
+            {
+                "text": "/* This is a comment */",
+                "value": "b"
+            },
+            {
+                "text": "// This is a comment",
+                "value": "c"
+            },
+            {
+                "text": "' This is a comment",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "How do you add a background color for all <h1> elements?",
+        "options": [
+            {
+                "text": "h1.all {background-color:#FFFFFF;}",
+                "value": "a"
+            },
+            {
+                "text": "h1 {background-color:#FFFFFF;}",
+                "value": "b"
+            },
+            {
+                "text": "all.h1 {background-color:#FFFFFF;}",
+                "value": "c"
+            },
+            {
+                "text": "h1 {bg-color:#FFFFFF;}",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How is a multi-line comment written in JavaScript?",
+        "options": [
+            {
+                "text": "<!-- This is a comment -->",
+                "value": "a"
+            },
+            {
+                "text": "/* This is a comment */",
+                "value": "b"
+            },
+            {
+                "text": "// This is a comment",
+                "value": "c"
+            },
+            {
+                "text": "''' This is a comment '''",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which CSS property is used to change the text color of an element?",
+        "options": [
+            {
+                "text": "text-color",
+                "value": "a"
+            },
+            {
+                "text": "fgcolor",
+                "value": "b"
+            },
+            {
+                "text": "color",
+                "value": "c"
+            },
+            {
+                "text": "font-color",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which keyword is used to declare a variable in JavaScript?",
+        "options": [
+            {
+                "text": "variable",
+                "value": "a"
+            },
+            {
+                "text": "let",
+                "value": "b"
+            },
+            {
+                "text": "var",
+                "value": "c"
+            },
+            {
+                "text": "const",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which CSS property controls the text alignment?",
+        "options": [
+            {
+                "text": "text-align",
+                "value": "a"
+            },
+            {
+                "text": "text-style",
+                "value": "b"
+            },
+            {
+                "text": "align",
+                "value": "c"
+            },
+            {
+                "text": "font-align",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the value of a variable that has been declared but not assigned?",
+        "options": [
+            {
+                "text": "undefined",
+                "value": "a"
+            },
+            {
+                "text": "0",
+                "value": "b"
+            },
+            {
+                "text": "null",
+                "value": "c"
+            },
+            {
+                "text": "\"\"",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How do you make the text bold with CSS?",
+        "options": [
+            {
+                "text": "style:bold;",
+                "value": "a"
+            },
+            {
+                "text": "font:bold;",
+                "value": "b"
+            },
+            {
+                "text": "font-weight:bold;",
+                "value": "c"
+            },
+            {
+                "text": "text-style:bold;",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "After the statements var x = 10; and then var x;, what is the value of x?",
+        "options": [
+            {
+                "text": "10",
+                "value": "a"
+            },
+            {
+                "text": "undefined",
+                "value": "b"
+            },
+            {
+                "text": "null",
+                "value": "c"
+            },
+            {
+                "text": "This will cause an error.",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How do you make each word in a text start with a capital letter?",
+        "options": [
+            {
+                "text": "text-transform:capitalize",
+                "value": "a"
+            },
+            {
+                "text": "text-style:capitalize",
+                "value": "b"
+            },
+            {
+                "text": "transform:capitalize",
+                "value": "c"
+            },
+            {
+                "text": "font-transform:capitalize",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of the following is a valid JavaScript variable name?",
+        "options": [
+            {
+                "text": "2ndPlace",
+                "value": "a"
+            },
+            {
+                "text": "first-name",
+                "value": "b"
+            },
+            {
+                "text": "first_name",
+                "value": "c"
+            },
+            {
+                "text": "var",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which property is used to change the font of an element?",
+        "options": [
+            {
+                "text": "font-weight",
+                "value": "a"
+            },
+            {
+                "text": "font-style",
+                "value": "b"
+            },
+            {
+                "text": "font-family",
+                "value": "c"
+            },
+            {
+                "text": "text-font",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the scope of a variable declared inside a function?",
+        "options": [
+            {
+                "text": "Global scope",
+                "value": "a"
+            },
+            {
+                "text": "Local scope to that function",
+                "value": "b"
+            },
+            {
+                "text": "Block scope",
+                "value": "c"
+            },
+            {
+                "text": "It depends on the variable name.",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How do you display a border like this: top 10px, bottom 15px, right 5px, left 20px?",
+        "options": [
+            {
+                "text": "border-width:10px 5px 15px 20px;",
+                "value": "a"
+            },
+            {
+                "text": "border-width:10px 20px 15px 5px;",
+                "value": "b"
+            },
+            {
+                "text": "border-width:10px 15px 5px 20px;",
+                "value": "c"
+            },
+            {
+                "text": "border-width:10px 15px 20px 5px;",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the scope of a variable declared outside any function?",
+        "options": [
+            {
+                "text": "Global scope",
+                "value": "a"
+            },
+            {
+                "text": "Local scope",
+                "value": "b"
+            },
+            {
+                "text": "Module scope",
+                "value": "c"
+            },
+            {
+                "text": "It has no scope until it is used.",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which property is used to create space between the element's border and inner content?",
+        "options": [
+            {
+                "text": "margin",
+                "value": "a"
+            },
+            {
+                "text": "spacing",
+                "value": "b"
+            },
+            {
+                "text": "padding",
+                "value": "c"
+            },
+            {
+                "text": "border-spacing",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "How do you create a string variable containing the word 'Hello'?",
+        "options": [
+            {
+                "text": "var s = Hello;",
+                "value": "a"
+            },
+            {
+                "text": "var s = 'Hello';",
+                "value": "b"
+            },
+            {
+                "text": "string s = 'Hello';",
+                "value": "c"
+            },
+            {
+                "text": "var s = String('Hello');",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which property is used to create space outside the element's border?",
+        "options": [
+            {
+                "text": "margin",
+                "value": "a"
+            },
+            {
+                "text": "spacing",
+                "value": "b"
+            },
+            {
+                "text": "padding",
+                "value": "c"
+            },
+            {
+                "text": "border-spacing",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "If var x = 'Cat';, what is the value of x[1]?",
+        "options": [
+            {
+                "text": "'C'",
+                "value": "a"
+            },
+            {
+                "text": "undefined",
+                "value": "b"
+            },
+            {
+                "text": "'t'",
+                "value": "c"
+            },
+            {
+                "text": "'a'",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How do you make a list that lists its items with squares?",
+        "options": [
+            {
+                "text": "list-type: square;",
+                "value": "a"
+            },
+            {
+                "text": "list-style-type: square;",
+                "value": "b"
+            },
+            {
+                "text": "list: square;",
+                "value": "c"
+            },
+            {
+                "text": "list-style: square;",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the correct syntax for a regular expression that matches 'nematrian' case-insensitively?",
+        "options": [
+            {
+                "text": "/nematrian/",
+                "value": "a"
+            },
+            {
+                "text": "/nematrian/i",
+                "value": "b"
+            },
+            {
+                "text": "/nematrian/g",
+                "value": "c"
+            },
+            {
+                "text": "var x = 'nematrian';",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How do you select an element with a specific class ('menu') and a specific id ('main') in CSS?",
+        "options": [
+            {
+                "text": "#main.menu",
+                "value": "a"
+            },
+            {
+                "text": ".menu#main",
+                "value": "b"
+            },
+            {
+                "text": "menu#main",
+                "value": "c"
+            },
+            {
+                "text": "#main .menu",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How is the number 13.5 million written in JavaScript scientific notation?",
+        "options": [
+            {
+                "text": "13.5e6",
+                "value": "a"
+            },
+            {
+                "text": "13.5e7",
+                "value": "b"
+            },
+            {
+                "text": "1.35e7",
+                "value": "c"
+            },
+            {
+                "text": "135e5",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the default display value for a <div> element?",
+        "options": [
+            {
+                "text": "inline",
+                "value": "a"
+            },
+            {
+                "text": "block",
+                "value": "b"
+            },
+            {
+                "text": "inline-block",
+                "value": "c"
+            },
+            {
+                "text": "flex",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which object provides mathematical functions like sin and pow?",
+        "options": [
+            {
+                "text": "The Number object",
+                "value": "a"
+            },
+            {
+                "text": "The Arithmetic object",
+                "value": "b"
+            },
+            {
+                "text": "The Calculation object",
+                "value": "c"
+            },
+            {
+                "text": "The Math object",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the default display value for a <span> element?",
+        "options": [
+            {
+                "text": "inline",
+                "value": "a"
+            },
+            {
+                "text": "block",
+                "value": "b"
+            },
+            {
+                "text": "inline-block",
+                "value": "c"
+            },
+            {
+                "text": "flex",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How do you create a new Date object representing the current date and time?",
+        "options": [
+            {
+                "text": "var d = new Date(0);",
+                "value": "a"
+            },
+            {
+                "text": "var d = CurrentDate();",
+                "value": "b"
+            },
+            {
+                "text": "var d = new Date();",
+                "value": "c"
+            },
+            {
+                "text": "var d = new Date();",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which property is used to change the cursor type?",
+        "options": [
+            {
+                "text": "mouse",
+                "value": "a"
+            },
+            {
+                "text": "cursor",
+                "value": "b"
+            },
+            {
+                "text": "pointer",
+                "value": "c"
+            },
+            {
+                "text": "mouse-pointer",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does the milliseconds parameter in new Date(milliseconds) represent?",
+        "options": [
+            {
+                "text": "Milliseconds in the current day",
+                "value": "a"
+            },
+            {
+                "text": "Milliseconds since January 1, 2000",
+                "value": "b"
+            },
+            {
+                "text": "Milliseconds since January 1, 1970",
+                "value": "c"
+            },
+            {
+                "text": "Milliseconds since the computer was turned on",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which value for the 'cursor' property indicates a link?",
+        "options": [
+            {
+                "text": "hand",
+                "value": "a"
+            },
+            {
+                "text": "pointer",
+                "value": "b"
+            },
+            {
+                "text": "link",
+                "value": "c"
+            },
+            {
+                "text": "click",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How do you create a Boolean variable with a value of true?",
+        "options": [
+            {
+                "text": "var b = True;",
+                "value": "a"
+            },
+            {
+                "text": "var b = 1;",
+                "value": "b"
+            },
+            {
+                "text": "var b = 'true';",
+                "value": "c"
+            },
+            {
+                "text": "var b = true;",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which property allows you to rotate an element?",
+        "options": [
+            {
+                "text": "rotate",
+                "value": "a"
+            },
+            {
+                "text": "transform",
+                "value": "b"
+            },
+            {
+                "text": "transform-rotate",
+                "value": "c"
+            },
+            {
+                "text": "rotation",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does the expression 2 > 1 evaluate to?",
+        "options": [
+            {
+                "text": "2",
+                "value": "a"
+            },
+            {
+                "text": "1",
+                "value": "b"
+            },
+            {
+                "text": "true",
+                "value": "c"
+            },
+            {
+                "text": "false",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "How do you make a rounded corner for a div element?",
+        "options": [
+            {
+                "text": "corner-radius: 10px;",
+                "value": "a"
+            },
+            {
+                "text": "border-round: 10px;",
+                "value": "b"
+            },
+            {
+                "text": "border-radius: 10px;",
+                "value": "c"
+            },
+            {
+                "text": "round-corner: 10px;",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "How do you create an array containing the numbers 1 and 2?",
+        "options": [
+            {
+                "text": "var a = (1, 2);",
+                "value": "a"
+            },
+            {
+                "text": "var a = [1, 2];",
+                "value": "b"
+            },
+            {
+                "text": "var a = Array(1, 2);",
+                "value": "c"
+            },
+            {
+                "text": "var a = {1, 2};",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which property is used to add shadow to elements?",
+        "options": [
+            {
+                "text": "shadow",
+                "value": "a"
+            },
+            {
+                "text": "box-shadow",
+                "value": "b"
+            },
+            {
+                "text": "element-shadow",
+                "value": "c"
+            },
+            {
+                "text": "div-shadow",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the index of the first element in a JavaScript array?",
+        "options": [
+            {
+                "text": "0",
+                "value": "a"
+            },
+            {
+                "text": "1",
+                "value": "b"
+            },
+            {
+                "text": "first",
+                "value": "c"
+            },
+            {
+                "text": "It can be set by the programmer.",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which property is used to change the opacity of an element?",
+        "options": [
+            {
+                "text": "transparent",
+                "value": "a"
+            },
+            {
+                "text": "opacity",
+                "value": "b"
+            },
+            {
+                "text": "visibility",
+                "value": "c"
+            },
+            {
+                "text": "filter",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How do you create a JavaScript object representing a person with a name and age?",
+        "options": [
+            {
+                "text": "var person = [name:'John', age:30];",
+                "value": "a"
+            },
+            {
+                "text": "var person = (name:'John', age:30);",
+                "value": "b"
+            },
+            {
+                "text": "var person = {name:'John', age:30};",
+                "value": "c"
+            },
+            {
+                "text": "var person = <name>'John'</name><age>30</age>;",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "How do you apply a style only when the screen is less than 600px wide?",
+        "options": [
+            {
+                "text": "@media screen and (max-width: 600px)",
+                "value": "a"
+            },
+            {
+                "text": "@media (max-width: 600px)",
+                "value": "b"
+            },
+            {
+                "text": "@media screen (width < 600px)",
+                "value": "c"
+            },
+            {
+                "text": "if (screen.width < 600px)",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "If var person = {name:'John', age:30};, how do you access the 'name' property?",
+        "options": [
+            {
+                "text": "person('name')",
+                "value": "a"
+            },
+            {
+                "text": "person.name",
+                "value": "b"
+            },
+            {
+                "text": "person->name",
+                "value": "c"
+            },
+            {
+                "text": "person[0]",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which HTML5 element is used to specify independent, self-contained content?",
+        "options": [
+            {
+                "text": "<section>",
+                "value": "a"
+            },
+            {
+                "text": "<article>",
+                "value": "b"
+            },
+            {
+                "text": "<independent>",
+                "value": "c"
+            },
+            {
+                "text": "<content>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of a JavaScript statement?",
+        "options": [
+            {
+                "text": "To define a variable",
+                "value": "a"
+            },
+            {
+                "text": "To provide an instruction for the browser to execute",
+                "value": "b"
+            },
+            {
+                "text": "To create a comment",
+                "value": "c"
+            },
+            {
+                "text": "To style an HTML element",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which HTML5 element is used to specify content aside from the page content?",
+        "options": [
+            {
+                "text": "<sidebar>",
+                "value": "a"
+            },
+            {
+                "text": "<aside>",
+                "value": "b"
+            },
+            {
+                "text": "<content>",
+                "value": "c"
+            },
+            {
+                "text": "<section>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What character is used to separate multiple JavaScript statements on the same line?",
+        "options": [
+            {
+                "text": "Colon (:)",
+                "value": "a"
+            },
+            {
+                "text": "Comma (,)",
+                "value": "b"
+            },
+            {
+                "text": "Semicolon (;)",
+                "value": "c"
+            },
+            {
+                "text": "Period (.)",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which HTML5 element is used to define navigation links?",
+        "options": [
+            {
+                "text": "<navigate>",
+                "value": "a"
+            },
+            {
+                "text": "<links>",
+                "value": "b"
+            },
+            {
+                "text": "<nav>",
+                "value": "c"
+            },
+            {
+                "text": "<navigation>",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What are curly brackets { } used for in JavaScript?",
+        "options": [
+            {
+                "text": "To define an array",
+                "value": "a"
+            },
+            {
+                "text": "To define an object",
+                "value": "b"
+            },
+            {
+                "text": "To group statements into code blocks",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which HTML5 element is used to define a header for a document or section?",
+        "options": [
+            {
+                "text": "<top>",
+                "value": "a"
+            },
+            {
+                "text": "<header>",
+                "value": "b"
+            },
+            {
+                "text": "<head>",
+                "value": "c"
+            },
+            {
+                "text": "<section-header>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of the following is a JavaScript reserved word used for statement control?",
+        "options": [
+            {
+                "text": "function",
+                "value": "a"
+            },
+            {
+                "text": "var",
+                "value": "b"
+            },
+            {
+                "text": "if",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which HTML5 element is used to define a footer for a document or section?",
+        "options": [
+            {
+                "text": "<bottom>",
+                "value": "a"
+            },
+            {
+                "text": "<footer>",
+                "value": "b"
+            },
+            {
+                "text": "<end>",
+                "value": "c"
+            },
+            {
+                "text": "<section-footer>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What keyword is used to define a JavaScript function?",
+        "options": [
+            {
+                "text": "func",
+                "value": "a"
+            },
+            {
+                "text": "def",
+                "value": "b"
+            },
+            {
+                "text": "function",
+                "value": "c"
+            },
+            {
+                "text": "procedure",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What does HTML stand for?",
+        "options": [
+            {
+                "text": "Hyperlinks and Text Markup Language",
+                "value": "a"
+            },
+            {
+                "text": "Hyper Text Markup Language",
+                "value": "b"
+            },
+            {
+                "text": "Home Tool Markup Language",
+                "value": "c"
+            },
+            {
+                "text": "Hyper Transfer Markup Language",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "In the function definition function func2(x) { ... }, what is x?",
+        "options": [
+            {
+                "text": "An argument",
+                "value": "a"
+            },
+            {
+                "text": "A parameter",
+                "value": "b"
+            },
+            {
+                "text": "A return value",
+                "value": "c"
+            },
+            {
+                "text": "A global variable",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the correct HTML element for the largest heading?",
+        "options": [
+            {
+                "text": "<h6>",
+                "value": "a"
+            },
+            {
+                "text": "<head>",
+                "value": "b"
+            },
+            {
+                "text": "<heading>",
+                "value": "c"
+            },
+            {
+                "text": "<h1>",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What keyword is used inside a function to stop its execution and return a value?",
+        "options": [
+            {
+                "text": "stop",
+                "value": "a"
+            },
+            {
+                "text": "break",
+                "value": "b"
+            },
+            {
+                "text": "return",
+                "value": "c"
+            },
+            {
+                "text": "exit",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the correct HTML element to define important text?",
+        "options": [
+            {
+                "text": "<important>",
+                "value": "a"
+            },
+            {
+                "text": "<b>",
+                "value": "b"
+            },
+            {
+                "text": "<strong>",
+                "value": "c"
+            },
+            {
+                "text": "<i>",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the difference between func and func() in code?",
+        "options": [
+            {
+                "text": "func is the function object, func() invokes the function.",
+                "value": "a"
+            },
+            {
+                "text": "func is a variable, func() is a string.",
+                "value": "b"
+            },
+            {
+                "text": "There is no difference; they are interchangeable.",
+                "value": "c"
+            },
+            {
+                "text": "func() is the function object, func invokes the function.",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the correct HTML element to define emphasized text?",
+        "options": [
+            {
+                "text": "<em>",
+                "value": "a"
+            },
+            {
+                "text": "<italic>",
+                "value": "b"
+            },
+            {
+                "text": "<i>",
+                "value": "c"
+            },
+            {
+                "text": "<strong>",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is event handling in JavaScript?",
+        "options": [
+            {
+                "text": "A way to handle errors in code",
+                "value": "a"
+            },
+            {
+                "text": "A way to assign functions to be executed when specific events occur",
+                "value": "b"
+            },
+            {
+                "text": "A method for creating new HTML events",
+                "value": "c"
+            },
+            {
+                "text": "A process for managing variable scope",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the correct HTML for creating a hyperlink?",
+        "options": [
+            {
+                "text": "<a url=\"https://www.example.com\">Example</a>",
+                "value": "a"
+            },
+            {
+                "text": "<a href=\"https://www.example.com\">Example</a>",
+                "value": "b"
+            },
+            {
+                "text": "<a>https://www.example.com</a>",
+                "value": "c"
+            },
+            {
+                "text": "<link src=\"https://www.example.com\">Example</link>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which method is used to assign a function to a global event like the page loading?",
+        "options": [
+            {
+                "text": "window.assignEvent()",
+                "value": "a"
+            },
+            {
+                "text": "document.addEventListener()",
+                "value": "b"
+            },
+            {
+                "text": "function.handleEvent()",
+                "value": "c"
+            },
+            {
+                "text": "event.attachListener()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which character is used to indicate an end tag?",
+        "options": [
+            {
+                "text": "^",
+                "value": "a"
+            },
+            {
+                "text": "/",
+                "value": "b"
+            },
+            {
+                "text": "*",
+                "value": "c"
+            },
+            {
+                "text": "<",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does DOM stand for?",
+        "options": [
+            {
+                "text": "Document Object Model",
+                "value": "a"
+            },
+            {
+                "text": "Data Object Model",
+                "value": "b"
+            },
+            {
+                "text": "Digital Output Module",
+                "value": "c"
+            },
+            {
+                "text": "Display Orientation Management",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How can you open a link in a new tab/browser window?",
+        "options": [
+            {
+                "text": "<a href=\"url\" target=\"_new\">",
+                "value": "a"
+            },
+            {
+                "text": "<a href=\"url\" new>",
+                "value": "b"
+            },
+            {
+                "text": "<a href=\"url\" target=\"_blank\">",
+                "value": "c"
+            },
+            {
+                "text": "<a href=\"url\" target=\"new\">",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the root node of the HTML DOM tree?",
+        "options": [
+            {
+                "text": "The <head> element",
+                "value": "a"
+            },
+            {
+                "text": "The <body> element",
+                "value": "b"
+            },
+            {
+                "text": "The <html> element",
+                "value": "c"
+            },
+            {
+                "text": "The document object",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which of these elements are all <table> elements?",
+        "options": [
+            {
+                "text": "<table><head><tfoot>",
+                "value": "a"
+            },
+            {
+                "text": "<table><tr><td>",
+                "value": "b"
+            },
+            {
+                "text": "<table><tr><tt>",
+                "value": "c"
+            },
+            {
+                "text": "<thead><body><tr>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which method is most commonly used to access a specific HTML element in the DOM?",
+        "options": [
+            {
+                "text": "document.querySelector()",
+                "value": "a"
+            },
+            {
+                "text": "document.getElementByTag()",
+                "value": "b"
+            },
+            {
+                "text": "document.getElementById()",
+                "value": "c"
+            },
+            {
+                "text": "document.findElement()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the correct HTML for making a checkbox?",
+        "options": [
+            {
+                "text": "<check>",
+                "value": "a"
+            },
+            {
+                "text": "<input type=\"check\">",
+                "value": "b"
+            },
+            {
+                "text": "<checkbox>",
+                "value": "c"
+            },
+            {
+                "text": "<input type=\"checkbox\">",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What property is used to change the text content inside an HTML element?",
+        "options": [
+            {
+                "text": "textContent",
+                "value": "a"
+            },
+            {
+                "text": "innerText",
+                "value": "b"
+            },
+            {
+                "text": "innerHTML",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the correct HTML for making a text input field?",
+        "options": [
+            {
+                "text": "<input type=\"textfield\">",
+                "value": "a"
+            },
+            {
+                "text": "<textinput type=\"text\">",
+                "value": "b"
+            },
+            {
+                "text": "<input type=\"text\">",
+                "value": "c"
+            },
+            {
+                "text": "<textfield>",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which method is used to create a new HTML element?",
+        "options": [
+            {
+                "text": "document.create()",
+                "value": "a"
+            },
+            {
+                "text": "document.newElement()",
+                "value": "b"
+            },
+            {
+                "text": "document.createElement()",
+                "value": "c"
+            },
+            {
+                "text": "element.build()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the correct HTML for making a drop-down list?",
+        "options": [
+            {
+                "text": "<list>",
+                "value": "a"
+            },
+            {
+                "text": "<input type=\"list\">",
+                "value": "b"
+            },
+            {
+                "text": "<select>",
+                "value": "c"
+            },
+            {
+                "text": "<input type=\"dropdown\">",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is a NodeList?",
+        "options": [
+            {
+                "text": "A JavaScript data type for numbers",
+                "value": "a"
+            },
+            {
+                "text": "An array of functions",
+                "value": "b"
+            },
+            {
+                "text": "An object representing a collection of nodes",
+                "value": "c"
+            },
+            {
+                "text": "A list of error messages",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the correct HTML for making a text area?",
+        "options": [
+            {
+                "text": "<input type=\"textarea\">",
+                "value": "a"
+            },
+            {
+                "text": "<textarea>",
+                "value": "b"
+            },
+            {
+                "text": "<input type=\"textbox\">",
+                "value": "c"
+            },
+            {
+                "text": "<text>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the correct syntax to write 'Hello' into the browser's console?",
+        "options": [
+            {
+                "text": "console.log('Hello');",
+                "value": "a"
+            },
+            {
+                "text": "log.console('Hello');",
+                "value": "b"
+            },
+            {
+                "text": "print('Hello');",
+                "value": "c"
+            },
+            {
+                "text": "browser.log('Hello');",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the correct HTML for inserting an image?",
+        "options": [
+            {
+                "text": "<image src=\"image.gif\" alt=\"MyImage\">",
+                "value": "a"
+            },
+            {
+                "text": "<img href=\"image.gif\" alt=\"MyImage\">",
+                "value": "b"
+            },
+            {
+                "text": "<img src=\"image.gif\" alt=\"MyImage\">",
+                "value": "c"
+            },
+            {
+                "text": "<img alt=\"MyImage\">image.gif</img>",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the correct syntax to display 'Hello' in an alert box?",
+        "options": [
+            {
+                "text": "msg('Hello');",
+                "value": "a"
+            },
+            {
+                "text": "alertBox('Hello');",
+                "value": "b"
+            },
+            {
+                "text": "alert('Hello');",
+                "value": "c"
+            },
+            {
+                "text": "window.alert('Hello');",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the correct HTML for inserting a background image? (Using CSS is better practice)",
+        "options": [
+            {
+                "text": "<body bg=\"background.gif\">",
+                "value": "a"
+            },
+            {
+                "text": "<background img=\"background.gif\">",
+                "value": "b"
+            },
+            {
+                "text": "<body style=\"background-image:url('background.gif')\">",
+                "value": "c"
+            },
+            {
+                "text": "<body background=\"background.gif\">",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What character set does JavaScript use?",
+        "options": [
+            {
+                "text": "ASCII",
+                "value": "a"
+            },
+            {
+                "text": "Unicode",
+                "value": "b"
+            },
+            {
+                "text": "UTF-8",
+                "value": "c"
+            },
+            {
+                "text": "ISO-8859-1",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which HTML element defines the title of a document?",
+        "options": [
+            {
+                "text": "<meta>",
+                "value": "a"
+            },
+            {
+                "text": "<title>",
+                "value": "b"
+            },
+            {
+                "text": "<head>",
+                "value": "c"
+            },
+            {
+                "text": "<document-title>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which naming convention is commonly used for variables in JavaScript?",
+        "options": [
+            {
+                "text": "PascalCase",
+                "value": "a"
+            },
+            {
+                "text": "lower_snake_case",
+                "value": "b"
+            },
+            {
+                "text": "UPPER_SNAKE_CASE",
+                "value": "c"
+            },
+            {
+                "text": "lowerCamelCase",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+        "options": [
+            {
+                "text": "src",
+                "value": "a"
+            },
+            {
+                "text": "alt",
+                "value": "b"
+            },
+            {
+                "text": "title",
+                "value": "c"
+            },
+            {
+                "text": "longdesc",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the main purpose of the prototype property?",
+        "options": [
+            {
+                "text": "To create a backup of an object",
+                "value": "a"
+            },
+            {
+                "text": "To add properties/methods to an object constructor",
+                "value": "b"
+            },
+            {
+                "text": "To define the object's visual representation",
+                "value": "c"
+            },
+            {
+                "text": "To hide the object's internal properties",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the correct HTML element for playing video files?",
+        "options": [
+            {
+                "text": "<media>",
+                "value": "a"
+            },
+            {
+                "text": "<video>",
+                "value": "b"
+            },
+            {
+                "text": "<movie>",
+                "value": "c"
+            },
+            {
+                "text": "<clip>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which global function is used to evaluate a string as JavaScript code?",
+        "options": [
+            {
+                "text": "execute()",
+                "value": "a"
+            },
+            {
+                "text": "run()",
+                "value": "b"
+            },
+            {
+                "text": "eval()",
+                "value": "c"
+            },
+            {
+                "text": "parse()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the correct HTML element for playing audio files?",
+        "options": [
+            {
+                "text": "<music>",
+                "value": "a"
+            },
+            {
+                "text": "<audio>",
+                "value": "b"
+            },
+            {
+                "text": "<sound>",
+                "value": "c"
+            },
+            {
+                "text": "<mp3>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the result of String(null)?",
+        "options": [
+            {
+                "text": "null",
+                "value": "a"
+            },
+            {
+                "text": "\"null\"",
+                "value": "b"
+            },
+            {
+                "text": "0",
+                "value": "c"
+            },
+            {
+                "text": "undefined",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which HTML element is used to specify a header for a document or section?",
+        "options": [
+            {
+                "text": "<head>",
+                "value": "a"
+            },
+            {
+                "text": "<header>",
+                "value": "b"
+            },
+            {
+                "text": "<top>",
+                "value": "c"
+            },
+            {
+                "text": "<section>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the result of Number(undefined)?",
+        "options": [
+            {
+                "text": "0",
+                "value": "a"
+            },
+            {
+                "text": "1",
+                "value": "b"
+            },
+            {
+                "text": "NaN",
+                "value": "c"
+            },
+            {
+                "text": "undefined",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which HTML element is used to specify a footer for a document or section?",
+        "options": [
+            {
+                "text": "<bottom>",
+                "value": "a"
+            },
+            {
+                "text": "<footer>",
+                "value": "b"
+            },
+            {
+                "text": "<foot>",
+                "value": "c"
+            },
+            {
+                "text": "<section>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the result of Boolean([]) (an empty array)?",
+        "options": [
+            {
+                "text": "false",
+                "value": "a"
+            },
+            {
+                "text": "true",
+                "value": "b"
+            },
+            {
+                "text": "0",
+                "value": "c"
+            },
+            {
+                "text": "\"\"",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the correct HTML element for defining important text?",
+        "options": [
+            {
+                "text": "<important>",
+                "value": "a"
+            },
+            {
+                "text": "<b>",
+                "value": "b"
+            },
+            {
+                "text": "<strong>",
+                "value": "c"
+            },
+            {
+                "text": "<i>",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the result of Number([10]) (an array with one number)?",
+        "options": [
+            {
+                "text": "10",
+                "value": "a"
+            },
+            {
+                "text": "[10]",
+                "value": "b"
+            },
+            {
+                "text": "NaN",
+                "value": "c"
+            },
+            {
+                "text": "\"10\"",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    }
+]

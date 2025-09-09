@@ -1,0 +1,2202 @@
+[
+    {
+        "text": "The 'Remote Access' feature enables users to:",
+        "options": [
+            {
+                "text": "Access their company data from anywhere",
+                "value": "a"
+            },
+            {
+                "text": "Control another user's computer",
+                "value": "b"
+            },
+            {
+                "text": "Access the Tally software remotely for free",
+                "value": "c"
+            },
+            {
+                "text": "Shut down the server remotely",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "'Real-time processing' in Tally means that:",
+        "options": [
+            {
+                "text": "Books of accounts are updated immediately after entering a voucher",
+                "value": "a"
+            },
+            {
+                "text": "Tally works in real-time without any delays",
+                "value": "b"
+            },
+            {
+                "text": "You need an internet connection for it to work",
+                "value": "c"
+            },
+            {
+                "text": "Reports are generated at a specific time every day",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which of these is a characteristic of 'Scalability' in Tally?",
+        "options": [
+            {
+                "text": "It adapts to the business's style of operation without requiring changes",
+                "value": "a"
+            },
+            {
+                "text": "It can be scaled to a very large physical size",
+                "value": "b"
+            },
+            {
+                "text": "The software price increases as you use it more",
+                "value": "c"
+            },
+            {
+                "text": "It requires a bigger computer as data grows",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Support Center' allows a user to:",
+        "options": [
+            {
+                "text": "Post functional and technical queries directly",
+                "value": "a"
+            },
+            {
+                "text": "Get immediate on-site support",
+                "value": "b"
+            },
+            {
+                "text": "Center-align text in vouchers",
+                "value": "c"
+            },
+            {
+                "text": "Support other Tally users",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "In the context of accounting, 'Capital' is considered a:",
+        "options": [
+            {
+                "text": "Liability to the business",
+                "value": "a"
+            },
+            {
+                "text": "Asset of the business",
+                "value": "b"
+            },
+            {
+                "text": "Income for the business",
+                "value": "c"
+            },
+            {
+                "text": "Expense of the business",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "'Drawings' refer to:",
+        "options": [
+            {
+                "text": "Money or goods withdrawn by the owner for personal use",
+                "value": "a"
+            },
+            {
+                "text": "Technical drawings of products",
+                "value": "b"
+            },
+            {
+                "text": "Drawings in the accounting books",
+                "value": "c"
+            },
+            {
+                "text": "A type of art expense",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "A 'Cash Discount' is given to:",
+        "options": [
+            {
+                "text": "Encourage early payment of dues",
+                "value": "a"
+            },
+            {
+                "text": "Encourage bulk purchases",
+                "value": "b"
+            },
+            {
+                "text": "Compensate for defective goods",
+                "value": "c"
+            },
+            {
+                "text": "Attract new customers",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Purchase Return' is also known as:",
+        "options": [
+            {
+                "text": "Return Outwards",
+                "value": "a"
+            },
+            {
+                "text": "Return Inwards",
+                "value": "b"
+            },
+            {
+                "text": "Return Back",
+                "value": "c"
+            },
+            {
+                "text": "Goods Return",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which of these is a 'Current Liability'?",
+        "options": [
+            {
+                "text": "Outstanding Salaries",
+                "value": "a"
+            },
+            {
+                "text": "Prepaid Rent",
+                "value": "b"
+            },
+            {
+                "text": "Cash in Hand",
+                "value": "c"
+            },
+            {
+                "text": "Land and Building",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The 'Alt+X' key is used to:",
+        "options": [
+            {
+                "text": "Cancel a voucher",
+                "value": "a"
+            },
+            {
+                "text": "Execute a program",
+                "value": "b"
+            },
+            {
+                "text": "Export data",
+                "value": "c"
+            },
+            {
+                "text": "Extract a report",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "To duplicate a voucher from the list of vouchers, you would use:",
+        "options": [
+            {
+                "text": "Alt+2",
+                "value": "a"
+            },
+            {
+                "text": "Ctrl+D",
+                "value": "b"
+            },
+            {
+                "text": "Alt+D",
+                "value": "c"
+            },
+            {
+                "text": "F4",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Ctrl+U' key combination is used to:",
+        "options": [
+            {
+                "text": "Retrieve all lines removed from a report using Alt+R",
+                "value": "a"
+            },
+            {
+                "text": "Undo the last action",
+                "value": "b"
+            },
+            {
+                "text": "Update all prices",
+                "value": "c"
+            },
+            {
+                "text": "Unlock a locked period",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "In a Sales Voucher, the 'Debit' account is typically:",
+        "options": [
+            {
+                "text": "The Customer's (Debtor's) Account",
+                "value": "a"
+            },
+            {
+                "text": "Cash or Bank Account",
+                "value": "b"
+            },
+            {
+                "text": "Sales Account",
+                "value": "c"
+            },
+            {
+                "text": "Purchase Account",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The 'State Bank of India' ledger should be created under which group?",
+        "options": [
+            {
+                "text": "Bank Accounts",
+                "value": "a"
+            },
+            {
+                "text": "Current Assets",
+                "value": "b"
+            },
+            {
+                "text": "Sundry Debtors",
+                "value": "c"
+            },
+            {
+                "text": "Investments",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "A 'Conveyance' expense ledger should be created under which group?",
+        "options": [
+            {
+                "text": "Indirect Expenses",
+                "value": "a"
+            },
+            {
+                "text": "Direct Expenses",
+                "value": "b"
+            },
+            {
+                "text": "Current Assets",
+                "value": "c"
+            },
+            {
+                "text": "Miscellaneous Expenses",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "'Rent Received' is classified as a(n):",
+        "options": [
+            {
+                "text": "Indirect Income",
+                "value": "a"
+            },
+            {
+                "text": "Direct Income",
+                "value": "b"
+            },
+            {
+                "text": "Asset",
+                "value": "c"
+            },
+            {
+                "text": "Liability",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The main difference between 'Local Purchases' and 'Local Sales' ledgers is their grouping under:",
+        "options": [
+            {
+                "text": "Purchase Account and Sales Account respectively",
+                "value": "a"
+            },
+            {
+                "text": "Direct Expenses and Direct Income",
+                "value": "b"
+            },
+            {
+                "text": "Current Liabilities and Current Assets",
+                "value": "c"
+            },
+            {
+                "text": "Indirect Expenses and Indirect Income",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "When creating a 'Mouse' stock item, which Stock Group would it most likely belong to?",
+        "options": [
+            {
+                "text": "Computer Parts",
+                "value": "a"
+            },
+            {
+                "text": "New Computer",
+                "value": "b"
+            },
+            {
+                "text": "Operating Systems",
+                "value": "c"
+            },
+            {
+                "text": "Applications",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The unit 'Pkg.' for a stock item like 'Windows XP OS' would be created as a:",
+        "options": [
+            {
+                "text": "Simple Unit",
+                "value": "a"
+            },
+            {
+                "text": "Compound Unit",
+                "value": "b"
+            },
+            {
+                "text": "Complex Unit",
+                "value": "c"
+            },
+            {
+                "text": "Package Unit",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "To view the list of all stock items, you would go to:",
+        "options": [
+            {
+                "text": "Inventory Info > Stock Items",
+                "value": "a"
+            },
+            {
+                "text": "Accounts Info > Ledgers",
+                "value": "b"
+            },
+            {
+                "text": "Display > Stock Summary",
+                "value": "c"
+            },
+            {
+                "text": "Inventory Info > Stock Groups",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Alt+F12' key is used to:",
+        "options": [
+            {
+                "text": "Apply filters and specify a range for reports",
+                "value": "a"
+            },
+            {
+                "text": "Access the final accounts",
+                "value": "b"
+            },
+            {
+                "text": "Open the configuration for filters",
+                "value": "c"
+            },
+            {
+                "text": "Shut down Tally",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the first screen you see after starting Tally.ERP 9?",
+        "options": [
+            {
+                "text": "Gateway of Tally",
+                "value": "a"
+            },
+            {
+                "text": "Company Info Menu",
+                "value": "b"
+            },
+            {
+                "text": "Login Screen",
+                "value": "c"
+            },
+            {
+                "text": "Select Company Screen",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Button Bar' in Tally is located on the:",
+        "options": [
+            {
+                "text": "Right-hand side of the screen",
+                "value": "a"
+            },
+            {
+                "text": "Top of the screen",
+                "value": "b"
+            },
+            {
+                "text": "Left-hand side of the screen",
+                "value": "c"
+            },
+            {
+                "text": "Bottom of the screen",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Calculator Area' in the Gateway of Tally screen is activated by pressing:",
+        "options": [
+            {
+                "text": "Ctrl+N",
+                "value": "a"
+            },
+            {
+                "text": "Ctrl+M",
+                "value": "b"
+            },
+            {
+                "text": "Alt+N",
+                "value": "c"
+            },
+            {
+                "text": "F12",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which key is used to 'Accept' a form or a voucher you are creating?",
+        "options": [
+            {
+                "text": "Enter",
+                "value": "a"
+            },
+            {
+                "text": "Spacebar",
+                "value": "b"
+            },
+            {
+                "text": "Ctrl+A",
+                "value": "c"
+            },
+            {
+                "text": "F1",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The 'Esc' key is generally used to:",
+        "options": [
+            {
+                "text": "Exit a screen or remove typed text",
+                "value": "a"
+            },
+            {
+                "text": "Escape from Tally",
+                "value": "b"
+            },
+            {
+                "text": "Execute a command",
+                "value": "c"
+            },
+            {
+                "text": "Edit a selected field",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "To get a 'List of Accounts' you would go to:",
+        "options": [
+            {
+                "text": "Display > List of Accounts",
+                "value": "a"
+            },
+            {
+                "text": "Accounts Info > Ledgers",
+                "value": "b"
+            },
+            {
+                "text": "Display > Trial Balance",
+                "value": "c"
+            },
+            {
+                "text": "Accounts Info > Groups",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Statements of Accounts' menu includes reports like:",
+        "options": [
+            {
+                "text": "Cash Flow and Funds Flow",
+                "value": "a"
+            },
+            {
+                "text": "Sales Register and Purchase Register",
+                "value": "b"
+            },
+            {
+                "text": "Stock Summary and Godown Summary",
+                "value": "c"
+            },
+            {
+                "text": "Balance Sheet and Profit & Loss",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Inventory Books' menu includes reports like:",
+        "options": [
+            {
+                "text": "Purchase Register and Sales Register (for inventory)",
+                "value": "a"
+            },
+            {
+                "text": "Journal Register and Cash Book",
+                "value": "b"
+            },
+            {
+                "text": "Trial Balance and Balance Sheet",
+                "value": "c"
+            },
+            {
+                "text": "Group Summary and Ledger Summary",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The primary objective of the 'Basic Level' Tally course is to teach:",
+        "options": [
+            {
+                "text": "Fundamentals of accounting and basic operations in Tally",
+                "value": "a"
+            },
+            {
+                "text": "Advanced programming in Tally",
+                "value": "b"
+            },
+            {
+                "text": "Network administration for Tally",
+                "value": "c"
+            },
+            {
+                "text": "How to design complex reports",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the default 'Financial Year' format when creating a new company in Tally?",
+        "options": [
+            {
+                "text": "1-Apr-2023 to 31-Mar-2024",
+                "value": "a"
+            },
+            {
+                "text": "1-Jan-2023 to 31-Dec-2023",
+                "value": "b"
+            },
+            {
+                "text": "1-Apr-2023 to 31-Dec-2023",
+                "value": "c"
+            },
+            {
+                "text": "It asks the user to define it",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which option must be set to 'Yes' to enable inventory features in a company?",
+        "options": [
+            {
+                "text": "Maintain Accounts & Inventory",
+                "value": "a"
+            },
+            {
+                "text": "Enable GST",
+                "value": "b"
+            },
+            {
+                "text": "Enable TDS",
+                "value": "c"
+            },
+            {
+                "text": "Maintain Accounts only",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Base Currency' for a company in India is typically:",
+        "options": [
+            {
+                "text": "Indian Rupee (₹)",
+                "value": "a"
+            },
+            {
+                "text": "US Dollar ($)",
+                "value": "b"
+            },
+            {
+                "text": "Euro (€)",
+                "value": "c"
+            },
+            {
+                "text": "There is no base currency",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is NOT a field in the company creation screen?",
+        "options": [
+            {
+                "text": "Company Logo",
+                "value": "a"
+            },
+            {
+                "text": "Mailing Details",
+                "value": "b"
+            },
+            {
+                "text": "Financial Year From",
+                "value": "c"
+            },
+            {
+                "text": "Books Beginning From",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What does the 'Books Beginning From' date signify?",
+        "options": [
+            {
+                "text": "The date from which you start recording transactions",
+                "value": "a"
+            },
+            {
+                "text": "The date the company was incorporated",
+                "value": "b"
+            },
+            {
+                "text": "The start date of the financial year",
+                "value": "c"
+            },
+            {
+                "text": "The date Tally was installed",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'TallyVault' password is used to:",
+        "options": [
+            {
+                "text": "Encrypt the company data file",
+                "value": "a"
+            },
+            {
+                "text": "Log into the Tally software",
+                "value": "b"
+            },
+            {
+                "text": "Access the Tally.NET services",
+                "value": "c"
+            },
+            {
+                "text": "Prevent alteration of data",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "To change the company name or other details after creation, you use:",
+        "options": [
+            {
+                "text": "Company Info > Alter",
+                "value": "a"
+            },
+            {
+                "text": "Company Info > Create",
+                "value": "b"
+            },
+            {
+                "text": "F12: Configure",
+                "value": "c"
+            },
+            {
+                "text": "F11: Features",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which security level allows a user to view reports but not create or alter vouchers?",
+        "options": [
+            {
+                "text": "Guest",
+                "value": "a"
+            },
+            {
+                "text": "Data Entry",
+                "value": "b"
+            },
+            {
+                "text": "Administrator",
+                "value": "c"
+            },
+            {
+                "text": "Accountant",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'F3' key on the Gateway of Tally screen is used to:",
+        "options": [
+            {
+                "text": "Select a different Company",
+                "value": "a"
+            },
+            {
+                "text": "Change the period",
+                "value": "b"
+            },
+            {
+                "text": "Shut the current company",
+                "value": "c"
+            },
+            {
+                "text": "Create a company",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "A company can be deleted from Tally only if:",
+        "options": [
+            {
+                "text": "It has no transactions entered",
+                "value": "a"
+            },
+            {
+                "text": "It is at least one year old",
+                "value": "b"
+            },
+            {
+                "text": "You have the administrator password",
+                "value": "c"
+            },
+            {
+                "text": "You restart Tally first",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which sub-group under 'Current Assets' would you use for 'Prepaid Insurance'?",
+        "options": [
+            {
+                "text": "Loans & Advances (Asset)",
+                "value": "a"
+            },
+            {
+                "text": "Stock-in-Hand",
+                "value": "b"
+            },
+            {
+                "text": "Bank Accounts",
+                "value": "c"
+            },
+            {
+                "text": "Sundry Debtors",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Where would you classify 'Security Deposit given to Landlord'?",
+        "options": [
+            {
+                "text": "Deposits (Asset)",
+                "value": "a"
+            },
+            {
+                "text": "Loans & Advances (Asset)",
+                "value": "b"
+            },
+            {
+                "text": "Fixed Assets",
+                "value": "c"
+            },
+            {
+                "text": "Current Liabilities",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Bank OCC Account' is a sub-group of:",
+        "options": [
+            {
+                "text": "Loans (Liability)",
+                "value": "a"
+            },
+            {
+                "text": "Bank Accounts",
+                "value": "b"
+            },
+            {
+                "text": "Current Assets",
+                "value": "c"
+            },
+            {
+                "text": "Current Liabilities",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "'Provision for Doubtful Debts' is created under which group?",
+        "options": [
+            {
+                "text": "Provisions",
+                "value": "a"
+            },
+            {
+                "text": "Reserves & Surplus",
+                "value": "b"
+            },
+            {
+                "text": "Direct Expenses",
+                "value": "c"
+            },
+            {
+                "text": "Indirect Expenses",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which group is appropriate for 'Unsecured Loan from Friends'?",
+        "options": [
+            {
+                "text": "Unsecured Loans",
+                "value": "a"
+            },
+            {
+                "text": "Secured Loans",
+                "value": "b"
+            },
+            {
+                "text": "Current Liabilities",
+                "value": "c"
+            },
+            {
+                "text": "Capital Account",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "A 'Commission Paid' to a sales agent would be classified as a:",
+        "options": [
+            {
+                "text": "Direct Expense",
+                "value": "a"
+            },
+            {
+                "text": "Indirect Expense",
+                "value": "b"
+            },
+            {
+                "text": "Current Asset",
+                "value": "c"
+            },
+            {
+                "text": "Current Liability",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "'Discount Allowed' to customers is classified as a:",
+        "options": [
+            {
+                "text": "Indirect Expense",
+                "value": "a"
+            },
+            {
+                "text": "Direct Expense",
+                "value": "b"
+            },
+            {
+                "text": "Indirect Income",
+                "value": "c"
+            },
+            {
+                "text": "Direct Income",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Where would you create a ledger for 'GST Paid on Purchases'?",
+        "options": [
+            {
+                "text": "Duties and Taxes",
+                "value": "a"
+            },
+            {
+                "text": "Direct Expenses",
+                "value": "b"
+            },
+            {
+                "text": "Current Assets",
+                "value": "c"
+            },
+            {
+                "text": "Current Liabilities",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Branch/Divisions' group is used for:",
+        "options": [
+            {
+                "text": "Accounting for transactions between different locations of the same business",
+                "value": "a"
+            },
+            {
+                "text": "Grouping all expense accounts of a branch",
+                "value": "b"
+            },
+            {
+                "text": "Grouping all income accounts of a division",
+                "value": "c"
+            },
+            {
+                "text": "Creating separate companies for branches",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "When creating a ledger, what is the 'Inventory values are affected' option used for?",
+        "options": [
+            {
+                "text": "For ledgers that impact stock value, like Purchase and Sales",
+                "value": "a"
+            },
+            {
+                "text": "For all asset ledgers",
+                "value": "b"
+            },
+            {
+                "text": "For all liability ledgers",
+                "value": "c"
+            },
+            {
+                "text": "It must be set to 'Yes' for all ledgers",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the mandatory field to create a ledger?",
+        "options": [
+            {
+                "text": "Name and Under (Group)",
+                "value": "a"
+            },
+            {
+                "text": "Opening Balance",
+                "value": "b"
+            },
+            {
+                "text": "Mailing Details",
+                "value": "c"
+            },
+            {
+                "text": "Cost Center",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "A negative opening balance for a 'Sundry Debtor' ledger should be entered as:",
+        "options": [
+            {
+                "text": "Credit balance",
+                "value": "a"
+            },
+            {
+                "text": "Debit balance",
+                "value": "b"
+            },
+            {
+                "text": "It cannot be negative",
+                "value": "c"
+            },
+            {
+                "text": "Zero balance",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Maintain balances bill-by-bill' option is useful for:",
+        "options": [
+            {
+                "text": "Sundry Debtors and Sundry Creditors for aging analysis",
+                "value": "a"
+            },
+            {
+                "text": "All ledgers for better reporting",
+                "value": "b"
+            },
+            {
+                "text": "Cash and Bank accounts",
+                "value": "c"
+            },
+            {
+                "text": "Fixed Assets ledgers",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which voucher type is used to record the opening stock balance?",
+        "options": [
+            {
+                "text": "Journal Voucher (F7)",
+                "value": "a"
+            },
+            {
+                "text": "Purchase Voucher (F9)",
+                "value": "b"
+            },
+            {
+                "text": "Stock Journal (Alt+F7)",
+                "value": "c"
+            },
+            {
+                "text": "Receipt Voucher (F6)",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "To record a bad debt written off, you would use a:",
+        "options": [
+            {
+                "text": "Journal Voucher",
+                "value": "a"
+            },
+            {
+                "text": "Payment Voucher",
+                "value": "b"
+            },
+            {
+                "text": "Receipt Voucher",
+                "value": "c"
+            },
+            {
+                "text": "Credit Note",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Credit Period' field in a ledger is used for:",
+        "options": [
+            {
+                "text": "Sundry Debtors/Creditors to track payment due dates",
+                "value": "a"
+            },
+            {
+                "text": "Bank accounts to calculate interest",
+                "value": "b"
+            },
+            {
+                "text": "Loan accounts to calculate EMI",
+                "value": "c"
+            },
+            {
+                "text": "All ledgers for reporting",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What does the 'Is the ledger a Bank Account?' option do?",
+        "options": [
+            {
+                "text": "Enables cheque printing and reconciliation features",
+                "value": "a"
+            },
+            {
+                "text": "Links the ledger to an actual bank",
+                "value": "b"
+            },
+            {
+                "text": "Prevents deletion of the ledger",
+                "value": "c"
+            },
+            {
+                "text": "Allows online banking from Tally",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The 'Cost Centers are applicable' option is used for:",
+        "options": [
+            {
+                "text": "Departmental or project-wise accounting",
+                "value": "a"
+            },
+            {
+                "text": "Calculating product costs",
+                "value": "b"
+            },
+            {
+                "text": "Tracking employee costs",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which key is used to add a new line in a multi-line voucher?",
+        "options": [
+            {
+                "text": "Ctrl+A",
+                "value": "a"
+            },
+            {
+                "text": "Enter",
+                "value": "b"
+            },
+            {
+                "text": "Tab",
+                "value": "c"
+            },
+            {
+                "text": "Insert",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "In a Payment Voucher, what is the default 'Credit' account?",
+        "options": [
+            {
+                "text": "Cash",
+                "value": "a"
+            },
+            {
+                "text": "The first ledger you select",
+                "value": "b"
+            },
+            {
+                "text": "There is no default",
+                "value": "c"
+            },
+            {
+                "text": "Bank",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Use Cr/Dr instead of To/By' option in vouchers is changed in:",
+        "options": [
+            {
+                "text": "F12: Voucher Configuration",
+                "value": "a"
+            },
+            {
+                "text": "F11: Company Features",
+                "value": "b"
+            },
+            {
+                "text": "F1: Select Company",
+                "value": "c"
+            },
+            {
+                "text": "Alt+F12: Reporting Configuration",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "To change the voucher date from the default (today's date), you press:",
+        "options": [
+            {
+                "text": "F2",
+                "value": "a"
+            },
+            {
+                "text": "F1",
+                "value": "b"
+            },
+            {
+                "text": "Ctrl+D",
+                "value": "c"
+            },
+            {
+                "text": "Alt+D",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Optional' button (Ctrl+L) in a voucher is used to:",
+        "options": [
+            {
+                "text": "Mark a voucher as optional for later review",
+                "value": "a"
+            },
+            {
+                "text": "Make the voucher number optional",
+                "value": "b"
+            },
+            {
+                "text": "Skip mandatory fields",
+                "value": "c"
+            },
+            {
+                "text": "Lock the voucher from alteration",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does 'Narrations for each entry' in voucher configuration do?",
+        "options": [
+            {
+                "text": "Allows a separate narration for each line in a voucher",
+                "value": "a"
+            },
+            {
+                "text": "Forces the user to enter a narration",
+                "value": "b"
+            },
+            {
+                "text": "Copies the narration to all lines",
+                "value": "c"
+            },
+            {
+                "text": "Hides the narration field",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Post Dated' checkbox in a voucher is used for:",
+        "options": [
+            {
+                "text": "Cheques dated for a future date",
+                "value": "a"
+            },
+            {
+                "text": "Vouchers entered after the date",
+                "value": "b"
+            },
+            {
+                "text": "Back-dated vouchers",
+                "value": "c"
+            },
+            {
+                "text": "All vouchers",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "To view only the vouchers of a specific type in the Day Book, you use:",
+        "options": [
+            {
+                "text": "Alt+F2: Filter",
+                "value": "a"
+            },
+            {
+                "text": "F12: Configure",
+                "value": "b"
+            },
+            {
+                "text": "Alt+F12: Range",
+                "value": "c"
+            },
+            {
+                "text": "F2: Date",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Group Summary' report shows:",
+        "options": [
+            {
+                "text": "The total balance of all ledgers under each group",
+                "value": "a"
+            },
+            {
+                "text": "The list of all groups",
+                "value": "b"
+            },
+            {
+                "text": "The list of all vouchers in a group",
+                "value": "c"
+            },
+            {
+                "text": "The profit of each group",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "In the Balance Sheet, the 'Net Profit' from the Profit & Loss account is added to:",
+        "options": [
+            {
+                "text": "Capital Account",
+                "value": "a"
+            },
+            {
+                "text": "Current Assets",
+                "value": "b"
+            },
+            {
+                "text": "Investments",
+                "value": "c"
+            },
+            {
+                "text": "Loans",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Cash Flow Statement' is available under:",
+        "options": [
+            {
+                "text": "Display > Statements of Accounts",
+                "value": "a"
+            },
+            {
+                "text": "Display > Account Books",
+                "value": "b"
+            },
+            {
+                "text": "Display > Inventory Books",
+                "value": "c"
+            },
+            {
+                "text": "Display > Trial Balance",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does a negative amount in brackets ( ) indicate in Tally reports?",
+        "options": [
+            {
+                "text": "A credit balance",
+                "value": "a"
+            },
+            {
+                "text": "A debit balance",
+                "value": "b"
+            },
+            {
+                "text": "An error in data entry",
+                "value": "c"
+            },
+            {
+                "text": "A cancelled voucher",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Alt+P' key from a report screen leads to:",
+        "options": [
+            {
+                "text": "Print Preview",
+                "value": "a"
+            },
+            {
+                "text": "Print directly",
+                "value": "b"
+            },
+            {
+                "text": "Page Setup",
+                "value": "c"
+            },
+            {
+                "text": "PDF creation",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "To export a report to Excel, you use which option in the button bar?",
+        "options": [
+            {
+                "text": "Export",
+                "value": "a"
+            },
+            {
+                "text": "Print",
+                "value": "b"
+            },
+            {
+                "text": "E-mail",
+                "value": "c"
+            },
+            {
+                "text": "Upload",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Period' for reports can be changed using:",
+        "options": [
+            {
+                "text": "F2",
+                "value": "a"
+            },
+            {
+                "text": "F1",
+                "value": "b"
+            },
+            {
+                "text": "Alt+F2",
+                "value": "c"
+            },
+            {
+                "text": "Ctrl+P",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which configuration (F12) option allows you to see the actual voucher from a report?",
+        "options": [
+            {
+                "text": "Show Voucher Type and Number",
+                "value": "a"
+            },
+            {
+                "text": "Show Narration",
+                "value": "b"
+            },
+            {
+                "text": "Show Amount in Words",
+                "value": "c"
+            },
+            {
+                "text": "Show Grid",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Stock Query' report is useful for:",
+        "options": [
+            {
+                "text": "Checking the current stock status of an item",
+                "value": "a"
+            },
+            {
+                "text": "Querying the price of an item",
+                "value": "b"
+            },
+            {
+                "text": "Asking questions about stock",
+                "value": "c"
+            },
+            {
+                "text": "Checking the stock market",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Movement Analysis' report shows:",
+        "options": [
+            {
+                "text": "The inflow and outflow of a stock item over a period",
+                "value": "a"
+            },
+            {
+                "text": "The physical movement of goods",
+                "value": "b"
+            },
+            {
+                "text": "The speed of data entry",
+                "value": "c"
+            },
+            {
+                "text": "The profit margin on items",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "To check the profitability of individual stock items, you would enable:",
+        "options": [
+            {
+                "text": "Track additional costs of purchase in F11: Features",
+                "value": "a"
+            },
+            {
+                "text": "Maintain cost centers",
+                "value": "b"
+            },
+            {
+                "text": "Maintain batches",
+                "value": "c"
+            },
+            {
+                "text": "Use godowns",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The 'Ageing Analysis' report for Debtors is available from:",
+        "options": [
+            {
+                "text": "The specific Debtor's ledger",
+                "value": "a"
+            },
+            {
+                "text": "The Balance Sheet",
+                "value": "b"
+            },
+            {
+                "text": "The Stock Summary",
+                "value": "c"
+            },
+            {
+                "text": "The Group Summary for Current Assets",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Alt+F5' key in the Sales Register shows data on a:",
+        "options": [
+            {
+                "text": "Quarterly basis",
+                "value": "a"
+            },
+            {
+                "text": "Monthly basis",
+                "value": "b"
+            },
+            {
+                "text": "Weekly basis",
+                "value": "c"
+            },
+            {
+                "text": "Daily basis",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Exception Reports' are designed to show:",
+        "options": [
+            {
+                "text": "Data that falls outside normal parameters (e.g., high-value transactions)",
+                "value": "a"
+            },
+            {
+                "text": "Errors in data entry",
+                "value": "b"
+            },
+            {
+                "text": "Reports that could not be generated",
+                "value": "c"
+            },
+            {
+                "text": "Exceptional profit figures",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Chart of Accounts' is essentially a:",
+        "options": [
+            {
+                "text": "List of all Groups and Ledgers",
+                "value": "a"
+            },
+            {
+                "text": "Graphical chart of income",
+                "value": "b"
+            },
+            {
+                "text": "Pie chart of expenses",
+                "value": "c"
+            },
+            {
+                "text": "List of vouchers",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the final step in the accounting cycle within Tally?",
+        "options": [
+            {
+                "text": "Generating the Final Accounts (Balance Sheet and P&L)",
+                "value": "a"
+            },
+            {
+                "text": "Entering all vouchers",
+                "value": "b"
+            },
+            {
+                "text": "Creating ledgers",
+                "value": "c"
+            },
+            {
+                "text": "Backing up data",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Backup' function is used to:",
+        "options": [
+            {
+                "text": "Create a compressed copy of company data for safekeeping",
+                "value": "a"
+            },
+            {
+                "text": "Restore lost data",
+                "value": "b"
+            },
+            {
+                "text": "Copy vouchers to another company",
+                "value": "c"
+            },
+            {
+                "text": "Update the Tally software",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Restore' function is used to:",
+        "options": [
+            {
+                "text": "Retrieve a company from a backup file",
+                "value": "a"
+            },
+            {
+                "text": "Undo the last voucher entry",
+                "value": "b"
+            },
+            {
+                "text": "Reset Tally to default settings",
+                "value": "c"
+            },
+            {
+                "text": "Restore a deleted ledger",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Split Company Data' utility is used when:",
+        "options": [
+            {
+                "text": "You want to work with data from a specific period only",
+                "value": "a"
+            },
+            {
+                "text": "The data file becomes too large",
+                "value": "b"
+            },
+            {
+                "text": "You want to create a new company",
+                "value": "c"
+            },
+            {
+                "text": "Tally is running slow",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the file extension of a Tally company data file?",
+        "options": [
+            {
+                "text": ".900",
+                "value": "a"
+            },
+            {
+                "text": ".TAL",
+                "value": "b"
+            },
+            {
+                "text": ".DAT",
+                "value": "c"
+            },
+            {
+                "text": ".ERP",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Ctrl+M' key is used to:",
+        "options": [
+            {
+                "text": "Go to the Gateway of Tally (Main Area)",
+                "value": "a"
+            },
+            {
+                "text": "Minimize Tally",
+                "value": "b"
+            },
+            {
+                "text": "Maximize the window",
+                "value": "c"
+            },
+            {
+                "text": "Create a new company",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Alt+F2' key is used to:",
+        "options": [
+            {
+                "text": "Change the period for detailed reports",
+                "value": "a"
+            },
+            {
+                "text": "Filter data in a report",
+                "value": "b"
+            },
+            {
+                "text": "Create a duplicate voucher",
+                "value": "c"
+            },
+            {
+                "text": "Access the company features",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'F10' key is used to select:",
+        "options": [
+            {
+                "text": "Memo Voucher",
+                "value": "a"
+            },
+            {
+                "text": "Sales Voucher",
+                "value": "b"
+            },
+            {
+                "text": "Purchase Voucher",
+                "value": "c"
+            },
+            {
+                "text": "Journal Voucher",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "A 'Memo Voucher' is used for:",
+        "options": [
+            {
+                "text": "Recording a provisional or non-accounting entry",
+                "value": "a"
+            },
+            {
+                "text": "Writing memos to staff",
+                "value": "b"
+            },
+            {
+                "text": "Recording memory usage",
+                "value": "c"
+            },
+            {
+                "text": "Taking quick notes",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Reversing Journal' voucher is used to:",
+        "options": [
+            {
+                "text": "Create a reverse entry in the next period",
+                "value": "a"
+            },
+            {
+                "text": "Cancel a wrong entry",
+                "value": "b"
+            },
+            {
+                "text": "Reverse the debit and credit of a voucher",
+                "value": "c"
+            },
+            {
+                "text": "Journalize reversing entries",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Optional Voucher' can be identified by which symbol in reports?",
+        "options": [
+            {
+                "text": "? (Question Mark)",
+                "value": "a"
+            },
+            {
+                "text": "! (Exclamation Mark)",
+                "value": "b"
+            },
+            {
+                "text": "* (Asterisk)",
+                "value": "c"
+            },
+            {
+                "text": "# (Hash)",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Post-Dated Voucher' can be identified by which symbol?",
+        "options": [
+            {
+                "text": "> (Greater Than sign)",
+                "value": "a"
+            },
+            {
+                "text": "< (Less Than sign)",
+                "value": "b"
+            },
+            {
+                "text": "PD",
+                "value": "c"
+            },
+            {
+                "text": "*P",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The main purpose of the 'Ratio Analysis' report is to:",
+        "options": [
+            {
+                "text": "Analyze the financial health and performance of the business",
+                "value": "a"
+            },
+            {
+                "text": "Calculate the ratio of debtors to creditors",
+                "value": "b"
+            },
+            {
+                "text": "Find the ratio of assets to liabilities",
+                "value": "c"
+            },
+            {
+                "text": "Determine the profit ratio",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Budget' feature in Tally is used to:",
+        "options": [
+            {
+                "text": "Set targets for income and expenditure and compare with actuals",
+                "value": "a"
+            },
+            {
+                "text": "Plan the company's annual budget",
+                "value": "b"
+            },
+            {
+                "text": "Limit user spending",
+                "value": "c"
+            },
+            {
+                "text": "Control voucher entry",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Scenario' feature is useful for:",
+        "options": [
+            {
+                "text": "Creating and comparing projected financial situations",
+                "value": "a"
+            },
+            {
+                "text": "Managing different business scenarios",
+                "value": "b"
+            },
+            {
+                "text": "Writing scripts for Tally",
+                "value": "c"
+            },
+            {
+                "text": "Creating user scenarios",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The primary goal of learning Tally at the Basic Level is to be able to:",
+        "options": [
+            {
+                "text": "Perform complete accounting and inventory recording for a small business",
+                "value": "a"
+            },
+            {
+                "text": "Become a Tally programmer",
+                "value": "b"
+            },
+            {
+                "text": "Handle advanced taxation",
+                "value": "c"
+            },
+            {
+                "text": "Administer Tally on a network",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the primary purpose of the 'Tally Audit' feature?",
+        "options": [
+            {
+                "text": "To track changes made to transactions after they are entered",
+                "value": "a"
+            },
+            {
+                "text": "To conduct a financial audit of the company",
+                "value": "b"
+            },
+            {
+                "text": "To audit the Tally software for errors",
+                "value": "c"
+            },
+            {
+                "text": "To generate audit reports for the tax department",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Zero-valued entries' option in voucher entry is useful for:",
+        "options": [
+            {
+                "text": "Recording memos or reminders with no financial impact",
+                "value": "a"
+            },
+            {
+                "text": "Correcting vouchers that have a zero balance",
+                "value": "b"
+            },
+            {
+                "text": "Creating placeholder vouchers for future use",
+                "value": "c"
+            },
+            {
+                "text": "Starting a new financial year with zero balances",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which Tally feature allows you to generate a report showing all transactions where a specific narration was used?",
+        "options": [
+            {
+                "text": "Word Search in Display > Exception Reports",
+                "value": "a"
+            },
+            {
+                "text": "Filter by Date in Day Book",
+                "value": "b"
+            },
+            {
+                "text": "Find option in Gateway of Tally",
+                "value": "c"
+            },
+            {
+                "text": "Drill down from Balance Sheet",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    }
+]

@@ -1,0 +1,2202 @@
+[
+    {
+        "text": "What is the primary purpose of list comprehension in Python?",
+        "options": [
+            {
+                "text": "To make lists immutable",
+                "value": "a"
+            },
+            {
+                "text": "To create new lists in a concise and readable way",
+                "value": "b"
+            },
+            {
+                "text": "To sort lists automatically",
+                "value": "c"
+            },
+            {
+                "text": "To delete elements from a list",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of the following is a correct example of list comprehension?",
+        "options": [
+            {
+                "text": "[x for x in range(5)]",
+                "value": "a"
+            },
+            {
+                "text": "{x for x in range(5)}",
+                "value": "b"
+            },
+            {
+                "text": "(x for x in range(5))",
+                "value": "c"
+            },
+            {
+                "text": "x in range(5) for x",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is a generator expression?",
+        "options": [
+            {
+                "text": "A function that generates errors",
+                "value": "a"
+            },
+            {
+                "text": "A concise way to create a generator object, similar to list comprehension but with parentheses",
+                "value": "b"
+            },
+            {
+                "text": "A statement that generates new code",
+                "value": "c"
+            },
+            {
+                "text": "A type of for loop",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "How is a generator expression defined?",
+        "options": [
+            {
+                "text": "With square brackets: [ ]",
+                "value": "a"
+            },
+            {
+                "text": "With curly braces: { }",
+                "value": "b"
+            },
+            {
+                "text": "With parentheses: ( )",
+                "value": "c"
+            },
+            {
+                "text": "With angle brackets: < >",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the key difference between a list comprehension and a generator expression?",
+        "options": [
+            {
+                "text": "List comprehensions are faster.",
+                "value": "a"
+            },
+            {
+                "text": "Generator expressions are stored in memory, list comprehensions are not.",
+                "value": "b"
+            },
+            {
+                "text": "List comprehensions are stored in memory, generator expressions are not.",
+                "value": "c"
+            },
+            {
+                "text": "There is no difference.",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What does the 'yield' keyword do in a function?",
+        "options": [
+            {
+                "text": "It returns a value and terminates the function.",
+                "value": "a"
+            },
+            {
+                "text": "It returns a value and pauses the function's state for later resumption, creating a generator.",
+                "value": "b"
+            },
+            {
+                "text": "It is a synonym for 'return'.",
+                "value": "c"
+            },
+            {
+                "text": "It raises an exception.",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is created when a function contains a 'yield' statement?",
+        "options": [
+            {
+                "text": "A list",
+                "value": "a"
+            },
+            {
+                "text": "A generator object",
+                "value": "b"
+            },
+            {
+                "text": "A normal function",
+                "value": "c"
+            },
+            {
+                "text": "An error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the main advantage of using a generator?",
+        "options": [
+            {
+                "text": "It makes code run faster in all cases.",
+                "value": "a"
+            },
+            {
+                "text": "It is more memory-efficient for large sequences of data.",
+                "value": "b"
+            },
+            {
+                "text": "It is easier to write than a loop.",
+                "value": "c"
+            },
+            {
+                "text": "It automatically handles errors.",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which module provides support for working with regular expressions?",
+        "options": [
+            {
+                "text": "regex",
+                "value": "a"
+            },
+            {
+                "text": "re",
+                "value": "b"
+            },
+            {
+                "text": "string",
+                "value": "c"
+            },
+            {
+                "text": "text",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is a regular expression?",
+        "options": [
+            {
+                "text": "A sequence of characters that defines a search pattern",
+                "value": "a"
+            },
+            {
+                "text": "A normal Python string",
+                "value": "b"
+            },
+            {
+                "text": "A function for formatting text",
+                "value": "c"
+            },
+            {
+                "text": "A type of exception",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which 're' function finds all occurrences of a pattern in a string?",
+        "options": [
+            {
+                "text": "re.find()",
+                "value": "a"
+            },
+            {
+                "text": "re.findall()",
+                "value": "b"
+            },
+            {
+                "text": "re.search()",
+                "value": "c"
+            },
+            {
+                "text": "re.match()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which 're' function searches for a pattern anywhere in the string?",
+        "options": [
+            {
+                "text": "re.find()",
+                "value": "a"
+            },
+            {
+                "text": "re.findall()",
+                "value": "b"
+            },
+            {
+                "text": "re.search()",
+                "value": "c"
+            },
+            {
+                "text": "re.match()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which 're' function checks for a match only at the beginning of the string?",
+        "options": [
+            {
+                "text": "re.find()",
+                "value": "a"
+            },
+            {
+                "text": "re.findall()",
+                "value": "b"
+            },
+            {
+                "text": "re.search()",
+                "value": "c"
+            },
+            {
+                "text": "re.match()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the 'json' module?",
+        "options": [
+            {
+                "text": "To style text in the console",
+                "value": "a"
+            },
+            {
+                "text": "To work with JavaScript Object Notation (JSON) data",
+                "value": "b"
+            },
+            {
+                "text": "To create graphical user interfaces",
+                "value": "c"
+            },
+            {
+                "text": "To handle network requests",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to convert a Python object into a JSON string?",
+        "options": [
+            {
+                "text": "json.to_string()",
+                "value": "a"
+            },
+            {
+                "text": "json.dumps()",
+                "value": "b"
+            },
+            {
+                "text": "json.encode()",
+                "value": "c"
+            },
+            {
+                "text": "json.save()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to parse a JSON string into a Python object?",
+        "options": [
+            {
+                "text": "json.parse()",
+                "value": "a"
+            },
+            {
+                "text": "json.loads()",
+                "value": "b"
+            },
+            {
+                "text": "json.decode()",
+                "value": "c"
+            },
+            {
+                "text": "json.read()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is serialization?",
+        "options": [
+            {
+                "text": "The process of converting an object into a storable or transmittable format",
+                "value": "a"
+            },
+            {
+                "text": "The process of running code in a specific order",
+                "value": "b"
+            },
+            {
+                "text": "The process of sorting data",
+                "value": "c"
+            },
+            {
+                "text": "The process of handling errors",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the 'pickle' module used for?",
+        "options": [
+            {
+                "text": "To work with JSON data",
+                "value": "a"
+            },
+            {
+                "text": "To serialize and deserialize Python object structures",
+                "value": "b"
+            },
+            {
+                "text": "To create graphical charts",
+                "value": "c"
+            },
+            {
+                "text": "To manage files and directories",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is a key difference between JSON and pickle?",
+        "options": [
+            {
+                "text": "JSON is faster than pickle.",
+                "value": "a"
+            },
+            {
+                "text": "Pickle is a text-based format, JSON is binary.",
+                "value": "b"
+            },
+            {
+                "text": "JSON is language-independent, pickle is Python-specific.",
+                "value": "c"
+            },
+            {
+                "text": "Pickle can only handle simple data types.",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which module is used to send HTTP requests in Python?",
+        "options": [
+            {
+                "text": "http",
+                "value": "a"
+            },
+            {
+                "text": "requests",
+                "value": "b"
+            },
+            {
+                "text": "urllib",
+                "value": "c"
+            },
+            {
+                "text": "socket",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does the requests.get() function do?",
+        "options": [
+            {
+                "text": "Sends a POST request",
+                "value": "a"
+            },
+            {
+                "text": "Sends a GET request to a URL",
+                "value": "b"
+            },
+            {
+                "text": "Gets a variable from the server",
+                "value": "c"
+            },
+            {
+                "text": "Downloads a file automatically",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What attribute of the response object contains the HTTP status code?",
+        "options": [
+            {
+                "text": "response.status",
+                "value": "a"
+            },
+            {
+                "text": "response.code",
+                "value": "b"
+            },
+            {
+                "text": "response.status_code",
+                "value": "c"
+            },
+            {
+                "text": "response.ok",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What attribute of the response object contains the response content?",
+        "options": [
+            {
+                "text": "response.text",
+                "value": "a"
+            },
+            {
+                "text": "response.content",
+                "value": "b"
+            },
+            {
+                "text": "response.data",
+                "value": "c"
+            },
+            {
+                "text": "response.html",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is a virtual environment primarily used for?",
+        "options": [
+            {
+                "text": "To run Python in a virtual machine",
+                "value": "a"
+            },
+            {
+                "text": "To isolate project-specific dependencies",
+                "value": "b"
+            },
+            {
+                "text": "To make Python code run faster",
+                "value": "c"
+            },
+            {
+                "text": "To create a secure Python sandbox",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which tool is commonly used to create virtual environments?",
+        "options": [
+            {
+                "text": "venv",
+                "value": "a"
+            },
+            {
+                "text": "virtualenv",
+                "value": "b"
+            },
+            {
+                "text": "conda",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the command to create a virtual environment named 'myenv' using venv?",
+        "options": [
+            {
+                "text": "python -m venv myenv",
+                "value": "a"
+            },
+            {
+                "text": "venv create myenv",
+                "value": "b"
+            },
+            {
+                "text": "virtualenv myenv",
+                "value": "c"
+            },
+            {
+                "text": "conda create myenv",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "On Windows, how do you activate a virtual environment?",
+        "options": [
+            {
+                "text": "source myenv/bin/activate",
+                "value": "a"
+            },
+            {
+                "text": "myenv\\Scripts\\activate",
+                "value": "b"
+            },
+            {
+                "text": "activate myenv",
+                "value": "c"
+            },
+            {
+                "text": "python activate myenv",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of a requirements.txt file?",
+        "options": [
+            {
+                "text": "To list the system requirements for running Python",
+                "value": "a"
+            },
+            {
+                "text": "To list all Python packages that a project depends on",
+                "value": "b"
+            },
+            {
+                "text": "To configure the Python interpreter",
+                "value": "c"
+            },
+            {
+                "text": "To store project documentation",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What command installs all packages listed in a requirements.txt file?",
+        "options": [
+            {
+                "text": "pip install",
+                "value": "a"
+            },
+            {
+                "text": "pip install -r requirements.txt",
+                "value": "b"
+            },
+            {
+                "text": "pip requirements",
+                "value": "c"
+            },
+            {
+                "text": "pip get requirements.txt",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the main goal of object-oriented programming (OOP)?",
+        "options": [
+            {
+                "text": "To make code run faster",
+                "value": "a"
+            },
+            {
+                "text": "To structure programs by bundling properties and behaviors into individual objects",
+                "value": "b"
+            },
+            {
+                "text": "To write code without errors",
+                "value": "c"
+            },
+            {
+                "text": "To create complex mathematical formulas",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What are the four main principles of OOP?",
+        "options": [
+            {
+                "text": "Variables, Functions, Loops, Conditionals",
+                "value": "a"
+            },
+            {
+                "text": "Abstraction, Complexity, Inheritance, Polymorphism",
+                "value": "b"
+            },
+            {
+                "text": "Encapsulation, Abstraction, Inheritance, Polymorphism",
+                "value": "c"
+            },
+            {
+                "text": "Classes, Objects, Methods, Attributes",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is encapsulation?",
+        "options": [
+            {
+                "text": "The ability to create multiple instances of a class",
+                "value": "a"
+            },
+            {
+                "text": "The bundling of data and methods that operate on that data within one unit (class)",
+                "value": "b"
+            },
+            {
+                "text": "The process of hiding implementation details",
+                "value": "c"
+            },
+            {
+                "text": "The ability of a class to derive properties from another class",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is inheritance?",
+        "options": [
+            {
+                "text": "The ability to create multiple instances of a class",
+                "value": "a"
+            },
+            {
+                "text": "The bundling of data and methods",
+                "value": "b"
+            },
+            {
+                "text": "The process of hiding implementation details",
+                "value": "c"
+            },
+            {
+                "text": "The mechanism where a new class derives properties from an existing class",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is polymorphism?",
+        "options": [
+            {
+                "text": "The ability to use a common interface for different data types",
+                "value": "a"
+            },
+            {
+                "text": "The process of creating a new class",
+                "value": "b"
+            },
+            {
+                "text": "The bundling of data",
+                "value": "c"
+            },
+            {
+                "text": "The hiding of data",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is method overriding?",
+        "options": [
+            {
+                "text": "Creating a new method in a child class",
+                "value": "a"
+            },
+            {
+                "text": "Providing a specific implementation for a method that is already defined in its parent class",
+                "value": "b"
+            },
+            {
+                "text": "Deleting a method from a parent class",
+                "value": "c"
+            },
+            {
+                "text": "Calling a method from a parent class",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How do you call a method from the parent class within a child class?",
+        "options": [
+            {
+                "text": "parent.method()",
+                "value": "a"
+            },
+            {
+                "text": "super().method()",
+                "value": "b"
+            },
+            {
+                "text": "self.parent.method()",
+                "value": "c"
+            },
+            {
+                "text": "ParentClass.method()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is a class variable?",
+        "options": [
+            {
+                "text": "A variable defined inside a method",
+                "value": "a"
+            },
+            {
+                "text": "A variable that is shared by all instances of a class",
+                "value": "b"
+            },
+            {
+                "text": "A variable that is different for each instance",
+                "value": "c"
+            },
+            {
+                "text": "A variable defined outside any class",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is an instance variable?",
+        "options": [
+            {
+                "text": "A variable defined inside a method",
+                "value": "a"
+            },
+            {
+                "text": "A variable that is shared by all instances",
+                "value": "b"
+            },
+            {
+                "text": "A variable that is unique to each instance",
+                "value": "c"
+            },
+            {
+                "text": "A variable defined outside any class",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the difference between a static method and a class method?",
+        "options": [
+            {
+                "text": "Static methods take 'cls' as the first parameter, class methods don't take any.",
+                "value": "a"
+            },
+            {
+                "text": "Class methods take 'cls' as the first parameter, static methods don't take any special first parameter.",
+                "value": "b"
+            },
+            {
+                "text": "There is no difference.",
+                "value": "c"
+            },
+            {
+                "text": "Static methods can modify class state, class methods cannot.",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the @staticmethod decorator used for?",
+        "options": [
+            {
+                "text": "To define a method that belongs to the class and not the instance, and doesn't take 'cls' or 'self'.",
+                "value": "a"
+            },
+            {
+                "text": "To define a method that can only be called from within the class.",
+                "value": "b"
+            },
+            {
+                "text": "To make a method private.",
+                "value": "c"
+            },
+            {
+                "text": "To create an abstract method.",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the @classmethod decorator used for?",
+        "options": [
+            {
+                "text": "To define a method that takes the class ('cls') as its first parameter.",
+                "value": "a"
+            },
+            {
+                "text": "To define a method that takes the instance ('self') as its first parameter.",
+                "value": "b"
+            },
+            {
+                "text": "To define a method that cannot be overridden.",
+                "value": "c"
+            },
+            {
+                "text": "To create a method that is not part of the class.",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is a decorator in Python?",
+        "options": [
+            {
+                "text": "A function that modifies the functionality of another function",
+                "value": "a"
+            },
+            {
+                "text": "A special comment",
+                "value": "b"
+            },
+            {
+                "text": "A way to add color to output",
+                "value": "c"
+            },
+            {
+                "text": "A type of loop",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the functools.wraps decorator?",
+        "options": [
+            {
+                "text": "To make a function run faster",
+                "value": "a"
+            },
+            {
+                "text": "To preserve the original function's metadata (name, docstring) when creating decorators",
+                "value": "b"
+            },
+            {
+                "text": "To wrap text output",
+                "value": "c"
+            },
+            {
+                "text": "To handle exceptions in a function",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is a context manager?",
+        "options": [
+            {
+                "text": "A manager for project context",
+                "value": "a"
+            },
+            {
+                "text": "An object designed to be used with the 'with' statement for resource management",
+                "value": "b"
+            },
+            {
+                "text": "A function that manages variable scope",
+                "value": "c"
+            },
+            {
+                "text": "A type of class",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which methods must a context manager define?",
+        "options": [
+            {
+                "text": "_init_ and _del_",
+                "value": "a"
+            },
+            {
+                "text": "_enter_ and _exit_",
+                "value": "b"
+            },
+            {
+                "text": "_start_ and _end_",
+                "value": "c"
+            },
+            {
+                "text": "_open_ and _close_",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the main benefit of using a 'with' statement to open a file?",
+        "options": [
+            {
+                "text": "It makes the file read faster.",
+                "value": "a"
+            },
+            {
+                "text": "It automatically closes the file, even if an exception occurs.",
+                "value": "b"
+            },
+            {
+                "text": "It allows writing to the file without permission.",
+                "value": "c"
+            },
+            {
+                "text": "It encrypts the file contents.",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the purpose of the _slots_ attribute in a class?",
+        "options": [
+            {
+                "text": "To define a list of allowed attribute names, reducing memory usage",
+                "value": "a"
+            },
+            {
+                "text": "To create time slots for method execution",
+                "value": "b"
+            },
+            {
+                "text": "To reserve memory for future attributes",
+                "value": "c"
+            },
+            {
+                "text": "To make attributes private",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What are Python's magic (dunder) methods?",
+        "options": [
+            {
+                "text": "Methods that perform tricks",
+                "value": "a"
+            },
+            {
+                "text": "Special methods with double underscores (e.g., _init, __str_) for operator overloading",
+                "value": "b"
+            },
+            {
+                "text": "Methods that are only used in advanced programming",
+                "value": "c"
+            },
+            {
+                "text": "Methods that are hidden from the user",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the _str_ method?",
+        "options": [
+            {
+                "text": "To initialize an object",
+                "value": "a"
+            },
+            {
+                "text": "To return a string representation of the object, meant for end-users",
+                "value": "b"
+            },
+            {
+                "text": "To compare two objects",
+                "value": "c"
+            },
+            {
+                "text": "To delete an object",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the purpose of the _repr_ method?",
+        "options": [
+            {
+                "text": "To initialize an object",
+                "value": "a"
+            },
+            {
+                "text": "To return an unambiguous string representation of the object, often for debugging",
+                "value": "b"
+            },
+            {
+                "text": "To add two objects",
+                "value": "c"
+            },
+            {
+                "text": "To get the length of an object",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the _len_ method?",
+        "options": [
+            {
+                "text": "To initialize an object",
+                "value": "a"
+            },
+            {
+                "text": "To return the length of the object, used by the len() function",
+                "value": "b"
+            },
+            {
+                "text": "To compare two objects",
+                "value": "c"
+            },
+            {
+                "text": "To convert an object to a string",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the _add_ method?",
+        "options": [
+            {
+                "text": "To add an attribute to an object",
+                "value": "a"
+            },
+            {
+                "text": "To define the behavior of the + operator for instances of the class",
+                "value": "b"
+            },
+            {
+                "text": "To create a new instance",
+                "value": "c"
+            },
+            {
+                "text": "To increment a counter",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the _getitem_ method?",
+        "options": [
+            {
+                "text": "To get an item from a store",
+                "value": "a"
+            },
+            {
+                "text": "To define behavior for indexing, e.g., obj[key]",
+                "value": "b"
+            },
+            {
+                "text": "To set an item's value",
+                "value": "c"
+            },
+            {
+                "text": "To delete an item",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the _setitem_ method?",
+        "options": [
+            {
+                "text": "To get an item",
+                "value": "a"
+            },
+            {
+                "text": "To define behavior for assignment to indexing, e.g., obj[key] = value",
+                "value": "b"
+            },
+            {
+                "text": "To delete an item",
+                "value": "c"
+            },
+            {
+                "text": "To create a new item",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the _delitem_ method?",
+        "options": [
+            {
+                "text": "To get an item",
+                "value": "a"
+            },
+            {
+                "text": "To set an item's value",
+                "value": "b"
+            },
+            {
+                "text": "To define behavior for deletion via indexing, e.g., del obj[key]",
+                "value": "c"
+            },
+            {
+                "text": "To delay an operation",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the _iter_ method?",
+        "options": [
+            {
+                "text": "To check if an object is true",
+                "value": "a"
+            },
+            {
+                "text": "To return an iterator object, used in for loops",
+                "value": "b"
+            },
+            {
+                "text": "To compare two objects",
+                "value": "c"
+            },
+            {
+                "text": "To convert an object to an integer",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the _next_ method?",
+        "options": [
+            {
+                "text": "To get the next item from an iterator",
+                "value": "a"
+            },
+            {
+                "text": "To go to the next line of code",
+                "value": "b"
+            },
+            {
+                "text": "To skip the current iteration",
+                "value": "c"
+            },
+            {
+                "text": "To create a new iterator",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the _call_ method?",
+        "options": [
+            {
+                "text": "To make an instance callable like a function",
+                "value": "a"
+            },
+            {
+                "text": "To make a phone call",
+                "value": "b"
+            },
+            {
+                "text": "To call a method from the parent class",
+                "value": "c"
+            },
+            {
+                "text": "To handle function calls",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the _getattr_ method?",
+        "options": [
+            {
+                "text": "To get an attribute that exists",
+                "value": "a"
+            },
+            {
+                "text": "To define behavior for when a requested attribute is not found",
+                "value": "b"
+            },
+            {
+                "text": "To set an attribute",
+                "value": "c"
+            },
+            {
+                "text": "To delete an attribute",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the _setattr_ method?",
+        "options": [
+            {
+                "text": "To get an attribute",
+                "value": "a"
+            },
+            {
+                "text": "To define behavior for when an attribute assignment is attempted",
+                "value": "b"
+            },
+            {
+                "text": "To delete an attribute",
+                "value": "c"
+            },
+            {
+                "text": "To check if an attribute exists",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the _delattr_ method?",
+        "options": [
+            {
+                "text": "To get an attribute",
+                "value": "a"
+            },
+            {
+                "text": "To set an attribute",
+                "value": "b"
+            },
+            {
+                "text": "To define behavior for when an attribute deletion is attempted",
+                "value": "c"
+            },
+            {
+                "text": "To check if an attribute exists",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the _getattribute_ method?",
+        "options": [
+            {
+                "text": "To get an attribute that exists",
+                "value": "a"
+            },
+            {
+                "text": "To unconditionally get an attribute, called for every attribute access",
+                "value": "b"
+            },
+            {
+                "text": "To set an attribute",
+                "value": "c"
+            },
+            {
+                "text": "To delete an attribute",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the _eq_ method?",
+        "options": [
+            {
+                "text": "To check if an object is equal to another (==)",
+                "value": "a"
+            },
+            {
+                "text": "To assign a value",
+                "value": "b"
+            },
+            {
+                "text": "To exit a program",
+                "value": "c"
+            },
+            {
+                "text": "To create a equation",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the _lt_ method?",
+        "options": [
+            {
+                "text": "To check if an object is less than another (<)",
+                "value": "a"
+            },
+            {
+                "text": "To load a template",
+                "value": "b"
+            },
+            {
+                "text": "To leave a trace",
+                "value": "c"
+            },
+            {
+                "text": "To list items",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the _gt_ method?",
+        "options": [
+            {
+                "text": "To check if an object is greater than another (>)",
+                "value": "a"
+            },
+            {
+                "text": "To go to a line",
+                "value": "b"
+            },
+            {
+                "text": "To get text",
+                "value": "c"
+            },
+            {
+                "text": "To generate a token",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the _le_ method?",
+        "options": [
+            {
+                "text": "To check if an object is less than or equal to another (<=)",
+                "value": "a"
+            },
+            {
+                "text": "To length of an object",
+                "value": "b"
+            },
+            {
+                "text": "To leave a function",
+                "value": "c"
+            },
+            {
+                "text": "To load an environment",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the _ge_ method?",
+        "options": [
+            {
+                "text": "To check if an object is greater than or equal to another (>=)",
+                "value": "a"
+            },
+            {
+                "text": "To get an element",
+                "value": "b"
+            },
+            {
+                "text": "To generate an error",
+                "value": "c"
+            },
+            {
+                "text": "To govern execution",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the _ne_ method?",
+        "options": [
+            {
+                "text": "To check if an object is not equal to another (!=)",
+                "value": "a"
+            },
+            {
+                "text": "To create a new entity",
+                "value": "b"
+            },
+            {
+                "text": "To negate a value",
+                "value": "c"
+            },
+            {
+                "text": "To nest a loop",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the _contains_ method?",
+        "options": [
+            {
+                "text": "To check if an object contains a value (in operator)",
+                "value": "a"
+            },
+            {
+                "text": "To get the contents of a file",
+                "value": "b"
+            },
+            {
+                "text": "To continue a loop",
+                "value": "c"
+            },
+            {
+                "text": "To create a container",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the _enter_ method in a context manager?",
+        "options": [
+            {
+                "text": "To set up the context and return the resource to be managed",
+                "value": "a"
+            },
+            {
+                "text": "To exit the context and handle cleanup",
+                "value": "b"
+            },
+            {
+                "text": "To enter a value",
+                "value": "c"
+            },
+            {
+                "text": "To create an entry point",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the _exit_ method in a context manager?",
+        "options": [
+            {
+                "text": "To set up the context",
+                "value": "a"
+            },
+            {
+                "text": "To exit the context, handle cleanup, and optionally handle exceptions",
+                "value": "b"
+            },
+            {
+                "text": "To exit the program",
+                "value": "c"
+            },
+            {
+                "text": "To execute a command",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the @property decorator?",
+        "options": [
+            {
+                "text": "To define a method that can be accessed like an attribute",
+                "value": "a"
+            },
+            {
+                "text": "To declare a variable as a property",
+                "value": "b"
+            },
+            {
+                "text": "To protect a method from being overridden",
+                "value": "c"
+            },
+            {
+                "text": "To create a read-only attribute",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the @.setter decorator?",
+        "options": [
+            {
+                "text": "To define the setter method for a property",
+                "value": "a"
+            },
+            {
+                "text": "To set a value",
+                "value": "b"
+            },
+            {
+                "text": "To settle a calculation",
+                "value": "c"
+            },
+            {
+                "text": "To create a static method",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the @.deleter decorator?",
+        "options": [
+            {
+                "text": "To define the deleter method for a property",
+                "value": "a"
+            },
+            {
+                "text": "To delete a file",
+                "value": "b"
+            },
+            {
+                "text": "To delay execution",
+                "value": "c"
+            },
+            {
+                "text": "To declare a variable",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the abc (Abstract Base Classes) module?",
+        "options": [
+            {
+                "text": "To define abstract methods and force their implementation in subclasses",
+                "value": "a"
+            },
+            {
+                "text": "To learn the alphabet",
+                "value": "b"
+            },
+            {
+                "text": "To perform basic arithmetic",
+                "value": "c"
+            },
+            {
+                "text": "To create base classes with no functionality",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the @abstractmethod decorator?",
+        "options": [
+            {
+                "text": "To define a method that must be implemented by any concrete subclass",
+                "value": "a"
+            },
+            {
+                "text": "To make a method abstract without enforcing it",
+                "value": "b"
+            },
+            {
+                "text": "To hide a method's implementation",
+                "value": "c"
+            },
+            {
+                "text": "To create a method that cannot be called",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is method resolution order (MRO)?",
+        "options": [
+            {
+                "text": "The order in which Python searches for methods in a hierarchy of classes",
+                "value": "a"
+            },
+            {
+                "text": "The resolution of a method's parameters",
+                "value": "b"
+            },
+            {
+                "text": "The order methods are written in a class",
+                "value": "c"
+            },
+            {
+                "text": "The result of a method call",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the isinstance() function?",
+        "options": [
+            {
+                "text": "To check if an object is an instance of a class or a tuple of classes",
+                "value": "a"
+            },
+            {
+                "text": "To get the type of an instance",
+                "value": "b"
+            },
+            {
+                "text": "To create a new instance",
+                "value": "c"
+            },
+            {
+                "text": "To check if a class is a subclass",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the issubclass() function?",
+        "options": [
+            {
+                "text": "To check if an object is an instance of a class",
+                "value": "a"
+            },
+            {
+                "text": "To check if a class is a subclass of another class",
+                "value": "b"
+            },
+            {
+                "text": "To create a subclass",
+                "value": "c"
+            },
+            {
+                "text": "To get the superclass of a class",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the super() function?",
+        "options": [
+            {
+                "text": "To call a method from the parent class",
+                "value": "a"
+            },
+            {
+                "text": "To create a super class",
+                "value": "b"
+            },
+            {
+                "text": "To make a class superior",
+                "value": "c"
+            },
+            {
+                "text": "To access super variables",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is multiple inheritance?",
+        "options": [
+            {
+                "text": "When a class inherits from more than one parent class",
+                "value": "a"
+            },
+            {
+                "text": "When a class has multiple subclasses",
+                "value": "b"
+            },
+            {
+                "text": "When an instance inherits from multiple classes",
+                "value": "c"
+            },
+            {
+                "text": "When a method is inherited multiple times",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is a mixin class?",
+        "options": [
+            {
+                "text": "A class that is mixed with other data types",
+                "value": "a"
+            },
+            {
+                "text": "A class that provides methods to other classes but is not meant to stand on its own",
+                "value": "b"
+            },
+            {
+                "text": "A class that can only be used once",
+                "value": "c"
+            },
+            {
+                "text": "A class that mixes attributes and methods randomly",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the globals() function?",
+        "options": [
+            {
+                "text": "To return a dictionary representing the current global symbol table",
+                "value": "a"
+            },
+            {
+                "text": "To make a variable global",
+                "value": "b"
+            },
+            {
+                "text": "To access global variables only",
+                "value": "c"
+            },
+            {
+                "text": "To create a global function",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the locals() function?",
+        "options": [
+            {
+                "text": "To return a dictionary representing the current local symbol table",
+                "value": "a"
+            },
+            {
+                "text": "To create a local variable",
+                "value": "b"
+            },
+            {
+                "text": "To access local variables only",
+                "value": "c"
+            },
+            {
+                "text": "To make a variable local",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the vars() function?",
+        "options": [
+            {
+                "text": "To return the _dict_ attribute of an object",
+                "value": "a"
+            },
+            {
+                "text": "To get the variance of a list of numbers",
+                "value": "b"
+            },
+            {
+                "text": "To list all variables",
+                "value": "c"
+            },
+            {
+                "text": "To create a variant of an object",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the dir() function?",
+        "options": [
+            {
+                "text": "To list the names in the current local scope or the attributes of an object",
+                "value": "a"
+            },
+            {
+                "text": "To change the directory",
+                "value": "b"
+            },
+            {
+                "text": "To get the direct path of a file",
+                "value": "c"
+            },
+            {
+                "text": "To direct program flow",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the type() function?",
+        "options": [
+            {
+                "text": "To return the type of an object",
+                "value": "a"
+            },
+            {
+                "text": "To create a new type",
+                "value": "b"
+            },
+            {
+                "text": "To check if an object is of a certain type",
+                "value": "c"
+            },
+            {
+                "text": "To type text to the screen",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the id() function?",
+        "options": [
+            {
+                "text": "To return the identity (unique integer) of an object",
+                "value": "a"
+            },
+            {
+                "text": "To get the idea of an object",
+                "value": "b"
+            },
+            {
+                "text": "To identify the class of an object",
+                "value": "c"
+            },
+            {
+                "text": "To create an ID for an object",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the hasattr() function?",
+        "options": [
+            {
+                "text": "To check if an object has an attribute",
+                "value": "a"
+            },
+            {
+                "text": "To set an attribute",
+                "value": "b"
+            },
+            {
+                "text": "To get an attribute",
+                "value": "c"
+            },
+            {
+                "text": "To hash an attribute",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the getattr() function?",
+        "options": [
+            {
+                "text": "To get the value of an attribute, with an optional default",
+                "value": "a"
+            },
+            {
+                "text": "To set the value of an attribute",
+                "value": "b"
+            },
+            {
+                "text": "To check if an attribute exists",
+                "value": "c"
+            },
+            {
+                "text": "To create a new attribute",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the setattr() function?",
+        "options": [
+            {
+                "text": "To get the value of an attribute",
+                "value": "a"
+            },
+            {
+                "text": "To set the value of an attribute",
+                "value": "b"
+            },
+            {
+                "text": "To check if an attribute exists",
+                "value": "c"
+            },
+            {
+                "text": "To delete an attribute",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the delattr() function?",
+        "options": [
+            {
+                "text": "To get the value of an attribute",
+                "value": "a"
+            },
+            {
+                "text": "To set the value of an attribute",
+                "value": "b"
+            },
+            {
+                "text": "To check if an attribute exists",
+                "value": "c"
+            },
+            {
+                "text": "To delete an attribute",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the purpose of the callable() function?",
+        "options": [
+            {
+                "text": "To check if an object can be called like a function",
+                "value": "a"
+            },
+            {
+                "text": "To make an object callable",
+                "value": "b"
+            },
+            {
+                "text": "To call a function",
+                "value": "c"
+            },
+            {
+                "text": "To create a callback",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the enumerate() function?",
+        "options": [
+            {
+                "text": "To return an enumerate object that produces pairs of index and value",
+                "value": "a"
+            },
+            {
+                "text": "To make a list of numbers",
+                "value": "b"
+            },
+            {
+                "text": "To count the number of items",
+                "value": "c"
+            },
+            {
+                "text": "To create an enumeration",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the zip() function?",
+        "options": [
+            {
+                "text": "To combine elements from multiple iterables into tuples",
+                "value": "a"
+            },
+            {
+                "text": "To compress files",
+                "value": "b"
+            },
+            {
+                "text": "To create a zipped archive",
+                "value": "c"
+            },
+            {
+                "text": "To fasten two loops together",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the map() function?",
+        "options": [
+            {
+                "text": "To apply a function to every item of an iterable",
+                "value": "a"
+            },
+            {
+                "text": "To create a map of values",
+                "value": "b"
+            },
+            {
+                "text": "To navigate through a dictionary",
+                "value": "c"
+            },
+            {
+                "text": "To plot data on a graph",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the filter() function?",
+        "options": [
+            {
+                "text": "To construct an iterator from elements of an iterable for which a function returns true",
+                "value": "a"
+            },
+            {
+                "text": "To remove impurities from data",
+                "value": "b"
+            },
+            {
+                "text": "To filter out even numbers",
+                "value": "c"
+            },
+            {
+                "text": "To create a water filter simulation",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the reduce() function?",
+        "options": [
+            {
+                "text": "To apply a function of two arguments cumulatively to the items of a sequence",
+                "value": "a"
+            },
+            {
+                "text": "To reduce the size of a list",
+                "value": "b"
+            },
+            {
+                "text": "To decrease the value of a variable",
+                "value": "c"
+            },
+            {
+                "text": "To simplify a mathematical expression",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the any() function?",
+        "options": [
+            {
+                "text": "To return True if any element of the iterable is true",
+                "value": "a"
+            },
+            {
+                "text": "To return True if all elements are true",
+                "value": "b"
+            },
+            {
+                "text": "To check for any type of object",
+                "value": "c"
+            },
+            {
+                "text": "To perform any operation",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the all() function?",
+        "options": [
+            {
+                "text": "To return True if any element of the iterable is true",
+                "value": "a"
+            },
+            {
+                "text": "To return True if all elements of the iterable are true",
+                "value": "b"
+            },
+            {
+                "text": "To check if all items are of the same type",
+                "value": "c"
+            },
+            {
+                "text": "To perform all operations in a list",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    }
+]

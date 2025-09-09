@@ -1,0 +1,1542 @@
+[
+    {
+        "text": "What is the golden rule for Nominal Accounts?",
+        "options": [
+            {
+                "text": "Debit all Expenses/Losses, Credit all Incomes/Gains",
+                "value": "a"
+            },
+            {
+                "text": "Debit the receiver, Credit the giver",
+                "value": "b"
+            },
+            {
+                "text": "Debit what comes in, Credit what goes out",
+                "value": "c"
+            },
+            {
+                "text": "Debit the asset, Credit the liability",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which menu is used to create a Stock Item?",
+        "options": [
+            {
+                "text": "Inventory Info",
+                "value": "a"
+            },
+            {
+                "text": "Accounts Info",
+                "value": "b"
+            },
+            {
+                "text": "Company Info",
+                "value": "c"
+            },
+            {
+                "text": "Reporting",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is a 'Creditor'?",
+        "options": [
+            {
+                "text": "A person to whom the business owes money",
+                "value": "a"
+            },
+            {
+                "text": "A person who owes money to the business",
+                "value": "b"
+            },
+            {
+                "text": "An investor in the business",
+                "value": "c"
+            },
+            {
+                "text": "A customer who pays cash",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function key is used to select a Purchase Voucher?",
+        "options": [
+            {
+                "text": "F9",
+                "value": "a"
+            },
+            {
+                "text": "F8",
+                "value": "b"
+            },
+            {
+                "text": "F7",
+                "value": "c"
+            },
+            {
+                "text": "F6",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The key combination 'Alt+C' is used to:",
+        "options": [
+            {
+                "text": "Create a ledger from within a voucher",
+                "value": "a"
+            },
+            {
+                "text": "Copy a voucher",
+                "value": "b"
+            },
+            {
+                "text": "Close a company",
+                "value": "c"
+            },
+            {
+                "text": "Configure settings",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which report shows the financial position of a business?",
+        "options": [
+            {
+                "text": "Balance Sheet",
+                "value": "a"
+            },
+            {
+                "text": "Profit & Loss Account",
+                "value": "b"
+            },
+            {
+                "text": "Trial Balance",
+                "value": "c"
+            },
+            {
+                "text": "Stock Summary",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Where is 'Discount Received' classified?",
+        "options": [
+            {
+                "text": "Indirect Income",
+                "value": "a"
+            },
+            {
+                "text": "Direct Income",
+                "value": "b"
+            },
+            {
+                "text": "Direct Expenses",
+                "value": "c"
+            },
+            {
+                "text": "Indirect Expenses",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the main purpose of a 'Contra Voucher' (F4)?",
+        "options": [
+            {
+                "text": "To record cash and bank transfers",
+                "value": "a"
+            },
+            {
+                "text": "To record credit sales",
+                "value": "b"
+            },
+            {
+                "text": "To record cash expenses",
+                "value": "c"
+            },
+            {
+                "text": "To adjust ledger balances",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which of these is a Fixed Asset?",
+        "options": [
+            {
+                "text": "Machinery",
+                "value": "a"
+            },
+            {
+                "text": "Cash in Hand",
+                "value": "b"
+            },
+            {
+                "text": "Bank Balance",
+                "value": "c"
+            },
+            {
+                "text": "Creditors",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Day Book' displays:",
+        "options": [
+            {
+                "text": "All vouchers entered on a specific day",
+                "value": "a"
+            },
+            {
+                "text": "Only sales vouchers",
+                "value": "b"
+            },
+            {
+                "text": "The final profit/loss",
+                "value": "c"
+            },
+            {
+                "text": "The list of stock items",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which key is pressed to view the detailed report from a summary?",
+        "options": [
+            {
+                "text": "Enter",
+                "value": "a"
+            },
+            {
+                "text": "Spacebar",
+                "value": "b"
+            },
+            {
+                "text": "Alt",
+                "value": "c"
+            },
+            {
+                "text": "Ctrl",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Capital introduced by the owner is credited to:",
+        "options": [
+            {
+                "text": "Capital Account",
+                "value": "a"
+            },
+            {
+                "text": "Drawings Account",
+                "value": "b"
+            },
+            {
+                "text": "Cash Account",
+                "value": "c"
+            },
+            {
+                "text": "Bank Account",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which menu path is used to create a new Ledger?",
+        "options": [
+            {
+                "text": "Accounts Info > Ledgers",
+                "value": "a"
+            },
+            {
+                "text": "Inventory Info > Stock Items",
+                "value": "b"
+            },
+            {
+                "text": "Company Info > Create Company",
+                "value": "c"
+            },
+            {
+                "text": "Accounts Info > Groups",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does 'F11' key represent in Tally?",
+        "options": [
+            {
+                "text": "Features (Company)",
+                "value": "a"
+            },
+            {
+                "text": "Function Settings",
+                "value": "b"
+            },
+            {
+                "text": "Final Accounts",
+                "value": "c"
+            },
+            {
+                "text": "File Menu",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Purchased goods for cash. Which two accounts are affected?",
+        "options": [
+            {
+                "text": "Purchase A/c (Debit) and Cash A/c (Credit)",
+                "value": "a"
+            },
+            {
+                "text": "Cash A/c (Debit) and Purchase A/c (Credit)",
+                "value": "b"
+            },
+            {
+                "text": "Purchase A/c (Debit) and Bank A/c (Credit)",
+                "value": "c"
+            },
+            {
+                "text": "Stock A/c (Debit) and Cash A/c (Credit)",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Sold goods to Ram on credit. Which voucher will you use?",
+        "options": [
+            {
+                "text": "F8: Sales Voucher",
+                "value": "a"
+            },
+            {
+                "text": "F9: Purchase Voucher",
+                "value": "b"
+            },
+            {
+                "text": "F6: Receipt Voucher",
+                "value": "c"
+            },
+            {
+                "text": "F5: Payment Voucher",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Received cash from Ram. Which voucher will you use?",
+        "options": [
+            {
+                "text": "F6: Receipt Voucher",
+                "value": "a"
+            },
+            {
+                "text": "F5: Payment Voucher",
+                "value": "b"
+            },
+            {
+                "text": "F4: Contra Voucher",
+                "value": "c"
+            },
+            {
+                "text": "F7: Journal Voucher",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which key is used to quit from a screen without saving changes?",
+        "options": [
+            {
+                "text": "Ctrl+Q",
+                "value": "a"
+            },
+            {
+                "text": "Alt+Q",
+                "value": "b"
+            },
+            {
+                "text": "Esc",
+                "value": "c"
+            },
+            {
+                "text": "Ctrl+X",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Miscellaneous Expenses' group is a:",
+        "options": [
+            {
+                "text": "Primary Group of capital nature",
+                "value": "a"
+            },
+            {
+                "text": "Sub-group of Current Assets",
+                "value": "b"
+            },
+            {
+                "text": "Sub-group of Indirect Expenses",
+                "value": "c"
+            },
+            {
+                "text": "Primary Group of revenue nature",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Paid rent for office. Under which group is 'Rent' ledger created?",
+        "options": [
+            {
+                "text": "Indirect Expenses",
+                "value": "a"
+            },
+            {
+                "text": "Direct Expenses",
+                "value": "b"
+            },
+            {
+                "text": "Current Liabilities",
+                "value": "c"
+            },
+            {
+                "text": "Miscellaneous Expenses",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the starting point of Tally called?",
+        "options": [
+            {
+                "text": "Gateway of Tally",
+                "value": "a"
+            },
+            {
+                "text": "Main Menu of Tally",
+                "value": "b"
+            },
+            {
+                "text": "Tally Home",
+                "value": "c"
+            },
+            {
+                "text": "Tally Dashboard",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function key is used to select a Journal Voucher?",
+        "options": [
+            {
+                "text": "F7",
+                "value": "a"
+            },
+            {
+                "text": "F8",
+                "value": "b"
+            },
+            {
+                "text": "F9",
+                "value": "c"
+            },
+            {
+                "text": "F10",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Tally.NET' framework is used for:",
+        "options": [
+            {
+                "text": "Remote access of data",
+                "value": "a"
+            },
+            {
+                "text": "Printing reports",
+                "value": "b"
+            },
+            {
+                "text": "Creating vouchers",
+                "value": "c"
+            },
+            {
+                "text": "Backing up data",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which sub-group would you use for 'Input VAT' or 'Input GST'?",
+        "options": [
+            {
+                "text": "Duties and Taxes",
+                "value": "a"
+            },
+            {
+                "text": "Current Assets",
+                "value": "b"
+            },
+            {
+                "text": "Current Liabilities",
+                "value": "c"
+            },
+            {
+                "text": "Direct Expenses",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "To view the list of all transactions sorted by voucher type, you would view the:",
+        "options": [
+            {
+                "text": "Day Book",
+                "value": "a"
+            },
+            {
+                "text": "Balance Sheet",
+                "value": "b"
+            },
+            {
+                "text": "Ledger",
+                "value": "c"
+            },
+            {
+                "text": "Trial Balance",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Profit & Loss Account' shows:",
+        "options": [
+            {
+                "text": "The net profit or loss for a period",
+                "value": "a"
+            },
+            {
+                "text": "The financial position on a date",
+                "value": "b"
+            },
+            {
+                "text": "The list of all assets",
+                "value": "c"
+            },
+            {
+                "text": "The cash flow statement",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which key combination is used to alter a company?",
+        "options": [
+            {
+                "text": "Alt+F3",
+                "value": "a"
+            },
+            {
+                "text": "Ctrl+A",
+                "value": "b"
+            },
+            {
+                "text": "F12",
+                "value": "c"
+            },
+            {
+                "text": "F11",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "A 'Stock Group' is used to:",
+        "options": [
+            {
+                "text": "Classify similar stock items",
+                "value": "a"
+            },
+            {
+                "text": "Record sales of items",
+                "value": "b"
+            },
+            {
+                "text": "Record purchase of items",
+                "value": "c"
+            },
+            {
+                "text": "Calculate profit on items",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which of these is a Real Account?",
+        "options": [
+            {
+                "text": "Furniture Account",
+                "value": "a"
+            },
+            {
+                "text": "Ram's Account",
+                "value": "b"
+            },
+            {
+                "text": "Interest Account",
+                "value": "c"
+            },
+            {
+                "text": "Rent Account",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Bank OD Account' [Bank Overdraft] is a sub-group of:",
+        "options": [
+            {
+                "text": "Loans (Liability)",
+                "value": "a"
+            },
+            {
+                "text": "Bank Accounts",
+                "value": "b"
+            },
+            {
+                "text": "Current Assets",
+                "value": "c"
+            },
+            {
+                "text": "Current Liabilities",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is 'Capital'?",
+        "options": [
+            {
+                "text": "Owner's investment in the business",
+                "value": "a"
+            },
+            {
+                "text": "Loan taken from a bank",
+                "value": "b"
+            },
+            {
+                "text": "Profit earned by the business",
+                "value": "c"
+            },
+            {
+                "text": "Cash available in the business",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which key is used to toggle between the Calculator and the Main Area?",
+        "options": [
+            {
+                "text": "Ctrl+N",
+                "value": "a"
+            },
+            {
+                "text": "Alt+N",
+                "value": "b"
+            },
+            {
+                "text": "Ctrl+M",
+                "value": "c"
+            },
+            {
+                "text": "Alt+M",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Support Center' in Tally allows users to:",
+        "options": [
+            {
+                "text": "Post support queries",
+                "value": "a"
+            },
+            {
+                "text": "Get instant cash support",
+                "value": "b"
+            },
+            {
+                "text": "Support other users",
+                "value": "c"
+            },
+            {
+                "text": "Center align text in reports",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is an Indirect Income?",
+        "options": [
+            {
+                "text": "Discount Received",
+                "value": "a"
+            },
+            {
+                "text": "Sales",
+                "value": "b"
+            },
+            {
+                "text": "Commission Received",
+                "value": "c"
+            },
+            {
+                "text": "Interest Received on Investment",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Control Center' works as an interface for:",
+        "options": [
+            {
+                "text": "Central configuration of multiple sites",
+                "value": "a"
+            },
+            {
+                "text": "Controlling printer settings",
+                "value": "b"
+            },
+            {
+                "text": "Controlling user access on one computer",
+                "value": "c"
+            },
+            {
+                "text": "Controlling the speed of data entry",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "To record a transaction where goods are returned to a supplier, you would use a:",
+        "options": [
+            {
+                "text": "Debit Note",
+                "value": "a"
+            },
+            {
+                "text": "Credit Note",
+                "value": "b"
+            },
+            {
+                "text": "Payment Voucher",
+                "value": "c"
+            },
+            {
+                "text": "Receipt Voucher",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function key is used to select the Contra Voucher?",
+        "options": [
+            {
+                "text": "F4",
+                "value": "a"
+            },
+            {
+                "text": "F5",
+                "value": "b"
+            },
+            {
+                "text": "F6",
+                "value": "c"
+            },
+            {
+                "text": "F7",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Accounting without Codes' feature means:",
+        "options": [
+            {
+                "text": "You can use regular names for ledgers",
+                "value": "a"
+            },
+            {
+                "text": "You don't need to follow accounting rules",
+                "value": "b"
+            },
+            {
+                "text": "Tally automatically generates codes",
+                "value": "c"
+            },
+            {
+                "text": "You can use secret passwords",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the primary purpose of creating 'Groups' in Tally?",
+        "options": [
+            {
+                "text": "To classify and organize ledger accounts for better reporting",
+                "value": "a"
+            },
+            {
+                "text": "To create user login IDs",
+                "value": "b"
+            },
+            {
+                "text": "To set up security permissions",
+                "value": "c"
+            },
+            {
+                "text": "To design invoice formats",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is a pre-defined 'Primary Group' in Tally?",
+        "options": [
+            {
+                "text": "Current Assets",
+                "value": "a"
+            },
+            {
+                "text": "Sundry Debtors",
+                "value": "b"
+            },
+            {
+                "text": "Bank Accounts",
+                "value": "c"
+            },
+            {
+                "text": "Duties and Taxes",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Sundry Debtors' group is a sub-group of which primary group?",
+        "options": [
+            {
+                "text": "Current Assets",
+                "value": "a"
+            },
+            {
+                "text": "Current Liabilities",
+                "value": "b"
+            },
+            {
+                "text": "Sales Account",
+                "value": "c"
+            },
+            {
+                "text": "Direct Income",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Where would you classify 'Outstanding Expenses'?",
+        "options": [
+            {
+                "text": "Current Liabilities",
+                "value": "a"
+            },
+            {
+                "text": "Current Assets",
+                "value": "b"
+            },
+            {
+                "text": "Indirect Expenses",
+                "value": "c"
+            },
+            {
+                "text": "Direct Expenses",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "A 'Prepaid Expense' is classified as a:",
+        "options": [
+            {
+                "text": "Current Asset",
+                "value": "a"
+            },
+            {
+                "text": "Current Liability",
+                "value": "b"
+            },
+            {
+                "text": "Direct Expense",
+                "value": "c"
+            },
+            {
+                "text": "Indirect Expense",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which menu path is correct for creating a Stock Group?",
+        "options": [
+            {
+                "text": "Inventory Info > Stock Groups",
+                "value": "a"
+            },
+            {
+                "text": "Accounts Info > Stock Groups",
+                "value": "b"
+            },
+            {
+                "text": "Inventory Info > Stock Items",
+                "value": "c"
+            },
+            {
+                "text": "Company Info > Stock Groups",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the main purpose of defining 'Units of Measure' in inventory?",
+        "options": [
+            {
+                "text": "To quantify stock items for transactions and reports",
+                "value": "a"
+            },
+            {
+                "text": "To measure the length of the financial year",
+                "value": "b"
+            },
+            {
+                "text": "To calculate the distance between warehouses",
+                "value": "c"
+            },
+            {
+                "text": "To set the monitor's display size",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "A compound unit like 'Box' (1 Box = 10 Pcs) is created by setting its type to:",
+        "options": [
+            {
+                "text": "Compound",
+                "value": "a"
+            },
+            {
+                "text": "Simple",
+                "value": "b"
+            },
+            {
+                "text": "Complex",
+                "value": "c"
+            },
+            {
+                "text": "Multiple",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which voucher type would you use to record the purchase of a fixed asset like a computer on credit?",
+        "options": [
+            {
+                "text": "Purchase Voucher (F9)",
+                "value": "a"
+            },
+            {
+                "text": "Payment Voucher (F5)",
+                "value": "b"
+            },
+            {
+                "text": "Journal Voucher (F7)",
+                "value": "c"
+            },
+            {
+                "text": "Receipt Voucher (F6)",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "To record a transaction where you pay cash into your bank account, you would use a:",
+        "options": [
+            {
+                "text": "Contra Voucher (F4)",
+                "value": "a"
+            },
+            {
+                "text": "Payment Voucher (F5)",
+                "value": "b"
+            },
+            {
+                "text": "Receipt Voucher (F6)",
+                "value": "c"
+            },
+            {
+                "text": "Journal Voucher (F7)",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "A 'Credit Note' is used to record:",
+        "options": [
+            {
+                "text": "Sales returns or giving credit to a customer",
+                "value": "a"
+            },
+            {
+                "text": "Purchases returns or receiving credit from a supplier",
+                "value": "b"
+            },
+            {
+                "text": "Cash sales",
+                "value": "c"
+            },
+            {
+                "text": "Cash purchases",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Journal Voucher' (F7) is typically used for:",
+        "options": [
+            {
+                "text": "Adjustment entries and non-cash transactions",
+                "value": "a"
+            },
+            {
+                "text": "Recording cash sales",
+                "value": "b"
+            },
+            {
+                "text": "Recording cash payments",
+                "value": "c"
+            },
+            {
+                "text": "Recording bank deposits",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which key is used to add a new ledger account directly from within a voucher screen?",
+        "options": [
+            {
+                "text": "Alt+C",
+                "value": "a"
+            },
+            {
+                "text": "Ctrl+L",
+                "value": "b"
+            },
+            {
+                "text": "F12",
+                "value": "c"
+            },
+            {
+                "text": "Alt+A",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "In a Payment Voucher, the 'Credit' account is typically:",
+        "options": [
+            {
+                "text": "Cash or Bank",
+                "value": "a"
+            },
+            {
+                "text": "The expense or party being paid",
+                "value": "b"
+            },
+            {
+                "text": "Sales Account",
+                "value": "c"
+            },
+            {
+                "text": "Purchase Account",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Narration' field in a voucher is used for:",
+        "options": [
+            {
+                "text": "Adding a short description of the transaction",
+                "value": "a"
+            },
+            {
+                "text": "Naming the voucher",
+                "value": "b"
+            },
+            {
+                "text": "Setting the voucher number",
+                "value": "c"
+            },
+            {
+                "text": "Selecting the ledger account",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which report provides a chronological list of all transactions?",
+        "options": [
+            {
+                "text": "Day Book",
+                "value": "a"
+            },
+            {
+                "text": "Trial Balance",
+                "value": "b"
+            },
+            {
+                "text": "Balance Sheet",
+                "value": "c"
+            },
+            {
+                "text": "Profit & Loss Account",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Trial Balance' is a statement that shows:",
+        "options": [
+            {
+                "text": "The closing balances of all ledger accounts",
+                "value": "a"
+            },
+            {
+                "text": "The net profit or loss of the business",
+                "value": "b"
+            },
+            {
+                "text": "The value of assets and liabilities",
+                "value": "c"
+            },
+            {
+                "text": "The list of stock items",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "A fundamental accounting principle that the Trial Balance checks for is:",
+        "options": [
+            {
+                "text": "The total of all debits equals the total of all credits",
+                "value": "a"
+            },
+            {
+                "text": "Assets are equal to capital",
+                "value": "b"
+            },
+            {
+                "text": "Income is greater than expenses",
+                "value": "c"
+            },
+            {
+                "text": "Liabilities are less than assets",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Balance Sheet' reflects the financial position of a business:",
+        "options": [
+            {
+                "text": "On a specific date",
+                "value": "a"
+            },
+            {
+                "text": "Over a period of time",
+                "value": "b"
+            },
+            {
+                "text": "For the entire financial year",
+                "value": "c"
+            },
+            {
+                "text": "Since the inception of the business",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which equation is the foundation of a Balance Sheet?",
+        "options": [
+            {
+                "text": "Assets = Liabilities + Capital",
+                "value": "a"
+            },
+            {
+                "text": "Income - Expenses = Profit",
+                "value": "b"
+            },
+            {
+                "text": "Debit = Credit",
+                "value": "c"
+            },
+            {
+                "text": "Sales - Purchases = Gross Profit",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Profit & Loss Account' summarizes revenues and expenses:",
+        "options": [
+            {
+                "text": "Over a period of time (e.g., a month or a year)",
+                "value": "a"
+            },
+            {
+                "text": "On the last day of the year",
+                "value": "b"
+            },
+            {
+                "text": "For each individual transaction",
+                "value": "c"
+            },
+            {
+                "text": "For the next accounting period",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The 'Stock Summary' report shows:",
+        "options": [
+            {
+                "text": "The quantity and value of closing stock",
+                "value": "a"
+            },
+            {
+                "text": "The list of all sales made",
+                "value": "b"
+            },
+            {
+                "text": "The list of all purchases made",
+                "value": "c"
+            },
+            {
+                "text": "The profit earned on each item",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What does the 'Drill Down' feature allow you to do in Tally reports?",
+        "options": [
+            {
+                "text": "Move from a summary report to view detailed vouchers",
+                "value": "a"
+            },
+            {
+                "text": "Drill holes in printed reports",
+                "value": "b"
+            },
+            {
+                "text": "Create deeper level groups",
+                "value": "c"
+            },
+            {
+                "text": "Search for specific words",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Alt+F1' key combination is used to:",
+        "options": [
+            {
+                "text": "View detailed report from a summary",
+                "value": "a"
+            },
+            {
+                "text": "Close the current company",
+                "value": "b"
+            },
+            {
+                "text": "Create a new company",
+                "value": "c"
+            },
+            {
+                "text": "Delete a voucher",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "To see the transactions behind a specific ledger account balance, you would:",
+        "options": [
+            {
+                "text": "Select the ledger and press Enter from the Trial Balance",
+                "value": "a"
+            },
+            {
+                "text": "Go to the Balance Sheet",
+                "value": "b"
+            },
+            {
+                "text": "Check the Day Book",
+                "value": "c"
+            },
+            {
+                "text": "Run the Profit & Loss report",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which shortcut key is used to print any report in Tally?",
+        "options": [
+            {
+                "text": "Alt+P",
+                "value": "a"
+            },
+            {
+                "text": "Ctrl+P",
+                "value": "b"
+            },
+            {
+                "text": "F5",
+                "value": "c"
+            },
+            {
+                "text": "Shift+P",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'F12' key is primarily used to:",
+        "options": [
+            {
+                "text": "Configure settings for the current screen or company",
+                "value": "a"
+            },
+            {
+                "text": "Finalize accounts",
+                "value": "b"
+            },
+            {
+                "text": "Find a specific voucher",
+                "value": "c"
+            },
+            {
+                "text": "Fill data automatically",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the function of 'Ctrl+Q'?",
+        "options": [
+            {
+                "text": "To quit a screen without making changes",
+                "value": "a"
+            },
+            {
+                "text": "To quick save a voucher",
+                "value": "b"
+            },
+            {
+                "text": "To query the database",
+                "value": "c"
+            },
+            {
+                "text": "To quit Tally completely",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The 'Alt+R' key combination is used to:",
+        "options": [
+            {
+                "text": "Remove a line in a report",
+                "value": "a"
+            },
+            {
+                "text": "Recall the last narration",
+                "value": "b"
+            },
+            {
+                "text": "Repeat the last transaction",
+                "value": "c"
+            },
+            {
+                "text": "Rename a ledger",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "To insert a voucher in the middle of the Day Book list, you would use:",
+        "options": [
+            {
+                "text": "Alt+I",
+                "value": "a"
+            },
+            {
+                "text": "Ctrl+I",
+                "value": "b"
+            },
+            {
+                "text": "F7",
+                "value": "c"
+            },
+            {
+                "text": "Alt+A",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Multi-lingual' capability of Tally.ERP 9 allows you to:",
+        "options": [
+            {
+                "text": "Maintain, view, and print accounts in different Indian languages",
+                "value": "a"
+            },
+            {
+                "text": "Use Tally in any country in the world",
+                "value": "b"
+            },
+            {
+                "text": "Translate reports into English automatically",
+                "value": "c"
+            },
+            {
+                "text": "Type vouchers using voice commands",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the 'Tally.NET' feature?",
+        "options": [
+            {
+                "text": "To access data remotely without copying the data",
+                "value": "a"
+            },
+            {
+                "text": "To browse the internet from within Tally",
+                "value": "b"
+            },
+            {
+                "text": "To create a website for the company",
+                "value": "c"
+            },
+            {
+                "text": "To send emails to customers",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    }
+]

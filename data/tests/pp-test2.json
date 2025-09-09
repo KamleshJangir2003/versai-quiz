@@ -1,0 +1,1542 @@
+[
+    {
+        "text": "What is the primary purpose of the 'finally' clause in a try-except block?",
+        "options": [
+            {
+                "text": "To handle a specific type of exception",
+                "value": "a"
+            },
+            {
+                "text": "To define the code that might cause an exception",
+                "value": "b"
+            },
+            {
+                "text": "To execute code regardless of whether an exception occurred or not",
+                "value": "c"
+            },
+            {
+                "text": "To skip the rest of the code in the try block",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of the following is a syntax error in Python?",
+        "options": [
+            {
+                "text": "print('Hello World')",
+                "value": "a"
+            },
+            {
+                "text": "print(Hello World)",
+                "value": "b"
+            },
+            {
+                "text": "10 * (1/0)",
+                "value": "c"
+            },
+            {
+                "text": "'2' + 2",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of the following is an exception (runtime error) in Python?",
+        "options": [
+            {
+                "text": "prin('Hello') # Typo in function name",
+                "value": "a"
+            },
+            {
+                "text": "if x > 5: # x is not defined",
+                "value": "b"
+            },
+            {
+                "text": "print('Hello World')",
+                "value": "c"
+            },
+            {
+                "text": "x = 5 + 3",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the main difference between a script and a function?",
+        "options": [
+            {
+                "text": "Scripts are longer than functions.",
+                "value": "a"
+            },
+            {
+                "text": "Functions are stored in separate files, scripts are not.",
+                "value": "b"
+            },
+            {
+                "text": "Functions operate on inputs and return outputs, scripts are a collection of commands.",
+                "value": "c"
+            },
+            {
+                "text": "Scripts use the 'def' keyword.",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "In object-oriented programming (OOP), what is an object?",
+        "options": [
+            {
+                "text": "A standalone function",
+                "value": "a"
+            },
+            {
+                "text": "An instance of a class",
+                "value": "b"
+            },
+            {
+                "text": "A Python module",
+                "value": "c"
+            },
+            {
+                "text": "A variable of type int",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the correct way to create an object 'car1' from a class named 'Car'?",
+        "options": [
+            {
+                "text": "car1 = new Car()",
+                "value": "a"
+            },
+            {
+                "text": "car1 = Car()",
+                "value": "b"
+            },
+            {
+                "text": "car1 = Car.new()",
+                "value": "c"
+            },
+            {
+                "text": "car1 = create.Car()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How do you access the 'color' attribute of an object named 'my_car'?",
+        "options": [
+            {
+                "text": "my_car->color",
+                "value": "a"
+            },
+            {
+                "text": "my_car.color",
+                "value": "b"
+            },
+            {
+                "text": "my_car::color",
+                "value": "c"
+            },
+            {
+                "text": "color(my_car)",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the 'self' parameter in a class method?",
+        "options": [
+            {
+                "text": "It refers to the class itself.",
+                "value": "a"
+            },
+            {
+                "text": "It refers to the parent class.",
+                "value": "b"
+            },
+            {
+                "text": "It is a reference to the current instance of the class.",
+                "value": "c"
+            },
+            {
+                "text": "It is a keyword that must be used in every function.",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which method would you use to add an element to a specific index in a list?",
+        "options": [
+            {
+                "text": ".add()",
+                "value": "a"
+            },
+            {
+                "text": ".insert()",
+                "value": "b"
+            },
+            {
+                "text": ".append()",
+                "value": "c"
+            },
+            {
+                "text": ".push()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What does the 'r' mode stand for in the open() function?",
+        "options": [
+            {
+                "text": "read",
+                "value": "a"
+            },
+            {
+                "text": "write",
+                "value": "b"
+            },
+            {
+                "text": "append",
+                "value": "c"
+            },
+            {
+                "text": "replace",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What does the 'a' mode stand for in the open() function?",
+        "options": [
+            {
+                "text": "add",
+                "value": "a"
+            },
+            {
+                "text": "append",
+                "value": "b"
+            },
+            {
+                "text": "access",
+                "value": "c"
+            },
+            {
+                "text": "alter",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the correct way to read all lines of a file into a list?",
+        "options": [
+            {
+                "text": "file.read()",
+                "value": "a"
+            },
+            {
+                "text": "file.readLines()",
+                "value": "b"
+            },
+            {
+                "text": "file.readlines()",
+                "value": "c"
+            },
+            {
+                "text": "file.getlines()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which character sequence is used to represent a newline in a string?",
+        "options": [
+            {
+                "text": "/n",
+                "value": "a"
+            },
+            {
+                "text": "\\n",
+                "value": "b"
+            },
+            {
+                "text": "newline",
+                "value": "c"
+            },
+            {
+                "text": "\\r",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the main benefit of using a virtual environment?",
+        "options": [
+            {
+                "text": "It makes Python run faster.",
+                "value": "a"
+            },
+            {
+                "text": "It isolates project dependencies to avoid conflicts.",
+                "value": "b"
+            },
+            {
+                "text": "It provides a graphical user interface.",
+                "value": "c"
+            },
+            {
+                "text": "It automatically debugs your code.",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which tool is a package manager specifically for Python packages?",
+        "options": [
+            {
+                "text": "Conda",
+                "value": "a"
+            },
+            {
+                "text": "PIP",
+                "value": "b"
+            },
+            {
+                "text": "npm",
+                "value": "c"
+            },
+            {
+                "text": "Git",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which tool can manage packages and environments for multiple languages, including Python?",
+        "options": [
+            {
+                "text": "PIP",
+                "value": "a"
+            },
+            {
+                "text": "Conda",
+                "value": "b"
+            },
+            {
+                "text": "IDLE",
+                "value": "c"
+            },
+            {
+                "text": "Spyder",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the primary focus of the SciPy library?",
+        "options": [
+            {
+                "text": "Plotting and visualization",
+                "value": "a"
+            },
+            {
+                "text": "Scientific and technical computing",
+                "value": "b"
+            },
+            {
+                "text": "Data analysis and manipulation",
+                "value": "c"
+            },
+            {
+                "text": "Web development",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the primary focus of the Pandas library?",
+        "options": [
+            {
+                "text": "Numerical computations with arrays",
+                "value": "a"
+            },
+            {
+                "text": "Data analysis and manipulation (e.g., with DataFrames)",
+                "value": "b"
+            },
+            {
+                "text": "Scientific computing",
+                "value": "c"
+            },
+            {
+                "text": "2D plotting",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which NumPy function creates an array of numbers within a range with a specified increment?",
+        "options": [
+            {
+                "text": "numpy.array()",
+                "value": "a"
+            },
+            {
+                "text": "numpy.arange()",
+                "value": "b"
+            },
+            {
+                "text": "numpy.sequence()",
+                "value": "c"
+            },
+            {
+                "text": "numpy.linspace()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to generate a sine wave in NumPy?",
+        "options": [
+            {
+                "text": "numpy.sin()",
+                "value": "a"
+            },
+            {
+                "text": "numpy.sine()",
+                "value": "b"
+            },
+            {
+                "text": "math.sin()",
+                "value": "c"
+            },
+            {
+                "text": "math.sine()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does the plt.grid() function do in Matplotlib?",
+        "options": [
+            {
+                "text": "Saves the plot as a grid image",
+                "value": "a"
+            },
+            {
+                "text": "Adds a grid to the plot for easier reading",
+                "value": "b"
+            },
+            {
+                "text": "Creates a subplot grid",
+                "value": "c"
+            },
+            {
+                "text": "Connects data points with grid lines",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to add a legend to a Matplotlib plot?",
+        "options": [
+            {
+                "text": "plt.legend()",
+                "value": "a"
+            },
+            {
+                "text": "plt.showLegend()",
+                "value": "b"
+            },
+            {
+                "text": "plt.addLegend()",
+                "value": "c"
+            },
+            {
+                "text": "plt.label()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the result of the expression: 10 // 3?",
+        "options": [
+            {
+                "text": "3.333...",
+                "value": "a"
+            },
+            {
+                "text": "3",
+                "value": "b"
+            },
+            {
+                "text": "1",
+                "value": "c"
+            },
+            {
+                "text": "30",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the result of the expression: 10 % 3?",
+        "options": [
+            {
+                "text": "3",
+                "value": "a"
+            },
+            {
+                "text": "1",
+                "value": "b"
+            },
+            {
+                "text": "0",
+                "value": "c"
+            },
+            {
+                "text": "3.333...",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which operator has the highest precedence?",
+        "options": [
+            {
+                "text": "+ (addition)",
+                "value": "a"
+            },
+            {
+                "text": "* (multiplication)",
+                "value": "b"
+            },
+            {
+                "text": "** (exponentiation)",
+                "value": "c"
+            },
+            {
+                "text": "= (assignment)",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the output of: print('Hello' + 'World')?",
+        "options": [
+            {
+                "text": "HelloWorld",
+                "value": "a"
+            },
+            {
+                "text": "Hello World",
+                "value": "b"
+            },
+            {
+                "text": "'Hello' + 'World'",
+                "value": "c"
+            },
+            {
+                "text": "An error",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the output of: print('Hello' * 3)?",
+        "options": [
+            {
+                "text": "HelloHelloHello",
+                "value": "a"
+            },
+            {
+                "text": "Hello * 3",
+                "value": "b"
+            },
+            {
+                "text": "3",
+                "value": "c"
+            },
+            {
+                "text": "An error",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which method converts a string to lowercase?",
+        "options": [
+            {
+                "text": ".lower()",
+                "value": "a"
+            },
+            {
+                "text": ".toLower()",
+                "value": "b"
+            },
+            {
+                "text": ".casefold()",
+                "value": "c"
+            },
+            {
+                "text": ".small()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which method replaces a substring within a string?",
+        "options": [
+            {
+                "text": ".swap()",
+                "value": "a"
+            },
+            {
+                "text": ".replace()",
+                "value": "b"
+            },
+            {
+                "text": ".sub()",
+                "value": "c"
+            },
+            {
+                "text": ".change()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method splits a string into a list of substrings based on a separator?",
+        "options": [
+            {
+                "text": ".divide()",
+                "value": "a"
+            },
+            {
+                "text": ".split()",
+                "value": "b"
+            },
+            {
+                "text": ".break()",
+                "value": "c"
+            },
+            {
+                "text": ".list()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the 'pass' statement?",
+        "options": [
+            {
+                "text": "To terminate a loop",
+                "value": "a"
+            },
+            {
+                "text": "To skip the current iteration of a loop",
+                "value": "b"
+            },
+            {
+                "text": "To act as a placeholder for future code (a null operation)",
+                "value": "c"
+            },
+            {
+                "text": "To raise an exception",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the 'break' statement?",
+        "options": [
+            {
+                "text": "To exit the current loop prematurely",
+                "value": "a"
+            },
+            {
+                "text": "To skip the current iteration and continue to the next",
+                "value": "b"
+            },
+            {
+                "text": "To create an error",
+                "value": "c"
+            },
+            {
+                "text": "To pause the program",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the 'continue' statement?",
+        "options": [
+            {
+                "text": "To exit the current loop",
+                "value": "a"
+            },
+            {
+                "text": "To skip the rest of the current iteration and move to the next",
+                "value": "b"
+            },
+            {
+                "text": "To exit the program",
+                "value": "c"
+            },
+            {
+                "text": "To create an error",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which data type is mutable (can be changed after creation)?",
+        "options": [
+            {
+                "text": "int",
+                "value": "a"
+            },
+            {
+                "text": "str",
+                "value": "b"
+            },
+            {
+                "text": "tuple",
+                "value": "c"
+            },
+            {
+                "text": "list",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which data type is immutable (cannot be changed after creation)?",
+        "options": [
+            {
+                "text": "list",
+                "value": "a"
+            },
+            {
+                "text": "dict",
+                "value": "b"
+            },
+            {
+                "text": "tuple",
+                "value": "c"
+            },
+            {
+                "text": "set",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is a tuple?",
+        "options": [
+            {
+                "text": "An ordered, immutable collection of items",
+                "value": "a"
+            },
+            {
+                "text": "An unordered, mutable collection of unique items",
+                "value": "b"
+            },
+            {
+                "text": "An ordered, mutable collection of items",
+                "value": "c"
+            },
+            {
+                "text": "A key-value pair collection",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How is a tuple defined?",
+        "options": [
+            {
+                "text": "With square brackets: [1, 2, 3]",
+                "value": "a"
+            },
+            {
+                "text": "With curly braces: {1, 2, 3}",
+                "value": "b"
+            },
+            {
+                "text": "With parentheses: (1, 2, 3)",
+                "value": "c"
+            },
+            {
+                "text": "With angle brackets: <1, 2, 3>",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is a set?",
+        "options": [
+            {
+                "text": "An ordered, mutable collection",
+                "value": "a"
+            },
+            {
+                "text": "An unordered collection of unique items",
+                "value": "b"
+            },
+            {
+                "text": "A key-value pair collection",
+                "value": "c"
+            },
+            {
+                "text": "An immutable collection",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How is a set defined?",
+        "options": [
+            {
+                "text": "With square brackets: [1, 2, 3]",
+                "value": "a"
+            },
+            {
+                "text": "With curly braces: {1, 2, 3}",
+                "value": "b"
+            },
+            {
+                "text": "With parentheses: (1, 2, 3)",
+                "value": "c"
+            },
+            {
+                "text": "With the set() function",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is a dictionary?",
+        "options": [
+            {
+                "text": "An ordered collection of items",
+                "value": "a"
+            },
+            {
+                "text": "An unordered collection of unique items",
+                "value": "b"
+            },
+            {
+                "text": "A collection of key-value pairs",
+                "value": "c"
+            },
+            {
+                "text": "An immutable sequence",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "How is a dictionary defined?",
+        "options": [
+            {
+                "text": "With square brackets: ['key': 'value']",
+                "value": "a"
+            },
+            {
+                "text": "With curly braces: {'key': 'value'}",
+                "value": "b"
+            },
+            {
+                "text": "With parentheses: ('key', 'value')",
+                "value": "c"
+            },
+            {
+                "text": "With the dict() function only",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How do you access the value for the key 'name' in a dictionary 'person'?",
+        "options": [
+            {
+                "text": "person('name')",
+                "value": "a"
+            },
+            {
+                "text": "person['name']",
+                "value": "b"
+            },
+            {
+                "text": "person.name",
+                "value": "c"
+            },
+            {
+                "text": "person->name",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What will 'list(range(3, 8, 2))' generate?",
+        "options": [
+            {
+                "text": "[3, 4, 5, 6, 7]",
+                "value": "a"
+            },
+            {
+                "text": "[3, 5, 7]",
+                "value": "b"
+            },
+            {
+                "text": "[2, 4, 6, 8]",
+                "value": "c"
+            },
+            {
+                "text": "[3, 8, 2]",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is a lambda function?",
+        "options": [
+            {
+                "text": "A large, complex function",
+                "value": "a"
+            },
+            {
+                "text": "A small anonymous function defined with the lambda keyword",
+                "value": "b"
+            },
+            {
+                "text": "A function that is part of a class",
+                "value": "c"
+            },
+            {
+                "text": "A function that handles errors",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the correct syntax for a lambda function that adds two numbers?",
+        "options": [
+            {
+                "text": "lambda x, y: x + y",
+                "value": "a"
+            },
+            {
+                "text": "def lambda(x, y): return x + y",
+                "value": "b"
+            },
+            {
+                "text": "lambda (x, y) { return x + y; }",
+                "value": "c"
+            },
+            {
+                "text": "function lambda(x, y) => x + y",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the global interpreter lock (GIL) in Python?",
+        "options": [
+            {
+                "text": "A tool for locking files",
+                "value": "a"
+            },
+            {
+                "text": "A mechanism that allows only one thread to execute Python bytecode at a time",
+                "value": "b"
+            },
+            {
+                "text": "A security feature for modules",
+                "value": "c"
+            },
+            {
+                "text": "A type of error",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which of these is a benefit of using functions?",
+        "options": [
+            {
+                "text": "They make the code run faster.",
+                "value": "a"
+            },
+            {
+                "text": "They allow code reuse and reduce redundancy.",
+                "value": "b"
+            },
+            {
+                "text": "They automatically handle all errors.",
+                "value": "c"
+            },
+            {
+                "text": "They are only useful for very large programs.",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is a docstring?",
+        "options": [
+            {
+                "text": "A string used for documentation, enclosed in triple quotes",
+                "value": "a"
+            },
+            {
+                "text": "A string that contains code",
+                "value": "b"
+            },
+            {
+                "text": "A string that causes an error",
+                "value": "c"
+            },
+            {
+                "text": "A string used for debugging",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Where is a docstring typically placed?",
+        "options": [
+            {
+                "text": "At the very end of a file",
+                "value": "a"
+            },
+            {
+                "text": "At the beginning of a file",
+                "value": "b"
+            },
+            {
+                "text": "Right after the function or class definition",
+                "value": "c"
+            },
+            {
+                "text": "Inside a loop",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the _name_ variable?",
+        "options": [
+            {
+                "text": "It stores the name of the current user.",
+                "value": "a"
+            },
+            {
+                "text": "It is set to '_main_' if the module is run as the main program.",
+                "value": "b"
+            },
+            {
+                "text": "It holds the name of the operating system.",
+                "value": "c"
+            },
+            {
+                "text": "It is used to name variables dynamically.",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does the line 'if _name_ == \"_main_\":' do?",
+        "options": [
+            {
+                "text": "It checks if the script is being imported.",
+                "value": "a"
+            },
+            {
+                "text": "It checks if the script is being run directly.",
+                "value": "b"
+            },
+            {
+                "text": "It is required in every Python script.",
+                "value": "c"
+            },
+            {
+                "text": "It defines the main function.",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the main use of the 'random' module?",
+        "options": [
+            {
+                "text": "To generate random numbers",
+                "value": "a"
+            },
+            {
+                "text": "To put the program to sleep",
+                "value": "b"
+            },
+            {
+                "text": "To access system-specific parameters",
+                "value": "c"
+            },
+            {
+                "text": "To perform mathematical operations",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to generate a random integer between a and b (inclusive)?",
+        "options": [
+            {
+                "text": "random.number(a, b)",
+                "value": "a"
+            },
+            {
+                "text": "random.randint(a, b)",
+                "value": "b"
+            },
+            {
+                "text": "random.int(a, b)",
+                "value": "c"
+            },
+            {
+                "text": "random.random(a, b)",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does the random.random() function return?",
+        "options": [
+            {
+                "text": "A random integer between 0 and 1",
+                "value": "a"
+            },
+            {
+                "text": "A random float between 0.0 and 1.0",
+                "value": "b"
+            },
+            {
+                "text": "A random float between 0.0 and 100.0",
+                "value": "c"
+            },
+            {
+                "text": "A random choice from a list",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to get the current date and time?",
+        "options": [
+            {
+                "text": "datetime.now()",
+                "value": "a"
+            },
+            {
+                "text": "time.current()",
+                "value": "b"
+            },
+            {
+                "text": "datetime.today()",
+                "value": "c"
+            },
+            {
+                "text": "os.time()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which module is commonly used for working with dates and times?",
+        "options": [
+            {
+                "text": "time",
+                "value": "a"
+            },
+            {
+                "text": "datetime",
+                "value": "b"
+            },
+            {
+                "text": "calendar",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the correct way to create a new directory using the 'os' module?",
+        "options": [
+            {
+                "text": "os.create_dir('newdir')",
+                "value": "a"
+            },
+            {
+                "text": "os.mkdir('newdir')",
+                "value": "b"
+            },
+            {
+                "text": "os.make_directory('newdir')",
+                "value": "c"
+            },
+            {
+                "text": "os.newdir('newdir')",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the 'sys' module?",
+        "options": [
+            {
+                "text": "To provide access to system-specific parameters and functions",
+                "value": "a"
+            },
+            {
+                "text": "To perform symbolic mathematics",
+                "value": "b"
+            },
+            {
+                "text": "To create graphical user interfaces",
+                "value": "c"
+            },
+            {
+                "text": "To handle regular expressions",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which list method removes and returns the last item?",
+        "options": [
+            {
+                "text": ".remove()",
+                "value": "a"
+            },
+            {
+                "text": ".pop()",
+                "value": "b"
+            },
+            {
+                "text": ".delete()",
+                "value": "c"
+            },
+            {
+                "text": ".cut()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which list method removes the first occurrence of a value?",
+        "options": [
+            {
+                "text": ".pop()",
+                "value": "a"
+            },
+            {
+                "text": ".delete()",
+                "value": "b"
+            },
+            {
+                "text": ".remove()",
+                "value": "c"
+            },
+            {
+                "text": ".discard()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which method returns the number of times a value appears in a list?",
+        "options": [
+            {
+                "text": ".count()",
+                "value": "a"
+            },
+            {
+                "text": ".total()",
+                "value": "b"
+            },
+            {
+                "text": ".occurrences()",
+                "value": "c"
+            },
+            {
+                "text": ".len()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method reverses the elements of a list in place?",
+        "options": [
+            {
+                "text": ".reverse()",
+                "value": "a"
+            },
+            {
+                "text": ".revert()",
+                "value": "b"
+            },
+            {
+                "text": ".flip()",
+                "value": "c"
+            },
+            {
+                "text": ".backwards()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method returns a sorted copy of a list?",
+        "options": [
+            {
+                "text": ".sort()",
+                "value": "a"
+            },
+            {
+                "text": "sorted()",
+                "value": "b"
+            },
+            {
+                "text": ".order()",
+                "value": "c"
+            },
+            {
+                "text": ".arrange()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the main difference between .sort() and sorted()?",
+        "options": [
+            {
+                "text": ".sort() works on strings, sorted() works on numbers.",
+                "value": "a"
+            },
+            {
+                "text": ".sort() modifies the original list, sorted() returns a new list.",
+                "value": "b"
+            },
+            {
+                "text": ".sort() is faster than sorted().",
+                "value": "c"
+            },
+            {
+                "text": "There is no difference.",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which part of the Spyder IDE shows currently defined variables and their values?",
+        "options": [
+            {
+                "text": "Code Editor",
+                "value": "a"
+            },
+            {
+                "text": "IPython Console",
+                "value": "b"
+            },
+            {
+                "text": "Variable Explorer",
+                "value": "c"
+            },
+            {
+                "text": "File Explorer",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Visual Studio Code is a...",
+        "options": [
+            {
+                "text": "Python-specific IDE",
+                "value": "a"
+            },
+            {
+                "text": "Source code editor that supports many languages, including Python",
+                "value": "b"
+            },
+            {
+                "text": "Python distribution",
+                "value": "c"
+            },
+            {
+                "text": "Database management tool",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Jupyter Notebook is...",
+        "options": [
+            {
+                "text": "A compiled Python program",
+                "value": "a"
+            },
+            {
+                "text": "A web-based interactive computational environment",
+                "value": "b"
+            },
+            {
+                "text": "A Python package manager",
+                "value": "c"
+            },
+            {
+                "text": "A type of Python variable",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which constant from the math module represents the ratio of a circle's circumference to its diameter?",
+        "options": [
+            {
+                "text": "math.e",
+                "value": "a"
+            },
+            {
+                "text": "math.pi",
+                "value": "b"
+            },
+            {
+                "text": "math.tau",
+                "value": "c"
+            },
+            {
+                "text": "math.inf",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function from the math module is used to calculate the square root?",
+        "options": [
+            {
+                "text": "math.root",
+                "value": "a"
+            },
+            {
+                "text": "math.sqrt",
+                "value": "b"
+            },
+            {
+                "text": "math.pow(x, 0.5)",
+                "value": "c"
+            },
+            {
+                "text": "math.squareRoot",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which library is built on NumPy and provides functions for statistical analysis?",
+        "options": [
+            {
+                "text": "Matplotlib",
+                "value": "a"
+            },
+            {
+                "text": "SciPy",
+                "value": "b"
+            },
+            {
+                "text": "Pandas",
+                "value": "c"
+            },
+            {
+                "text": "Statistics",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    }
+]

@@ -1,0 +1,1102 @@
+[
+    {
+        "text": "Which of the following is NOT a valid way to escape to PHP?",
+        "options": [
+            {
+                "text": "<?php ... ?>",
+                "value": "a"
+            },
+            {
+                "text": "<script language=\"php\">...</script>",
+                "value": "b"
+            },
+            {
+                "text": "<% ... %>",
+                "value": "c"
+            },
+            {
+                "text": "<? ... ?>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the correct way to create a function in PHP?",
+        "options": [
+            {
+                "text": "function myFunction() {}",
+                "value": "a"
+            },
+            {
+                "text": "def myFunction():",
+                "value": "b"
+            },
+            {
+                "text": "create function myFunction() {}",
+                "value": "c"
+            },
+            {
+                "text": "func myFunction() {}",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which of the following variable names is valid in PHP?",
+        "options": [
+            {
+                "text": "$my-variable",
+                "value": "a"
+            },
+            {
+                "text": "$my variable",
+                "value": "b"
+            },
+            {
+                "text": "$my_variable",
+                "value": "c"
+            },
+            {
+                "text": "$123variable",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does the following code output? <?php echo 'Hello' . 'World'; ?>",
+        "options": [
+            {
+                "text": "Hello World",
+                "value": "a"
+            },
+            {
+                "text": "HelloWorld",
+                "value": "b"
+            },
+            {
+                "text": "Hello.World",
+                "value": "c"
+            },
+            {
+                "text": "Nothing, it causes an error",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to check if a variable is set and not null?",
+        "options": [
+            {
+                "text": "isset()",
+                "value": "a"
+            },
+            {
+                "text": "empty()",
+                "value": "b"
+            },
+            {
+                "text": "is_null()",
+                "value": "c"
+            },
+            {
+                "text": "defined()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the result of (bool) 'false' in PHP?",
+        "options": [
+            {
+                "text": "false",
+                "value": "a"
+            },
+            {
+                "text": "true",
+                "value": "b"
+            },
+            {
+                "text": "0",
+                "value": "c"
+            },
+            {
+                "text": "null",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which operator has the highest precedence in PHP?",
+        "options": [
+            {
+                "text": "&& (logical AND)",
+                "value": "a"
+            },
+            {
+                "text": "= (assignment)",
+                "value": "b"
+            },
+            {
+                "text": "== (equality)",
+                "value": "c"
+            },
+            {
+                "text": "++ (increment)",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the purpose of the break statement in a switch construct?",
+        "options": [
+            {
+                "text": "To terminate the entire script",
+                "value": "a"
+            },
+            {
+                "text": "To skip the current iteration and continue with the next",
+                "value": "b"
+            },
+            {
+                "text": "To prevent fall-through to the next case",
+                "value": "c"
+            },
+            {
+                "text": "To exit the current loop",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to find the position of the first occurrence of a substring in a string?",
+        "options": [
+            {
+                "text": "strpos()",
+                "value": "a"
+            },
+            {
+                "text": "strfind()",
+                "value": "b"
+            },
+            {
+                "text": "findstr()",
+                "value": "c"
+            },
+            {
+                "text": "substr()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does the following code output? <?php $x = 5; echo $x++ + ++$x; ?>",
+        "options": [
+            {
+                "text": "10",
+                "value": "a"
+            },
+            {
+                "text": "11",
+                "value": "b"
+            },
+            {
+                "text": "12",
+                "value": "c"
+            },
+            {
+                "text": "13",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of the following is used to declare a global variable inside a function?",
+        "options": [
+            {
+                "text": "global $var;",
+                "value": "a"
+            },
+            {
+                "text": "$GLOBALS['var'];",
+                "value": "b"
+            },
+            {
+                "text": "Both a and b",
+                "value": "c"
+            },
+            {
+                "text": "Neither a nor b",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the output of echo (int) ((0.1 + 0.7) * 10); ?",
+        "options": [
+            {
+                "text": "7",
+                "value": "a"
+            },
+            {
+                "text": "8",
+                "value": "b"
+            },
+            {
+                "text": "7.999999999999999",
+                "value": "c"
+            },
+            {
+                "text": "8.0",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function is used to get the number of elements in an array?",
+        "options": [
+            {
+                "text": "length()",
+                "value": "a"
+            },
+            {
+                "text": "size()",
+                "value": "b"
+            },
+            {
+                "text": "count()",
+                "value": "c"
+            },
+            {
+                "text": "sizeof()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the continue statement in a loop?",
+        "options": [
+            {
+                "text": "To terminate the loop immediately",
+                "value": "a"
+            },
+            {
+                "text": "To skip the current iteration and continue with the next",
+                "value": "b"
+            },
+            {
+                "text": "To restart the loop from the beginning",
+                "value": "c"
+            },
+            {
+                "text": "To exit the current function",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which of the following is NOT a valid PHP magic constant?",
+        "options": [
+            {
+                "text": "_LINE_",
+                "value": "a"
+            },
+            {
+                "text": "_FILE_",
+                "value": "b"
+            },
+            {
+                "text": "_FUNCTION_",
+                "value": "c"
+            },
+            {
+                "text": "_CONSTANT_",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does the following code output? <?php $arr = array(1, 2, 3); echo $arr[3]; ?>",
+        "options": [
+            {
+                "text": "3",
+                "value": "a"
+            },
+            {
+                "text": "null",
+                "value": "b"
+            },
+            {
+                "text": "An error",
+                "value": "c"
+            },
+            {
+                "text": "0",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to convert a string to lowercase?",
+        "options": [
+            {
+                "text": "strtolower()",
+                "value": "a"
+            },
+            {
+                "text": "lowercase()",
+                "value": "b"
+            },
+            {
+                "text": "strlower()",
+                "value": "c"
+            },
+            {
+                "text": "toLower()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the default method for form submission if not specified?",
+        "options": [
+            {
+                "text": "GET",
+                "value": "a"
+            },
+            {
+                "text": "POST",
+                "value": "b"
+            },
+            {
+                "text": "REQUEST",
+                "value": "c"
+            },
+            {
+                "text": "PUT",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to get the current time stamp?",
+        "options": [
+            {
+                "text": "time()",
+                "value": "a"
+            },
+            {
+                "text": "now()",
+                "value": "b"
+            },
+            {
+                "text": "timestamp()",
+                "value": "c"
+            },
+            {
+                "text": "date()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the static keyword when used with variables inside functions?",
+        "options": [
+            {
+                "text": "To make the variable accessible globally",
+                "value": "a"
+            },
+            {
+                "text": "To preserve the variable's value between function calls",
+                "value": "b"
+            },
+            {
+                "text": "To make the variable constant",
+                "value": "c"
+            },
+            {
+                "text": "To prevent the variable from being modified",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to remove whitespace or other characters from the beginning and end of a string?",
+        "options": [
+            {
+                "text": "trim()",
+                "value": "a"
+            },
+            {
+                "text": "clean()",
+                "value": "b"
+            },
+            {
+                "text": "strip()",
+                "value": "c"
+            },
+            {
+                "text": "remove()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the output of echo 1 <=> 1; ?",
+        "options": [
+            {
+                "text": "-1",
+                "value": "a"
+            },
+            {
+                "text": "0",
+                "value": "b"
+            },
+            {
+                "text": "1",
+                "value": "c"
+            },
+            {
+                "text": "true",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function is used to encode a string for use in a URL?",
+        "options": [
+            {
+                "text": "urlencode()",
+                "value": "a"
+            },
+            {
+                "text": "encode_url()",
+                "value": "b"
+            },
+            {
+                "text": "string_encode()",
+                "value": "c"
+            },
+            {
+                "text": "htmlencode()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the @ operator in PHP?",
+        "options": [
+            {
+                "text": "To suppress error messages",
+                "value": "a"
+            },
+            {
+                "text": "To reference variables",
+                "value": "b"
+            },
+            {
+                "text": "To indicate a static method",
+                "value": "c"
+            },
+            {
+                "text": "To create an array",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to format a number with grouped thousands?",
+        "options": [
+            {
+                "text": "number_format()",
+                "value": "a"
+            },
+            {
+                "text": "format_number()",
+                "value": "b"
+            },
+            {
+                "text": "money_format()",
+                "value": "c"
+            },
+            {
+                "text": "format()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the output of echo '5' + '5'; ?",
+        "options": [
+            {
+                "text": "55",
+                "value": "a"
+            },
+            {
+                "text": "10",
+                "value": "b"
+            },
+            {
+                "text": "5+5",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to get the type of a variable?",
+        "options": [
+            {
+                "text": "gettype()",
+                "value": "a"
+            },
+            {
+                "text": "vartype()",
+                "value": "b"
+            },
+            {
+                "text": "type()",
+                "value": "c"
+            },
+            {
+                "text": "typeof()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the purpose of the exit() function?",
+        "options": [
+            {
+                "text": "To terminate the current script",
+                "value": "a"
+            },
+            {
+                "text": "To exit a loop",
+                "value": "b"
+            },
+            {
+                "text": "To close a database connection",
+                "value": "c"
+            },
+            {
+                "text": "To log out a user",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to check if a file exists?",
+        "options": [
+            {
+                "text": "file_exists()",
+                "value": "a"
+            },
+            {
+                "text": "exists()",
+                "value": "b"
+            },
+            {
+                "text": "is_file()",
+                "value": "c"
+            },
+            {
+                "text": "check_file()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the output of echo (0.1 + 0.2 == 0.3) ? 'true' : 'false'; ?",
+        "options": [
+            {
+                "text": "true",
+                "value": "a"
+            },
+            {
+                "text": "false",
+                "value": "b"
+            },
+            {
+                "text": "0.3",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to serialize a variable into a storable representation?",
+        "options": [
+            {
+                "text": "serialize()",
+                "value": "a"
+            },
+            {
+                "text": "stringify()",
+                "value": "b"
+            },
+            {
+                "text": "encode()",
+                "value": "c"
+            },
+            {
+                "text": "pack()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the unset() function?",
+        "options": [
+            {
+                "text": "To delete a file",
+                "value": "a"
+            },
+            {
+                "text": "To destroy a variable",
+                "value": "b"
+            },
+            {
+                "text": "To remove an array element",
+                "value": "c"
+            },
+            {
+                "text": "Both b and c",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function is used to get the current directory?",
+        "options": [
+            {
+                "text": "getcwd()",
+                "value": "a"
+            },
+            {
+                "text": "cwd()",
+                "value": "b"
+            },
+            {
+                "text": "pwd()",
+                "value": "c"
+            },
+            {
+                "text": "current_dir()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the output of echo 1 . 2 + 3 . 4; ?",
+        "options": [
+            {
+                "text": "1234",
+                "value": "a"
+            },
+            {
+                "text": "15.4",
+                "value": "b"
+            },
+            {
+                "text": "54",
+                "value": "c"
+            },
+            {
+                "text": "15",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to get the last element of an array?",
+        "options": [
+            {
+                "text": "end()",
+                "value": "a"
+            },
+            {
+                "text": "last()",
+                "value": "b"
+            },
+            {
+                "text": "array_end()",
+                "value": "c"
+            },
+            {
+                "text": "array_last()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the extract() function?",
+        "options": [
+            {
+                "text": "To import variables from an array into the current symbol table",
+                "value": "a"
+            },
+            {
+                "text": "To extract a substring from a string",
+                "value": "b"
+            },
+            {
+                "text": "To unzip a compressed file",
+                "value": "c"
+            },
+            {
+                "text": "To remove whitespace from a string",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to get the first element of an array?",
+        "options": [
+            {
+                "text": "reset()",
+                "value": "a"
+            },
+            {
+                "text": "first()",
+                "value": "b"
+            },
+            {
+                "text": "array_first()",
+                "value": "c"
+            },
+            {
+                "text": "begin()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo null ?? 'default'; ?",
+        "options": [
+            {
+                "text": "null",
+                "value": "a"
+            },
+            {
+                "text": "default",
+                "value": "b"
+            },
+            {
+                "text": "0",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to convert a string to an array?",
+        "options": [
+            {
+                "text": "str_split()",
+                "value": "a"
+            },
+            {
+                "text": "split()",
+                "value": "b"
+            },
+            {
+                "text": "explode()",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the implode() function?",
+        "options": [
+            {
+                "text": "To join array elements with a string",
+                "value": "a"
+            },
+            {
+                "text": "To split a string into an array",
+                "value": "b"
+            },
+            {
+                "text": "To compress a string",
+                "value": "c"
+            },
+            {
+                "text": "To encrypt a string",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to get the ASCII value of a character?",
+        "options": [
+            {
+                "text": "ord()",
+                "value": "a"
+            },
+            {
+                "text": "chr()",
+                "value": "b"
+            },
+            {
+                "text": "ascii()",
+                "value": "c"
+            },
+            {
+                "text": "char()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the output of echo 1 + '2abc'; ?",
+        "options": [
+            {
+                "text": "3",
+                "value": "a"
+            },
+            {
+                "text": "12abc",
+                "value": "b"
+            },
+            {
+                "text": "1abc",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function is used to get the character for a specific ASCII value?",
+        "options": [
+            {
+                "text": "chr()",
+                "value": "a"
+            },
+            {
+                "text": "ord()",
+                "value": "b"
+            },
+            {
+                "text": "char()",
+                "value": "c"
+            },
+            {
+                "text": "ascii()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the array_map() function?",
+        "options": [
+            {
+                "text": "To apply a callback function to the elements of an array",
+                "value": "a"
+            },
+            {
+                "text": "To create a new array with specified keys and values",
+                "value": "b"
+            },
+            {
+                "text": "To sort an array",
+                "value": "c"
+            },
+            {
+                "text": "To filter an array",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to get the maximum value in an array?",
+        "options": [
+            {
+                "text": "max()",
+                "value": "a"
+            },
+            {
+                "text": "maximum()",
+                "value": "b"
+            },
+            {
+                "text": "array_max()",
+                "value": "c"
+            },
+            {
+                "text": "get_max()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the output of echo true ? 'a' : 'b' ? 'c' : 'd'; ?",
+        "options": [
+            {
+                "text": "a",
+                "value": "a"
+            },
+            {
+                "text": "b",
+                "value": "b"
+            },
+            {
+                "text": "c",
+                "value": "c"
+            },
+            {
+                "text": "d",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to get the minimum value in an array?",
+        "options": [
+            {
+                "text": "min()",
+                "value": "a"
+            },
+            {
+                "text": "minimum()",
+                "value": "b"
+            },
+            {
+                "text": "array_min()",
+                "value": "c"
+            },
+            {
+                "text": "get_min()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the array_filter() function?",
+        "options": [
+            {
+                "text": "To filter elements of an array using a callback function",
+                "value": "a"
+            },
+            {
+                "text": "To remove empty elements from an array",
+                "value": "b"
+            },
+            {
+                "text": "To sort an array",
+                "value": "c"
+            },
+            {
+                "text": "To merge arrays",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function is used to get the sum of values in an array?",
+        "options": [
+            {
+                "text": "array_sum()",
+                "value": "a"
+            },
+            {
+                "text": "sum()",
+                "value": "b"
+            },
+            {
+                "text": "array_total()",
+                "value": "c"
+            },
+            {
+                "text": "total()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the output of echo 'a' <=> 'b'; ?",
+        "options": [
+            {
+                "text": "-1",
+                "value": "a"
+            },
+            {
+                "text": "0",
+                "value": "b"
+            },
+            {
+                "text": "1",
+                "value": "c"
+            },
+            {
+                "text": "a",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    }
+]

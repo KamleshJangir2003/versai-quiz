@@ -1,0 +1,1102 @@
+[
+    {
+        "text": "Python is an example of what type of programming language?",
+        "options": [
+            {
+                "text": "Compiled",
+                "value": "a"
+            },
+            {
+                "text": "Interpreted",
+                "value": "b"
+            },
+            {
+                "text": "Binary",
+                "value": "c"
+            },
+            {
+                "text": "Assembly",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of the following is NOT a major platform that Python works on?",
+        "options": [
+            {
+                "text": "Windows",
+                "value": "a"
+            },
+            {
+                "text": "macOS",
+                "value": "b"
+            },
+            {
+                "text": "Linux",
+                "value": "c"
+            },
+            {
+                "text": "iOS",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the main advantage of an interpreted language like Python?",
+        "options": [
+            {
+                "text": "It runs faster than compiled languages.",
+                "value": "a"
+            },
+            {
+                "text": "It is easier to test small sections of code without recompiling.",
+                "value": "b"
+            },
+            {
+                "text": "It produces smaller executable files.",
+                "value": "c"
+            },
+            {
+                "text": "It is more secure.",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which of these is a fundamental package for scientific computing in Python?",
+        "options": [
+            {
+                "text": "Matplotlib",
+                "value": "a"
+            },
+            {
+                "text": "NumPy",
+                "value": "b"
+            },
+            {
+                "text": "Pandas",
+                "value": "c"
+            },
+            {
+                "text": "SciPy",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does the Anaconda distribution provide?",
+        "options": [
+            {
+                "text": "Only the Python interpreter",
+                "value": "a"
+            },
+            {
+                "text": "Python, common packages, and tools like Spyder in one installation",
+                "value": "b"
+            },
+            {
+                "text": "A specialized Python editor for web development",
+                "value": "c"
+            },
+            {
+                "text": "A paid enterprise version of Python",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which of these is the basic code editor included with the standard Python installation from python.org?",
+        "options": [
+            {
+                "text": "Spyder",
+                "value": "a"
+            },
+            {
+                "text": "PyCharm",
+                "value": "b"
+            },
+            {
+                "text": "IDLE",
+                "value": "c"
+            },
+            {
+                "text": "Visual Studio Code",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What command is used to output text to the screen in Python?",
+        "options": [
+            {
+                "text": "echo()",
+                "value": "a"
+            },
+            {
+                "text": "output()",
+                "value": "b"
+            },
+            {
+                "text": "print()",
+                "value": "c"
+            },
+            {
+                "text": "write()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of the following is a valid variable name in Python?",
+        "options": [
+            {
+                "text": "2nd_variable",
+                "value": "a"
+            },
+            {
+                "text": "my-variable",
+                "value": "b"
+            },
+            {
+                "text": "_myvariable",
+                "value": "c"
+            },
+            {
+                "text": "global",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What will be the data type of the variable 'y = 2.8'?",
+        "options": [
+            {
+                "text": "int",
+                "value": "a"
+            },
+            {
+                "text": "float",
+                "value": "b"
+            },
+            {
+                "text": "str",
+                "value": "c"
+            },
+            {
+                "text": "complex",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which method is used to get the length of a string?",
+        "options": [
+            {
+                "text": ".length()",
+                "value": "a"
+            },
+            {
+                "text": ".size()",
+                "value": "b"
+            },
+            {
+                "text": ".len()",
+                "value": "c"
+            },
+            {
+                "text": "len()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "How do you get input from the user in Python?",
+        "options": [
+            {
+                "text": "scanf()",
+                "value": "a"
+            },
+            {
+                "text": "input()",
+                "value": "b"
+            },
+            {
+                "text": "read()",
+                "value": "c"
+            },
+            {
+                "text": "get()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How do you import the entire math module to use its functions?",
+        "options": [
+            {
+                "text": "include math",
+                "value": "a"
+            },
+            {
+                "text": "import math",
+                "value": "b"
+            },
+            {
+                "text": "using math",
+                "value": "c"
+            },
+            {
+                "text": "require math",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "If you import a module as 'import numpy as np', how do you call its sin function?",
+        "options": [
+            {
+                "text": "sin(x)",
+                "value": "a"
+            },
+            {
+                "text": "numpy.sin(x)",
+                "value": "b"
+            },
+            {
+                "text": "np.sin(x)",
+                "value": "c"
+            },
+            {
+                "text": "num.py.sin(x)",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which library is commonly used for plotting in Python?",
+        "options": [
+            {
+                "text": "NumPy",
+                "value": "a"
+            },
+            {
+                "text": "PlotPy",
+                "value": "b"
+            },
+            {
+                "text": "Matplotlib",
+                "value": "c"
+            },
+            {
+                "text": "GraphLib",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to create a plot?",
+        "options": [
+            {
+                "text": "plt.draw()",
+                "value": "a"
+            },
+            {
+                "text": "plt.show()",
+                "value": "b"
+            },
+            {
+                "text": "plt.plot()",
+                "value": "c"
+            },
+            {
+                "text": "plt.create()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What does the plt.show() function do?",
+        "options": [
+            {
+                "text": "Hides the plot window",
+                "value": "a"
+            },
+            {
+                "text": "Saves the plot to a file",
+                "value": "b"
+            },
+            {
+                "text": "Displays the plot on the screen",
+                "value": "c"
+            },
+            {
+                "text": "Sets the plot title",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "How do you create a 2x1 grid of subplots and activate the top plot?",
+        "options": [
+            {
+                "text": "plt.subplot(1, 2, 1)",
+                "value": "a"
+            },
+            {
+                "text": "plt.subplot(2, 1, 1)",
+                "value": "b"
+            },
+            {
+                "text": "plt.subplot(1, 2, 2)",
+                "value": "c"
+            },
+            {
+                "text": "plt.subplot(2, 1, 2)",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the correct syntax for an 'if' statement in Python?",
+        "options": [
+            {
+                "text": "if (a > b) {}",
+                "value": "a"
+            },
+            {
+                "text": "if a > b:",
+                "value": "b"
+            },
+            {
+                "text": "if a > b then",
+                "value": "c"
+            },
+            {
+                "text": "if a > b;",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What keyword is used in Python for 'else if'?",
+        "options": [
+            {
+                "text": "elseif",
+                "value": "a"
+            },
+            {
+                "text": "elif",
+                "value": "b"
+            },
+            {
+                "text": "else if",
+                "value": "c"
+            },
+            {
+                "text": "elsif",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How do you create a list (array) in Python?",
+        "options": [
+            {
+                "text": "data = (1, 2, 3)",
+                "value": "a"
+            },
+            {
+                "text": "data = [1, 2, 3]",
+                "value": "b"
+            },
+            {
+                "text": "data = {1, 2, 3}",
+                "value": "c"
+            },
+            {
+                "text": "data = <1, 2, 3>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How do you find the number of elements in a list called 'mylist'?",
+        "options": [
+            {
+                "text": "mylist.count",
+                "value": "a"
+            },
+            {
+                "text": "count(mylist)",
+                "value": "b"
+            },
+            {
+                "text": "len(mylist)",
+                "value": "c"
+            },
+            {
+                "text": "mylist.length",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which method adds an element to the end of a list?",
+        "options": [
+            {
+                "text": ".add()",
+                "value": "a"
+            },
+            {
+                "text": ".insert()",
+                "value": "b"
+            },
+            {
+                "text": ".append()",
+                "value": "c"
+            },
+            {
+                "text": ".push()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What does the range(5) function generate?",
+        "options": [
+            {
+                "text": "[0, 1, 2, 3, 4]",
+                "value": "a"
+            },
+            {
+                "text": "[1, 2, 3, 4, 5]",
+                "value": "b"
+            },
+            {
+                "text": "[5, 6, 7, 8, 9]",
+                "value": "c"
+            },
+            {
+                "text": "[0, 1, 2, 3, 4, 5]",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of a 'for' loop?",
+        "options": [
+            {
+                "text": "To execute code as long as a condition is true",
+                "value": "a"
+            },
+            {
+                "text": "To iterate over a sequence (like a list) a specific number of times",
+                "value": "b"
+            },
+            {
+                "text": "To define a function",
+                "value": "c"
+            },
+            {
+                "text": "To handle errors",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of a 'while' loop?",
+        "options": [
+            {
+                "text": "To iterate over a sequence (like a list)",
+                "value": "a"
+            },
+            {
+                "text": "To execute code as long as a condition is true",
+                "value": "b"
+            },
+            {
+                "text": "To define a function",
+                "value": "c"
+            },
+            {
+                "text": "To handle errors",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What keyword is used to define a function in Python?",
+        "options": [
+            {
+                "text": "func",
+                "value": "a"
+            },
+            {
+                "text": "def",
+                "value": "b"
+            },
+            {
+                "text": "function",
+                "value": "c"
+            },
+            {
+                "text": "define",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What statement is used to exit a function and return a value?",
+        "options": [
+            {
+                "text": "break",
+                "value": "a"
+            },
+            {
+                "text": "exit",
+                "value": "b"
+            },
+            {
+                "text": "return",
+                "value": "c"
+            },
+            {
+                "text": "stop",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "How can a function return multiple values?",
+        "options": [
+            {
+                "text": "It cannot return multiple values.",
+                "value": "a"
+            },
+            {
+                "text": "By using a list",
+                "value": "b"
+            },
+            {
+                "text": "By separating them with commas in the return statement",
+                "value": "c"
+            },
+            {
+                "text": "By using a special 'multi' keyword",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What keyword is used to define a class in Python?",
+        "options": [
+            {
+                "text": "object",
+                "value": "a"
+            },
+            {
+                "text": "class",
+                "value": "b"
+            },
+            {
+                "text": "struct",
+                "value": "c"
+            },
+            {
+                "text": "define",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the name of the special function that is always executed when a class is being initiated?",
+        "options": [
+            {
+                "text": "_main_",
+                "value": "a"
+            },
+            {
+                "text": "_init_",
+                "value": "b"
+            },
+            {
+                "text": "_self_",
+                "value": "c"
+            },
+            {
+                "text": "_class_",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the conventional name for the first parameter of a class method, which is a reference to the current instance?",
+        "options": [
+            {
+                "text": "this",
+                "value": "a"
+            },
+            {
+                "text": "self",
+                "value": "b"
+            },
+            {
+                "text": "me",
+                "value": "c"
+            },
+            {
+                "text": "instance",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is a module in Python?",
+        "options": [
+            {
+                "text": "A block of code within a function",
+                "value": "a"
+            },
+            {
+                "text": "A file containing Python definitions and statements",
+                "value": "b"
+            },
+            {
+                "text": "A type of loop",
+                "value": "c"
+            },
+            {
+                "text": "A conditional statement",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "If you have a module named 'mymodule.py', how do you import a function named 'myfunction' from it?",
+        "options": [
+            {
+                "text": "import myfunction from mymodule",
+                "value": "a"
+            },
+            {
+                "text": "from mymodule import myfunction",
+                "value": "b"
+            },
+            {
+                "text": "require mymodule.myfunction",
+                "value": "c"
+            },
+            {
+                "text": "include myfunction",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to open a file?",
+        "options": [
+            {
+                "text": "open()",
+                "value": "a"
+            },
+            {
+                "text": "file()",
+                "value": "b"
+            },
+            {
+                "text": "read()",
+                "value": "c"
+            },
+            {
+                "text": "create()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which mode is used to open a file for writing, creating the file if it does not exist?",
+        "options": [
+            {
+                "text": "'r'",
+                "value": "a"
+            },
+            {
+                "text": "'w'",
+                "value": "b"
+            },
+            {
+                "text": "'a'",
+                "value": "c"
+            },
+            {
+                "text": "'x'",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which mode is used to open a file for reading?",
+        "options": [
+            {
+                "text": "'r'",
+                "value": "a"
+            },
+            {
+                "text": "'w'",
+                "value": "b"
+            },
+            {
+                "text": "'a'",
+                "value": "c"
+            },
+            {
+                "text": "'x'",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What method is used to read the entire content of an open file?",
+        "options": [
+            {
+                "text": ".read()",
+                "value": "a"
+            },
+            {
+                "text": ".get()",
+                "value": "b"
+            },
+            {
+                "text": ".readall()",
+                "value": "c"
+            },
+            {
+                "text": ".fetch()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What method is used to write data to an open file?",
+        "options": [
+            {
+                "text": ".send()",
+                "value": "a"
+            },
+            {
+                "text": ".write()",
+                "value": "b"
+            },
+            {
+                "text": ".put()",
+                "value": "c"
+            },
+            {
+                "text": ".output()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the correct way to ensure a file is properly closed after working with it?",
+        "options": [
+            {
+                "text": "It closes automatically.",
+                "value": "a"
+            },
+            {
+                "text": "Using the .close() method",
+                "value": "b"
+            },
+            {
+                "text": "Using the .exit() method",
+                "value": "c"
+            },
+            {
+                "text": "Restarting the Python interpreter",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What are errors detected during execution called?",
+        "options": [
+            {
+                "text": "Syntax Errors",
+                "value": "a"
+            },
+            {
+                "text": "Exceptions",
+                "value": "b"
+            },
+            {
+                "text": "Warnings",
+                "value": "c"
+            },
+            {
+                "text": "Crashes",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which block lets you test a block of code for errors?",
+        "options": [
+            {
+                "text": "try",
+                "value": "a"
+            },
+            {
+                "text": "except",
+                "value": "b"
+            },
+            {
+                "text": "finally",
+                "value": "c"
+            },
+            {
+                "text": "error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which block lets you handle the error?",
+        "options": [
+            {
+                "text": "try",
+                "value": "a"
+            },
+            {
+                "text": "except",
+                "value": "b"
+            },
+            {
+                "text": "finally",
+                "value": "c"
+            },
+            {
+                "text": "error",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which block lets you execute code, regardless of the result of the try and except blocks?",
+        "options": [
+            {
+                "text": "try",
+                "value": "a"
+            },
+            {
+                "text": "except",
+                "value": "b"
+            },
+            {
+                "text": "finally",
+                "value": "c"
+            },
+            {
+                "text": "else",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is PIP?",
+        "options": [
+            {
+                "text": "A Python code editor",
+                "value": "a"
+            },
+            {
+                "text": "A package manager for Python packages",
+                "value": "b"
+            },
+            {
+                "text": "A Python virtual environment",
+                "value": "c"
+            },
+            {
+                "text": "A Python distribution",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the command to install a package named 'requests' using PIP?",
+        "options": [
+            {
+                "text": "pip add requests",
+                "value": "a"
+            },
+            {
+                "text": "pip get requests",
+                "value": "b"
+            },
+            {
+                "text": "pip install requests",
+                "value": "c"
+            },
+            {
+                "text": "pip download requests",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is Conda?",
+        "options": [
+            {
+                "text": "A Python code editor",
+                "value": "a"
+            },
+            {
+                "text": "A package and environment manager",
+                "value": "b"
+            },
+            {
+                "text": "A Python interpreter",
+                "value": "c"
+            },
+            {
+                "text": "A Python library",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is a Python virtual environment?",
+        "options": [
+            {
+                "text": "A simulated computer inside Python",
+                "value": "a"
+            },
+            {
+                "text": "An isolated environment for Python projects with their own dependencies",
+                "value": "b"
+            },
+            {
+                "text": "A cloud-based Python editor",
+                "value": "c"
+            },
+            {
+                "text": "A type of Python function",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is a Python distribution that bundles Python with scientific packages?",
+        "options": [
+            {
+                "text": "PyCharm",
+                "value": "a"
+            },
+            {
+                "text": "Visual Studio Code",
+                "value": "b"
+            },
+            {
+                "text": "Anaconda",
+                "value": "c"
+            },
+            {
+                "text": "Jupyter",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the main graphical interface for managing environments and launching applications in Anaconda?",
+        "options": [
+            {
+                "text": "Anaconda Cloud",
+                "value": "a"
+            },
+            {
+                "text": "Anaconda Navigator",
+                "value": "b"
+            },
+            {
+                "text": "Conda GUI",
+                "value": "c"
+            },
+            {
+                "text": "Spyder",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which editor is specifically designed for scientific Python development and is included in Anaconda?",
+        "options": [
+            {
+                "text": "IDLE",
+                "value": "a"
+            },
+            {
+                "text": "PyCharm",
+                "value": "b"
+            },
+            {
+                "text": "Spyder",
+                "value": "c"
+            },
+            {
+                "text": "VS Code",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    }
+]

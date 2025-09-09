@@ -1,0 +1,1103 @@
+[
+    {
+        "text": "What are the three main components of a modern webpage?",
+        "options": [
+            {
+                "text": "HTML, XML, and JavaScript",
+                "value": "a"
+            },
+            {
+                "text": "HTML, CSS, and JavaScript",
+                "value": "b"
+            },
+            {
+                "text": "PHP, CSS, and HTML",
+                "value": "c"
+            },
+            {
+                "text": "Python, CSS, and HTML",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the primary function of HTML?",
+        "options": [
+            {
+                "text": "To style the elements on a webpage",
+                "value": "a"
+            },
+            {
+                "text": "To connect to a database",
+                "value": "b"
+            },
+            {
+                "text": "To provide programmatic interactivity",
+                "value": "c"
+            },
+            {
+                "text": "To define what elements should be on the page and their order",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the primary function of CSS?",
+        "options": [
+            {
+                "text": "To style the elements on a webpage",
+                "value": "a"
+            },
+            {
+                "text": "To define the structure of a webpage",
+                "value": "b"
+            },
+            {
+                "text": "To add interactive features to a webpage",
+                "value": "c"
+            },
+            {
+                "text": "To store data for a webpage",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the primary function of JavaScript?",
+        "options": [
+            {
+                "text": "To define the content of a webpage",
+                "value": "a"
+            },
+            {
+                "text": "To style the elements on a webpage",
+                "value": "b"
+            },
+            {
+                "text": "To manipulate elements programmatically and respond to user actions",
+                "value": "c"
+            },
+            {
+                "text": "To create the layout of a webpage",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "In the context of markup languages, what does 'rendering' refer to?",
+        "options": [
+            {
+                "text": "Writing the HTML code",
+                "value": "a"
+            },
+            {
+                "text": "The process of transforming a text document into its visual representation",
+                "value": "b"
+            },
+            {
+                "text": "Downloading a webpage from a server",
+                "value": "c"
+            },
+            {
+                "text": "The process of debugging code",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of the following is the correct way to denote an HTML tag for a paragraph?",
+        "options": [
+            {
+                "text": "<paragraph>",
+                "value": "a"
+            },
+            {
+                "text": "<para>",
+                "value": "b"
+            },
+            {
+                "text": "<p>",
+                "value": "c"
+            },
+            {
+                "text": "<pg>",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the latest version of HTML mentioned in the text?",
+        "options": [
+            {
+                "text": "HTML 5",
+                "value": "a"
+            },
+            {
+                "text": "XHTML",
+                "value": "b"
+            },
+            {
+                "text": "HTML 4",
+                "value": "c"
+            },
+            {
+                "text": "HTML 6",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What should a strictly correct HTML document start with?",
+        "options": [
+            {
+                "text": "A <html> tag",
+                "value": "a"
+            },
+            {
+                "text": "A <body> tag",
+                "value": "b"
+            },
+            {
+                "text": "A <header> tag",
+                "value": "c"
+            },
+            {
+                "text": "A document type declaration (<!DOCTYPE>)",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Where is the <title> element typically placed in an HTML document?",
+        "options": [
+            {
+                "text": "Inside the <body> element",
+                "value": "a"
+            },
+            {
+                "text": "Inside the <header> element",
+                "value": "b"
+            },
+            {
+                "text": "Right after the <!DOCTYPE> declaration",
+                "value": "c"
+            },
+            {
+                "text": "Inside the <head> element",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the purpose of the 'lang' attribute in the <html> tag?",
+        "options": [
+            {
+                "text": "To make the page load faster",
+                "value": "a"
+            },
+            {
+                "text": "To define the page's layout",
+                "value": "b"
+            },
+            {
+                "text": "For accessibility (screen readers) and search engines",
+                "value": "c"
+            },
+            {
+                "text": "To link an external CSS file",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "How do browsers typically treat carriage returns (line breaks) in HTML markup?",
+        "options": [
+            {
+                "text": "They are rendered as visible line breaks.",
+                "value": "a"
+            },
+            {
+                "text": "They are largely ignored for visual rendering.",
+                "value": "b"
+            },
+            {
+                "text": "They cause an error in the page.",
+                "value": "c"
+            },
+            {
+                "text": "They create a new paragraph automatically.",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which HTML tag is used to insert a manual line break?",
+        "options": [
+            {
+                "text": "<br>",
+                "value": "a"
+            },
+            {
+                "text": "<break>",
+                "value": "b"
+            },
+            {
+                "text": "<lb>",
+                "value": "c"
+            },
+            {
+                "text": "<newline>",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How are multiple consecutive spaces typically interpreted by a browser?",
+        "options": [
+            {
+                "text": "As multiple spaces",
+                "value": "a"
+            },
+            {
+                "text": "They are ignored completely.",
+                "value": "b"
+            },
+            {
+                "text": "As a tab character",
+                "value": "c"
+            },
+            {
+                "text": "As a single space",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the correct HTML code for a non-breaking space?",
+        "options": [
+            {
+                "text": "&nbsp;",
+                "value": "a"
+            },
+            {
+                "text": "&breakingspace;",
+                "value": "b"
+            },
+            {
+                "text": "&space;",
+                "value": "c"
+            },
+            {
+                "text": "&nbs;",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which tag is used to create a thematic break or horizontal rule?",
+        "options": [
+            {
+                "text": "<line>",
+                "value": "a"
+            },
+            {
+                "text": "<tb>",
+                "value": "b"
+            },
+            {
+                "text": "<hr>",
+                "value": "c"
+            },
+            {
+                "text": "<break>",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the correct syntax for an HTML comment?",
+        "options": [
+            {
+                "text": "// This is a comment",
+                "value": "a"
+            },
+            {
+                "text": "/* This is a comment */",
+                "value": "b"
+            },
+            {
+                "text": "<!-- This is a comment -->",
+                "value": "c"
+            },
+            {
+                "text": "<! This is a comment !>",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which character is used to begin the code for a special character in HTML?",
+        "options": [
+            {
+                "text": "#",
+                "value": "a"
+            },
+            {
+                "text": "%",
+                "value": "b"
+            },
+            {
+                "text": "@",
+                "value": "c"
+            },
+            {
+                "text": "&",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the correct HTML code for the ampersand symbol (&)?",
+        "options": [
+            {
+                "text": "&amp;",
+                "value": "a"
+            },
+            {
+                "text": "&ampersand;",
+                "value": "b"
+            },
+            {
+                "text": "&and;",
+                "value": "c"
+            },
+            {
+                "text": "&sym;",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the correct HTML code for the less-than sign (<)?",
+        "options": [
+            {
+                "text": "&lt;",
+                "value": "a"
+            },
+            {
+                "text": "&lessthan;",
+                "value": "b"
+            },
+            {
+                "text": "&less;",
+                "value": "c"
+            },
+            {
+                "text": "&ls;",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which HTML element is used to create a hyperlink?",
+        "options": [
+            {
+                "text": "<link>",
+                "value": "a"
+            },
+            {
+                "text": "<a>",
+                "value": "b"
+            },
+            {
+                "text": "<href>",
+                "value": "c"
+            },
+            {
+                "text": "<hyperlink>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which attribute defines the destination of a hyperlink?",
+        "options": [
+            {
+                "text": "src",
+                "value": "a"
+            },
+            {
+                "text": "link",
+                "value": "b"
+            },
+            {
+                "text": "dest",
+                "value": "c"
+            },
+            {
+                "text": "href",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What does 'href=\"Pages/About.pdf\"' mean?",
+        "options": [
+            {
+                "text": "It links to a page on an external website.",
+                "value": "a"
+            },
+            {
+                "text": "It links to a file called 'About.pdf' in a subdirectory called 'Pages'.",
+                "value": "b"
+            },
+            {
+                "text": "It links to a file in the parent directory.",
+                "value": "c"
+            },
+            {
+                "text": "It is an invalid link.",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which element is recommended for grouping a set of navigation links?",
+        "options": [
+            {
+                "text": "<div>",
+                "value": "a"
+            },
+            {
+                "text": "<links>",
+                "value": "b"
+            },
+            {
+                "text": "<nav>",
+                "value": "c"
+            },
+            {
+                "text": "<group>",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the most general way to format any HTML element?",
+        "options": [
+            {
+                "text": "Using HTML attributes",
+                "value": "a"
+            },
+            {
+                "text": "Using Cascading Style Sheets (CSS)",
+                "value": "b"
+            },
+            {
+                "text": "Using JavaScript",
+                "value": "c"
+            },
+            {
+                "text": "Using XHTML",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which HTML element is typically used to delimit a paragraph?",
+        "options": [
+            {
+                "text": "<para>",
+                "value": "a"
+            },
+            {
+                "text": "<text>",
+                "value": "b"
+            },
+            {
+                "text": "<p>",
+                "value": "c"
+            },
+            {
+                "text": "<div>",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which element is used for the most important heading?",
+        "options": [
+            {
+                "text": "<head>",
+                "value": "a"
+            },
+            {
+                "text": "<h1>",
+                "value": "b"
+            },
+            {
+                "text": "<heading>",
+                "value": "c"
+            },
+            {
+                "text": "<header>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which element is used to define a section in a document?",
+        "options": [
+            {
+                "text": "<part>",
+                "value": "a"
+            },
+            {
+                "text": "<sect>",
+                "value": "b"
+            },
+            {
+                "text": "<div>",
+                "value": "c"
+            },
+            {
+                "text": "<section>",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which element is used for a generic inline container?",
+        "options": [
+            {
+                "text": "<container>",
+                "value": "a"
+            },
+            {
+                "text": "<div>",
+                "value": "b"
+            },
+            {
+                "text": "<span>",
+                "value": "c"
+            },
+            {
+                "text": "<inline>",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which element is NO LONGER supported in HTML5 and should be replaced with CSS?",
+        "options": [
+            {
+                "text": "<span>",
+                "value": "a"
+            },
+            {
+                "text": "<div>",
+                "value": "b"
+            },
+            {
+                "text": "<center>",
+                "value": "c"
+            },
+            {
+                "text": "<section>",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the main weakness of 'browser detection'?",
+        "options": [
+            {
+                "text": "It is too easy to implement.",
+                "value": "a"
+            },
+            {
+                "text": "It doesn't account for different devices using the same browser.",
+                "value": "b"
+            },
+            {
+                "text": "It is the recommended modern approach.",
+                "value": "c"
+            },
+            {
+                "text": "It requires JavaScript to work.",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the modern trend for handling different browser and device capabilities?",
+        "options": [
+            {
+                "text": "Browser detection",
+                "value": "a"
+            },
+            {
+                "text": "Feature detection",
+                "value": "b"
+            },
+            {
+                "text": "Assuming all users have the latest browser",
+                "value": "c"
+            },
+            {
+                "text": "Using only HTML 4 features",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How can CSS instructions be included in an HTML file?",
+        "options": [
+            {
+                "text": "In-line, in-file, and external",
+                "value": "a"
+            },
+            {
+                "text": "Internal and external only",
+                "value": "b"
+            },
+            {
+                "text": "Only in a separate .css file",
+                "value": "c"
+            },
+            {
+                "text": "Only within HTML elements",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method of including CSS has the highest precedence (without !important)?",
+        "options": [
+            {
+                "text": "External CSS",
+                "value": "a"
+            },
+            {
+                "text": "In-file CSS",
+                "value": "b"
+            },
+            {
+                "text": "In-line CSS",
+                "value": "c"
+            },
+            {
+                "text": "They all have equal precedence.",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which HTML element is used to link an external CSS file?",
+        "options": [
+            {
+                "text": "<style>",
+                "value": "a"
+            },
+            {
+                "text": "<script>",
+                "value": "b"
+            },
+            {
+                "text": "<css>",
+                "value": "c"
+            },
+            {
+                "text": "<link>",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Where should the <link> element for an external CSS file be placed?",
+        "options": [
+            {
+                "text": "In the <head> section",
+                "value": "a"
+            },
+            {
+                "text": "In the <body> section",
+                "value": "b"
+            },
+            {
+                "text": "At the end of the file",
+                "value": "c"
+            },
+            {
+                "text": "Anywhere in the HTML file",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is a CSS rule-set composed of?",
+        "options": [
+            {
+                "text": "A selector and a property",
+                "value": "a"
+            },
+            {
+                "text": "A tag and a value",
+                "value": "b"
+            },
+            {
+                "text": "A selector and a declaration block",
+                "value": "c"
+            },
+            {
+                "text": "An attribute and a value",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "In the rule 'h1 { color: blue; }', what is 'color: blue;' called?",
+        "options": [
+            {
+                "text": "The selector",
+                "value": "a"
+            },
+            {
+                "text": "The value",
+                "value": "b"
+            },
+            {
+                "text": "The attribute",
+                "value": "c"
+            },
+            {
+                "text": "The declaration",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "How do you select all <p> elements with CSS?",
+        "options": [
+            {
+                "text": ".p",
+                "value": "a"
+            },
+            {
+                "text": "#p",
+                "value": "b"
+            },
+            {
+                "text": "*p",
+                "value": "c"
+            },
+            {
+                "text": "p",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "How do you select elements with a specific class (e.g., 'center')?",
+        "options": [
+            {
+                "text": "center",
+                "value": "a"
+            },
+            {
+                "text": "#center",
+                "value": "b"
+            },
+            {
+                "text": ".center",
+                "value": "c"
+            },
+            {
+                "text": "*center",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "How do you select an element with a specific id (e.g., 'header')?",
+        "options": [
+            {
+                "text": "#header",
+                "value": "a"
+            },
+            {
+                "text": "header",
+                "value": "b"
+            },
+            {
+                "text": ".header",
+                "value": "c"
+            },
+            {
+                "text": "*header",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the correct syntax for a CSS comment?",
+        "options": [
+            {
+                "text": "// this is a comment",
+                "value": "a"
+            },
+            {
+                "text": "<!-- this is a comment -->",
+                "value": "b"
+            },
+            {
+                "text": "/* this is a comment */",
+                "value": "c"
+            },
+            {
+                "text": "' this is a comment",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which CSS property is used to change the text color?",
+        "options": [
+            {
+                "text": "font-color",
+                "value": "a"
+            },
+            {
+                "text": "text-color",
+                "value": "b"
+            },
+            {
+                "text": "color",
+                "value": "c"
+            },
+            {
+                "text": "txt-color",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which CSS property is used to change the left margin of an element?",
+        "options": [
+            {
+                "text": "padding-left",
+                "value": "a"
+            },
+            {
+                "text": "spacing-left",
+                "value": "b"
+            },
+            {
+                "text": "indent",
+                "value": "c"
+            },
+            {
+                "text": "margin-left",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which HTML5 element is used to define a header for a document or section?",
+        "options": [
+            {
+                "text": "<top>",
+                "value": "a"
+            },
+            {
+                "text": "<header>",
+                "value": "b"
+            },
+            {
+                "text": "<head>",
+                "value": "c"
+            },
+            {
+                "text": "<section-header>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which HTML5 element is used to define a footer for a document or section?",
+        "options": [
+            {
+                "text": "<bottom>",
+                "value": "a"
+            },
+            {
+                "text": "<footer>",
+                "value": "b"
+            },
+            {
+                "text": "<end>",
+                "value": "c"
+            },
+            {
+                "text": "<section-footer>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "When defining a value with a unit (e.g., 20px), where should the space be?",
+        "options": [
+            {
+                "text": "Between the number and the unit (20 px)",
+                "value": "a"
+            },
+            {
+                "text": "No space should be between them (20px)",
+                "value": "b"
+            },
+            {
+                "text": "It doesn't matter.",
+                "value": "c"
+            },
+            {
+                "text": "Before the number ( 20px)",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which rule takes precedence: 'h3 {color: red;}' or 'h3 {color: green;}'?",
+        "options": [
+            {
+                "text": "The green rule, if it appears later in the style sheet",
+                "value": "a"
+            },
+            {
+                "text": "The red rule",
+                "value": "b"
+            },
+            {
+                "text": "The rule with the most specific selector",
+                "value": "c"
+            },
+            {
+                "text": "They cancel each other out.",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How can you give a style rule the highest precedence?",
+        "options": [
+            {
+                "text": "Use the !important flag",
+                "value": "a"
+            },
+            {
+                "text": "Put it at the top of the style sheet",
+                "value": "b"
+            },
+            {
+                "text": "Make the selector very long",
+                "value": "c"
+            },
+            {
+                "text": "Write it in uppercase letters",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which CSS property is used to change the background color of a page?",
+        "options": [
+            {
+                "text": "bgcolor",
+                "value": "a"
+            },
+            {
+                "text": "color",
+                "value": "b"
+            },
+            {
+                "text": "background-color",
+                "value": "c"
+            },
+            {
+                "text": "page-color",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What does the 'Cascade' in Cascading Style Sheets refer to?",
+        "options": [
+            {
+                "text": "A waterfall effect for backgrounds",
+                "value": "a"
+            },
+            {
+                "text": "The hierarchy that determines which style rules apply",
+                "value": "b"
+            },
+            {
+                "text": "A specific animation style",
+                "value": "c"
+            },
+            {
+                "text": "The order of HTML elements",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    }
+    
+]

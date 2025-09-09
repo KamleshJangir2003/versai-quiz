@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProExam - Modern Exam Interface</title>
+    <link rel="icon" type="image/x-icon" href="favicon (2).svg">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary: #4F46E5;
+            --primary-light: #6366F1;
+            --primary-dark: #4338CA;
+            --secondary: #10B981;
+            --accent: #F59E0B;
+            --danger: #EF4444;
+            --success: #10B981;
+            --warning: #F59E0B;
+            --light: #F9FAFB;
+            --dark: #111827;
+            --gray: #6B7280;
+            --light-gray: #E5E7EB;
+            --border-radius: 10px;
+            --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+            --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            --shadow-md: 0 10px 15px rgba(0, 0, 0, 0.1);
+            --transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #F3F4F6;
+            color: var(--dark);
+            line-height: 1.5;
+            min-height: 100vh;
+        }
+
+        /* Header Styles */
+        .exam-header {
+            background: white;
+            color: var(--dark);
+            padding: 12px 0;
+            box-shadow: var(--shadow-sm);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            border-bottom: 1px solid var(--light-gray);
+        }
+
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 95%;
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 15px;
+        }
+
+        .corner-logo img {
+            height: 32px;
+        }
+
+        .exam-info {
+            display: flex;
+            gap: 24px;
+            align-items: center;
+        }
+
+        .info-item {
+            display: flex;
+            gap: 6px;
+            font-size: 14px;
+            align-items: center;
+        }
+
+        .info-value {
+            font-weight: 500;
+            color: var(--dark);
+        }
+
+        .timer {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 15px;
+            font-weight: 600;
+            color: var(--danger);
+            background: #FEE2E2;
+            padding: 8px 16px;
+            border-radius: 20px;
+        }
+
+        /* Main Content */
+        .exam-container {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) 280px;
+            gap: 20px;
+            width: 95%;
+            max-width: 1400px;
+            margin: 24px auto;
+            padding: 0 15px;
+        }
+
+        /* Card Styles */
+        .exam-card {
+            background: white;
+            border-radius: var(--border-radius);
+            border: 1px solid var(--light-gray);
+            box-shadow: var(--shadow-sm);
+            padding: 24px;
+            transition: var(--transition);
+        }
+
+        .exam-card:hover {
+            box-shadow: var(--shadow);
+        }
+
+        /* Question Panel */
+        .question-panel {
+            margin-bottom: 0;
+        }
+
+        .question-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 24px;
+            padding-bottom: 16px;
+            border-bottom: 1px solid var(--light-gray);
+        }
+
+        .question-number {
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--primary);
+            background: #EEF2FF;
+            padding: 6px 12px;
+            border-radius: 20px;
+        }
+
+        .question-meta {
+            display: flex;
+            gap: 16px;
+        }
+
+        .question-meta-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 14px;
+            color: var(--gray);
+        }
+
+        .question-text {
+            font-size: 16px;
+            margin-bottom: 28px;
+            line-height: 1.7;
+            color: var(--dark);
+        }
+
+        /* Options */
+        .options-container {
+            margin-bottom: 28px;
+            display: grid;
+            gap: 12px;
+        }
+
+        .option-item {
+            display: block;
+        }
+
+        .option-input {
+            position: absolute;
+            opacity: 0;
+        }
+
+        .option-label {
+            display: flex;
+            align-items: center;
+            padding: 14px 20px;
+            background: white;
+            border: 1px solid var(--light-gray);
+            border-radius: var(--border-radius);
+            cursor: pointer;
+            transition: var(--transition);
+            position: relative;
+            padding-left: 52px;
+        }
+
+        .option-label::before {
+            content: attr(data-option);
+            position: absolute;
+            left: 16px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 24px;
+            height: 24px;
+            border-radius: 6px;
+            border: 1px solid var(--light-gray);
+            background-color: white;
+            transition: var(--transition);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 600;
+            color: var(--gray);
+            font-size: 12px;
+        }
+
+        .option-input:checked+.option-label {
+            border-color: var(--primary);
+            background-color: #EEF2FF;
+        }
+
+        .option-input:checked+.option-label::before {
+            background-color: var(--primary);
+            border-color: var(--primary);
+            color: white;
+        }
+
+        .option-label:hover {
+            border-color: var(--primary-light);
+        }
+
+        .option-text {
+            font-size: 15px;
+            font-weight: 500;
+        }
+
+        /* Navigation Buttons */
+        .question-navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 28px;
+        }
+
+        .nav-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 20px;
+            border-radius: var(--border-radius);
+            font-weight: 500;
+            cursor: pointer;
+            transition: var(--transition);
+            font-size: 14px;
+            border: none;
+        }
+
+        .btn-outline {
+            background: white;
+            border: 1px solid var(--light-gray);
+            color: var(--gray);
+        }
+
+        .btn-outline:hover {
+            background: #F9FAFB;
+            border-color: var(--gray);
+            color: var(--dark);
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: var(--primary-dark);
+        }
+
+        /* Sidebar */
+        .exam-sidebar {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            position: sticky;
+            top: 80px;
+            height: calc(100vh - 100px);
+            overflow-y: auto;
+        }
+
+        .card-title {
+            font-size: 16px;
+            margin-bottom: 16px;
+            color: var(--dark);
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .card-title i {
+            color: var(--primary);
+        }
+
+        /* Question Palette */
+        .palette-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(36px, 1fr));
+            gap: 8px;
+        }
+
+        .palette-btn {
+            width: 36px;
+            height: 36px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: white;
+            border: 1px solid var(--light-gray);
+            border-radius: 8px;
+            cursor: pointer;
+            transition: var(--transition);
+            font-size: 14px;
+            font-weight: 500;
+            color: var(--dark);
+        }
+
+        .palette-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-sm);
+            border-color: var(--primary-light);
+        }
+
+        .palette-btn.current {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+            transform: scale(1.05);
+            box-shadow: 0 4px 8px rgba(79, 70, 229, 0.2);
+        }
+
+        .palette-btn.answered {
+            background: var(--success);
+            border-color: var(--success);
+            color: white;
+        }
+
+        .palette-btn.marked {
+            background: var(--warning);
+            border-color: var(--warning);
+            color: white;
+        }
+
+        /* Legend */
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+
+        /* Exam Actions */
+        .exam-actions {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .action-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            width: 100%;
+            padding: 12px;
+            border-radius: var(--border-radius);
+            font-weight: 500;
+            cursor: pointer;
+            transition: var(--transition);
+            font-size: 14px;
+            border: none;
+        }
+
+        .btn-mark {
+            background: #FEF3C7;
+            color: #92400E;
+        }
+
+        .btn-mark:hover {
+            background: #FDE68A;
+        }
+
+        .btn-clear {
+            background: #EFF6FF;
+            color: var(--primary);
+        }
+
+        .btn-clear:hover {
+            background: #DBEAFE;
+        }
+
+        .btn-submit {
+            background: #FEE2E2;
+            color: var(--danger);
+            margin-top: 12px;
+        }
+
+        .btn-submit:hover {
+            background: #FECACA;
+        }
+
+        .logout-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            width: 100%;
+            padding: 12px;
+            border-radius: var(--border-radius);
+            font-weight: 500;
+            cursor: pointer;
+            transition: var(--transition);
+            background: white;
+            border: 1px solid var(--light-gray);
+            color: var(--gray);
+            margin-top: 16px;
+        }
+
+        .logout-btn:hover {
+            background: #F9FAFB;
+            border-color: var(--gray);
+            color: var(--dark);
+        }
+
+        /* Progress Bar */
+        .progress-container {
+            width: 100%;
+            height: 6px;
+            background: var(--light-gray);
+            border-radius: 3px;
+            margin-bottom: 16px;
+            overflow: hidden;
+        }
+
+        .progress-bar {
+            height: 100%;
+            background: linear-gradient(90deg, var(--primary), var(--primary-light));
+            border-radius: 3px;
+            transition: width 0.4s ease;
+        }
+
+        /* Modal */
+        .modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+            opacity: 0;
+            visibility: hidden;
+            transition: var(--transition);
+        }
+
+        .modal.active {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        .modal-content {
+            width: 100%;
+            max-width: 480px;
+            transform: translateY(-20px);
+            transition: var(--transition);
+            background: white;
+            border-radius: var(--border-radius);
+            padding: 24px;
+            box-shadow: var(--shadow-md);
+        }
+
+        .modal.active .modal-content {
+            transform: translateY(0);
+        }
+
+        .modal-header {
+            margin-bottom: 16px;
+        }
+
+        .modal-title {
+            font-size: 18px;
+            color: var(--dark);
+            font-weight: 600;
+        }
+
+        .modal-body {
+            margin-bottom: 20px;
+            font-size: 14px;
+            color: var(--gray);
+        }
+
+        .warning-message {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: var(--danger);
+            margin-top: 16px;
+            padding: 12px;
+            background: #FEE2E2;
+            border-radius: var(--border-radius);
+            font-size: 14px;
+        }
+
+        .modal-footer {
+            display: flex;
+            justify-content: flex-end;
+            gap: 12px;
+        }
+
+        /* Responsive */
+        @media (max-width: 1200px) {
+            .exam-container {
+                grid-template-columns: 1fr;
+            }
+
+            .exam-sidebar {
+                grid-row: 1;
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+                gap: 16px;
+                position: static;
+                height: auto;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .header-container {
+                flex-direction: column;
+                gap: 12px;
+            }
+
+            .exam-info {
+                flex-wrap: wrap;
+                justify-content: center;
+                gap: 12px;
+            }
+
+            .question-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 12px;
+            }
+
+            .exam-sidebar {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .palette-grid {
+                grid-template-columns: repeat(5, 1fr);
+            }
+
+            .modal-footer {
+                flex-direction: column;
+            }
+
+            .nav-btn,
+            .action-btn {
+                width: 100%;
+                justify-content: center;
+            }
+
+            .question-meta {
+                flex-direction: column;
+                gap: 8px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Student Exam Interface -->
+    <div id="student-interface">
+        <!-- Header -->
+        <header class="exam-header">
+            <div class="header-container">
+                <div class="corner-logo">
+                    <img src="https://via.placeholder.com/150x40?text=ExamPro" alt="Exam Logo">
+                </div>
+                <div class="exam-info">
+                    <div class="info-item">
+                        <i class="fas fa-user-circle" style="color: var(--primary);"></i>
+                        <span class="info-value" id="student-name">John Doe (ID: 12345)</span>
+                    </div>
+                    <div class="info-item">
+                        <i class="fas fa-book" style="color: var(--primary);"></i>
+                        <span class="info-value" id="exam-name">Graphic Design Certification</span>
+                    </div>
+                    <div class="timer">
+                        <i class="fas fa-clock"></i>
+                        <span id="exam-timer">29:45</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="container">
+            <div class="exam-container">
+                <!-- Question Panel -->
+                <div class="exam-card question-panel">
+                    <div class="question-header">
+                        <div class="question-number">Question 1</div>
+                        <div class="question-meta">
+                            <div class="question-meta-item">
+                                <i class="fas fa-star" style="color: var(--accent);"></i>
+                                <span>1 Mark</span>
+                            </div>
+                            <div class="question-meta-item">
+                                <i class="fas fa-clock" style="color: var(--gray);"></i>
+                                <span>00:45</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="question-text">
+                        <p>Which of the following principles is most important when designing a logo for a global brand
+                            that needs to be recognizable across different cultures?</p>
+                    </div>
+
+                    <div class="options-container">
+                        <label class="option-item">
+                            <input type="radio" name="answer" class="option-input">
+                            <span class="option-label" data-option="A">
+                                <span class="option-text">Color consistency with the brand's national flag</span>
+                            </span>
+                        </label>
+                        <label class="option-item">
+                            <input type="radio" name="answer" class="option-input">
+                            <span class="option-label" data-option="B">
+                                <span class="option-text">Use of culturally specific symbols and imagery</span>
+                            </span>
+                        </label>
+                        <label class="option-item">
+                            <input type="radio" name="answer" class="option-input">
+                            <span class="option-label" data-option="C">
+                                <span class="option-text">Simplicity and scalability across different media</span>
+                            </span>
+                        </label>
+                        <label class="option-item">
+                            <input type="radio" name="answer" class="option-input">
+                            <span class="option-label" data-option="D">
+                                <span class="option-text">Inclusion of the brand name in multiple languages</span>
+                            </span>
+                        </label>
+                    </div>
+
+                    <div class="question-navigation">
+                        <button class="nav-btn btn-outline" id="prev-btn">
+                            <i class="fas fa-arrow-left"></i> Previous
+                        </button>
+                        <button class="nav-btn btn-primary" id="next-btn">
+                            Next <i class="fas fa-arrow-right"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Exam Sidebar -->
+                <div class="exam-sidebar">
+                    <div class="exam-card">
+                        <h3 class="card-title"><i class="fas fa-th"></i> Question Palette</h3>
+                        <div class="palette-grid" id="question-palette">
+                            <button class="palette-btn current">1</button>
+                            <button class="palette-btn answered">2</button>
+                            <button class="palette-btn answered">3</button>
+                            <button class="palette-btn marked">4</button>
+                            <button class="palette-btn">5</button>
+                            <button class="palette-btn">6</button>
+                            <button class="palette-btn">7</button>
+                            <button class="palette-btn">8</button>
+                            <button class="palette-btn">9</button>
+                            <button class="palette-btn">10</button>
+                            <button class="palette-btn">11</button>
+                            <button class="palette-btn">12</button>
+                            <button class="palette-btn">13</button>
+                            <button class="palette-btn">14</button>
+                            <button class="palette-btn">15</button>
+                            <button class="palette-btn">16</button>
+                            <button class="palette-btn">17</button>
+                            <button class="palette-btn">18</button>
+                            <button class="palette-btn">19</button>
+                            <button class="palette-btn">20</button>
+                        </div>
+                    </div>
+
+                    <div class="exam-card">
+                        <h3 class="card-title"><i class="fas fa-chart-bar"></i> Exam Progress</h3>
+                        <div class="progress-container">
+                            <div class="progress-bar" style="width: 60%"></div>
+                        </div>
+                        <div class="legend-item" style="margin-top: 12px;">
+                            <span>12/20 questions answered (60%)</span>
+                        </div>
+                    </div>
+
+                    <div class="exam-card">
+                        <h3 class="card-title"><i class="fas fa-info-circle"></i> Legend</h3>
+                        <div class="legend-item">
+                            <div class="palette-btn current" style="width: 16px; height: 16px; margin-right: 8px;">
+                            </div>
+                            <span>Current</span>
+                        </div>
+                        <div class="legend-item">
+                            <div class="palette-btn answered" style="width: 16px; height: 16px; margin-right: 8px;">
+                            </div>
+                            <span>Answered</span>
+                        </div>
+                        <div class="legend-item">
+                            <div class="palette-btn marked" style="width: 16px; height: 16px; margin-right: 8px;">
+                            </div>
+                            <span>Marked</span>
+                        </div>
+                        <div class="legend-item">
+                            <div class="palette-btn" style="width: 16px; height: 16px; margin-right: 8px;"></div>
+                            <span>Unanswered</span>
+                        </div>
+                    </div>
+
+                    <div class="exam-card">
+                        <div class="exam-actions">
+                            <button class="action-btn btn-mark" id="mark-btn">
+                                <i class="fas fa-flag"></i> Mark for Review
+                            </button>
+                            <button class="action-btn btn-clear" id="clear-btn">
+                                <i class="fas fa-eraser"></i> Clear Response
+                            </button>
+                            <button class="action-btn btn-submit" id="submit-btn">
+                                <i class="fas fa-paper-plane"></i> Submit Exam
+                            </button>
+
+                            <button class="logout-btn" id="student-logout">
+                                <i class="fas fa-sign-out-alt"></i> Logout
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Submit Confirmation Modal -->
+        <div class="modal" id="submit-modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="modal-title">Submit Examination</h3>
+                </div>
+                <div class="modal-body">
+                    <p>You have attempted <strong id="attempted-questions">12 out of 20</strong> questions.</p>
+                    <p>Are you sure you want to submit the exam?</p>
+                    <div class="warning-message">
+                        <i class="fas fa-exclamation-triangle"></i>
+                        <span>You won't be able to change answers after submission.</span>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button class="nav-btn btn-outline" id="cancel-submit">Cancel</button>
+                    <button class="nav-btn btn-primary" id="confirm-submit">Submit Exam</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Modal toggle
+        const submitBtn = document.getElementById('submit-btn');
+        const submitModal = document.getElementById('submit-modal');
+        const cancelSubmit = document.getElementById('cancel-submit');
+
+        submitBtn.addEventListener('click', () => {
+            submitModal.classList.add('active');
+        });
+
+        cancelSubmit.addEventListener('click', () => {
+            submitModal.classList.remove('active');
+        });
+
+        // Question navigation
+        const questionPalette = document.getElementById('question-palette');
+        const paletteButtons = questionPalette.querySelectorAll('.palette-btn');
+
+        paletteButtons.forEach(btn => {
+            btn.addEventListener('click', function () {
+                // Remove current class from all buttons
+                paletteButtons.forEach(b => b.classList.remove('current'));
+                // Add current class to clicked button
+                this.classList.add('current');
+                // Here you would load the selected question
+            });
+        });
+
+        // Timer functionality
+        function updateTimer() {
+            const timerElement = document.getElementById('exam-timer');
+            // Actual timer logic would go here
+        }
+
+        // Update timer every second
+        setInterval(updateTimer, 1000);
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,1542 @@
+[
+    {
+        "text": "What is the primary goal of Search Engine Optimization (SEO)?",
+        "options": [
+            {
+                "text": "To improve a website's ranking in paid advertising",
+                "value": "a"
+            },
+            {
+                "text": "To design a more visually appealing website",
+                "value": "b"
+            },
+            {
+                "text": "To increase a website's visibility in organic (non-paid) search results",
+                "value": "c"
+            },
+            {
+                "text": "To manage a company's social media accounts",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which of these is NOT a major search engine?",
+        "options": [
+            {
+                "text": "Google",
+                "value": "a"
+            },
+            {
+                "text": "Amazon",
+                "value": "b"
+            },
+            {
+                "text": "Bing",
+                "value": "c"
+            },
+            {
+                "text": "Yahoo",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What are programs used by search engines to scan and collect data from websites called?",
+        "options": [
+            {
+                "text": "Algorithms",
+                "value": "a"
+            },
+            {
+                "text": "Spiders or Crawlers",
+                "value": "b"
+            },
+            {
+                "text": "Indexers",
+                "value": "c"
+            },
+            {
+                "text": "Bots",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the name of Google's central database where it stores information about webpages?",
+        "options": [
+            {
+                "text": "The Index",
+                "value": "a"
+            },
+            {
+                "text": "The Cache",
+                "value": "b"
+            },
+            {
+                "text": "The Hub",
+                "value": "c"
+            },
+            {
+                "text": "The Library",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "A user searching for 'best running shoes for flat feet' is most likely conducting what type of search?",
+        "options": [
+            {
+                "text": "Commercial Investigation",
+                "value": "a"
+            },
+            {
+                "text": "Informational Search",
+                "value": "b"
+            },
+            {
+                "text": "Transactional Search",
+                "value": "c"
+            },
+            {
+                "text": "Navigational Search",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is a 'keyword' in SEO?",
+        "options": [
+            {
+                "text": "The most important word on any given webpage",
+                "value": "a"
+            },
+            {
+                "text": "The word 'key' used in a website's security certificate",
+                "value": "b"
+            },
+            {
+                "text": "A special code only Google understands",
+                "value": "c"
+            },
+            {
+                "text": "A word or phrase users type into a search engine",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The concept where less competitive, more specific phrases often drive more qualified traffic is known as:",
+        "options": [
+            {
+                "text": "The Long Tail",
+                "value": "a"
+            },
+            {
+                "text": "Primary Keywords",
+                "value": "b"
+            },
+            {
+                "text": "Head Terms",
+                "value": "c"
+            },
+            {
+                "text": "Seed Keywords",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which free Google tool is essential for researching keyword ideas and their search volume?",
+        "options": [
+            {
+                "text": "Google Analytics",
+                "value": "a"
+            },
+            {
+                "text": "Google Trends",
+                "value": "b"
+            },
+            {
+                "text": "Google Search Console",
+                "value": "c"
+            },
+            {
+                "text": "Google Keyword Planner",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which of these is an example of a 'long-tail' keyword?",
+        "options": [
+            {
+                "text": "Where to buy Nike Air Max 90 in NYC",
+                "value": "a"
+            },
+            {
+                "text": "Nike running shoes",
+                "value": "b"
+            },
+            {
+                "text": "Running shoes",
+                "value": "c"
+            },
+            {
+                "text": "Shoes",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the HTML tag that defines the title of a webpage and appears in the browser tab?",
+        "options": [
+            {
+                "text": "Header Tag",
+                "value": "a"
+            },
+            {
+                "text": "Meta Description Tag",
+                "value": "b"
+            },
+            {
+                "text": "Title Tag",
+                "value": "c"
+            },
+            {
+                "text": "H1 Tag",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which HTML tag is used for the main headline on a page and is considered very important for SEO?",
+        "options": [
+            {
+                "text": "Bold Tag",
+                "value": "a"
+            },
+            {
+                "text": "Title Tag",
+                "value": "b"
+            },
+            {
+                "text": "H1 Tag",
+                "value": "c"
+            },
+            {
+                "text": "Header Tag",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is a 'clean URL'?",
+        "options": [
+            {
+                "text": "A URL that has been disinfected of viruses",
+                "value": "a"
+            },
+            {
+                "text": "A URL that is short in length",
+                "value": "b"
+            },
+            {
+                "text": "A URL that is easy for humans and search engines to read, often containing keywords",
+                "value": "c"
+            },
+            {
+                "text": "A URL that redirects to a secure (HTTPS) version of a site",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of an 'Alt Tag' (Alt Text) on an image?",
+        "options": [
+            {
+                "text": "It creates a border around the image",
+                "value": "a"
+            },
+            {
+                "text": "It hides the image from search engines",
+                "value": "b"
+            },
+            {
+                "text": "It makes the image load faster",
+                "value": "c"
+            },
+            {
+                "text": "It describes the image for visually impaired users and search engines",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the SEO term for other websites linking to your website?",
+        "options": [
+            {
+                "text": "Outbound Links",
+                "value": "a"
+            },
+            {
+                "text": "Backlinks or Inbound Links",
+                "value": "b"
+            },
+            {
+                "text": "Internal Links",
+                "value": "c"
+            },
+            {
+                "text": "Anchor Links",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Why are backlinks important for SEO?",
+        "options": [
+            {
+                "text": "They directly generate revenue",
+                "value": "a"
+            },
+            {
+                "text": "They are seen as a 'vote of confidence' from one site to another, increasing authority",
+                "value": "b"
+            },
+            {
+                "text": "They are the only factor Google uses for ranking",
+                "value": "c"
+            },
+            {
+                "text": "They automatically improve website design",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "A link from which of these websites would likely carry the most 'authority' or 'link juice'?",
+        "options": [
+            {
+                "text": "A brand-new personal blog",
+                "value": "a"
+            },
+            {
+                "text": "A forum comment section",
+                "value": "b"
+            },
+            {
+                "text": "A local restaurant's menu page",
+                "value": "c"
+            },
+            {
+                "text": "The homepage of CNN.com",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is one ethical strategy to build backlinks?",
+        "options": [
+            {
+                "text": "Issuing a press release that gets picked up by news sites",
+                "value": "a"
+            },
+            {
+                "text": "Spamming blog comments with your link",
+                "value": "b"
+            },
+            {
+                "text": "Buying links in bulk from a link farm",
+                "value": "c"
+            },
+            {
+                "text": "Hiding links in the footer of your page",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the name of Google's algorithm update that focused on rewarding high-quality, original content?",
+        "options": [
+            {
+                "text": "Google Caffeine",
+                "value": "a"
+            },
+            {
+                "text": "Google Penguin",
+                "value": "b"
+            },
+            {
+                "text": "Google Panda",
+                "value": "c"
+            },
+            {
+                "text": "Google Hummingbird",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "According to the concept of 'Google Freshness', which of these search queries would Google be MOST likely to show the newest results for?",
+        "options": [
+            {
+                "text": "NFL scores",
+                "value": "a"
+            },
+            {
+                "text": "How to bake chocolate chip cookies",
+                "value": "b"
+            },
+            {
+                "text": "What is the capital of France?",
+                "value": "c"
+            },
+            {
+                "text": "History of the Roman Empire",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "A high 'Bounce Rate' in analytics is often interpreted by Google as:",
+        "options": [
+            {
+                "text": "The website is very popular",
+                "value": "a"
+            },
+            {
+                "text": "The website has a very fast server",
+                "value": "b"
+            },
+            {
+                "text": "The website has excellent content",
+                "value": "c"
+            },
+            {
+                "text": "The website is not relevant or engaging to visitors",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What does a 404 HTTP status code mean?",
+        "options": [
+            {
+                "text": "The page has moved temporarily",
+                "value": "a"
+            },
+            {
+                "text": "The page is not found (a broken link)",
+                "value": "b"
+            },
+            {
+                "text": "The server is too busy",
+                "value": "c"
+            },
+            {
+                "text": "Access is forbidden",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of a 301 redirect?",
+        "options": [
+            {
+                "text": "To refresh the current page",
+                "value": "a"
+            },
+            {
+                "text": "To permanently send users and search engines to a different URL, passing on link equity",
+                "value": "b"
+            },
+            {
+                "text": "To temporarily send users and search engines to a different URL",
+                "value": "c"
+            },
+            {
+                "text": "To block a malicious user",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the first step in conducting an SEO audit?",
+        "options": [
+            {
+                "text": "Immediately change all the titles on the website",
+                "value": "a"
+            },
+            {
+                "text": "Buy thousands of backlinks",
+                "value": "b"
+            },
+            {
+                "text": "Create a list of target keywords",
+                "value": "c"
+            },
+            {
+                "text": "Call Google support",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which free tool can crawl a website and provide a technical overview of titles, meta descriptions, and headers?",
+        "options": [
+            {
+                "text": "Screaming Frog SEO Spider",
+                "value": "a"
+            },
+            {
+                "text": "Google Ads",
+                "value": "b"
+            },
+            {
+                "text": "Adobe Photoshop",
+                "value": "c"
+            },
+            {
+                "text": "Mailchimp",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which free Google tool provides data on how a site is performing in search results and flags technical issues?",
+        "options": [
+            {
+                "text": "Google Search Console",
+                "value": "a"
+            },
+            {
+                "text": "Google My Business",
+                "value": "b"
+            },
+            {
+                "text": "Google Keyword Planner",
+                "value": "c"
+            },
+            {
+                "text": "Google Docs",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "For a business with a physical location, what is the MOST important SEO factor to dominate local search results?",
+        "options": [
+            {
+                "text": "Claims, accuracy, and citations in Google My Business",
+                "value": "a"
+            },
+            {
+                "text": "Number of Facebook Likes",
+                "value": "b"
+            },
+            {
+                "text": "Having a flashy website",
+                "value": "c"
+            },
+            {
+                "text": "The number of blog posts published",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is 'Page Authority'?",
+        "options": [
+            {
+                "text": "The author who wrote the page's bio",
+                "value": "a"
+            },
+            {
+                "text": "How much traffic the page gets",
+                "value": "b"
+            },
+            {
+                "text": "A search engine's rating of how likely a specific page will rank well",
+                "value": "c"
+            },
+            {
+                "text": "The page's load time",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the practice of creating and promoting online content to attract a target audience, with the goal of driving profitable customer action?",
+        "options": [
+            {
+                "text": "Search Engine Optimization (SEO)",
+                "value": "a"
+            },
+            {
+                "text": "Content Marketing",
+                "value": "b"
+            },
+            {
+                "text": "Pay-Per-Click (PPC)",
+                "value": "c"
+            },
+            {
+                "text": "Social Media Marketing",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "A key advantage of content marketing over traditional advertising is that it is based on:",
+        "options": [
+            {
+                "text": "Intent and providing value",
+                "value": "a"
+            },
+            {
+                "text": "Loud noises and bright colors",
+                "value": "b"
+            },
+            {
+                "text": "Distraction",
+                "value": "c"
+            },
+            {
+                "text": "Interrupting the user's activity",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "In the 'sales funnel' metaphor, a blog article is typically used at which stage?",
+        "options": [
+            {
+                "text": "Awareness (Top of Funnel)",
+                "value": "a"
+            },
+            {
+                "text": "Awareness (Top of Funnel)",
+                "value": "b"
+            },
+            {
+                "text": "Retention",
+                "value": "c"
+            },
+            {
+                "text": "Decision (Bottom of Funnel)",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is an 'editorial calendar' used for in content marketing?",
+        "options": [
+            {
+                "text": "To track advertising spending",
+                "value": "a"
+            },
+            {
+                "text": "To manage employee vacations",
+                "value": "b"
+            },
+            {
+                "text": "To plan and schedule content publication",
+                "value": "c"
+            },
+            {
+                "text": "To calculate taxes",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Repurposing a webinar into a blog post and a YouTube video is an example of:",
+        "options": [
+            {
+                "text": "Plagiarism",
+                "value": "a"
+            },
+            {
+                "text": "Keyword stuffing",
+                "value": "b"
+            },
+            {
+                "text": "Duplicate content",
+                "value": "c"
+            },
+            {
+                "text": "Maximizing content ROI",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The process of creating a simplified, visual representation of information or data is called:",
+        "options": [
+            {
+                "text": "An Infographic",
+                "value": "a"
+            },
+            {
+                "text": "A GIF",
+                "value": "b"
+            },
+            {
+                "text": "A Meme",
+                "value": "c"
+            },
+            {
+                "text": "A Thumbnail",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the primary purpose of a 'landing page'?",
+        "options": [
+            {
+                "text": "To be the homepage of the website",
+                "value": "a"
+            },
+            {
+                "text": "To host the company's contact information",
+                "value": "b"
+            },
+            {
+                "text": "To convince a visitor to take a specific action (convert)",
+                "value": "c"
+            },
+            {
+                "text": "To display all of the company's products",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which metric would you track to measure the success of a 'Top 10 Tips' blog post?",
+        "options": [
+            {
+                "text": "Number of sales that day",
+                "value": "a"
+            },
+            {
+                "text": "Traffic, time on page, and social shares",
+                "value": "b"
+            },
+            {
+                "text": "Email unsubscribe rate",
+                "value": "c"
+            },
+            {
+                "text": "Number of leads that downloaded a pricing sheet",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the main goal of a website redesign from a marketing perspective?",
+        "options": [
+            {
+                "text": "To make it look prettier",
+                "value": "a"
+            },
+            {
+                "text": "Because it's been two years",
+                "value": "b"
+            },
+            {
+                "text": "To follow the latest design trend",
+                "value": "c"
+            },
+            {
+                "text": "To improve performance in generating traffic and leads",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which of these is a WRONG reason to redesign a website?",
+        "options": [
+            {
+                "text": "The website is difficult to update",
+                "value": "a"
+            },
+            {
+                "text": "The website is not mobile-friendly",
+                "value": "b"
+            },
+            {
+                "text": "The website doesn't generate leads",
+                "value": "c"
+            },
+            {
+                "text": "The CEO doesn't like the color blue anymore",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Before redesigning a website, you should first:",
+        "options": [
+            {
+                "text": "Delete the old website",
+                "value": "a"
+            },
+            {
+                "text": "Launch a new ad campaign",
+                "value": "b"
+            },
+            {
+                "text": "Choose a new logo",
+                "value": "c"
+            },
+            {
+                "text": "Audit the current site's assets (traffic, rankings, backlinks)",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "A system that allows non-technical users to easily update website content is called a:",
+        "options": [
+            {
+                "text": "Web Server",
+                "value": "a"
+            },
+            {
+                "text": "FTP Client",
+                "value": "b"
+            },
+            {
+                "text": "Content Management System (CMS)",
+                "value": "c"
+            },
+            {
+                "text": "Code Editor",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is a key principle of effective homepage design?",
+        "options": [
+            {
+                "text": "Keep it simple and guide users to what they need",
+                "value": "a"
+            },
+            {
+                "text": "Make users think hard about where to click",
+                "value": "b"
+            },
+            {
+                "text": "Use auto-playing music and video",
+                "value": "c"
+            },
+            {
+                "text": "Include as much information as possible above the fold",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Blogging helps SEO primarily because it:",
+        "options": [
+            {
+                "text": "Replaces the need for backlinks",
+                "value": "a"
+            },
+            {
+                "text": "Makes the web designer look busy",
+                "value": "b"
+            },
+            {
+                "text": "Is free to do",
+                "value": "c"
+            },
+            {
+                "text": "Adds fresh, keyword-rich content and increases site pages",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the purpose of A/B testing a landing page?",
+        "options": [
+            {
+                "text": "To see which page is more beautiful",
+                "value": "a"
+            },
+            {
+                "text": "To see which version converts visitors into leads more effectively",
+                "value": "b"
+            },
+            {
+                "text": "To test for website bugs",
+                "value": "c"
+            },
+            {
+                "text": "To check if the website is mobile-responsive",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which analytics metric measures the percentage of visitors who leave your site after viewing only one page?",
+        "options": [
+            {
+                "text": "Bounce Rate",
+                "value": "a"
+            },
+            {
+                "text": "Conversion Rate",
+                "value": "b"
+            },
+            {
+                "text": "Exit Rate",
+                "value": "c"
+            },
+            {
+                "text": "Click-Through Rate (CTR)",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The primary reason a business should use social media is to:",
+        "options": [
+            {
+                "text": "Replace its website",
+                "value": "a"
+            },
+            {
+                "text": "Spam people with sales pitches",
+                "value": "b"
+            },
+            {
+                "text": "Because everyone else is doing it",
+                "value": "c"
+            },
+            {
+                "text": "Amplify its content and brand to connect with its audience",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "On Facebook, a business should have a:",
+        "options": [
+            {
+                "text": "Event",
+                "value": "a"
+            },
+            {
+                "text": "Group",
+                "value": "b"
+            },
+            {
+                "text": "Personal Profile",
+                "value": "c"
+            },
+            {
+                "text": "Business Page",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the large, banner-like image at the top of a Facebook Business Page called?",
+        "options": [
+            {
+                "text": "Profile Picture",
+                "value": "a"
+            },
+            {
+                "text": "Cover Photo",
+                "value": "b"
+            },
+            {
+                "text": "Header Image",
+                "value": "c"
+            },
+            {
+                "text": "Featured Image",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "A best practice for business Facebook posts is to:",
+        "options": [
+            {
+                "text": "Be personable and share valuable content, not just sales pitches",
+                "value": "a"
+            },
+            {
+                "text": "Use jargon and industry acronyms",
+                "value": "b"
+            },
+            {
+                "text": "Post 10 times a day",
+                "value": "c"
+            },
+            {
+                "text": "Tag dozens of irrelevant pages in each post",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How should a business typically handle a negative comment on its Facebook page?",
+        "options": [
+            {
+                "text": "Delete it and block the user immediately",
+                "value": "a"
+            },
+            {
+                "text": "Argue with the user publicly",
+                "value": "b"
+            },
+            {
+                "text": "Ignore it",
+                "value": "c"
+            },
+            {
+                "text": "Respond quickly, politely, and try to move the conversation offline",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "On Twitter, a post is called a:",
+        "options": [
+            {
+                "text": "Pin",
+                "value": "a"
+            },
+            {
+                "text": "Post",
+                "value": "b"
+            },
+            {
+                "text": "Tweet",
+                "value": "c"
+            },
+            {
+                "text": "Update",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the character limit for a standard Tweet?",
+        "options": [
+            {
+                "text": "140 characters",
+                "value": "a"
+            },
+            {
+                "text": "280 characters",
+                "value": "b"
+            },
+            {
+                "text": "500 characters",
+                "value": "c"
+            },
+            {
+                "text": "There is no limit",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is 'search intent'?",
+        "options": [
+            {
+                "text": "The number of times a keyword is searched",
+                "value": "a"
+            },
+            {
+                "text": "The underlying goal a user has when typing a query into a search engine",
+                "value": "b"
+            },
+            {
+                "text": "Google's intention to show ads",
+                "value": "c"
+            },
+            {
+                "text": "A website's goal to rank #1",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is NOT a common category of search intent?",
+        "options": [
+            {
+                "text": "Informational (to learn)",
+                "value": "a"
+            },
+            {
+                "text": "Navigational (to find a site)",
+                "value": "b"
+            },
+            {
+                "text": "Transactional (to buy)",
+                "value": "c"
+            },
+            {
+                "text": "Imaginational (to daydream)",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "A search for 'best drip coffee maker 2024' demonstrates what type of intent?",
+        "options": [
+            {
+                "text": "Navigational",
+                "value": "a"
+            },
+            {
+                "text": "Commercial Investigation",
+                "value": "b"
+            },
+            {
+                "text": "Transactional",
+                "value": "c"
+            },
+            {
+                "text": "Informational",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the 'core web vitals' update from Google primarily concerned with?",
+        "options": [
+            {
+                "text": "Social media shares",
+                "value": "a"
+            },
+            {
+                "text": "User experience metrics like loading, interactivity, and visual stability",
+                "value": "b"
+            },
+            {
+                "text": "The number of backlinks",
+                "value": "c"
+            },
+            {
+                "text": "Keyword density",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which Core Web Vitals metric measures how quickly the main content of a page loads?",
+        "options": [
+            {
+                "text": "First Input Delay (FID)",
+                "value": "a"
+            },
+            {
+                "text": "Largest Contentful Paint (LCP)",
+                "value": "b"
+            },
+            {
+                "text": "Cumulative Layout Shift (CLS)",
+                "value": "c"
+            },
+            {
+                "text": "Interaction to Next Paint (INP)",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which metric measures how often users experience unexpected layout shifts on a page?",
+        "options": [
+            {
+                "text": "First Input Delay (FID)",
+                "value": "a"
+            },
+            {
+                "text": "Largest Contentful Paint (LCP)",
+                "value": "b"
+            },
+            {
+                "text": "Cumulative Layout Shift (CLS)",
+                "value": "c"
+            },
+            {
+                "text": "Time to First Byte (TTFB)",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the successor to the First Input Delay (FID) metric?",
+        "options": [
+            {
+                "text": "Largest Contentful Paint (LCP)",
+                "value": "a"
+            },
+            {
+                "text": "Cumulative Layout Shift (CLS)",
+                "value": "b"
+            },
+            {
+                "text": "Interaction to Next Paint (INP)",
+                "value": "c"
+            },
+            {
+                "text": "First Contentful Paint (FCP)",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What does 'TF-IDF' stand for in advanced keyword analysis?",
+        "options": [
+            {
+                "text": "Term Frequency - Inverse Document Frequency",
+                "value": "a"
+            },
+            {
+                "text": "Total Findings - Internet Data Files",
+                "value": "b"
+            },
+            {
+                "text": "Technical Focus - Internal Development Factor",
+                "value": "c"
+            },
+            {
+                "text": "Tagged For - Indexed Domain Files",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "In simple terms, TF-IDF helps you understand:",
+        "options": [
+            {
+                "text": "How fast your website is",
+                "value": "a"
+            },
+            {
+                "text": "How important a word is to a document in a collection of documents",
+                "value": "b"
+            },
+            {
+                "text": "How many social media followers you have",
+                "value": "c"
+            },
+            {
+                "text": "The value of a backlink",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is 'keyword cannibalization'?",
+        "options": [
+            {
+                "text": "When multiple pages on your site target the same keyword, confusing search engines and diluting ranking potential",
+                "value": "a"
+            },
+            {
+                "text": "When you eat while doing keyword research",
+                "value": "b"
+            },
+            {
+                "text": "When a competitor steals your keywords",
+                "value": "c"
+            },
+            {
+                "text": "When you use a keyword too many times on a page",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How do you typically fix keyword cannibalization?",
+        "options": [
+            {
+                "text": "Ignore it",
+                "value": "a"
+            },
+            {
+                "text": "Build more links to all pages",
+                "value": "b"
+            },
+            {
+                "text": "Delete all but one page",
+                "value": "c"
+            },
+            {
+                "text": "Consolidate pages or use canonical tags to indicate the preferred URL",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is a 'skyscraper technique' in link building?",
+        "options": [
+            {
+                "text": "Building a very tall website",
+                "value": "a"
+            },
+            {
+                "text": "Finding a popular piece of content, creating something better, and promoting it to people who linked to the original",
+                "value": "b"
+            },
+            {
+                "text": "A black hat technique involving link pyramids",
+                "value": "c"
+            },
+            {
+                "text": "Advertising on billboards in skyscrapers",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is 'broken link building'?",
+        "options": [
+            {
+                "text": "Fixing links on your own website",
+                "value": "a"
+            },
+            {
+                "text": "Finding broken links on other websites and suggesting your content as a replacement",
+                "value": "b"
+            },
+            {
+                "text": "Building links as quickly as possible",
+                "value": "c"
+            },
+            {
+                "text": "A strategy that doesn't work",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the primary purpose of a 'nofollow' link?",
+        "options": [
+            {
+                "text": "To tell search engines the link is paid or untrusted and shouldn't pass ranking authority",
+                "value": "a"
+            },
+            {
+                "text": "To make the link invisible",
+                "value": "b"
+            },
+            {
+                "text": "To make the link pass more authority",
+                "value": "c"
+            },
+            {
+                "text": "To break the link",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is now a hint rather than a directive, meaning Google may choose to ignore it for discovery?",
+        "options": [
+            {
+                "text": "The 'alt' attribute",
+                "value": "a"
+            },
+            {
+                "text": "The 'title' tag",
+                "value": "b"
+            },
+            {
+                "text": "The 'rel=nofollow' attribute",
+                "value": "c"
+            },
+            {
+                "text": "The 'H1' tag",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What are 'sponsored' and 'UGC' (User-Generated Content) link attributes used for?",
+        "options": [
+            {
+                "text": "They are stronger versions of 'dofollow'",
+                "value": "a"
+            },
+            {
+                "text": "They provide more specific signals about the nature of a link (paid vs. from comments/forums)",
+                "value": "b"
+            },
+            {
+                "text": "They hide the link from users",
+                "value": "c"
+            },
+            {
+                "text": "They are outdated and no longer used",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the main difference between 'dofollow' and 'nofollow' links?",
+        "options": [
+            {
+                "text": "Dofollow links can pass PageRank/authority, while nofollow links typically do not",
+                "value": "a"
+            },
+            {
+                "text": "Dofollow links are blue, nofollow are green",
+                "value": "b"
+            },
+            {
+                "text": "Dofollow links are only for images",
+                "value": "c"
+            },
+            {
+                "text": "There is no difference",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is a 'Google Algorithm Update'?",
+        "options": [
+            {
+                "text": "A new version of the Chrome browser",
+                "value": "a"
+            },
+            {
+                "text": "A scheduled server reboot",
+                "value": "b"
+            },
+            {
+                "text": "A new feature in Google Docs",
+                "value": "c"
+            },
+            {
+                "text": "A change to the complex formula Google uses to rank websites in its search results",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which algorithm update targeted websites with low-quality, thin, or spammy content?",
+        "options": [
+            {
+                "text": "Google Panda",
+                "value": "a"
+            },
+            {
+                "text": "Google Penguin",
+                "value": "b"
+            },
+            {
+                "text": "Google Hummingbird",
+                "value": "c"
+            },
+            {
+                "text": "Google Caffeine",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which algorithm update targeted websites using manipulative or spammy link practices?",
+        "options": [
+            {
+                "text": "Google Panda",
+                "value": "a"
+            },
+            {
+                "text": "Google Penguin",
+                "value": "b"
+            },
+            {
+                "text": "Google Hummingbird",
+                "value": "c"
+            },
+            {
+                "text": "Google Pirate",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    }
+]

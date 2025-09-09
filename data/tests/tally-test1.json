@@ -1,0 +1,1102 @@
+[
+    {
+        "text": "What is the primary function of Tally.ERP 9?",
+        "options": [
+            {
+                "text": "Graphic Design",
+                "value": "a"
+            },
+            {
+                "text": "Business Accounting and Inventory Management",
+                "value": "b"
+            },
+            {
+                "text": "Word Processing",
+                "value": "c"
+            },
+            {
+                "text": "Gaming",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which technology is Tally.ERP 9 built on?",
+        "options": [
+            {
+                "text": "C:MuLATE",
+                "value": "a"
+            },
+            {
+                "text": "Java",
+                "value": "b"
+            },
+            {
+                "text": ".NET Framework",
+                "value": "c"
+            },
+            {
+                "text": "HTML5",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does C:MuLATE stand for?",
+        "options": [
+            {
+                "text": "Concurrent Multi-lingual Accelerated Technology Engine",
+                "value": "a"
+            },
+            {
+                "text": "Computer Multi-language Advanced Technology Engine",
+                "value": "b"
+            },
+            {
+                "text": "Central Multi-user Language Access Technology",
+                "value": "c"
+            },
+            {
+                "text": "Calculated Multi-level Accounting Technology Engine",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which of these is NOT a salient feature of Tally.ERP 9?",
+        "options": [
+            {
+                "text": "Simplicity",
+                "value": "a"
+            },
+            {
+                "text": "Speed",
+                "value": "b"
+            },
+            {
+                "text": "Complex Coding Requirement",
+                "value": "c"
+            },
+            {
+                "text": "Flexibility",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What key combination provides instant assistance in Tally.ERP 9?",
+        "options": [
+            {
+                "text": "Alt+H",
+                "value": "a"
+            },
+            {
+                "text": "Ctrl+H",
+                "value": "b"
+            },
+            {
+                "text": "F1",
+                "value": "c"
+            },
+            {
+                "text": "Alt+F1",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which edition of Tally is specifically designed for Chartered Accountants?",
+        "options": [
+            {
+                "text": "Business Edition",
+                "value": "a"
+            },
+            {
+                "text": "Auditor's Edition",
+                "value": "b"
+            },
+            {
+                "text": "Enterprise Edition",
+                "value": "c"
+            },
+            {
+                "text": "Professional Edition",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the meaning of 'Goods' in accounting terminology?",
+        "options": [
+            {
+                "text": "Items purchased for resale",
+                "value": "a"
+            },
+            {
+                "text": "Office furniture",
+                "value": "b"
+            },
+            {
+                "text": "Building property",
+                "value": "c"
+            },
+            {
+                "text": "Employee salaries",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What are 'Bad Debts' in accounting?",
+        "options": [
+            {
+                "text": "Loans that cannot be recovered",
+                "value": "a"
+            },
+            {
+                "text": "Expensive purchases",
+                "value": "b"
+            },
+            {
+                "text": "High-interest loans",
+                "value": "c"
+            },
+            {
+                "text": "Illegal transactions",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which type of account is 'Cash Account'?",
+        "options": [
+            {
+                "text": "Real Account",
+                "value": "a"
+            },
+            {
+                "text": "Personal Account",
+                "value": "b"
+            },
+            {
+                "text": "Nominal Account",
+                "value": "c"
+            },
+            {
+                "text": "Temporary Account",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the golden rule for Personal Accounts?",
+        "options": [
+            {
+                "text": "Debit the receiver, Credit the giver",
+                "value": "a"
+            },
+            {
+                "text": "Debit what comes in, Credit what goes out",
+                "value": "b"
+            },
+            {
+                "text": "Debit expenses and losses, Credit incomes and gains",
+                "value": "c"
+            },
+            {
+                "text": "Debit all assets, Credit all liabilities",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which voucher type is used for cash payments in Tally?",
+        "options": [
+            {
+                "text": "F5: Payment Voucher",
+                "value": "a"
+            },
+            {
+                "text": "F6: Receipt Voucher",
+                "value": "b"
+            },
+            {
+                "text": "F4: Contra Voucher",
+                "value": "c"
+            },
+            {
+                "text": "F7: Journal Voucher",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which voucher type is used for cash receipts in Tally?",
+        "options": [
+            {
+                "text": "F6: Receipt Voucher",
+                "value": "a"
+            },
+            {
+                "text": "F5: Payment Voucher",
+                "value": "b"
+            },
+            {
+                "text": "F4: Contra Voucher",
+                "value": "c"
+            },
+            {
+                "text": "F8: Sales Voucher",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function key is used to change the period in Tally?",
+        "options": [
+            {
+                "text": "F2",
+                "value": "a"
+            },
+            {
+                "text": "F1",
+                "value": "b"
+            },
+            {
+                "text": "F3",
+                "value": "c"
+            },
+            {
+                "text": "F12",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which key combination is used to create a company in Tally?",
+        "options": [
+            {
+                "text": "Alt+F3",
+                "value": "a"
+            },
+            {
+                "text": "Ctrl+F1",
+                "value": "b"
+            },
+            {
+                "text": "Alt+F1",
+                "value": "c"
+            },
+            {
+                "text": "Ctrl+F3",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does 'Alt+D' do in Tally?",
+        "options": [
+            {
+                "text": "Deletes a voucher or master",
+                "value": "a"
+            },
+            {
+                "text": "Displays configuration",
+                "value": "b"
+            },
+            {
+                "text": "Duplicates a entry",
+                "value": "c"
+            },
+            {
+                "text": "Displays report details",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is a Primary Group in Tally?",
+        "options": [
+            {
+                "text": "Capital Account",
+                "value": "a"
+            },
+            {
+                "text": "Sundry Debtors",
+                "value": "b"
+            },
+            {
+                "text": "Bank Accounts",
+                "value": "c"
+            },
+            {
+                "text": "Deposits",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Where would you classify 'Buildings' in Tally?",
+        "options": [
+            {
+                "text": "Fixed Assets",
+                "value": "a"
+            },
+            {
+                "text": "Current Assets",
+                "value": "b"
+            },
+            {
+                "text": "Investments",
+                "value": "c"
+            },
+            {
+                "text": "Miscellaneous Expenses",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which group would 'Sales Return' be classified under?",
+        "options": [
+            {
+                "text": "Sales Account",
+                "value": "a"
+            },
+            {
+                "text": "Direct Income",
+                "value": "b"
+            },
+            {
+                "text": "Indirect Expenses",
+                "value": "c"
+            },
+            {
+                "text": "Current Liabilities",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the shortcut to access the calculator in Tally?",
+        "options": [
+            {
+                "text": "Ctrl+N",
+                "value": "a"
+            },
+            {
+                "text": "Alt+N",
+                "value": "b"
+            },
+            {
+                "text": "Ctrl+C",
+                "value": "c"
+            },
+            {
+                "text": "Alt+C",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function key is used for configuration in Tally?",
+        "options": [
+            {
+                "text": "F12",
+                "value": "a"
+            },
+            {
+                "text": "F11",
+                "value": "b"
+            },
+            {
+                "text": "F1",
+                "value": "c"
+            },
+            {
+                "text": "F9",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the primary function of Tally.ERP 9?",
+        "options": [
+            {
+                "text": "Graphic Design",
+                "value": "a"
+            },
+            {
+                "text": "Business Accounting and Inventory Management",
+                "value": "b"
+            },
+            {
+                "text": "Word Processing",
+                "value": "c"
+            },
+            {
+                "text": "Gaming",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which technology is Tally.ERP 9 built on?",
+        "options": [
+            {
+                "text": "C:MuLATE",
+                "value": "a"
+            },
+            {
+                "text": "Java",
+                "value": "b"
+            },
+            {
+                "text": ".NET Framework",
+                "value": "c"
+            },
+            {
+                "text": "HTML5",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does C:MuLATE stand for?",
+        "options": [
+            {
+                "text": "Concurrent Multi-lingual Accelerated Technology Engine",
+                "value": "a"
+            },
+            {
+                "text": "Computer Multi-language Advanced Technology Engine",
+                "value": "b"
+            },
+            {
+                "text": "Central Multi-user Language Access Technology",
+                "value": "c"
+            },
+            {
+                "text": "Calculated Multi-level Accounting Technology Engine",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which of these is NOT a salient feature of Tally.ERP 9?",
+        "options": [
+            {
+                "text": "Simplicity",
+                "value": "a"
+            },
+            {
+                "text": "Speed",
+                "value": "b"
+            },
+            {
+                "text": "Complex Coding Requirement",
+                "value": "c"
+            },
+            {
+                "text": "Flexibility",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What key combination provides instant assistance in Tally.ERP 9?",
+        "options": [
+            {
+                "text": "Alt+H",
+                "value": "a"
+            },
+            {
+                "text": "Ctrl+H",
+                "value": "b"
+            },
+            {
+                "text": "F1",
+                "value": "c"
+            },
+            {
+                "text": "Alt+F1",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which edition of Tally is specifically designed for Chartered Accountants?",
+        "options": [
+            {
+                "text": "Business Edition",
+                "value": "a"
+            },
+            {
+                "text": "Auditor's Edition",
+                "value": "b"
+            },
+            {
+                "text": "Enterprise Edition",
+                "value": "c"
+            },
+            {
+                "text": "Professional Edition",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the meaning of 'Goods' in accounting terminology?",
+        "options": [
+            {
+                "text": "Items purchased for resale",
+                "value": "a"
+            },
+            {
+                "text": "Office furniture",
+                "value": "b"
+            },
+            {
+                "text": "Building property",
+                "value": "c"
+            },
+            {
+                "text": "Employee salaries",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What are 'Bad Debts' in accounting?",
+        "options": [
+            {
+                "text": "Loans that cannot be recovered",
+                "value": "a"
+            },
+            {
+                "text": "Expensive purchases",
+                "value": "b"
+            },
+            {
+                "text": "High-interest loans",
+                "value": "c"
+            },
+            {
+                "text": "Illegal transactions",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which type of account is 'Cash Account'?",
+        "options": [
+            {
+                "text": "Real Account",
+                "value": "a"
+            },
+            {
+                "text": "Personal Account",
+                "value": "b"
+            },
+            {
+                "text": "Nominal Account",
+                "value": "c"
+            },
+            {
+                "text": "Temporary Account",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the golden rule for Personal Accounts?",
+        "options": [
+            {
+                "text": "Debit the receiver, Credit the giver",
+                "value": "a"
+            },
+            {
+                "text": "Debit what comes in, Credit what goes out",
+                "value": "b"
+            },
+            {
+                "text": "Debit expenses and losses, Credit incomes and gains",
+                "value": "c"
+            },
+            {
+                "text": "Debit all assets, Credit all liabilities",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which voucher type is used for cash payments in Tally?",
+        "options": [
+            {
+                "text": "F5: Payment Voucher",
+                "value": "a"
+            },
+            {
+                "text": "F6: Receipt Voucher",
+                "value": "b"
+            },
+            {
+                "text": "F4: Contra Voucher",
+                "value": "c"
+            },
+            {
+                "text": "F7: Journal Voucher",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which voucher type is used for cash receipts in Tally?",
+        "options": [
+            {
+                "text": "F6: Receipt Voucher",
+                "value": "a"
+            },
+            {
+                "text": "F5: Payment Voucher",
+                "value": "b"
+            },
+            {
+                "text": "F4: Contra Voucher",
+                "value": "c"
+            },
+            {
+                "text": "F8: Sales Voucher",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function key is used to change the period in Tally?",
+        "options": [
+            {
+                "text": "F2",
+                "value": "a"
+            },
+            {
+                "text": "F1",
+                "value": "b"
+            },
+            {
+                "text": "F3",
+                "value": "c"
+            },
+            {
+                "text": "F12",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which key combination is used to create a company in Tally?",
+        "options": [
+            {
+                "text": "Alt+F3",
+                "value": "a"
+            },
+            {
+                "text": "Ctrl+F1",
+                "value": "b"
+            },
+            {
+                "text": "Alt+F1",
+                "value": "c"
+            },
+            {
+                "text": "Ctrl+F3",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does 'Alt+D' do in Tally?",
+        "options": [
+            {
+                "text": "Deletes a voucher or master",
+                "value": "a"
+            },
+            {
+                "text": "Displays configuration",
+                "value": "b"
+            },
+            {
+                "text": "Duplicates a entry",
+                "value": "c"
+            },
+            {
+                "text": "Displays report details",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is a Primary Group in Tally?",
+        "options": [
+            {
+                "text": "Capital Account",
+                "value": "a"
+            },
+            {
+                "text": "Sundry Debtors",
+                "value": "b"
+            },
+            {
+                "text": "Bank Accounts",
+                "value": "c"
+            },
+            {
+                "text": "Deposits",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Where would you classify 'Buildings' in Tally?",
+        "options": [
+            {
+                "text": "Fixed Assets",
+                "value": "a"
+            },
+            {
+                "text": "Current Assets",
+                "value": "b"
+            },
+            {
+                "text": "Investments",
+                "value": "c"
+            },
+            {
+                "text": "Miscellaneous Expenses",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which group would 'Sales Return' be classified under?",
+        "options": [
+            {
+                "text": "Sales Account",
+                "value": "a"
+            },
+            {
+                "text": "Direct Income",
+                "value": "b"
+            },
+            {
+                "text": "Indirect Expenses",
+                "value": "c"
+            },
+            {
+                "text": "Current Liabilities",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the shortcut to access the calculator in Tally?",
+        "options": [
+            {
+                "text": "Ctrl+N",
+                "value": "a"
+            },
+            {
+                "text": "Alt+N",
+                "value": "b"
+            },
+            {
+                "text": "Ctrl+C",
+                "value": "c"
+            },
+            {
+                "text": "Alt+C",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function key is used for configuration in Tally?",
+        "options": [
+            {
+                "text": "F12",
+                "value": "a"
+            },
+            {
+                "text": "F11",
+                "value": "b"
+            },
+            {
+                "text": "F1",
+                "value": "c"
+            },
+            {
+                "text": "F9",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is a 'Debtor'?",
+        "options": [
+            {
+                "text": "A person who owes money to the business",
+                "value": "a"
+            },
+            {
+                "text": "A person to whom the business owes money",
+                "value": "b"
+            },
+            {
+                "text": "An owner of the business",
+                "value": "c"
+            },
+            {
+                "text": "A bank lender",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which voucher is used to record a withdrawal of cash by the owner for personal use?",
+        "options": [
+            {
+                "text": "Payment Voucher (F5)",
+                "value": "a"
+            },
+            {
+                "text": "Contra Voucher (F4)",
+                "value": "b"
+            },
+            {
+                "text": "Journal Voucher (F7)",
+                "value": "c"
+            },
+            {
+                "text": "Receipt Voucher (F6)",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Under which primary group would you create a 'Bank Loan' ledger?",
+        "options": [
+            {
+                "text": "Loans (Liability)",
+                "value": "a"
+            },
+            {
+                "text": "Current Assets",
+                "value": "b"
+            },
+            {
+                "text": "Current Liabilities",
+                "value": "c"
+            },
+            {
+                "text": "Investments",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the first step to start working in Tally?",
+        "options": [
+            {
+                "text": "Create a Company",
+                "value": "a"
+            },
+            {
+                "text": "Create Groups",
+                "value": "b"
+            },
+            {
+                "text": "Create Ledgers",
+                "value": "c"
+            },
+            {
+                "text": "Enter a Voucher",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which report shows the summary of all ledger balances?",
+        "options": [
+            {
+                "text": "Trial Balance",
+                "value": "a"
+            },
+            {
+                "text": "Balance Sheet",
+                "value": "b"
+            },
+            {
+                "text": "Profit & Loss Account",
+                "value": "c"
+            },
+            {
+                "text": "Day Book",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which key is used to select a Sales Voucher?",
+        "options": [
+            {
+                "text": "F8",
+                "value": "a"
+            },
+            {
+                "text": "F9",
+                "value": "b"
+            },
+            {
+                "text": "F10",
+                "value": "c"
+            },
+            {
+                "text": "F11",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What does 'Ctrl+A' do in a voucher entry screen?",
+        "options": [
+            {
+                "text": "Accepts the form",
+                "value": "a"
+            },
+            {
+                "text": "Adds a new line",
+                "value": "b"
+            },
+            {
+                "text": "Aborts the entry",
+                "value": "c"
+            },
+            {
+                "text": "Shows the calculator",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which sub-group does 'Sundry Debtors' fall under?",
+        "options": [
+            {
+                "text": "Current Assets",
+                "value": "a"
+            },
+            {
+                "text": "Current Liabilities",
+                "value": "b"
+            },
+            {
+                "text": "Investments",
+                "value": "c"
+            },
+            {
+                "text": "Direct Expenses",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Reserves and Surplus' group is a sub-group of which primary group?",
+        "options": [
+            {
+                "text": "Capital Account",
+                "value": "a"
+            },
+            {
+                "text": "Loans (Liability)",
+                "value": "b"
+            },
+            {
+                "text": "Current Liabilities",
+                "value": "c"
+            },
+            {
+                "text": "Investments",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which of these is an example of a Direct Expense?",
+        "options": [
+            {
+                "text": "Freight on Purchase",
+                "value": "a"
+            },
+            {
+                "text": "Office Rent",
+                "value": "b"
+            },
+            {
+                "text": "Manager's Salary",
+                "value": "c"
+            },
+            {
+                "text": "Internet Bill",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    }
+]

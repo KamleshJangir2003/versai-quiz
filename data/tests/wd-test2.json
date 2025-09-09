@@ -1,0 +1,1542 @@
+[
+    {
+        "text": "What does HTML stand for?",
+        "options": [
+            {
+                "text": "Hyperlinks and Text Markup Language",
+                "value": "a"
+            },
+            {
+                "text": "Hyper Text Markup Language",
+                "value": "b"
+            },
+            {
+                "text": "Home Tool Markup Language",
+                "value": "c"
+            },
+            {
+                "text": "Hyper Transfer Markup Language",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is a valid <!DOCTYPE> declaration for HTML5?",
+        "options": [
+            {
+                "text": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 5.0//EN\">",
+                "value": "a"
+            },
+            {
+                "text": "<!DOCTYPE html>",
+                "value": "b"
+            },
+            {
+                "text": "<!DOCTYPE HTML5>",
+                "value": "c"
+            },
+            {
+                "text": "<DOCTYPE html>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which tag is the root element of an HTML page?",
+        "options": [
+            {
+                "text": "<!DOCTYPE>",
+                "value": "a"
+            },
+            {
+                "text": "<body>",
+                "value": "b"
+            },
+            {
+                "text": "<html>",
+                "value": "c"
+            },
+            {
+                "text": "<head>",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which element contains meta information about the HTML document?",
+        "options": [
+            {
+                "text": "<head>",
+                "value": "a"
+            },
+            {
+                "text": "<meta>",
+                "value": "b"
+            },
+            {
+                "text": "<title>",
+                "value": "c"
+            },
+            {
+                "text": "<info>",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which element specifies a title for the document?",
+        "options": [
+            {
+                "text": "<meta>",
+                "value": "a"
+            },
+            {
+                "text": "<head>",
+                "value": "b"
+            },
+            {
+                "text": "<title>",
+                "value": "c"
+            },
+            {
+                "text": "<document-title>",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which element contains the visible content of the HTML document?",
+        "options": [
+            {
+                "text": "<visible>",
+                "value": "a"
+            },
+            {
+                "text": "<main>",
+                "value": "b"
+            },
+            {
+                "text": "<content>",
+                "value": "c"
+            },
+            {
+                "text": "<body>",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the correct HTML for creating a hyperlink to Nematrian's homepage?",
+        "options": [
+            {
+                "text": "<a href=\"https://www.nematrian.com\">Nematrian</a>",
+                "value": "a"
+            },
+            {
+                "text": "<a url=\"https://www.nematrian.com\">Nematrian</a>",
+                "value": "b"
+            },
+            {
+                "text": "<a>https://www.nematrian.com</a>",
+                "value": "c"
+            },
+            {
+                "text": "<link src=\"https://www.nematrian.com\">Nematrian</link>",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How can you open a link in a new tab/browser window?",
+        "options": [
+            {
+                "text": "<a href=\"url\" target=\"_new\">",
+                "value": "a"
+            },
+            {
+                "text": "<a href=\"url\" new>",
+                "value": "b"
+            },
+            {
+                "text": "<a href=\"url\" target=\"_blank\">",
+                "value": "c"
+            },
+            {
+                "text": "<a href=\"url\" target=\"new\">",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which is the correct HTML for making an image?",
+        "options": [
+            {
+                "text": "<img src=\"image.gif\" alt=\"MyImage\">",
+                "value": "a"
+            },
+            {
+                "text": "<img href=\"image.gif\" alt=\"MyImage\">",
+                "value": "b"
+            },
+            {
+                "text": "<image src=\"image.gif\" alt=\"MyImage\">",
+                "value": "c"
+            },
+            {
+                "text": "<img alt=\"MyImage\">image.gif</img>",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the correct HTML for making a text input field?",
+        "options": [
+            {
+                "text": "<input type=\"text\">",
+                "value": "a"
+            },
+            {
+                "text": "<textinput type=\"text\">",
+                "value": "b"
+            },
+            {
+                "text": "<input type=\"textfield\">",
+                "value": "c"
+            },
+            {
+                "text": "<textfield>",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the correct HTML for making a drop-down list?",
+        "options": [
+            {
+                "text": "<list>",
+                "value": "a"
+            },
+            {
+                "text": "<input type=\"list\">",
+                "value": "b"
+            },
+            {
+                "text": "<select>",
+                "value": "c"
+            },
+            {
+                "text": "<input type=\"dropdown\">",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the correct HTML for making a text area?",
+        "options": [
+            {
+                "text": "<input type=\"textarea\">",
+                "value": "a"
+            },
+            {
+                "text": "<textarea>",
+                "value": "b"
+            },
+            {
+                "text": "<input type=\"textbox\">",
+                "value": "c"
+            },
+            {
+                "text": "<text>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the correct HTML for inserting a background image? (Old method, not recommended with CSS)",
+        "options": [
+            {
+                "text": "<body bg=\"background.gif\">",
+                "value": "a"
+            },
+            {
+                "text": "<background img=\"background.gif\">",
+                "value": "b"
+            },
+            {
+                "text": "<body style=\"background-image:url('background.gif')\">",
+                "value": "c"
+            },
+            {
+                "text": "<body background=\"background.gif\">",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which HTML element defines important text? (Bold)",
+        "options": [
+            {
+                "text": "<b>",
+                "value": "a"
+            },
+            {
+                "text": "<important>",
+                "value": "b"
+            },
+            {
+                "text": "<strong>",
+                "value": "c"
+            },
+            {
+                "text": "<i>",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which HTML element defines emphasized text? (Italic)",
+        "options": [
+            {
+                "text": "<strong>",
+                "value": "a"
+            },
+            {
+                "text": "<italic>",
+                "value": "b"
+            },
+            {
+                "text": "<i>",
+                "value": "c"
+            },
+            {
+                "text": "<em>",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "How do you add a background color for all <h1> elements?",
+        "options": [
+            {
+                "text": "h1 {bg-color:#FFFFFF;}",
+                "value": "a"
+            },
+            {
+                "text": "h1.all {bgcolor:#FFFFFF;}",
+                "value": "b"
+            },
+            {
+                "text": "all.h1 {background-color:#FFFFFF;}",
+                "value": "c"
+            },
+            {
+                "text": "h1 {background-color:#FFFFFF;}",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "How do you change the font of an element?",
+        "options": [
+            {
+                "text": "font-family:",
+                "value": "a"
+            },
+            {
+                "text": "font-style:",
+                "value": "b"
+            },
+            {
+                "text": "font=",
+                "value": "c"
+            },
+            {
+                "text": "f:",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How do you make the text bold?",
+        "options": [
+            {
+                "text": "style=\"bold\"",
+                "value": "a"
+            },
+            {
+                "text": "style=\"text-size:bold\"",
+                "value": "b"
+            },
+            {
+                "text": "font-weight:bold;",
+                "value": "c"
+            },
+            {
+                "text": "style=\"text:bold\"",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "How do you display a border like this: 'top: 10px, bottom: 15px, right: 5px, left: 20px'?",
+        "options": [
+            {
+                "text": "border-width:10px 5px 15px 20px;",
+                "value": "a"
+            },
+            {
+                "text": "border-width:10px 20px 15px 5px;",
+                "value": "b"
+            },
+            {
+                "text": "border-width:10px 15px 5px 20px;",
+                "value": "c"
+            },
+            {
+                "text": "border-width:10px 15px 20px 5px;",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Where in an HTML document is the correct place to refer to an external style sheet?",
+        "options": [
+            {
+                "text": "At the end of the document",
+                "value": "a"
+            },
+            {
+                "text": "In the <head> section",
+                "value": "b"
+            },
+            {
+                "text": "In the <body> section",
+                "value": "c"
+            },
+            {
+                "text": "In the <footer> section",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which HTML tag is used to define an internal style sheet?",
+        "options": [
+            {
+                "text": "<style>",
+                "value": "a"
+            },
+            {
+                "text": "<css>",
+                "value": "b"
+            },
+            {
+                "text": "<script>",
+                "value": "c"
+            },
+            {
+                "text": "<link>",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which HTML attribute is used to define inline styles?",
+        "options": [
+            {
+                "text": "styles",
+                "value": "a"
+            },
+            {
+                "text": "style",
+                "value": "b"
+            },
+            {
+                "text": "class",
+                "value": "c"
+            },
+            {
+                "text": "font",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which is the correct CSS syntax?",
+        "options": [
+            {
+                "text": "body:color=black;",
+                "value": "a"
+            },
+            {
+                "text": "{body:color=black;}",
+                "value": "b"
+            },
+            {
+                "text": "{body:color=black;}",
+                "value": "c"
+            },
+            {
+                "text": "body {color: black;}",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "How do you insert a comment in a CSS file?",
+        "options": [
+            {
+                "text": "// this is a comment //",
+                "value": "a"
+            },
+            {
+                "text": "' this is a comment",
+                "value": "b"
+            },
+            {
+                "text": "/* this is a comment */",
+                "value": "c"
+            },
+            {
+                "text": "// this is a comment",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which property is used to change the background color?",
+        "options": [
+            {
+                "text": "color",
+                "value": "a"
+            },
+            {
+                "text": "bgcolor",
+                "value": "b"
+            },
+            {
+                "text": "background-color",
+                "value": "c"
+            },
+            {
+                "text": "bg-color",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "How do you add a background color to all <p> elements?",
+        "options": [
+            {
+                "text": "p.all {background-color:#FFFFFF;}",
+                "value": "a"
+            },
+            {
+                "text": "p {background-color:#FFFFFF;}",
+                "value": "b"
+            },
+            {
+                "text": "all.p {background-color:#FFFFFF;}",
+                "value": "c"
+            },
+            {
+                "text": "p {bg-color:#FFFFFF;}",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which CSS property controls the text size?",
+        "options": [
+            {
+                "text": "font-style",
+                "value": "a"
+            },
+            {
+                "text": "text-size",
+                "value": "b"
+            },
+            {
+                "text": "font-size",
+                "value": "c"
+            },
+            {
+                "text": "text-style",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the correct CSS syntax for making all the <span> elements bold?",
+        "options": [
+            {
+                "text": "span {text-size:bold;}",
+                "value": "a"
+            },
+            {
+                "text": "span {font-weight:bold;}",
+                "value": "b"
+            },
+            {
+                "text": "<span style=\"text-size:bold;\">",
+                "value": "c"
+            },
+            {
+                "text": "<span style=\"font-size:bold;\">",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How do you display hyperlinks without an underline?",
+        "options": [
+            {
+                "text": "a {text-decoration:no-underline;}",
+                "value": "a"
+            },
+            {
+                "text": "a {decoration:no-underline;}",
+                "value": "b"
+            },
+            {
+                "text": "a {underline:none;}",
+                "value": "c"
+            },
+            {
+                "text": "a {text-decoration:none;}",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "How do you make each word in a text start with a capital letter?",
+        "options": [
+            {
+                "text": "text-style:capitalize",
+                "value": "a"
+            },
+            {
+                "text": "transform:capitalize",
+                "value": "b"
+            },
+            {
+                "text": "text-transform:capitalize",
+                "value": "c"
+            },
+            {
+                "text": "You can't do that with CSS",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which property is used to change the font of an element?",
+        "options": [
+            {
+                "text": "font-weight",
+                "value": "a"
+            },
+            {
+                "text": "font-style",
+                "value": "b"
+            },
+            {
+                "text": "font-family",
+                "value": "c"
+            },
+            {
+                "text": "text-font",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "How do you make the text italic?",
+        "options": [
+            {
+                "text": "font-style:italic;",
+                "value": "a"
+            },
+            {
+                "text": "style:italic;",
+                "value": "b"
+            },
+            {
+                "text": "font:italic;",
+                "value": "c"
+            },
+            {
+                "text": "text-style:italic;",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How do you select an element with id 'demo'?",
+        "options": [
+            {
+                "text": ".demo",
+                "value": "a"
+            },
+            {
+                "text": "#demo",
+                "value": "b"
+            },
+            {
+                "text": "demo",
+                "value": "c"
+            },
+            {
+                "text": "*demo",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How do you select elements with class name 'test'?",
+        "options": [
+            {
+                "text": ".test",
+                "value": "a"
+            },
+            {
+                "text": "#test",
+                "value": "b"
+            },
+            {
+                "text": "test",
+                "value": "c"
+            },
+            {
+                "text": "*test",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How do you select all p elements inside a div element?",
+        "options": [
+            {
+                "text": "div.p",
+                "value": "a"
+            },
+            {
+                "text": "div + p",
+                "value": "b"
+            },
+            {
+                "text": "div p",
+                "value": "c"
+            },
+            {
+                "text": "div > p",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What are the three main methods for including CSS?",
+        "options": [
+            {
+                "text": "Inline, Internal, External",
+                "value": "a"
+            },
+            {
+                "text": "In-file, Out-file, External",
+                "value": "b"
+            },
+            {
+                "text": "Inside, Outside, External",
+                "value": "c"
+            },
+            {
+                "text": "In-line, In-file, External",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the default value of the 'position' property?",
+        "options": [
+            {
+                "text": "relative",
+                "value": "a"
+            },
+            {
+                "text": "absolute",
+                "value": "b"
+            },
+            {
+                "text": "fixed",
+                "value": "c"
+            },
+            {
+                "text": "static",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which value of the 'display' property hides an element?",
+        "options": [
+            {
+                "text": "hidden",
+                "value": "a"
+            },
+            {
+                "text": "none",
+                "value": "b"
+            },
+            {
+                "text": "visible",
+                "value": "c"
+            },
+            {
+                "text": "hide",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which property is used to create space between the element's border and inner content?",
+        "options": [
+            {
+                "text": "margin",
+                "value": "a"
+            },
+            {
+                "text": "spacing",
+                "value": "b"
+            },
+            {
+                "text": "padding",
+                "value": "c"
+            },
+            {
+                "text": "border-spacing",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which property is used to create space outside the element's border?",
+        "options": [
+            {
+                "text": "margin",
+                "value": "a"
+            },
+            {
+                "text": "spacing",
+                "value": "b"
+            },
+            {
+                "text": "padding",
+                "value": "c"
+            },
+            {
+                "text": "border-spacing",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The CSS 'box model' describes...",
+        "options": [
+            {
+                "text": "How to create 3D boxes",
+                "value": "a"
+            },
+            {
+                "text": "The design and layout of cardboard boxes for shipping",
+                "value": "b"
+            },
+            {
+                "text": "The design and layout of web pages, based on boxes for each element",
+                "value": "c"
+            },
+            {
+                "text": "A model for storing CSS properties",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What does CSS stand for?",
+        "options": [
+            {
+                "text": "Computer Style Sheets",
+                "value": "a"
+            },
+            {
+                "text": "Creative Style System",
+                "value": "b"
+            },
+            {
+                "text": "Cascading Style Sheets",
+                "value": "c"
+            },
+            {
+                "text": "Colorful Style Sheets",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which CSS property is used for changing the text color of an element?",
+        "options": [
+            {
+                "text": "text-color",
+                "value": "a"
+            },
+            {
+                "text": "font-color",
+                "value": "b"
+            },
+            {
+                "text": "text-style",
+                "value": "c"
+            },
+            {
+                "text": "color",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which CSS property controls the text alignment?",
+        "options": [
+            {
+                "text": "text-align",
+                "value": "a"
+            },
+            {
+                "text": "text-style",
+                "value": "b"
+            },
+            {
+                "text": "font-align",
+                "value": "c"
+            },
+            {
+                "text": "align",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which property is used to change the left margin of an element?",
+        "options": [
+            {
+                "text": "padding-left",
+                "value": "a"
+            },
+            {
+                "text": "margin-left",
+                "value": "b"
+            },
+            {
+                "text": "indent",
+                "value": "c"
+            },
+            {
+                "text": "text-indent",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How do you make a list that lists its items with squares?",
+        "options": [
+            {
+                "text": "list-type: square;",
+                "value": "a"
+            },
+            {
+                "text": "list-style-type: square;",
+                "value": "b"
+            },
+            {
+                "text": "list: square;",
+                "value": "c"
+            },
+            {
+                "text": "list-style: square;",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How do you select an element with a specific class ('menu') and a specific id ('main')?",
+        "options": [
+            {
+                "text": "#main.menu",
+                "value": "a"
+            },
+            {
+                "text": ".menu#main",
+                "value": "b"
+            },
+            {
+                "text": "menu#main",
+                "value": "c"
+            },
+            {
+                "text": "#main .menu",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the default display value for a <div> element?",
+        "options": [
+            {
+                "text": "inline",
+                "value": "a"
+            },
+            {
+                "text": "block",
+                "value": "b"
+            },
+            {
+                "text": "inline-block",
+                "value": "c"
+            },
+            {
+                "text": "flex",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the default display value for a <span> element?",
+        "options": [
+            {
+                "text": "inline",
+                "value": "a"
+            },
+            {
+                "text": "block",
+                "value": "b"
+            },
+            {
+                "text": "inline-block",
+                "value": "c"
+            },
+            {
+                "text": "flex",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which property is used to change the cursor type?",
+        "options": [
+            {
+                "text": "mouse",
+                "value": "a"
+            },
+            {
+                "text": "cursor",
+                "value": "b"
+            },
+            {
+                "text": "pointer",
+                "value": "c"
+            },
+            {
+                "text": "mouse-pointer",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which value for the 'cursor' property indicates a link?",
+        "options": [
+            {
+                "text": "hand",
+                "value": "a"
+            },
+            {
+                "text": "pointer",
+                "value": "b"
+            },
+            {
+                "text": "link",
+                "value": "c"
+            },
+            {
+                "text": "click",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which property allows you to rotate an element?",
+        "options": [
+            {
+                "text": "rotate",
+                "value": "a"
+            },
+            {
+                "text": "transform",
+                "value": "b"
+            },
+            {
+                "text": "transform-rotate",
+                "value": "c"
+            },
+            {
+                "text": "rotation",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How do you make a rounded corner for a div element?",
+        "options": [
+            {
+                "text": "corner-radius: 10px;",
+                "value": "a"
+            },
+            {
+                "text": "border-round: 10px;",
+                "value": "b"
+            },
+            {
+                "text": "border-radius: 10px;",
+                "value": "c"
+            },
+            {
+                "text": "round-corner: 10px;",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which property is used to add shadow to elements?",
+        "options": [
+            {
+                "text": "shadow",
+                "value": "a"
+            },
+            {
+                "text": "box-shadow",
+                "value": "b"
+            },
+            {
+                "text": "element-shadow",
+                "value": "c"
+            },
+            {
+                "text": "div-shadow",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which property is used to change the opacity of an element?",
+        "options": [
+            {
+                "text": "transparent",
+                "value": "a"
+            },
+            {
+                "text": "opacity",
+                "value": "b"
+            },
+            {
+                "text": "visibility",
+                "value": "c"
+            },
+            {
+                "text": "filter",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How do you apply a style only when the screen is less than 600px wide?",
+        "options": [
+            {
+                "text": "@media screen and (max-width: 600px)",
+                "value": "a"
+            },
+            {
+                "text": "@media (max-width: 600px)",
+                "value": "b"
+            },
+            {
+                "text": "@media screen (width < 600px)",
+                "value": "c"
+            },
+            {
+                "text": "if (screen.width < 600px)",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which HTML5 element is used to specify independent, self-contained content?",
+        "options": [
+            {
+                "text": "<section>",
+                "value": "a"
+            },
+            {
+                "text": "<article>",
+                "value": "b"
+            },
+            {
+                "text": "<independent>",
+                "value": "c"
+            },
+            {
+                "text": "<content>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which HTML5 element is used to specify content aside from the page content?",
+        "options": [
+            {
+                "text": "<sidebar>",
+                "value": "a"
+            },
+            {
+                "text": "<aside>",
+                "value": "b"
+            },
+            {
+                "text": "<content>",
+                "value": "c"
+            },
+            {
+                "text": "<section>",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which HTML5 element is used to define navigation links?",
+        "options": [
+            {
+                "text": "<navigate>",
+                "value": "a"
+            },
+            {
+                "text": "<links>",
+                "value": "b"
+            },
+            {
+                "text": "<nav>",
+                "value": "c"
+            },
+            {
+                "text": "<navigation>",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which global property represents a value that is not a number?",
+        "options": [
+            {
+                "text": "undefined",
+                "value": "a"
+            },
+            {
+                "text": "NaN",
+                "value": "b"
+            },
+            {
+                "text": "null",
+                "value": "c"
+            },
+            {
+                "text": "Infinity",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does the isNaN() function do?",
+        "options": [
+            {
+                "text": "Checks if a value is not a number",
+                "value": "a"
+            },
+            {
+                "text": "Converts a value to a number",
+                "value": "b"
+            },
+            {
+                "text": "Returns 'NaN'",
+                "value": "c"
+            },
+            {
+                "text": "Checks if a variable is defined",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function parses a string and returns a floating-point number?",
+        "options": [
+            {
+                "text": "Number()",
+                "value": "a"
+            },
+            {
+                "text": "parseInt()",
+                "value": "b"
+            },
+            {
+                "text": "parseFloat()",
+                "value": "c"
+            },
+            {
+                "text": "String()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the String(x) function?",
+        "options": [
+            {
+                "text": "To check if x is a string",
+                "value": "a"
+            },
+            {
+                "text": "To convert x to a string data type",
+                "value": "b"
+            },
+            {
+                "text": "To find the length of string x",
+                "value": "c"
+            },
+            {
+                "text": "To split string x into an array",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does the Boolean(0) function return?",
+        "options": [
+            {
+                "text": "true",
+                "value": "a"
+            },
+            {
+                "text": "false",
+                "value": "b"
+            },
+            {
+                "text": "0",
+                "value": "c"
+            },
+            {
+                "text": "undefined",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is JavaScript's typing system described as?",
+        "options": [
+            {
+                "text": "Strongly typed",
+                "value": "a"
+            },
+            {
+                "text": "Statically typed",
+                "value": "b"
+            },
+            {
+                "text": "Weakly typed",
+                "value": "c"
+            },
+            {
+                "text": "Type-safe",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the result of the expression '5' + 2?",
+        "options": [
+            {
+                "text": "7",
+                "value": "a"
+            },
+            {
+                "text": "'7'",
+                "value": "b"
+            },
+            {
+                "text": "'52'",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the result of the expression '5' - 2?",
+        "options": [
+            {
+                "text": "3",
+                "value": "a"
+            },
+            {
+                "text": "'3'",
+                "value": "b"
+            },
+            {
+                "text": "'5-2'",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "According to the conversion table, what does Boolean('') return?",
+        "options": [
+            {
+                "text": "true",
+                "value": "a"
+            },
+            {
+                "text": "false",
+                "value": "b"
+            },
+            {
+                "text": "undefined",
+                "value": "c"
+            },
+            {
+                "text": "\"\"",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "According to the conversion table, what does Number('ten') return?",
+        "options": [
+            {
+                "text": "10",
+                "value": "a"
+            },
+            {
+                "text": "0",
+                "value": "b"
+            },
+            {
+                "text": "NaN",
+                "value": "c"
+            },
+            {
+                "text": "'ten'",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the primary purpose of the constructor property?",
+        "options": [
+            {
+                "text": "To build a new house object",
+                "value": "a"
+            },
+            {
+                "text": "To return the function that created the object's prototype",
+                "value": "b"
+            },
+            {
+                "text": "To initialize all variables",
+                "value": "c"
+            },
+            {
+                "text": "To define a class structure",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    }
+]

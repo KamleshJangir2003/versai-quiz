@@ -1,0 +1,1454 @@
+[
+    {
+        "text": "The SUMIF function adds cells:",
+        "options": [
+            {
+                "text": "That contain text",
+                "value": "a"
+            },
+            {
+                "text": "That meet a single specified criteria",
+                "value": "b"
+            },
+            {
+                "text": "In a vertical range only",
+                "value": "c"
+            },
+            {
+                "text": "That are formatted as currency",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The syntax for the SUMIF function is:",
+        "options": [
+            {
+                "text": "SUMIF(sum_range, range, criteria)",
+                "value": "a"
+            },
+            {
+                "text": "SUMIF(criteria, range, sum_range)",
+                "value": "b"
+            },
+            {
+                "text": "SUMIF(range, criteria, sum_range)",
+                "value": "c"
+            },
+            {
+                "text": "SUMIF(range, sum_range, criteria)",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The AVERAGEIF function returns the average of cells:",
+        "options": [
+            {
+                "text": "In the entire worksheet",
+                "value": "a"
+            },
+            {
+                "text": "That meet a given criteria",
+                "value": "b"
+            },
+            {
+                "text": "That are greater than zero",
+                "value": "c"
+            },
+            {
+                "text": "That are next to a SUM function",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The COUNTIF function is used to:",
+        "options": [
+            {
+                "text": "Add numbers that meet a criteria",
+                "value": "a"
+            },
+            {
+                "text": "Count how many times a specific value appears in a range",
+                "value": "b"
+            },
+            {
+                "text": "Calculate a conditional sum",
+                "value": "c"
+            },
+            {
+                "text": "Format cells based on their value",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which wildcard character in COUNTIF represents any sequence of characters?",
+        "options": [
+            {
+                "text": "?",
+                "value": "a"
+            },
+            {
+                "text": "#",
+                "value": "b"
+            },
+            {
+                "text": "@",
+                "value": "c"
+            },
+            {
+                "text": "*",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The IF function returns one value if a condition is ______ and another value if it is ______.",
+        "options": [
+            {
+                "text": "met, not met",
+                "value": "a"
+            },
+            {
+                "text": "TRUE, FALSE",
+                "value": "b"
+            },
+            {
+                "text": "high, low",
+                "value": "c"
+            },
+            {
+                "text": "on, off",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The AND function returns TRUE only if:",
+        "options": [
+            {
+                "text": "Any of its arguments are TRUE",
+                "value": "a"
+            },
+            {
+                "text": "All of its arguments are TRUE",
+                "value": "b"
+            },
+            {
+                "text": "The first argument is TRUE",
+                "value": "c"
+            },
+            {
+                "text": "The last argument is TRUE",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The FREQUENCY function:",
+        "options": [
+            {
+                "text": "Calculates how often values occur within ranges",
+                "value": "a"
+            },
+            {
+                "text": "Finds the most frequent number",
+                "value": "b"
+            },
+            {
+                "text": "Adds a range of numbers quickly",
+                "value": "c"
+            },
+            {
+                "text": "Measures the speed of a calculation",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "How must the FREQUENCY function be entered?",
+        "options": [
+            {
+                "text": "As a text string",
+                "value": "a"
+            },
+            {
+                "text": "As an array formula (using Ctrl+Shift+Enter)",
+                "value": "b"
+            },
+            {
+                "text": "As a simple formula (using Enter)",
+                "value": "c"
+            },
+            {
+                "text": "As a named range",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The TREND function returns values:",
+        "options": [
+            {
+                "text": "From a random number generator",
+                "value": "a"
+            },
+            {
+                "text": "That are the most frequent",
+                "value": "b"
+            },
+            {
+                "text": "Along a linear trend line",
+                "value": "c"
+            },
+            {
+                "text": "That are above average",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The ZTEST function returns a:",
+        "options": [
+            {
+                "text": "Z-score",
+                "value": "a"
+            },
+            {
+                "text": "One-tailed probability-value",
+                "value": "b"
+            },
+            {
+                "text": "Trend value",
+                "value": "c"
+            },
+            {
+                "text": "Count of values",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the main purpose of the course outlined in the preamble?",
+        "options": [
+            {
+                "text": "To become an expert in Microsoft Word",
+                "value": "a"
+            },
+            {
+                "text": "To learn Excel basics as a prelude to using SAS for complex statistical analysis",
+                "value": "b"
+            },
+            {
+                "text": "To design professional websites",
+                "value": "c"
+            },
+            {
+                "text": "To learn advanced programming in Excel",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "According to the notes, which of these is NOT an expected outcome for participants?",
+        "options": [
+            {
+                "text": "Enter text and numbers",
+                "value": "a"
+            },
+            {
+                "text": "Create Excel functions",
+                "value": "b"
+            },
+            {
+                "text": "Program macros in Visual Basic",
+                "value": "c"
+            },
+            {
+                "text": "Create charts",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How many sections is the course divided into?",
+        "options": [
+            {
+                "text": "3",
+                "value": "a"
+            },
+            {
+                "text": "5",
+                "value": "b"
+            },
+            {
+                "text": "7",
+                "value": "c"
+            },
+            {
+                "text": "10",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which section covers 'Entering Excel Formulas and Formatting Data'?",
+        "options": [
+            {
+                "text": "Section 1",
+                "value": "a"
+            },
+            {
+                "text": "Section 2",
+                "value": "b"
+            },
+            {
+                "text": "Section 3",
+                "value": "c"
+            },
+            {
+                "text": "Section 4",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the first step to start Microsoft Excel 2007 as described?",
+        "options": [
+            {
+                "text": "Click on the Quick Access Toolbar",
+                "value": "a"
+            },
+            {
+                "text": "Click the Microsoft Start Button",
+                "value": "b"
+            },
+            {
+                "text": "Press F1",
+                "value": "c"
+            },
+            {
+                "text": "Double-click on the desktop icon",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The text 'Book1 - Microsoft Excel' appears on the:",
+        "options": [
+            {
+                "text": "Status Bar",
+                "value": "a"
+            },
+            {
+                "text": "Formula Bar",
+                "value": "b"
+            },
+            {
+                "text": "Title Bar",
+                "value": "c"
+            },
+            {
+                "text": "Ribbon",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The intersection of a column and a row is called a:",
+        "options": [
+            {
+                "text": "Block",
+                "value": "a"
+            },
+            {
+                "text": "Cell",
+                "value": "b"
+            },
+            {
+                "text": "Box",
+                "value": "c"
+            },
+            {
+                "text": "Field",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the last row number in an Excel worksheet?",
+        "options": [
+            {
+                "text": "65,536",
+                "value": "a"
+            },
+            {
+                "text": "100,000",
+                "value": "b"
+            },
+            {
+                "text": "1,000,000",
+                "value": "c"
+            },
+            {
+                "text": "1,048,576",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which key is used to move one cell to the right?",
+        "options": [
+            {
+                "text": "The Up Arrow key",
+                "value": "a"
+            },
+            {
+                "text": "The Tab key",
+                "value": "b"
+            },
+            {
+                "text": "The Enter key",
+                "value": "c"
+            },
+            {
+                "text": "The Page Down key",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The shortcut Ctrl+G performs the same action as:",
+        "options": [
+            {
+                "text": "F2",
+                "value": "a"
+            },
+            {
+                "text": "F5",
+                "value": "b"
+            },
+            {
+                "text": "F8",
+                "value": "c"
+            },
+            {
+                "text": "F12",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "To select non-adjacent cells, you must hold down the _____ key while selecting.",
+        "options": [
+            {
+                "text": "Alt",
+                "value": "a"
+            },
+            {
+                "text": "Shift",
+                "value": "b"
+            },
+            {
+                "text": "Ctrl",
+                "value": "c"
+            },
+            {
+                "text": "F1",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What appears on the Status Bar when you press F8 to select cells?",
+        "options": [
+            {
+                "text": "Ready",
+                "value": "a"
+            },
+            {
+                "text": "Edit",
+                "value": "b"
+            },
+            {
+                "text": "Extend Selection",
+                "value": "c"
+            },
+            {
+                "text": "Enter",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which key is pressed to finalize data entry in a cell and move down?",
+        "options": [
+            {
+                "text": "Tab",
+                "value": "a"
+            },
+            {
+                "text": "Enter",
+                "value": "b"
+            },
+            {
+                "text": "Spacebar",
+                "value": "c"
+            },
+            {
+                "text": "Esc",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "An alternative method to edit a cell, besides pressing F2, is to:",
+        "options": [
+            {
+                "text": "Use the Formula Bar",
+                "value": "a"
+            },
+            {
+                "text": "Press F1",
+                "value": "b"
+            },
+            {
+                "text": "Right-click and select 'Edit'",
+                "value": "c"
+            },
+            {
+                "text": "Double-click in the cell",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The Wrap Text button is found in the _____ group on the Home tab.",
+        "options": [
+            {
+                "text": "Font",
+                "value": "a"
+            },
+            {
+                "text": "Alignment",
+                "value": "b"
+            },
+            {
+                "text": "Number",
+                "value": "c"
+            },
+            {
+                "text": "Cells",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "To save a file for the first time, you click the Office Button and then click:",
+        "options": [
+            {
+                "text": "Print",
+                "value": "a"
+            },
+            {
+                "text": "Close",
+                "value": "b"
+            },
+            {
+                "text": "Save",
+                "value": "c"
+            },
+            {
+                "text": "Open",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The formula =A2+12-B3 is an example of:",
+        "options": [
+            {
+                "text": "A function",
+                "value": "a"
+            },
+            {
+                "text": "An invalid formula",
+                "value": "b"
+            },
+            {
+                "text": "A formula that includes a number and cell references",
+                "value": "c"
+            },
+            {
+                "text": "A text string",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "In calculations, multiplication and division are performed:",
+        "options": [
+            {
+                "text": "After addition and subtraction",
+                "value": "a"
+            },
+            {
+                "text": "From right to left",
+                "value": "b"
+            },
+            {
+                "text": "Before addition and subtraction",
+                "value": "c"
+            },
+            {
+                "text": "Only if they are in parentheses",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The arrow next to the AutoSum button gives access to other automatic calculations like:",
+        "options": [
+            {
+                "text": "Sort and Filter",
+                "value": "a"
+            },
+            {
+                "text": "Average, Minimum, and Maximum",
+                "value": "b"
+            },
+            {
+                "text": "Copy and Paste",
+                "value": "c"
+            },
+            {
+                "text": "Bold and Italic",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The Center, Left, and Right alignment buttons are found in the _____ group.",
+        "options": [
+            {
+                "text": "Number",
+                "value": "a"
+            },
+            {
+                "text": "Font",
+                "value": "b"
+            },
+            {
+                "text": "Alignment",
+                "value": "c"
+            },
+            {
+                "text": "Styles",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "To insert a new column, you use the Insert command in the _____ group.",
+        "options": [
+            {
+                "text": "Editing",
+                "value": "a"
+            },
+            {
+                "text": "Cells",
+                "value": "b"
+            },
+            {
+                "text": "Clipboard",
+                "value": "c"
+            },
+            {
+                "text": "Font",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The option to change column width to a specific value is found under Home > Format > :",
+        "options": [
+            {
+                "text": "AutoFit Column Width",
+                "value": "a"
+            },
+            {
+                "text": "Column Width",
+                "value": "b"
+            },
+            {
+                "text": "Hide & Unhide",
+                "value": "c"
+            },
+            {
+                "text": "Organize Sheets",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Changing a column width by dragging the line between column headings uses the mouse pointer that looks like:",
+        "options": [
+            {
+                "text": "A white plus sign",
+                "value": "a"
+            },
+            {
+                "text": "A hand",
+                "value": "b"
+            },
+            {
+                "text": "A two-headed arrow ↔",
+                "value": "c"
+            },
+            {
+                "text": "An I-beam",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The Number Format box on the Home tab allows you to format a number as:",
+        "options": [
+            {
+                "text": "Number, Currency, or Percentage",
+                "value": "a"
+            },
+            {
+                "text": "Bold or Italic",
+                "value": "b"
+            },
+            {
+                "text": "Left or Right aligned",
+                "value": "c"
+            },
+            {
+                "text": "Wrapped or Merged",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The Comma Style button (,) adds:",
+        "options": [
+            {
+                "text": "A dollar sign",
+                "value": "a"
+            },
+            {
+                "text": "A percent sign",
+                "value": "b"
+            },
+            {
+                "text": "Commas to separate thousands",
+                "value": "c"
+            },
+            {
+                "text": "Two decimal places",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "A reference like A1:A3 is called a:",
+        "options": [
+            {
+                "text": "Union reference",
+                "value": "a"
+            },
+            {
+                "text": "Range reference",
+                "value": "b"
+            },
+            {
+                "text": "Cell reference",
+                "value": "c"
+            },
+            {
+                "text": "Function reference",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "A reference like A7,B8:C9 is called a:",
+        "options": [
+            {
+                "text": "Range reference",
+                "value": "a"
+            },
+            {
+                "text": "Union reference",
+                "value": "b"
+            },
+            {
+                "text": "Invalid reference",
+                "value": "c"
+            },
+            {
+                "text": "Absolute reference",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The AutoComplete list appears after you type the:",
+        "options": [
+            {
+                "text": "Second parenthesis of a function",
+                "value": "a"
+            },
+            {
+                "text": "First letter of a function name",
+                "value": "b"
+            },
+            {
+                "text": "Equal sign (=)",
+                "value": "c"
+            },
+            {
+                "text": "Entire function name",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The Insert Function button is located on the:",
+        "options": [
+            {
+                "text": "Home tab",
+                "value": "a"
+            },
+            {
+                "text": "Insert tab",
+                "value": "b"
+            },
+            {
+                "text": "Formulas tab",
+                "value": "c"
+            },
+            {
+                "text": "Data tab",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The Fill Handle can be used to automatically fill a series of:",
+        "options": [
+            {
+                "text": "Days of the week",
+                "value": "a"
+            },
+            {
+                "text": "Numbers",
+                "value": "b"
+            },
+            {
+                "text": "Times",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "After using the Fill Handle, the _____ button appears.",
+        "options": [
+            {
+                "text": "Paste Options",
+                "value": "a"
+            },
+            {
+                "text": "Auto Fill Options",
+                "value": "b"
+            },
+            {
+                "text": "Quick Analysis",
+                "value": "c"
+            },
+            {
+                "text": "Format Painter",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Page margins, orientation, and size are set in the _____ group on the Page Layout tab.",
+        "options": [
+            {
+                "text": "Themes",
+                "value": "a"
+            },
+            {
+                "text": "Page Setup",
+                "value": "b"
+            },
+            {
+                "text": "Sheet Options",
+                "value": "c"
+            },
+            {
+                "text": "Arrange",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The default paper size for most business correspondence is:",
+        "options": [
+            {
+                "text": "A4",
+                "value": "a"
+            },
+            {
+                "text": "Legal",
+                "value": "b"
+            },
+            {
+                "text": "8 ½ by 11",
+                "value": "c"
+            },
+            {
+                "text": "Envelope",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "To see how a worksheet will look before printing, you use:",
+        "options": [
+            {
+                "text": "Print Preview",
+                "value": "a"
+            },
+            {
+                "text": "Page Layout View",
+                "value": "b"
+            },
+            {
+                "text": "Full Screen View",
+                "value": "c"
+            },
+            {
+                "text": "Normal View",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "A chart type that uses horizontal bars is a:",
+        "options": [
+            {
+                "text": "Column chart",
+                "value": "a"
+            },
+            {
+                "text": "Line chart",
+                "value": "b"
+            },
+            {
+                "text": "Pie chart",
+                "value": "c"
+            },
+            {
+                "text": "Bar chart",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The Chart Tools context tabs that appear when you select a chart are:",
+        "options": [
+            {
+                "text": "Home, Insert, Page Layout",
+                "value": "a"
+            },
+            {
+                "text": "Design, Layout, Format",
+                "value": "b"
+            },
+            {
+                "text": "Data, Review, View",
+                "value": "c"
+            },
+            {
+                "text": "Formulas, Data, Review",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "A chart layout can be quickly applied using the:",
+        "options": [
+            {
+                "text": "Quick Layout button",
+                "value": "a"
+            },
+            {
+                "text": "Format button",
+                "value": "b"
+            },
+            {
+                "text": "Switch Row/Column button",
+                "value": "c"
+            },
+            {
+                "text": "Move Chart button",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Handles appear on the corners of a selected chart to:",
+        "options": [
+            {
+                "text": "Change the chart type",
+                "value": "a"
+            },
+            {
+                "text": "Change the chart's size proportionally",
+                "value": "b"
+            },
+            {
+                "text": "Apply a new style",
+                "value": "c"
+            },
+            {
+                "text": "Move the chart to a new sheet",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The Move Chart button is used to:",
+        "options": [
+            {
+                "text": "Change the chart's color",
+                "value": "a"
+            },
+            {
+                "text": "Place the chart on a new chart sheet",
+                "value": "b"
+            },
+            {
+                "text": "Apply a 3-D effect",
+                "value": "c"
+            },
+            {
+                "text": "Delete the chart",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The SUMIF function can be read as:",
+        "options": [
+            {
+                "text": "'Sum if range equals sum_range'",
+                "value": "a"
+            },
+            {
+                "text": "'Sum or add up sum_range if range meets criteria'",
+                "value": "b"
+            },
+            {
+                "text": "'Sum the criteria'",
+                "value": "c"
+            },
+            {
+                "text": "'Find the sum of the range'",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "In the function =AVERAGEIF(A2:A6,'<>*(New Office)',B2:B6), the criteria <> means:",
+        "options": [
+            {
+                "text": "Equal to",
+                "value": "a"
+            },
+            {
+                "text": "Less than",
+                "value": "b"
+            },
+            {
+                "text": "Not equal to",
+                "value": "c"
+            },
+            {
+                "text": "Greater than",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "In COUNTIF, the wildcard ? matches:",
+        "options": [
+            {
+                "text": "Any sequence of characters",
+                "value": "a"
+            },
+            {
+                "text": "Any single character",
+                "value": "b"
+            },
+            {
+                "text": "Only numbers",
+                "value": "c"
+            },
+            {
+                "text": "Only the question mark symbol",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "To find an actual asterisk (*) in a COUNTIF criteria, you must type _____ before it.",
+        "options": [
+            {
+                "text": "A question mark (?)",
+                "value": "a"
+            },
+            {
+                "text": "A tilde (~)",
+                "value": "b"
+            },
+            {
+                "text": "A backslash (\\)",
+                "value": "c"
+            },
+            {
+                "text": "A percent sign (%)",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The value_if_false argument in an IF function is:",
+        "options": [
+            {
+                "text": "The condition to test",
+                "value": "a"
+            },
+            {
+                "text": "The value returned if the condition is TRUE",
+                "value": "b"
+            },
+            {
+                "text": "The value returned if the condition is FALSE",
+                "value": "c"
+            },
+            {
+                "text": "The logical operator",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The formula =AND(2+2=4, 2+3=5) will return:",
+        "options": [
+            {
+                "text": "TRUE",
+                "value": "a"
+            },
+            {
+                "text": "FALSE",
+                "value": "b"
+            },
+            {
+                "text": "4",
+                "value": "c"
+            },
+            {
+                "text": "5",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The FREQUENCY function returns a:",
+        "options": [
+            {
+                "text": "Single number",
+                "value": "a"
+            },
+            {
+                "text": "Vertical array of numbers",
+                "value": "b"
+            },
+            {
+                "text": "Horizontal array of numbers",
+                "value": "c"
+            },
+            {
+                "text": "Text string",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The number of elements FREQUENCY returns is one more than the number of elements in the:",
+        "options": [
+            {
+                "text": "data_array",
+                "value": "a"
+            },
+            {
+                "text": "bins_array",
+                "value": "b"
+            },
+            {
+                "text": "worksheet",
+                "value": "c"
+            },
+            {
+                "text": "criteria",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The TREND function fits a:",
+        "options": [
+            {
+                "text": "Curved line",
+                "value": "a"
+            },
+            {
+                "text": "Straight line using the method of least squares",
+                "value": "b"
+            },
+            {
+                "text": "Circular trend",
+                "value": "c"
+            },
+            {
+                "text": "Random trend",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "For training and software installation, the notes advise contacting:",
+        "options": [
+            {
+                "text": "The Microsoft Helpdesk",
+                "value": "a"
+            },
+            {
+                "text": "The Chief Consultant, Dr. Aloy Onyeka",
+                "value": "b"
+            },
+            {
+                "text": "The ICT Centre directly",
+                "value": "c"
+            },
+            {
+                "text": "The University's main switchboard",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Where is Owerri CBT Hi-Tech located?",
+        "options": [
+            {
+                "text": "Lagos, Nigeria",
+                "value": "a"
+            },
+            {
+                "text": "Abuja, Nigeria",
+                "value": "b"
+            },
+            {
+                "text": "Owerri, Nigeria",
+                "value": "c"
+            },
+            {
+                "text": "Port Harcourt, Nigeria",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The university associated with the Chief Consultant is the:",
+        "options": [
+            {
+                "text": "University of Lagos",
+                "value": "a"
+            },
+            {
+                "text": "University of Nigeria, Nsukka",
+                "value": "b"
+            },
+            {
+                "text": "Federal University of Technology, Owerri",
+                "value": "c"
+            },
+            {
+                "text": "Imo State University",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The notes are intended for use at:",
+        "options": [
+            {
+                "text": "A primary school",
+                "value": "a"
+            },
+            {
+                "text": "A secondary school",
+                "value": "b"
+            },
+            {
+                "text": "Owerri CBT Hi-Tech",
+                "value": "c"
+            },
+            {
+                "text": "A government office",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The preamble states that knowledge of navigating a Windows environment is:",
+        "options": [
+            {
+                "text": "Required",
+                "value": "a"
+            },
+            {
+                "text": "Not necessary",
+                "value": "b"
+            },
+            {
+                "text": "Helpful but not required",
+                "value": "c"
+            },
+            {
+                "text": "The main focus of the course",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The ultimate goal of learning Excel in this course is a prelude to using:",
+        "options": [
+            {
+                "text": "Microsoft Word",
+                "value": "a"
+            },
+            {
+                "text": "Statistical Analysis System (SAS) software",
+                "value": "b"
+            },
+            {
+                "text": "Python programming",
+                "value": "c"
+            },
+            {
+                "text": "Adobe Photoshop",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the primary focus of Section 1 of the lecture notes?",
+        "options": [
+            {
+                "text": "Creating Charts",
+                "value": "a"
+            },
+            {
+                "text": "Entering Text and Numbers",
+                "value": "b"
+            },
+            {
+                "text": "Advanced Formulas",
+                "value": "c"
+            },
+            {
+                "text": "Printing Worksheets",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    }
+]

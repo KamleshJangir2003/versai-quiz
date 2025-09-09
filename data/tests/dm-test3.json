@@ -1,0 +1,2202 @@
+[
+    {
+        "text": "What is the primary goal of social media marketing as per the study material?",
+        "options": [
+            {
+                "text": "Direct sales and lead generation",
+                "value": "a"
+            },
+            {
+                "text": "Brand awareness and establishing social trust",
+                "value": "b"
+            },
+            {
+                "text": "Immediate product promotion",
+                "value": "c"
+            },
+            {
+                "text": "Website traffic generation",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of the following is NOT listed as a type of digital marketing?",
+        "options": [
+            {
+                "text": "Website Marketing",
+                "value": "a"
+            },
+            {
+                "text": "Pay-Per-Click Advertising",
+                "value": "b"
+            },
+            {
+                "text": "Cold Calling",
+                "value": "c"
+            },
+            {
+                "text": "Content Marketing",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the first step in the search engine optimization (SEO) process outlined in the material?",
+        "options": [
+            {
+                "text": "Content Building",
+                "value": "a"
+            },
+            {
+                "text": "Keyword Research",
+                "value": "b"
+            },
+            {
+                "text": "Page Optimization",
+                "value": "c"
+            },
+            {
+                "text": "Reporting & Goal Setting",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "According to the material, which characteristic is crucial for a quality company website?",
+        "options": [
+            {
+                "text": "Being available 24x7 like a company brochure",
+                "value": "a"
+            },
+            {
+                "text": "Having the most advanced animations",
+                "value": "b"
+            },
+            {
+                "text": "Containing as many products as possible",
+                "value": "c"
+            },
+            {
+                "text": "Using only text-based content",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which digital marketing trend uses an influencer's image and goodwill to promote a brand?",
+        "options": [
+            {
+                "text": "Omnichannel Marketing",
+                "value": "a"
+            },
+            {
+                "text": "Video Marketing",
+                "value": "b"
+            },
+            {
+                "text": "Influencer Marketing",
+                "value": "c"
+            },
+            {
+                "text": "Artificial Intelligence",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is a key difference between traditional and digital marketing?",
+        "options": [
+            {
+                "text": "Digital marketing is more difficult to measure.",
+                "value": "a"
+            },
+            {
+                "text": "Traditional marketing allows for easy alteration of ads after posting.",
+                "value": "b"
+            },
+            {
+                "text": "Digital marketing is not cost-effective.",
+                "value": "c"
+            },
+            {
+                "text": "Communication is bidirectional in digital marketing.",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The process where a search engine fetches all web pages linked to a website is called:",
+        "options": [
+            {
+                "text": "Indexing",
+                "value": "a"
+            },
+            {
+                "text": "Crawling",
+                "value": "b"
+            },
+            {
+                "text": "Processing",
+                "value": "c"
+            },
+            {
+                "text": "Retrieving",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which element is considered the most important among the 'big three' in on-page SEO?",
+        "options": [
+            {
+                "text": "Meta Data",
+                "value": "a"
+            },
+            {
+                "text": "Page Copy",
+                "value": "b"
+            },
+            {
+                "text": "Title Tags",
+                "value": "c"
+            },
+            {
+                "text": "Heading Tags",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Off-page SEO primarily focuses on:",
+        "options": [
+            {
+                "text": "Optimizing the HTML code of a page",
+                "value": "a"
+            },
+            {
+                "text": "Acquiring backlinks from authority sites",
+                "value": "b"
+            },
+            {
+                "text": "Writing keyword-rich content",
+                "value": "c"
+            },
+            {
+                "text": "Designing a mobile-friendly layout",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does PPC stand for in digital marketing?",
+        "options": [
+            {
+                "text": "Pay-Per-Conversion",
+                "value": "a"
+            },
+            {
+                "text": "Page-Per-Click",
+                "value": "b"
+            },
+            {
+                "text": "Pay-Per-Click",
+                "value": "c"
+            },
+            {
+                "text": "Promotion-Per-Campaign",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which metric in email marketing indicates how many people engage with your mail?",
+        "options": [
+            {
+                "text": "Click Through Rate",
+                "value": "a"
+            },
+            {
+                "text": "Conversion Rate",
+                "value": "b"
+            },
+            {
+                "text": "Bounce Rate",
+                "value": "c"
+            },
+            {
+                "text": "Subscribers' Growth Rate",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Mobile marketing can be conducted via all EXCEPT:",
+        "options": [
+            {
+                "text": "SMS and MMS",
+                "value": "a"
+            },
+            {
+                "text": "Website and Email",
+                "value": "b"
+            },
+            {
+                "text": "Social Media and Apps",
+                "value": "c"
+            },
+            {
+                "text": "Door-to-door flyers",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the primary purpose of a profit target?",
+        "options": [
+            {
+                "text": "To determine the initial investment",
+                "value": "a"
+            },
+            {
+                "text": "To set a predetermined exit point for a profitable trade",
+                "value": "b"
+            },
+            {
+                "text": "To calculate the total market share",
+                "value": "c"
+            },
+            {
+                "text": "To assess competitor pricing",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "SMM stands for:",
+        "options": [
+            {
+                "text": "Social Media Management",
+                "value": "a"
+            },
+            {
+                "text": "Strategic Marketing Model",
+                "value": "b"
+            },
+            {
+                "text": "Social Media Marketing",
+                "value": "c"
+            },
+            {
+                "text": "Systematic Market Monitoring",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which tool is mentioned for scheduling and managing social media posts across channels?",
+        "options": [
+            {
+                "text": "Canva",
+                "value": "a"
+            },
+            {
+                "text": "HubSpot",
+                "value": "b"
+            },
+            {
+                "text": "Buffer",
+                "value": "c"
+            },
+            {
+                "text": "IFTTT",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "A person involved in blogging is called a:",
+        "options": [
+            {
+                "text": "Blogger",
+                "value": "a"
+            },
+            {
+                "text": "Webmaster",
+                "value": "b"
+            },
+            {
+                "text": "Content Creator",
+                "value": "c"
+            },
+            {
+                "text": "Digital Author",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Video marketing began gaining significant traction after which event?",
+        "options": [
+            {
+                "text": "The invention of the smartphone",
+                "value": "a"
+            },
+            {
+                "text": "The advent of YouTube in 2005",
+                "value": "b"
+            },
+            {
+                "text": "The launch of television ads",
+                "value": "c"
+            },
+            {
+                "text": "The creation of the first digital camera",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which type of video immerses the user in the environment, letting them control the view?",
+        "options": [
+            {
+                "text": "Animation",
+                "value": "a"
+            },
+            {
+                "text": "Explanation Videos",
+                "value": "b"
+            },
+            {
+                "text": "Virtual Reality (VR)",
+                "value": "c"
+            },
+            {
+                "text": "Livestream",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "CRM in digital marketing stands for:",
+        "options": [
+            {
+                "text": "Customer Relationship Management",
+                "value": "a"
+            },
+            {
+                "text": "Content Relationship Management",
+                "value": "b"
+            },
+            {
+                "text": "Customer Retention Model",
+                "value": "c"
+            },
+            {
+                "text": "Campaign Response Measurement",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which is NOT a driver of customer loyalty mentioned in the material?",
+        "options": [
+            {
+                "text": "Supplier's Culture",
+                "value": "a"
+            },
+            {
+                "text": "Human Resources",
+                "value": "b"
+            },
+            {
+                "text": "Lowest Price Guarantee",
+                "value": "c"
+            },
+            {
+                "text": "Technology",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The first step in competitor analysis is:",
+        "options": [
+            {
+                "text": "Identify Competitors",
+                "value": "a"
+            },
+            {
+                "text": "Evaluate their content marketing",
+                "value": "b"
+            },
+            {
+                "text": "Benchmark their Google Ads",
+                "value": "c"
+            },
+            {
+                "text": "Perform a SWOT analysis",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "LSI in the context of SEO stands for:",
+        "options": [
+            {
+                "text": "Long Search Indexing",
+                "value": "a"
+            },
+            {
+                "text": "Latent Semantic Indexing",
+                "value": "b"
+            },
+            {
+                "text": "Linked Site Information",
+                "value": "c"
+            },
+            {
+                "text": "Local Search Integration",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "App Store Optimization (ASO) is the process of optimizing mobile apps to:",
+        "options": [
+            {
+                "text": "Increase their file size",
+                "value": "a"
+            },
+            {
+                "text": "Rank higher in an app store's search results",
+                "value": "b"
+            },
+            {
+                "text": "Change their core functionality",
+                "value": "c"
+            },
+            {
+                "text": "Reduce their number of downloads",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is a primary ASO factor?",
+        "options": [
+            {
+                "text": "Total number of downloads",
+                "value": "a"
+            },
+            {
+                "text": "App icon color",
+                "value": "b"
+            },
+            {
+                "text": "Ratings and reviews",
+                "value": "c"
+            },
+            {
+                "text": "App name and title",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which career path typically starts as an Executive and can progress to a Director?",
+        "options": [
+            {
+                "text": "Pay Per Click (PPC)",
+                "value": "a"
+            },
+            {
+                "text": "Social Media Marketing (SMM)",
+                "value": "b"
+            },
+            {
+                "text": "Search Engine Optimization (SEO)",
+                "value": "c"
+            },
+            {
+                "text": "Content Writing",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "According to the material, marketing is a complex topic used to make a comprehensive plan of action for all of the following EXCEPT:",
+        "options": [
+            {
+                "text": "Replace the need for a product",
+                "value": "a"
+            },
+            {
+                "text": "Create awareness about brands",
+                "value": "b"
+            },
+            {
+                "text": "Increase sales",
+                "value": "c"
+            },
+            {
+                "text": "Create awareness about products",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The study material states that digital marketing is very effective for:",
+        "options": [
+            {
+                "text": "Reaching only local audiences",
+                "value": "a"
+            },
+            {
+                "text": "Selling high-cost industrial equipment only",
+                "value": "b"
+            },
+            {
+                "text": "Reaching audiences over 50 years old",
+                "value": "c"
+            },
+            {
+                "text": "Reaching global audiences",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which platform is mentioned as one of the most popular for PPC campaigns?",
+        "options": [
+            {
+                "text": "Twitter Ads",
+                "value": "a"
+            },
+            {
+                "text": "Google Ads",
+                "value": "b"
+            },
+            {
+                "text": "Pinterest Ads",
+                "value": "c"
+            },
+            {
+                "text": "LinkedIn Ads",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The tools of content marketing include all of the following EXCEPT:",
+        "options": [
+            {
+                "text": "eBooks and online courses",
+                "value": "a"
+            },
+            {
+                "text": "Infographics and podcasts",
+                "value": "b"
+            },
+            {
+                "text": "Webinars and blogs",
+                "value": "c"
+            },
+            {
+                "text": "Cold-calling scripts",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Email marketing is described as a way for companies to:",
+        "options": [
+            {
+                "text": "Send spam messages to purchased lists",
+                "value": "a"
+            },
+            {
+                "text": "Get in touch with potential customers and those interested in their brands",
+                "value": "b"
+            },
+            {
+                "text": "Replace their customer service department",
+                "value": "c"
+            },
+            {
+                "text": "Automate all sales processes",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Affiliate marketing is described as:",
+        "options": [
+            {
+                "text": "A new form of marketing invented with the internet",
+                "value": "a"
+            },
+            {
+                "text": "One of the oldest forms of marketing, revitalized by the internet",
+                "value": "b"
+            },
+            {
+                "text": "A type of marketing only suitable for large companies like Amazon",
+                "value": "c"
+            },
+            {
+                "text": "Synonymous with influencer marketing",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which platform is specifically mentioned as one where users turn before making a buying decision?",
+        "options": [
+            {
+                "text": "Facebook",
+                "value": "a"
+            },
+            {
+                "text": "Instagram",
+                "value": "b"
+            },
+            {
+                "text": "YouTube",
+                "value": "c"
+            },
+            {
+                "text": "TikTok",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The study material advises businesses to register on Google Places to:",
+        "options": [
+            {
+                "text": "Get a free website domain",
+                "value": "a"
+            },
+            {
+                "text": "Feature on Google searches and be listed on Google Maps",
+                "value": "b"
+            },
+            {
+                "text": "Access Google's customer database",
+                "value": "c"
+            },
+            {
+                "text": "Receive a subsidy on online advertising",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Omnichannel marketing is an approach that:",
+        "options": [
+            {
+                "text": "Uses only one digital channel for promotion",
+                "value": "a"
+            },
+            {
+                "text": "Focuses solely on traditional media channels",
+                "value": "b"
+            },
+            {
+                "text": "Uses different digital mediums to promote, engage, and serve customers",
+                "value": "c"
+            },
+            {
+                "text": "Is only used in the retail industry",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "According to the material, AI applications like machine learning can be used for:",
+        "options": [
+            {
+                "text": "Replacing human marketers entirely",
+                "value": "a"
+            },
+            {
+                "text": "Content creation and ad monitoring",
+                "value": "b"
+            },
+            {
+                "text": "Designing physical products",
+                "value": "c"
+            },
+            {
+                "text": "Manufacturing goods",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Long-form content is defined as articles of more than how many words?",
+        "options": [
+            {
+                "text": "500 words",
+                "value": "a"
+            },
+            {
+                "text": "1000 words",
+                "value": "b"
+            },
+            {
+                "text": "2000 words",
+                "value": "c"
+            },
+            {
+                "text": "3000 words",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "A benefit of long-form content is that it:",
+        "options": [
+            {
+                "text": "Is quicker to produce than short-form content",
+                "value": "a"
+            },
+            {
+                "text": "Requires less research",
+                "value": "b"
+            },
+            {
+                "text": "Increases traffic on the website",
+                "value": "c"
+            },
+            {
+                "text": "Guarantees the top spot on search engines",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Progressive Web Pages (PWAs) are described as websites that:",
+        "options": [
+            {
+                "text": "Are only for progressive political content",
+                "value": "a"
+            },
+            {
+                "text": "Perform the functions of a mobile application",
+                "value": "b"
+            },
+            {
+                "text": "Are more expensive to develop than traditional sites",
+                "value": "c"
+            },
+            {
+                "text": "Cannot work offline",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "After crawling, the search engine process involves:",
+        "options": [
+            {
+                "text": "Retrieving Results",
+                "value": "a"
+            },
+            {
+                "text": "Indexing",
+                "value": "b"
+            },
+            {
+                "text": "Calculating Relevancy",
+                "value": "c"
+            },
+            {
+                "text": "Processing",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The step in the SEO process that involves analyzing the client's site against competitors is called:",
+        "options": [
+            {
+                "text": "Competitive Research",
+                "value": "a"
+            },
+            {
+                "text": "Keyword Research",
+                "value": "b"
+            },
+            {
+                "text": "Content Building",
+                "value": "c"
+            },
+            {
+                "text": "Social & Link Building",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Why is content referred to as 'king' in search engine optimization?",
+        "options": [
+            {
+                "text": "Because it is the most expensive part of SEO",
+                "value": "a"
+            },
+            {
+                "text": "Because it is the final step in the process",
+                "value": "b"
+            },
+            {
+                "text": "Because it requires royal approval",
+                "value": "c"
+            },
+            {
+                "text": "Because search engines love text and it gives users a reason to stay",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "On-page optimization does NOT typically include:",
+        "options": [
+            {
+                "text": "Page Titles",
+                "value": "a"
+            },
+            {
+                "text": "Clean up the Code",
+                "value": "b"
+            },
+            {
+                "text": "Buying backlinks from link farms",
+                "value": "c"
+            },
+            {
+                "text": "ALT and META data",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "The recommended keyword density for a content copy is:",
+        "options": [
+            {
+                "text": "3-5%",
+                "value": "a"
+            },
+            {
+                "text": "1-2%",
+                "value": "b"
+            },
+            {
+                "text": "10-15%",
+                "value": "c"
+            },
+            {
+                "text": "20-25%",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Google has limited the character length of page titles (title tags) to approximately:",
+        "options": [
+            {
+                "text": "50 characters",
+                "value": "a"
+            },
+            {
+                "text": "70 characters",
+                "value": "b"
+            },
+            {
+                "text": "100 characters",
+                "value": "c"
+            },
+            {
+                "text": "155 characters",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Meta descriptions should be created within a limit of how many characters?",
+        "options": [
+            {
+                "text": "70 characters",
+                "value": "a"
+            },
+            {
+                "text": "100 characters",
+                "value": "b"
+            },
+            {
+                "text": "155-160 characters",
+                "value": "c"
+            },
+            {
+                "text": "200 characters",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "For interlinking, which type of anchor text should be avoided?",
+        "options": [
+            {
+                "text": "Keyword-rich anchor text",
+                "value": "a"
+            },
+            {
+                "text": "Long-tail keyword anchor text",
+                "value": "b"
+            },
+            {
+                "text": "Branded anchor text",
+                "value": "c"
+            },
+            {
+                "text": "Non-descriptive anchor text (e.g., 'read more')",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Off-page optimization is best described as:",
+        "options": [
+            {
+                "text": "The process of optimizing HTML tags",
+                "value": "a"
+            },
+            {
+                "text": "All about your online reputation and acquiring backlinks",
+                "value": "b"
+            },
+            {
+                "text": "Writing content for your website",
+                "value": "c"
+            },
+            {
+                "text": "Fixing broken links on your site",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The study material suggests that buying backlinks from non-related domains can:",
+        "options": [
+            {
+                "text": "Penalize your website in search engine results",
+                "value": "a"
+            },
+            {
+                "text": "Guarantee top rankings",
+                "value": "b"
+            },
+            {
+                "text": "Double your website traffic",
+                "value": "c"
+            },
+            {
+                "text": "Improve your domain authority instantly",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which social signal is mentioned as being given prominence by Google?",
+        "options": [
+            {
+                "text": "The number of people who tweet, 'Like', or +1 your content",
+                "value": "a"
+            },
+            {
+                "text": "The number of friends a user has",
+                "value": "b"
+            },
+            {
+                "text": "The age of a user's social media account",
+                "value": "c"
+            },
+            {
+                "text": "The frequency of a user's login",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Google Authorship helps counter duplicate content by:",
+        "options": [
+            {
+                "text": "Deleting duplicate articles",
+                "value": "a"
+            },
+            {
+                "text": "Rewriting content automatically",
+                "value": "b"
+            },
+            {
+                "text": "Blocking websites that copy content",
+                "value": "c"
+            },
+            {
+                "text": "Giving weightage to the authors and the content they created",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Search Engine Marketing (SEM) is the process of getting traffic from:",
+        "options": [
+            {
+                "text": "Search engines either organically or paid",
+                "value": "a"
+            },
+            {
+                "text": "Search engines only",
+                "value": "b"
+            },
+            {
+                "text": "Social media only",
+                "value": "c"
+            },
+            {
+                "text": "Email campaigns only",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The two main types of Search Marketing are:",
+        "options": [
+            {
+                "text": "SEO and SMM",
+                "value": "a"
+            },
+            {
+                "text": "PPC and CRM",
+                "value": "b"
+            },
+            {
+                "text": "SEO and PSA (Paid Search Advertising)",
+                "value": "c"
+            },
+            {
+                "text": "ASO and EDA",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Why is search engine traffic considered highly targeted?",
+        "options": [
+            {
+                "text": "Because it is more expensive",
+                "value": "a"
+            },
+            {
+                "text": "Because users have a clear intent before typing a query",
+                "value": "b"
+            },
+            {
+                "text": "Because it comes only from desktop computers",
+                "value": "c"
+            },
+            {
+                "text": "Because it is generated by bots",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "A high ranking in organic search results can lead to:",
+        "options": [
+            {
+                "text": "Increased trust and recognition",
+                "value": "a"
+            },
+            {
+                "text": "Automatic sales without a website",
+                "value": "b"
+            },
+            {
+                "text": "Decreased brand awareness",
+                "value": "c"
+            },
+            {
+                "text": "Higher costs for the business",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "In PPC, what is 'Quality Score'?",
+        "options": [
+            {
+                "text": "The score a user gives an ad after clicking it",
+                "value": "a"
+            },
+            {
+                "text": "Google's rating of the quality and relevance of your keywords and campaigns",
+                "value": "b"
+            },
+            {
+                "text": "The total budget for a campaign",
+                "value": "c"
+            },
+            {
+                "text": "The number of times an ad is shown",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which type of email is described as fostering a relationship with the customer?",
+        "options": [
+            {
+                "text": "Transaction Emails",
+                "value": "a"
+            },
+            {
+                "text": "Spam Emails",
+                "value": "b"
+            },
+            {
+                "text": "Promotion Emails",
+                "value": "c"
+            },
+            {
+                "text": "Newsletters",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The 'Bounce Rate' metric in email marketing indicates:",
+        "options": [
+            {
+                "text": "How many people clicked on a link",
+                "value": "a"
+            },
+            {
+                "text": "How many people considered the email spam or a waste of time",
+                "value": "b"
+            },
+            {
+                "text": "How many new subscribers joined",
+                "value": "c"
+            },
+            {
+                "text": "The total revenue generated",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "EDA in the context of electronic marketing stands for:",
+        "options": [
+            {
+                "text": "Electronic Design Automation",
+                "value": "a"
+            },
+            {
+                "text": "Email Delivery Analysis",
+                "value": "b"
+            },
+            {
+                "text": "Electronic Data Agreement",
+                "value": "c"
+            },
+            {
+                "text": "Estimated Digital Advertising",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "A key statistic mentioned about mobile marketing is that up to what percentage of digital media time in the U.S. is on mobile platforms?",
+        "options": [
+            {
+                "text": "30%",
+                "value": "a"
+            },
+            {
+                "text": "60%",
+                "value": "b"
+            },
+            {
+                "text": "80%",
+                "value": "c"
+            },
+            {
+                "text": "95%",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which type of EDA tool takes a description of a circuit and predicts its behaviour before implementation?",
+        "options": [
+            {
+                "text": "Design Tools",
+                "value": "a"
+            },
+            {
+                "text": "Verification Tools",
+                "value": "b"
+            },
+            {
+                "text": "Simulation Tools",
+                "value": "c"
+            },
+            {
+                "text": "Manufacturing Tools",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Place and route is a process associated with which type of EDA tool?",
+        "options": [
+            {
+                "text": "Simulation Tools",
+                "value": "a"
+            },
+            {
+                "text": "Design Tools",
+                "value": "b"
+            },
+            {
+                "text": "Verification Tools",
+                "value": "c"
+            },
+            {
+                "text": "Testing Tools",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Layout vs. Schematic (LVS) is a process used in:",
+        "options": [
+            {
+                "text": "Simulation",
+                "value": "a"
+            },
+            {
+                "text": "Design",
+                "value": "b"
+            },
+            {
+                "text": "Verification",
+                "value": "c"
+            },
+            {
+                "text": "Marketing",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "In-game mobile marketing refers to ads that appear:",
+        "options": [
+            {
+                "text": "Before a game is downloaded",
+                "value": "a"
+            },
+            {
+                "text": "On the app store listing of a game",
+                "value": "b"
+            },
+            {
+                "text": "Within mobile games",
+                "value": "c"
+            },
+            {
+                "text": "On TV commercials for games",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "QR codes work by:",
+        "options": [
+            {
+                "text": "Sending a text message automatically",
+                "value": "a"
+            },
+            {
+                "text": "Being scanned by users to take them to a specific webpage",
+                "value": "b"
+            },
+            {
+                "text": "Connecting to Bluetooth devices",
+                "value": "c"
+            },
+            {
+                "text": "Playing a video automatically",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Location-based mobile ads appear based on a user's:",
+        "options": [
+            {
+                "text": "Age and gender",
+                "value": "a"
+            },
+            {
+                "text": "Income level",
+                "value": "b"
+            },
+            {
+                "text": "Location relative to a specific area or business",
+                "value": "c"
+            },
+            {
+                "text": "Specific location",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "According to the material, what is the reported open rate for SMS campaigns?",
+        "options": [
+            {
+                "text": "45%",
+                "value": "a"
+            },
+            {
+                "text": "75%",
+                "value": "b"
+            },
+            {
+                "text": "98%",
+                "value": "c"
+            },
+            {
+                "text": "50%",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "SMS campaigns are effective because they create a feeling of:",
+        "options": [
+            {
+                "text": "Luxury and exclusivity",
+                "value": "a"
+            },
+            {
+                "text": "Time sensitivity and urgency",
+                "value": "b"
+            },
+            {
+                "text": "Confusion and mystery",
+                "value": "c"
+            },
+            {
+                "text": "Relaxation and calm",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What percentage of texts are read within 3 minutes of being sent?",
+        "options": [
+            {
+                "text": "50%",
+                "value": "a"
+            },
+            {
+                "text": "75%",
+                "value": "b"
+            },
+            {
+                "text": "95%",
+                "value": "c"
+            },
+            {
+                "text": "100%",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "SMM allows a company to get direct feedback from customers, making the company seem more:",
+        "options": [
+            {
+                "text": "Personable",
+                "value": "a"
+            },
+            {
+                "text": "Distant",
+                "value": "b"
+            },
+            {
+                "text": "Authoritative",
+                "value": "c"
+            },
+            {
+                "text": "Expensive",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The aspect of SMM that gives customers the opportunity to ask questions or voice complaints is called:",
+        "options": [
+            {
+                "text": "Social Media Optimization (SMO)",
+                "value": "a"
+            },
+            {
+                "text": "Content Marketing",
+                "value": "b"
+            },
+            {
+                "text": "Inbound Marketing",
+                "value": "c"
+            },
+            {
+                "text": "Social Customer Relationship Management (Social CRM)",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "The FTC updated its rules to include SMM to ensure that incentives provided to bloggers are:",
+        "options": [
+            {
+                "text": "Increased in value",
+                "value": "a"
+            },
+            {
+                "text": "Tax-free",
+                "value": "b"
+            },
+            {
+                "text": "Only given to large influencers",
+                "value": "c"
+            },
+            {
+                "text": "Clearly and conspicuously disclosed",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Hootsuite is recommended for:",
+        "options": [
+            {
+                "text": "Designing social media graphics",
+                "value": "a"
+            },
+            {
+                "text": "Scheduling posts across multiple platforms",
+                "value": "b"
+            },
+            {
+                "text": "Creating video content",
+                "value": "c"
+            },
+            {
+                "text": "Writing blog posts",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "A tool like HubSpot is recommended over others because it can provide:",
+        "options": [
+            {
+                "text": "Closed-loop reporting data to track leads and sales",
+                "value": "a"
+            },
+            {
+                "text": "Free advertising credits",
+                "value": "b"
+            },
+            {
+                "text": "Automatic content creation",
+                "value": "c"
+            },
+            {
+                "text": "A new website domain",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "MeetEdgar is unique because it:",
+        "options": [
+            {
+                "text": "Creates content automatically",
+                "value": "a"
+            },
+            {
+                "text": "Is the cheapest tool available",
+                "value": "b"
+            },
+            {
+                "text": "Automatically re-shares your evergreen content",
+                "value": "c"
+            },
+            {
+                "text": "Only works with Twitter",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "IFTTT is an automation tool that works based on:",
+        "options": [
+            {
+                "text": "A monthly subscription fee",
+                "value": "a"
+            },
+            {
+                "text": "A trigger and an action",
+                "value": "b"
+            },
+            {
+                "text": "Manual input for every task",
+                "value": "c"
+            },
+            {
+                "text": "Voice commands only",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Canva is primarily used for:",
+        "options": [
+            {
+                "text": "Scheduling social media posts",
+                "value": "a"
+            },
+            {
+                "text": "Designing presentations and social media graphics",
+                "value": "b"
+            },
+            {
+                "text": "Managing customer relationships",
+                "value": "c"
+            },
+            {
+                "text": "Tracking website analytics",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Adobe Post is a tool designed to:",
+        "options": [
+            {
+                "text": "Create stunning social graphics quickly",
+                "value": "a"
+            },
+            {
+                "text": "Manage email campaigns",
+                "value": "b"
+            },
+            {
+                "text": "Write code for websites",
+                "value": "c"
+            },
+            {
+                "text": "Analyze competitor backlinks",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Bundle Post is primarily a tool for:",
+        "options": [
+            {
+                "text": "Content curation and scheduling",
+                "value": "a"
+            },
+            {
+                "text": "Video editing",
+                "value": "b"
+            },
+            {
+                "text": "Pay-per-click advertising",
+                "value": "c"
+            },
+            {
+                "text": "Website hosting",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Blogging involves all of the following activities EXCEPT:",
+        "options": [
+            {
+                "text": "Writing posts",
+                "value": "a"
+            },
+            {
+                "text": "Publishing content",
+                "value": "b"
+            },
+            {
+                "text": "Designing the blog",
+                "value": "c"
+            },
+            {
+                "text": "Manufacturing physical products",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Blogger, as a service, is provided by:",
+        "options": [
+            {
+                "text": "Microsoft",
+                "value": "a"
+            },
+            {
+                "text": "Apple",
+                "value": "b"
+            },
+            {
+                "text": "Google",
+                "value": "c"
+            },
+            {
+                "text": "WordPress",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "A key advantage of WordPress is:",
+        "options": [
+            {
+                "text": "It is impossible to hack",
+                "value": "a"
+            },
+            {
+                "text": "It requires advanced coding knowledge",
+                "value": "b"
+            },
+            {
+                "text": "It offers a wide range of themes and plugins",
+                "value": "c"
+            },
+            {
+                "text": "It is only for professional developers",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Blogspot is a:",
+        "options": [
+            {
+                "text": "Type of blog content",
+                "value": "a"
+            },
+            {
+                "text": "Free web hosting service from Google",
+                "value": "b"
+            },
+            {
+                "text": "Social media platform",
+                "value": "c"
+            },
+            {
+                "text": "Paid subscription service",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Tumblr is best described as a:",
+        "options": [
+            {
+                "text": "Microblogging platform",
+                "value": "a"
+            },
+            {
+                "text": "Search engine",
+                "value": "b"
+            },
+            {
+                "text": "Video hosting site",
+                "value": "c"
+            },
+            {
+                "text": "Email marketing service",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "An advantage of blogging mentioned is that it can:",
+        "options": [
+            {
+                "text": "Guarantee instant wealth",
+                "value": "a"
+            },
+            {
+                "text": "Replace the need for a website",
+                "value": "b"
+            },
+            {
+                "text": "Form a good source of income",
+                "value": "c"
+            },
+            {
+                "text": "Automatically attract millions of readers",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "To promote a blog, the material suggests:",
+        "options": [
+            {
+                "text": "Posting irrelevant content regularly",
+                "value": "a"
+            },
+            {
+                "text": "Keeping the blog private",
+                "value": "b"
+            },
+            {
+                "text": "Actively commenting on other's posts",
+                "value": "c"
+            },
+            {
+                "text": "Avoiding social media",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Video marketing educates your audience effectively and helps increase engagement on:",
+        "options": [
+            {
+                "text": "Only YouTube",
+                "value": "a"
+            },
+            {
+                "text": "Social and digital channels",
+                "value": "b"
+            },
+            {
+                "text": "Print media",
+                "value": "c"
+            },
+            {
+                "text": "Radio broadcasts",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "A significant factor in the rise of video marketing is:",
+        "options": [
+            {
+                "text": "The decline of television",
+                "value": "a"
+            },
+            {
+                "text": "How increasingly easy it is to create quality videos",
+                "value": "b"
+            },
+            {
+                "text": "Government regulations favoring video",
+                "value": "c"
+            },
+            {
+                "text": "The high cost of production",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Video marketing is called a great equalizer because it allows:",
+        "options": [
+            {
+                "text": "All videos to have the same length",
+                "value": "a"
+            },
+            {
+                "text": "Small businesses to compete effectively against larger ones",
+                "value": "b"
+            },
+            {
+                "text": "Everyone to become a famous director",
+                "value": "c"
+            },
+            {
+                "text": "Videos to be translated into any language automatically",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The first step in an effective video marketing campaign is:",
+        "options": [
+            {
+                "text": "Publishing your message everywhere",
+                "value": "a"
+            },
+            {
+                "text": "Designating your resources (budget, equipment, team)",
+                "value": "b"
+            },
+            {
+                "text": "Tracking the results",
+                "value": "c"
+            },
+            {
+                "text": "Building your story",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "For online audiences, the general rule for video length is:",
+        "options": [
+            {
+                "text": "The longer, the better",
+                "value": "a"
+            },
+            {
+                "text": "Shorter is better",
+                "value": "b"
+            },
+            {
+                "text": "Exactly 60 seconds is ideal",
+                "value": "c"
+            },
+            {
+                "text": "Length does not matter",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Animation videos are effective for:",
+        "options": [
+            {
+                "text": "Conveying complicated concepts with engaging imagery",
+                "value": "a"
+            },
+            {
+                "text": "Replacing all other forms of video",
+                "value": "b"
+            },
+            {
+                "text": "Only entertaining children",
+                "value": "c"
+            },
+            {
+                "text": "Very low budgets only",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Augmented Reality (AR) videos work by:",
+        "options": [
+            {
+                "text": "Immersing the user completely in a digital world",
+                "value": "a"
+            },
+            {
+                "text": "Superimposing a digital layer onto what the user is viewing",
+                "value": "b"
+            },
+            {
+                "text": "Playing sound only",
+                "value": "c"
+            },
+            {
+                "text": "Requiring special glasses that are expensive",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Demo videos are used to:",
+        "options": [
+            {
+                "text": "Interview experts",
+                "value": "a"
+            },
+            {
+                "text": "Show how a product works",
+                "value": "b"
+            },
+            {
+                "text": "Tell the brand's history",
+                "value": "c"
+            },
+            {
+                "text": "Critique competitors' products",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "How-to videos are effective because they:",
+        "options": [
+            {
+                "text": "Are always viral",
+                "value": "a"
+            },
+            {
+                "text": "Teach the audience something new and create appreciation for the business",
+                "value": "b"
+            },
+            {
+                "text": "Require no planning or scripting",
+                "value": "c"
+            },
+            {
+                "text": "Only feature the company's CEO",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Personalized message videos are effective because they:",
+        "options": [
+            {
+                "text": "Are cheap to produce in bulk",
+                "value": "a"
+            },
+            {
+                "text": "Make the customer feel special",
+                "value": "b"
+            },
+            {
+                "text": "Can be created by robots",
+                "value": "c"
+            },
+            {
+                "text": "Replace the need for a website",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "CRM systems can help sales teams by:",
+        "options": [
+            {
+                "text": "Replacing the need for a sales team",
+                "value": "a"
+            },
+            {
+                "text": "Automatically closing sales without human intervention",
+                "value": "b"
+            },
+            {
+                "text": "Keeping every member updated with customer information and leads",
+                "value": "c"
+            },
+            {
+                "text": "Designing marketing campaigns",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "CRM connects digital marketing strategies by:",
+        "options": [
+            {
+                "text": "Replacing all other marketing channels",
+                "value": "a"
+            },
+            {
+                "text": "Using collected customer data to personalize digital campaigns",
+                "value": "b"
+            },
+            {
+                "text": "Increasing the cost of advertising",
+                "value": "c"
+            },
+            {
+                "text": "Focusing only on offline marketing",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Netflix's 'since you liked this program' feature is an example of how CRM can be used for:",
+        "options": [
+            {
+                "text": "Email campaigns that make personal suggestions",
+                "value": "a"
+            },
+            {
+                "text": "Increasing subscription prices",
+                "value": "b"
+            },
+            {
+                "text": "Creating new television shows",
+                "value": "c"
+            },
+            {
+                "text": "Designing their website logo",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "CRM applications can help improve customer satisfaction by:",
+        "options": [
+            {
+                "text": "Automatically resolving all complaints",
+                "value": "a"
+            },
+            {
+                "text": "Creating databases from customer service calls to improve training",
+                "value": "b"
+            },
+            {
+                "text": "Reducing the number of customer service representatives",
+                "value": "c"
+            },
+            {
+                "text": "Limiting customer access to support",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "A customer with an emotional and sentimental attachment to a supplier demonstrates which type of loyal attitude?",
+        "options": [
+            {
+                "text": "Rational Type",
+                "value": "a"
+            },
+            {
+                "text": "Entrepreneur Type",
+                "value": "b"
+            },
+            {
+                "text": "Emotional and Sentimental Type",
+                "value": "c"
+            },
+            {
+                "text": "Price-Sensitive Type",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    }
+]

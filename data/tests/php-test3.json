@@ -1,0 +1,2224 @@
+[
+    {
+        "text": "What is the output of echo '1' + 2 + 3 + '4'; ?",
+        "options": [
+            {
+                "text": "10",
+                "value": "a"
+            },
+            {
+                "text": "1234",
+                "value": "b"
+            },
+            {
+                "text": "6",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to check if a variable is a resource?",
+        "options": [
+            {
+                "text": "is_resource()",
+                "value": "a"
+            },
+            {
+                "text": "resource_check()",
+                "value": "b"
+            },
+            {
+                "text": "check_resource()",
+                "value": "c"
+            },
+            {
+                "text": "isresource()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_pad() function?",
+        "options": [
+            {
+                "text": "To pad an array to a specified length with a value",
+                "value": "a"
+            },
+            {
+                "text": "To extend an array",
+                "value": "b"
+            },
+            {
+                "text": "To fill an array to a certain size",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to check if a variable is scalar?",
+        "options": [
+            {
+                "text": "is_scalar()",
+                "value": "a"
+            },
+            {
+                "text": "scalar_check()",
+                "value": "b"
+            },
+            {
+                "text": "check_scalar()",
+                "value": "c"
+            },
+            {
+                "text": "isscalar()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo 1 + '2' + 3 + '4'; ?",
+        "options": [
+            {
+                "text": "10",
+                "value": "a"
+            },
+            {
+                "text": "1234",
+                "value": "b"
+            },
+            {
+                "text": "6",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to check if a variable is iterable?",
+        "options": [
+            {
+                "text": "is_iterable()",
+                "value": "a"
+            },
+            {
+                "text": "iterable_check()",
+                "value": "b"
+            },
+            {
+                "text": "check_iterable()",
+                "value": "c"
+            },
+            {
+                "text": "isiterable()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_replace() function?",
+        "options": [
+            {
+                "text": "To replace values from passed arrays into the first array",
+                "value": "a"
+            },
+            {
+                "text": "To update array values",
+                "value": "b"
+            },
+            {
+                "text": "To modify an array",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to check if a variable is countable?",
+        "options": [
+            {
+                "text": "is_countable()",
+                "value": "a"
+            },
+            {
+                "text": "countable_check()",
+                "value": "b"
+            },
+            {
+                "text": "check_countable()",
+                "value": "c"
+            },
+            {
+                "text": "iscountable()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo '1' + '2' + '3' + '4'; ?",
+        "options": [
+            {
+                "text": "10",
+                "value": "a"
+            },
+            {
+                "text": "1234",
+                "value": "b"
+            },
+            {
+                "text": "6",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to check if a variable is finite?",
+        "options": [
+            {
+                "text": "is_finite()",
+                "value": "a"
+            },
+            {
+                "text": "finite_check()",
+                "value": "b"
+            },
+            {
+                "text": "check_finite()",
+                "value": "c"
+            },
+            {
+                "text": "isfinite()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_replace_recursive() function?",
+        "options": [
+            {
+                "text": "To replace values from passed arrays into the first array recursively",
+                "value": "a"
+            },
+            {
+                "text": "To recursively update array values",
+                "value": "b"
+            },
+            {
+                "text": "To modify multidimensional arrays",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to check if a variable is infinite?",
+        "options": [
+            {
+                "text": "is_infinite()",
+                "value": "a"
+            },
+            {
+                "text": "infinite_check()",
+                "value": "b"
+            },
+            {
+                "text": "check_infinite()",
+                "value": "c"
+            },
+            {
+                "text": "isinfinite()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo 1 + 2 + 3 + 4 + '5'; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to check if a variable is NaN?",
+        "options": [
+            {
+                "text": "is_nan()",
+                "value": "a"
+            },
+            {
+                "text": "nan_check()",
+                "value": "b"
+            },
+            {
+                "text": "check_nan()",
+                "value": "c"
+            },
+            {
+                "text": "isnan()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_udiff() function?",
+        "options": [
+            {
+                "text": "To compute the difference of arrays using a callback function for data comparison",
+                "value": "a"
+            },
+            {
+                "text": "To find differences with custom comparison",
+                "value": "b"
+            },
+            {
+                "text": "To compare arrays with user function",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to check if a file exists?",
+        "options": [
+            {
+                "text": "file_exists()",
+                "value": "a"
+            },
+            {
+                "text": "exists()",
+                "value": "b"
+            },
+            {
+                "text": "is_file()",
+                "value": "c"
+            },
+            {
+                "text": "check_file()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo '1' + 2 + 3 + 4 + '5'; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to check if a directory exists?",
+        "options": [
+            {
+                "text": "is_dir()",
+                "value": "a"
+            },
+            {
+                "text": "dir_exists()",
+                "value": "b"
+            },
+            {
+                "text": "check_dir()",
+                "value": "c"
+            },
+            {
+                "text": "exists_dir()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_uintersect() function?",
+        "options": [
+            {
+                "text": "To compute the intersection of arrays using a callback function for data comparison",
+                "value": "a"
+            },
+            {
+                "text": "To find common values with custom comparison",
+                "value": "b"
+            },
+            {
+                "text": "To compare arrays with user function",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to check if a file is readable?",
+        "options": [
+            {
+                "text": "is_readable()",
+                "value": "a"
+            },
+            {
+                "text": "readable()",
+                "value": "b"
+            },
+            {
+                "text": "check_readable()",
+                "value": "c"
+            },
+            {
+                "text": "file_readable()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo 1 + '2' + 3 + 4 + '5'; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to check if a file is writable?",
+        "options": [
+            {
+                "text": "is_writable()",
+                "value": "a"
+            },
+            {
+                "text": "writable()",
+                "value": "b"
+            },
+            {
+                "text": "check_writable()",
+                "value": "c"
+            },
+            {
+                "text": "file_writable()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does PHP stand for?",
+        "options": [
+            {
+                "text": "Personal Home Page",
+                "value": "a"
+            },
+            {
+                "text": "PHP: Hypertext Preprocessor",
+                "value": "b"
+            },
+            {
+                "text": "Private Hypertext Processor",
+                "value": "c"
+            },
+            {
+                "text": "Programmed Hypertext Protocol",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which symbol is used to denote a variable in PHP?",
+        "options": [
+            {
+                "text": "@",
+                "value": "a"
+            },
+            {
+                "text": "$",
+                "value": "b"
+            },
+            {
+                "text": "#",
+                "value": "c"
+            },
+            {
+                "text": "&",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the default file extension for PHP files?",
+        "options": [
+            {
+                "text": ".html",
+                "value": "a"
+            },
+            {
+                "text": ".xml",
+                "value": "b"
+            },
+            {
+                "text": ".php",
+                "value": "c"
+            },
+            {
+                "text": ".ph",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of the following is a valid PHP comment style?",
+        "options": [
+            {
+                "text": "// Comment",
+                "value": "a"
+            },
+            {
+                "text": "<!-- Comment -->",
+                "value": "b"
+            },
+            {
+                "text": "** Comment **",
+                "value": "c"
+            },
+            {
+                "text": "' Comment",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to output text in PHP?",
+        "options": [
+            {
+                "text": "print()",
+                "value": "a"
+            },
+            {
+                "text": "echo()",
+                "value": "b"
+            },
+            {
+                "text": "output()",
+                "value": "c"
+            },
+            {
+                "text": "display()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the result of 5 + 2 * 3 in PHP?",
+        "options": [
+            {
+                "text": "21",
+                "value": "a"
+            },
+            {
+                "text": "11",
+                "value": "b"
+            },
+            {
+                "text": "17",
+                "value": "c"
+            },
+            {
+                "text": "13",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which superglobal variable contains information about the server?",
+        "options": [
+            {
+                "text": "$_GET",
+                "value": "a"
+            },
+            {
+                "text": "$_POST",
+                "value": "b"
+            },
+            {
+                "text": "$_SERVER",
+                "value": "c"
+            },
+            {
+                "text": "$_SESSION",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How do you create a constant in PHP?",
+        "options": [
+            {
+                "text": "const PI = 3.14;",
+                "value": "a"
+            },
+            {
+                "text": "define(\"PI\", 3.14);",
+                "value": "b"
+            },
+            {
+                "text": "constant PI = 3.14;",
+                "value": "c"
+            },
+            {
+                "text": "set(\"PI\", 3.14);",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which operator is used for concatenation in PHP?",
+        "options": [
+            {
+                "text": "+",
+                "value": "a"
+            },
+            {
+                "text": "&",
+                "value": "b"
+            },
+            {
+                "text": ".",
+                "value": "c"
+            },
+            {
+                "text": "|",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What does the strlen() function do?",
+        "options": [
+            {
+                "text": "Returns the number of words in a string",
+                "value": "a"
+            },
+            {
+                "text": "Returns the length of a string",
+                "value": "b"
+            },
+            {
+                "text": "Splits a string into an array",
+                "value": "c"
+            },
+            {
+                "text": "Converts a string to lowercase",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which of the following is NOT a valid PHP data type?",
+        "options": [
+            {
+                "text": "integer",
+                "value": "a"
+            },
+            {
+                "text": "float",
+                "value": "b"
+            },
+            {
+                "text": "boolean",
+                "value": "c"
+            },
+            {
+                "text": "character",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "How do you start a session in PHP?",
+        "options": [
+            {
+                "text": "session_start();",
+                "value": "a"
+            },
+            {
+                "text": "start_session();",
+                "value": "b"
+            },
+            {
+                "text": "session_begin();",
+                "value": "c"
+            },
+            {
+                "text": "begin_session();",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to redirect to another page in PHP?",
+        "options": [
+            {
+                "text": "redirect()",
+                "value": "a"
+            },
+            {
+                "text": "header()",
+                "value": "b"
+            },
+            {
+                "text": "location()",
+                "value": "c"
+            },
+            {
+                "text": "goto()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the $_REQUEST variable?",
+        "options": [
+            {
+                "text": "To handle file uploads",
+                "value": "a"
+            },
+            {
+                "text": "To collect form data sent with both GET and POST methods",
+                "value": "b"
+            },
+            {
+                "text": "To store session variables",
+                "value": "c"
+            },
+            {
+                "text": "To access server configuration",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function is used to include a file in PHP?",
+        "options": [
+            {
+                "text": "include()",
+                "value": "a"
+            },
+            {
+                "text": "import()",
+                "value": "b"
+            },
+            {
+                "text": "require()",
+                "value": "c"
+            },
+            {
+                "text": "Both a and c",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the difference between == and === in PHP?",
+        "options": [
+            {
+                "text": "== compares values, === compares values and types",
+                "value": "a"
+            },
+            {
+                "text": "== compares types, === compares values",
+                "value": "b"
+            },
+            {
+                "text": "They are identical",
+                "value": "c"
+            },
+            {
+                "text": "== is for strings, === is for numbers",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to get the current date and time in PHP?",
+        "options": [
+            {
+                "text": "time()",
+                "value": "a"
+            },
+            {
+                "text": "date()",
+                "value": "b"
+            },
+            {
+                "text": "now()",
+                "value": "c"
+            },
+            {
+                "text": "datetime()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What does the function mysql_connect() do?",
+        "options": [
+            {
+                "text": "Executes a MySQL query",
+                "value": "a"
+            },
+            {
+                "text": "Connects to a MySQL database",
+                "value": "b"
+            },
+            {
+                "text": "Creates a MySQL database",
+                "value": "c"
+            },
+            {
+                "text": "Closes a MySQL connection",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function is used to escape special characters in a string for use in an SQL statement?",
+        "options": [
+            {
+                "text": "escape_string()",
+                "value": "a"
+            },
+            {
+                "text": "mysql_escape()",
+                "value": "b"
+            },
+            {
+                "text": "addslashes()",
+                "value": "c"
+            },
+            {
+                "text": "mysql_real_escape_string()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the foreach loop in PHP?",
+        "options": [
+            {
+                "text": "To loop through a block of code a specified number of times",
+                "value": "a"
+            },
+            {
+                "text": "To loop through a block of code while a condition is true",
+                "value": "b"
+            },
+            {
+                "text": "To loop through the values of an array",
+                "value": "c"
+            },
+            {
+                "text": "To create an infinite loop",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_walk_recursive() function?",
+        "options": [
+            {
+                "text": "To apply a user function recursively to every member of an array",
+                "value": "a"
+            },
+            {
+                "text": "To walk through multidimensional arrays",
+                "value": "b"
+            },
+            {
+                "text": "To process nested arrays",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to check if a file is executable?",
+        "options": [
+            {
+                "text": "is_executable()",
+                "value": "a"
+            },
+            {
+                "text": "executable()",
+                "value": "b"
+            },
+            {
+                "text": "check_executable()",
+                "value": "c"
+            },
+            {
+                "text": "file_executable()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo '1' + 2 + 3 + 4 + '5'; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to get the file size?",
+        "options": [
+            {
+                "text": "filesize()",
+                "value": "a"
+            },
+            {
+                "text": "file_size()",
+                "value": "b"
+            },
+            {
+                "text": "size()",
+                "value": "c"
+            },
+            {
+                "text": "get_filesize()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_udiff_assoc() function?",
+        "options": [
+            {
+                "text": "To compute the difference of arrays with additional index check, using a callback function for data comparison",
+                "value": "a"
+            },
+            {
+                "text": "To find differences with key comparison",
+                "value": "b"
+            },
+            {
+                "text": "To compare arrays with custom function",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to get the file modification time?",
+        "options": [
+            {
+                "text": "filemtime()",
+                "value": "a"
+            },
+            {
+                "text": "file_mod_time()",
+                "value": "b"
+            },
+            {
+                "text": "modification_time()",
+                "value": "c"
+            },
+            {
+                "text": "get_filemtime()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo 1 + 2 + '3' + 4 + '5'; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to get the file creation time?",
+        "options": [
+            {
+                "text": "filectime()",
+                "value": "a"
+            },
+            {
+                "text": "file_creation_time()",
+                "value": "b"
+            },
+            {
+                "text": "creation_time()",
+                "value": "c"
+            },
+            {
+                "text": "get_filectime()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_uintersect_assoc() function?",
+        "options": [
+            {
+                "text": "To compute the intersection of arrays with additional index check, using a callback function for data comparison",
+                "value": "a"
+            },
+            {
+                "text": "To find common values with key comparison",
+                "value": "b"
+            },
+            {
+                "text": "To compare arrays with custom function",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to get the file access time?",
+        "options": [
+            {
+                "text": "fileatime()",
+                "value": "a"
+            },
+            {
+                "text": "file_access_time()",
+                "value": "b"
+            },
+            {
+                "text": "access_time()",
+                "value": "c"
+            },
+            {
+                "text": "get_fileatime()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo '1' + 2 + '3' + 4 + '5'; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to get the file type?",
+        "options": [
+            {
+                "text": "filetype()",
+                "value": "a"
+            },
+            {
+                "text": "file_type()",
+                "value": "b"
+            },
+            {
+                "text": "type()",
+                "value": "c"
+            },
+            {
+                "text": "get_filetype()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_diff_uassoc() function?",
+        "options": [
+            {
+                "text": "To compute the difference of arrays with additional index check which is performed by a user supplied callback function",
+                "value": "a"
+            },
+            {
+                "text": "To find differences with custom key comparison",
+                "value": "b"
+            },
+            {
+                "text": "To compare arrays with user function",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to get the file permissions?",
+        "options": [
+            {
+                "text": "fileperms()",
+                "value": "a"
+            },
+            {
+                "text": "file_permissions()",
+                "value": "b"
+            },
+            {
+                "text": "permissions()",
+                "value": "c"
+            },
+            {
+                "text": "get_fileperms()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo 1 + '2' + '3' + 4 + '5'; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to get the file owner?",
+        "options": [
+            {
+                "text": "fileowner()",
+                "value": "a"
+            },
+            {
+                "text": "file_owner()",
+                "value": "b"
+            },
+            {
+                "text": "owner()",
+                "value": "c"
+            },
+            {
+                "text": "get_fileowner()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_intersect_uassoc() function?",
+        "options": [
+            {
+                "text": "To compute the intersection of arrays with additional index check, using a callback function for index comparison",
+                "value": "a"
+            },
+            {
+                "text": "To find common values with custom key comparison",
+                "value": "b"
+            },
+            {
+                "text": "To compare arrays with user function",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to get the file group?",
+        "options": [
+            {
+                "text": "filegroup()",
+                "value": "a"
+            },
+            {
+                "text": "file_group()",
+                "value": "b"
+            },
+            {
+                "text": "group()",
+                "value": "c"
+            },
+            {
+                "text": "get_filegroup()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo '1' + '2' + '3' + 4 + '5'; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to check if a file is a regular file?",
+        "options": [
+            {
+                "text": "is_file()",
+                "value": "a"
+            },
+            {
+                "text": "file_is_regular()",
+                "value": "b"
+            },
+            {
+                "text": "regular_file()",
+                "value": "c"
+            },
+            {
+                "text": "is_regular_file()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_udiff_uassoc() function?",
+        "options": [
+            {
+                "text": "To compute the difference of arrays with additional index check, using a callback function for data comparison and index comparison",
+                "value": "a"
+            },
+            {
+                "text": "To find differences with custom value and key comparison",
+                "value": "b"
+            },
+            {
+                "text": "To compare arrays with two user functions",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to check if a file is a directory?",
+        "options": [
+            {
+                "text": "is_dir()",
+                "value": "a"
+            },
+            {
+                "text": "dir_is_directory()",
+                "value": "b"
+            },
+            {
+                "text": "directory()",
+                "value": "c"
+            },
+            {
+                "text": "is_directory()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo 1 + 2 + 3 + '4' + '5'; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to check if a file is a link?",
+        "options": [
+            {
+                "text": "is_link()",
+                "value": "a"
+            },
+            {
+                "text": "link_is_link()",
+                "value": "b"
+            },
+            {
+                "text": "symlink()",
+                "value": "c"
+            },
+            {
+                "text": "is_symlink()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_uintersect_uassoc() function?",
+        "options": [
+            {
+                "text": "To compute the intersection of arrays with additional index check, using a callback function for data comparison and index comparison",
+                "value": "a"
+            },
+            {
+                "text": "To find common values with custom value and key comparison",
+                "value": "b"
+            },
+            {
+                "text": "To compare arrays with two user functions",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to check if a file is uploaded?",
+        "options": [
+            {
+                "text": "is_uploaded_file()",
+                "value": "a"
+            },
+            {
+                "text": "uploaded_file()",
+                "value": "b"
+            },
+            {
+                "text": "file_is_uploaded()",
+                "value": "c"
+            },
+            {
+                "text": "is_uploaded()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo '1' + 2 + 3 + '4' + '5'; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to get the file extension?",
+        "options": [
+            {
+                "text": "pathinfo() with PATHINFO_EXTENSION",
+                "value": "a"
+            },
+            {
+                "text": "file_extension()",
+                "value": "b"
+            },
+            {
+                "text": "extension()",
+                "value": "c"
+            },
+            {
+                "text": "get_extension()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_diff_key() function?",
+        "options": [
+            {
+                "text": "To compute the difference of arrays using keys for comparison",
+                "value": "a"
+            },
+            {
+                "text": "To find differences by keys",
+                "value": "b"
+            },
+            {
+                "text": "To compare array keys",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to get the file name without extension?",
+        "options": [
+            {
+                "text": "pathinfo() with PATHINFO_FILENAME",
+                "value": "a"
+            },
+            {
+                "text": "file_name()",
+                "value": "b"
+            },
+            {
+                "text": "basename()",
+                "value": "c"
+            },
+            {
+                "text": "get_filename()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo 1 + '2' + 3 + '4' + '5'; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to get the directory name from a path?",
+        "options": [
+            {
+                "text": "dirname()",
+                "value": "a"
+            },
+            {
+                "text": "directory_name()",
+                "value": "b"
+            },
+            {
+                "text": "path_directory()",
+                "value": "c"
+            },
+            {
+                "text": "get_dirname()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_intersect_key() function?",
+        "options": [
+            {
+                "text": "To compute the intersection of arrays using keys for comparison",
+                "value": "a"
+            },
+            {
+                "text": "To find common keys",
+                "value": "b"
+            },
+            {
+                "text": "To compare array keys",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to get the base name of a file from a path?",
+        "options": [
+            {
+                "text": "basename()",
+                "value": "a"
+            },
+            {
+                "text": "base_name()",
+                "value": "b"
+            },
+            {
+                "text": "file_basename()",
+                "value": "c"
+            },
+            {
+                "text": "get_basename()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo '1' + '2' + 3 + '4' + '5'; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to get the real path of a file?",
+        "options": [
+            {
+                "text": "realpath()",
+                "value": "a"
+            },
+            {
+                "text": "real_path()",
+                "value": "b"
+            },
+            {
+                "text": "path_real()",
+                "value": "c"
+            },
+            {
+                "text": "get_realpath()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_diff_ukey() function?",
+        "options": [
+            {
+                "text": "To compute the difference of arrays using a callback function on the keys for comparison",
+                "value": "a"
+            },
+            {
+                "text": "To find differences with custom key comparison",
+                "value": "b"
+            },
+            {
+                "text": "To compare arrays with user function on keys",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to get the absolute path of a file?",
+        "options": [
+            {
+                "text": "realpath()",
+                "value": "a"
+            },
+            {
+                "text": "absolute_path()",
+                "value": "b"
+            },
+            {
+                "text": "path_absolute()",
+                "value": "c"
+            },
+            {
+                "text": "get_absolutepath()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo 1 + 2 + '3' + '4' + '5'; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to check if a path is absolute?",
+        "options": [
+            {
+                "text": "There is no built-in function, but you can check if the path starts with '/' or a drive letter",
+                "value": "a"
+            },
+            {
+                "text": "is_absolute()",
+                "value": "b"
+            },
+            {
+                "text": "absolute()",
+                "value": "c"
+            },
+            {
+                "text": "path_is_absolute()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_intersect_ukey() function?",
+        "options": [
+            {
+                "text": "To compute the intersection of arrays using a callback function on the keys for comparison",
+                "value": "a"
+            },
+            {
+                "text": "To find common keys with custom comparison",
+                "value": "b"
+            },
+            {
+                "text": "To compare arrays with user function on keys",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to check if a path is relative?",
+        "options": [
+            {
+                "text": "There is no built-in function, but you can check if the path doesn't start with '/' or a drive letter",
+                "value": "a"
+            },
+            {
+                "text": "is_relative()",
+                "value": "b"
+            },
+            {
+                "text": "relative()",
+                "value": "c"
+            },
+            {
+                "text": "path_is_relative()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo '1' + '2' + '3' + '4' + '5'; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to normalize a path?",
+        "options": [
+            {
+                "text": "realpath()",
+                "value": "a"
+            },
+            {
+                "text": "normalize_path()",
+                "value": "b"
+            },
+            {
+                "text": "path_normalize()",
+                "value": "c"
+            },
+            {
+                "text": "get_normalizedpath()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_sum() function?",
+        "options": [
+            {
+                "text": "To calculate the sum of values in an array",
+                "value": "a"
+            },
+            {
+                "text": "To add up array values",
+                "value": "b"
+            },
+            {
+                "text": "To total numeric values",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to get the current working directory?",
+        "options": [
+            {
+                "text": "getcwd()",
+                "value": "a"
+            },
+            {
+                "text": "cwd()",
+                "value": "b"
+            },
+            {
+                "text": "current_directory()",
+                "value": "c"
+            },
+            {
+                "text": "get_current_directory()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo 1 + 2 + 3 + 4 + 5; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to change the current working directory?",
+        "options": [
+            {
+                "text": "chdir()",
+                "value": "a"
+            },
+            {
+                "text": "change_directory()",
+                "value": "b"
+            },
+            {
+                "text": "setcwd()",
+                "value": "c"
+            },
+            {
+                "text": "change_cwd()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_product() function?",
+        "options": [
+            {
+                "text": "To calculate the product of values in an array",
+                "value": "a"
+            },
+            {
+                "text": "To multiply array values",
+                "value": "b"
+            },
+            {
+                "text": "To compute the product of numeric values",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to create a directory?",
+        "options": [
+            {
+                "text": "mkdir()",
+                "value": "a"
+            },
+            {
+                "text": "create_directory()",
+                "value": "b"
+            },
+            {
+                "text": "directory_create()",
+                "value": "c"
+            },
+            {
+                "text": "make_dir()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo '1' + 2 + 3 + 4 + 5; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to remove a directory?",
+        "options": [
+            {
+                "text": "rmdir()",
+                "value": "a"
+            },
+            {
+                "text": "remove_directory()",
+                "value": "b"
+            },
+            {
+                "text": "directory_remove()",
+                "value": "c"
+            },
+            {
+                "text": "delete_dir()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_rand() function?",
+        "options": [
+            {
+                "text": "To pick one or more random keys out of an array",
+                "value": "a"
+            },
+            {
+                "text": "To get random array elements",
+                "value": "b"
+            },
+            {
+                "text": "To select random values",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to read the contents of a directory?",
+        "options": [
+            {
+                "text": "scandir()",
+                "value": "a"
+            },
+            {
+                "text": "read_directory()",
+                "value": "b"
+            },
+            {
+                "text": "directory_read()",
+                "value": "c"
+            },
+            {
+                "text": "get_directory()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo 1 + '2' + 3 + 4 + 5; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to get the free disk space?",
+        "options": [
+            {
+                "text": "disk_free_space()",
+                "value": "a"
+            },
+            {
+                "text": "free_disk_space()",
+                "value": "b"
+            },
+            {
+                "text": "get_diskfreespace()",
+                "value": "c"
+            },
+            {
+                "text": "diskfreespace()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the shuffle() function?",
+        "options": [
+            {
+                "text": "To shuffle (randomize the order of) the elements in an array",
+                "value": "a"
+            },
+            {
+                "text": "To randomize an array",
+                "value": "b"
+            },
+            {
+                "text": "To mix up array elements",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which function is used to get the total disk space?",
+        "options": [
+            {
+                "text": "disk_total_space()",
+                "value": "a"
+            },
+            {
+                "text": "total_disk_space()",
+                "value": "b"
+            },
+            {
+                "text": "get_disktotalspace()",
+                "value": "c"
+            },
+            {
+                "text": "disktotalspace()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo '1' + '2' + 3 + 4 + 5; ?",
+        "options": [
+            {
+                "text": "15",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "10",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    }
+]

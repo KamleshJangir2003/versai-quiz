@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam Result | ProExam</title>
+    <link rel="icon" type="image/x-icon" href="favicon (2).svg">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/result.css">
+</head>
+
+<body>
+    <div class="result-container">
+        <div class="result-card">
+            <div class="result-header">
+                <h1 class="result-title">Exam Results</h1>
+                <p class="result-subtitle">Advanced Graphic Design Certification</p>
+                <div class="status-badge" id="status-badge">Completed</div>
+            </div>
+
+            <div class="result-body">
+                <div class="result-grid">
+                    <div class="detail-card">
+                        <div class="detail-label">Student Name</div>
+                        <div class="detail-value" id="student-name">********</div>
+                    </div>
+                    <div class="detail-card">
+                        <div class="detail-label">Student ID</div>
+                        <div class="detail-value" id="student-id">********</div>
+                    </div>
+                </div>
+
+                <div class="score-display">
+                    <div class="score-main" id="score-percentage">*</div>
+                    <div class="score-label">Overall Score Percentage</div>
+                </div>
+
+                <div class="result-grid">
+                    <div class="detail-card">
+                        <div class="detail-label">Correct Answers</div>
+                        <div class="detail-value" id="score-correct">*</div>
+                    </div>
+                    <div class="detail-card">
+                        <div class="detail-label">Total Questions</div>
+                        <div class="detail-value" id="score-total">*</div>
+                    </div>
+                </div>
+
+                <div class="result-message" id="result-message">
+                    Outstanding performance! You've scored in the top 15% of all candidates.
+                </div>
+
+                <div class="result-actions">
+                    <button class="btn btn-primary" id="home-btn">
+                        <i class="fas fa-home"></i> <a href="index.html">Dashboard</a>
+                    </button>
+                    <button class="btn btn-outline" id="details-btn">
+                        <i class="fas fa-chart-bar"></i> Detailed Analysis
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // DOM Elements
+        const statusBadge = document.getElementById('status-badge');
+        const resultMessage = document.getElementById('result-message');
+        const scorePercentage = document.getElementById('score-percentage');
+        const scoreCorrect = document.getElementById('score-correct');
+        const scoreTotal = document.getElementById('score-total');
+        const homeBtn = document.getElementById('home-btn');
+        const detailsBtn = document.getElementById('details-btn');
+
+        // Event Listeners
+        homeBtn.addEventListener('click', () => {
+            alert('Redirecting to dashboard...');
+            // window.location.href = 'dashboard.html';
+        });
+
+        detailsBtn.addEventListener('click', () => {
+            alert('Showing detailed analysis...');
+            // Show detailed analysis view
+        });
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const resultData = JSON.parse(localStorage.getItem('examResult'));
+
+            if (resultData) {
+                document.getElementById('student-name').textContent = resultData.studentName;
+                document.getElementById('student-id').textContent = resultData.studentId;
+                document.querySelector('.result-subtitle').textContent = resultData.testName;
+                
+                scorePercentage.textContent = `${resultData.percentage}%`;
+                scoreCorrect.textContent = resultData.score;
+                scoreTotal.textContent = resultData.totalQuestions;
+
+                if (resultData.percentage >= 85) {
+                    statusBadge.style.background = 'linear-gradient(135deg, var(--success) 0%, #55efc4 100%)';
+                    statusBadge.style.color = 'white';
+                    statusBadge.textContent = 'Excellent';
+                    resultMessage.innerHTML = `Outstanding performance! You've scored in the top 15% of all candidates.`;
+                } else if (resultData.percentage >= 70) {
+                    statusBadge.style.background = 'linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%)';
+                    statusBadge.style.color = 'white';
+                    statusBadge.textContent = 'Passed';
+                    resultMessage.textContent = 'Congratulations! You have successfully passed the certification exam.';
+                } else {
+                    statusBadge.style.background = 'linear-gradient(135deg, var(--danger) 0%, #ff7675 100%)';
+                    statusBadge.style.color = 'white';
+                    statusBadge.textContent = 'Failed';
+                    resultMessage.textContent = 'You scored below the passing mark. You can retake the exam after 14 days.';
+                }
+
+                // Clear the result from local storage so it's not shown again on refresh
+                // localStorage.removeItem('examResult');
+            } else {
+                // Handle case where there is no result data
+                document.querySelector('.result-card').innerHTML = '<h1>No result found.</h1><p>Please complete a test to see your results.</p><a href="subjects.php">Go to Tests</a>';
+            }
+        });
+    </script>
+</body>
+
+</html>

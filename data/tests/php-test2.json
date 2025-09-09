@@ -1,0 +1,1542 @@
+[
+    {
+        "text": "Which function is used to get the current memory usage?",
+        "options": [
+            {
+                "text": "memory_get_usage()",
+                "value": "a"
+            },
+            {
+                "text": "get_memory()",
+                "value": "b"
+            },
+            {
+                "text": "memory_usage()",
+                "value": "c"
+            },
+            {
+                "text": "usage_memory()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the array_reduce() function?",
+        "options": [
+            {
+                "text": "To iteratively reduce an array to a single value using a callback function",
+                "value": "a"
+            },
+            {
+                "text": "To reduce the size of an array",
+                "value": "b"
+            },
+            {
+                "text": "To remove duplicate values from an array",
+                "value": "c"
+            },
+            {
+                "text": "To sort an array in reverse order",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to get the current maximum memory allocation?",
+        "options": [
+            {
+                "text": "memory_get_peak_usage()",
+                "value": "a"
+            },
+            {
+                "text": "get_max_memory()",
+                "value": "b"
+            },
+            {
+                "text": "memory_max()",
+                "value": "c"
+            },
+            {
+                "text": "peak_memory()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo 2 ** 3; ?",
+        "options": [
+            {
+                "text": "6",
+                "value": "a"
+            },
+            {
+                "text": "8",
+                "value": "b"
+            },
+            {
+                "text": "23",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to get the length of a string?",
+        "options": [
+            {
+                "text": "strlen()",
+                "value": "a"
+            },
+            {
+                "text": "length()",
+                "value": "b"
+            },
+            {
+                "text": "str_length()",
+                "value": "c"
+            },
+            {
+                "text": "stringlen()",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the array_walk() function?",
+        "options": [
+            {
+                "text": "To apply a user-defined function to each element of an array",
+                "value": "a"
+            },
+            {
+                "text": "To walk through an array",
+                "value": "b"
+            },
+            {
+                "text": "To create a new array",
+                "value": "c"
+            },
+            {
+                "text": "To sort an array",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to reverse a string?",
+        "options": [
+            {
+                "text": "strrev()",
+                "value": "a"
+            },
+            {
+                "text": "reverse()",
+                "value": "b"
+            },
+            {
+                "text": "str_reverse()",
+                "value": "c"
+            },
+            {
+                "text": "rev()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo 'a' . 'b' . 'c'[0]; ?",
+        "options": [
+            {
+                "text": "abc",
+                "value": "a"
+            },
+            {
+                "text": "ab",
+                "value": "b"
+            },
+            {
+                "text": "abc0",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to find the last occurrence of a substring in a string?",
+        "options": [
+            {
+                "text": "strrpos()",
+                "value": "a"
+            },
+            {
+                "text": "strpos()",
+                "value": "b"
+            },
+            {
+                "text": "lastpos()",
+                "value": "c"
+            },
+            {
+                "text": "str_last()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_merge() function?",
+        "options": [
+            {
+                "text": "To merge one or more arrays",
+                "value": "a"
+            },
+            {
+                "text": "To combine array elements",
+                "value": "b"
+            },
+            {
+                "text": "To join array values",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function is used to replace part of a string with another string?",
+        "options": [
+            {
+                "text": "str_replace()",
+                "value": "a"
+            },
+            {
+                "text": "replace()",
+                "value": "b"
+            },
+            {
+                "text": "string_replace()",
+                "value": "c"
+            },
+            {
+                "text": "sub_replace()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the output of echo (int) '123abc'; ?",
+        "options": [
+            {
+                "text": "123",
+                "value": "a"
+            },
+            {
+                "text": "123abc",
+                "value": "b"
+            },
+            {
+                "text": "0",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to get a substring from a string?",
+        "options": [
+            {
+                "text": "substr()",
+                "value": "a"
+            },
+            {
+                "text": "str_sub()",
+                "value": "b"
+            },
+            {
+                "text": "string_slice()",
+                "value": "c"
+            },
+            {
+                "text": "slice()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the purpose of the array_slice() function?",
+        "options": [
+            {
+                "text": "To extract a slice of an array",
+                "value": "a"
+            },
+            {
+                "text": "To cut an array into pieces",
+                "value": "b"
+            },
+            {
+                "text": "To remove elements from an array",
+                "value": "c"
+            },
+            {
+                "text": "To split an array",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to shuffle an array?",
+        "options": [
+            {
+                "text": "shuffle()",
+                "value": "a"
+            },
+            {
+                "text": "array_shuffle()",
+                "value": "b"
+            },
+            {
+                "text": "randomize()",
+                "value": "c"
+            },
+            {
+                "text": "mix()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the output of echo 'a' == 0; ?",
+        "options": [
+            {
+                "text": "true",
+                "value": "a"
+            },
+            {
+                "text": "false",
+                "value": "b"
+            },
+            {
+                "text": "0",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function is used to get unique values from an array?",
+        "options": [
+            {
+                "text": "array_unique()",
+                "value": "a"
+            },
+            {
+                "text": "unique()",
+                "value": "b"
+            },
+            {
+                "text": "array_distinct()",
+                "value": "c"
+            },
+            {
+                "text": "distinct()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the array_flip() function?",
+        "options": [
+            {
+                "text": "To exchange all keys with their associated values in an array",
+                "value": "a"
+            },
+            {
+                "text": "To reverse the order of array elements",
+                "value": "b"
+            },
+            {
+                "text": "To flip array values",
+                "value": "c"
+            },
+            {
+                "text": "To invert an array",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to get the keys of an array?",
+        "options": [
+            {
+                "text": "array_keys()",
+                "value": "a"
+            },
+            {
+                "text": "keys()",
+                "value": "b"
+            },
+            {
+                "text": "get_keys()",
+                "value": "c"
+            },
+            {
+                "text": "array_key()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo (bool) []; ?",
+        "options": [
+            {
+                "text": "true",
+                "value": "a"
+            },
+            {
+                "text": "false",
+                "value": "b"
+            },
+            {
+                "text": "0",
+                "value": "c"
+            },
+            {
+                "text": "1",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to get the values of an array?",
+        "options": [
+            {
+                "text": "array_values()",
+                "value": "a"
+            },
+            {
+                "text": "values()",
+                "value": "b"
+            },
+            {
+                "text": "get_values()",
+                "value": "c"
+            },
+            {
+                "text": "array_value()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to check if a variable is an array?",
+        "options": [
+            {
+                "text": "is_array()",
+                "value": "a"
+            },
+            {
+                "text": "array_check()",
+                "value": "b"
+            },
+            {
+                "text": "check_array()",
+                "value": "c"
+            },
+            {
+                "text": "isarray()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo 'a' === 0; ?",
+        "options": [
+            {
+                "text": "true",
+                "value": "a"
+            },
+            {
+                "text": "false",
+                "value": "b"
+            },
+            {
+                "text": "0",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to check if a key exists in an array?",
+        "options": [
+            {
+                "text": "array_key_exists()",
+                "value": "a"
+            },
+            {
+                "text": "key_exists()",
+                "value": "b"
+            },
+            {
+                "text": "exists()",
+                "value": "c"
+            },
+            {
+                "text": "array_exists()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_diff() function?",
+        "options": [
+            {
+                "text": "To compute the difference of arrays",
+                "value": "a"
+            },
+            {
+                "text": "To find different values",
+                "value": "b"
+            },
+            {
+                "text": "To compare arrays",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function is used to check if a value exists in an array?",
+        "options": [
+            {
+                "text": "in_array()",
+                "value": "a"
+            },
+            {
+                "text": "array_in()",
+                "value": "b"
+            },
+            {
+                "text": "exists_in()",
+                "value": "c"
+            },
+            {
+                "text": "value_exists()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the output of echo 1 + 2 * 3; ?",
+        "options": [
+            {
+                "text": "7",
+                "value": "a"
+            },
+            {
+                "text": "9",
+                "value": "b"
+            },
+            {
+                "text": "6",
+                "value": "c"
+            },
+            {
+                "text": "5",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to sort an array in ascending order by value?",
+        "options": [
+            {
+                "text": "sort()",
+                "value": "a"
+            },
+            {
+                "text": "asort()",
+                "value": "b"
+            },
+            {
+                "text": "ksort()",
+                "value": "c"
+            },
+            {
+                "text": "rsort()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the purpose of the array_intersect() function?",
+        "options": [
+            {
+                "text": "To compute the intersection of arrays",
+                "value": "a"
+            },
+            {
+                "text": "To find common values",
+                "value": "b"
+            },
+            {
+                "text": "To compare arrays",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to sort an array in ascending order by key?",
+        "options": [
+            {
+                "text": "ksort()",
+                "value": "a"
+            },
+            {
+                "text": "sort()",
+                "value": "b"
+            },
+            {
+                "text": "asort()",
+                "value": "c"
+            },
+            {
+                "text": "rsort()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the output of echo '1' + '2'; ?",
+        "options": [
+            {
+                "text": "3",
+                "value": "a"
+            },
+            {
+                "text": "12",
+                "value": "b"
+            },
+            {
+                "text": "'1''2'",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function is used to sort an array in descending order by value?",
+        "options": [
+            {
+                "text": "rsort()",
+                "value": "a"
+            },
+            {
+                "text": "arsort()",
+                "value": "b"
+            },
+            {
+                "text": "krsort()",
+                "value": "c"
+            },
+            {
+                "text": "dsort()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the array_reverse() function?",
+        "options": [
+            {
+                "text": "To return an array with elements in reverse order",
+                "value": "a"
+            },
+            {
+                "text": "To reverse the order of array elements",
+                "value": "b"
+            },
+            {
+                "text": "To flip an array",
+                "value": "c"
+            },
+            {
+                "text": "Both a and b",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to sort an array in descending order by key?",
+        "options": [
+            {
+                "text": "krsort()",
+                "value": "a"
+            },
+            {
+                "text": "rsort()",
+                "value": "b"
+            },
+            {
+                "text": "arsort()",
+                "value": "c"
+            },
+            {
+                "text": "dsort()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo 0 == 'abc'; ?",
+        "options": [
+            {
+                "text": "true",
+                "value": "a"
+            },
+            {
+                "text": "false",
+                "value": "b"
+            },
+            {
+                "text": "0",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to sort an array in ascending order by value while maintaining key association?",
+        "options": [
+            {
+                "text": "asort()",
+                "value": "a"
+            },
+            {
+                "text": "sort()",
+                "value": "b"
+            },
+            {
+                "text": "ksort()",
+                "value": "c"
+            },
+            {
+                "text": "usort()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_push() function?",
+        "options": [
+            {
+                "text": "To push one or more elements onto the end of an array",
+                "value": "a"
+            },
+            {
+                "text": "To add elements to an array",
+                "value": "b"
+            },
+            {
+                "text": "To append values to an array",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function is used to sort an array in descending order by value while maintaining key association?",
+        "options": [
+            {
+                "text": "arsort()",
+                "value": "a"
+            },
+            {
+                "text": "rsort()",
+                "value": "b"
+            },
+            {
+                "text": "krsort()",
+                "value": "c"
+            },
+            {
+                "text": "dsort()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the output of echo 0 === 'abc'; ?",
+        "options": [
+            {
+                "text": "false",
+                "value": "a"
+            },
+            {
+                "text": "true",
+                "value": "b"
+            },
+            {
+                "text": "0",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to remove the first element from an array?",
+        "options": [
+            {
+                "text": "array_shift()",
+                "value": "a"
+            },
+            {
+                "text": "shift()",
+                "value": "b"
+            },
+            {
+                "text": "array_pop()",
+                "value": "c"
+            },
+            {
+                "text": "pop()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the purpose of the array_pop() function?",
+        "options": [
+            {
+                "text": "To pop the element off the end of an array",
+                "value": "a"
+            },
+            {
+                "text": "To remove the last element",
+                "value": "b"
+            },
+            {
+                "text": "To get the last value",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to add one or more elements to the beginning of an array?",
+        "options": [
+            {
+                "text": "array_unshift()",
+                "value": "a"
+            },
+            {
+                "text": "unshift()",
+                "value": "b"
+            },
+            {
+                "text": "array_push()",
+                "value": "c"
+            },
+            {
+                "text": "prepend()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the output of echo '1' . '2' * 2; ?",
+        "options": [
+            {
+                "text": "14",
+                "value": "a"
+            },
+            {
+                "text": "24",
+                "value": "b"
+            },
+            {
+                "text": "122",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function is used to remove a portion of an array and replace it with something else?",
+        "options": [
+            {
+                "text": "array_splice()",
+                "value": "a"
+            },
+            {
+                "text": "splice()",
+                "value": "b"
+            },
+            {
+                "text": "array_replace()",
+                "value": "c"
+            },
+            {
+                "text": "replace()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the array_fill() function?",
+        "options": [
+            {
+                "text": "To fill an array with values",
+                "value": "a"
+            },
+            {
+                "text": "To create an array with repeated values",
+                "value": "b"
+            },
+            {
+                "text": "To initialize an array",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to create an array containing a range of elements?",
+        "options": [
+            {
+                "text": "range()",
+                "value": "a"
+            },
+            {
+                "text": "array_range()",
+                "value": "b"
+            },
+            {
+                "text": "create_range()",
+                "value": "c"
+            },
+            {
+                "text": "make_range()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo 1 + '2a'; ?",
+        "options": [
+            {
+                "text": "3",
+                "value": "a"
+            },
+            {
+                "text": "12a",
+                "value": "b"
+            },
+            {
+                "text": "1a",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to apply a user-defined function to every element of an array?",
+        "options": [
+            {
+                "text": "array_walk()",
+                "value": "a"
+            },
+            {
+                "text": "walk()",
+                "value": "b"
+            },
+            {
+                "text": "array_map()",
+                "value": "c"
+            },
+            {
+                "text": "map()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_combine() function?",
+        "options": [
+            {
+                "text": "To create an array by using one array for keys and another for its values",
+                "value": "a"
+            },
+            {
+                "text": "To combine two arrays",
+                "value": "b"
+            },
+            {
+                "text": "To merge arrays",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function is used to count all elements in an array?",
+        "options": [
+            {
+                "text": "count()",
+                "value": "a"
+            },
+            {
+                "text": "sizeof()",
+                "value": "b"
+            },
+            {
+                "text": "array_count()",
+                "value": "c"
+            },
+            {
+                "text": "Both a and b",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the output of echo 1 + 'a2'; ?",
+        "options": [
+            {
+                "text": "1",
+                "value": "a"
+            },
+            {
+                "text": "1a2",
+                "value": "b"
+            },
+            {
+                "text": "3",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to calculate the product of values in an array?",
+        "options": [
+            {
+                "text": "array_product()",
+                "value": "a"
+            },
+            {
+                "text": "product()",
+                "value": "b"
+            },
+            {
+                "text": "array_multiply()",
+                "value": "c"
+            },
+            {
+                "text": "multiply()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the purpose of the array_chunk() function?",
+        "options": [
+            {
+                "text": "To split an array into chunks",
+                "value": "a"
+            },
+            {
+                "text": "To divide an array",
+                "value": "b"
+            },
+            {
+                "text": "To create subarrays",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to get a random key from an array?",
+        "options": [
+            {
+                "text": "array_rand()",
+                "value": "a"
+            },
+            {
+                "text": "rand_key()",
+                "value": "b"
+            },
+            {
+                "text": "random_key()",
+                "value": "c"
+            },
+            {
+                "text": "key_rand()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the output of echo '1' + 2 + 3; ?",
+        "options": [
+            {
+                "text": "6",
+                "value": "a"
+            },
+            {
+                "text": "123",
+                "value": "b"
+            },
+            {
+                "text": "15",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function is used to check if a variable is a string?",
+        "options": [
+            {
+                "text": "is_string()",
+                "value": "a"
+            },
+            {
+                "text": "string_check()",
+                "value": "b"
+            },
+            {
+                "text": "check_string()",
+                "value": "c"
+            },
+            {
+                "text": "isstring()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the array_column() function?",
+        "options": [
+            {
+                "text": "To return the values from a single column in the input array",
+                "value": "a"
+            },
+            {
+                "text": "To extract a column from an array",
+                "value": "b"
+            },
+            {
+                "text": "To get specific values",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to check if a variable is an integer?",
+        "options": [
+            {
+                "text": "is_int()",
+                "value": "a"
+            },
+            {
+                "text": "int_check()",
+                "value": "b"
+            },
+            {
+                "text": "check_int()",
+                "value": "c"
+            },
+            {
+                "text": "isinteger()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of echo 1 + 2 + '3'; ?",
+        "options": [
+            {
+                "text": "6",
+                "value": "a"
+            },
+            {
+                "text": "123",
+                "value": "b"
+            },
+            {
+                "text": "15",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to check if a variable is a float?",
+        "options": [
+            {
+                "text": "is_float()",
+                "value": "a"
+            },
+            {
+                "text": "float_check()",
+                "value": "b"
+            },
+            {
+                "text": "check_float()",
+                "value": "c"
+            },
+            {
+                "text": "isfloat()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the array_change_key_case() function?",
+        "options": [
+            {
+                "text": "To change the case of all keys in an array",
+                "value": "a"
+            },
+            {
+                "text": "To convert keys to uppercase or lowercase",
+                "value": "b"
+            },
+            {
+                "text": "To modify key cases",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function is used to check if a variable is a boolean?",
+        "options": [
+            {
+                "text": "is_bool()",
+                "value": "a"
+            },
+            {
+                "text": "bool_check()",
+                "value": "b"
+            },
+            {
+                "text": "check_bool()",
+                "value": "c"
+            },
+            {
+                "text": "isboolean()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the output of echo '1' + '2' + '3'; ?",
+        "options": [
+            {
+                "text": "6",
+                "value": "a"
+            },
+            {
+                "text": "123",
+                "value": "b"
+            },
+            {
+                "text": "15",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to check if a variable is null?",
+        "options": [
+            {
+                "text": "is_null()",
+                "value": "a"
+            },
+            {
+                "text": "null_check()",
+                "value": "b"
+            },
+            {
+                "text": "check_null()",
+                "value": "c"
+            },
+            {
+                "text": "isnull()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the purpose of the array_count_values() function?",
+        "options": [
+            {
+                "text": "To count all the values of an array",
+                "value": "a"
+            },
+            {
+                "text": "To get frequency of values",
+                "value": "b"
+            },
+            {
+                "text": "To count occurrences",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which function is used to check if a variable is numeric?",
+        "options": [
+            {
+                "text": "is_numeric()",
+                "value": "a"
+            },
+            {
+                "text": "numeric_check()",
+                "value": "b"
+            },
+            {
+                "text": "check_numeric()",
+                "value": "c"
+            },
+            {
+                "text": "isnumber()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the output of echo 1 + 2 + 3 + '4'; ?",
+        "options": [
+            {
+                "text": "10",
+                "value": "a"
+            },
+            {
+                "text": "1234",
+                "value": "b"
+            },
+            {
+                "text": "6",
+                "value": "c"
+            },
+            {
+                "text": "Error",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which function is used to check if a variable is callable?",
+        "options": [
+            {
+                "text": "is_callable()",
+                "value": "a"
+            },
+            {
+                "text": "callable_check()",
+                "value": "b"
+            },
+            {
+                "text": "check_callable()",
+                "value": "c"
+            },
+            {
+                "text": "iscallable()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the array_fill_keys() function?",
+        "options": [
+            {
+                "text": "To fill an array with values, specifying keys",
+                "value": "a"
+            },
+            {
+                "text": "To create an array with specific keys and values",
+                "value": "b"
+            },
+            {
+                "text": "To initialize an array with keys",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which function is used to check if a variable is an object?",
+        "options": [
+            {
+                "text": "is_object()",
+                "value": "a"
+            },
+            {
+                "text": "object_check()",
+                "value": "b"
+            },
+            {
+                "text": "check_object()",
+                "value": "c"
+            },
+            {
+                "text": "isobject()",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    }
+]

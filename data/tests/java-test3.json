@@ -1,0 +1,2202 @@
+[
+    {
+        "text": "Which method is used to convert a string to an integer?",
+        "options": [
+            {
+                "text": "Integer.parseInt()",
+                "value": "a"
+            },
+            {
+                "text": "String.toInt()",
+                "value": "b"
+            },
+            {
+                "text": "Integer.valueOf()",
+                "value": "c"
+            },
+            {
+                "text": "String.parseInt()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the 'finalize' method?",
+        "options": [
+            {
+                "text": "To clean up resources before an object is garbage collected",
+                "value": "a"
+            },
+            {
+                "text": "To initialize final variables",
+                "value": "b"
+            },
+            {
+                "text": "To prevent method overriding",
+                "value": "c"
+            },
+            {
+                "text": "To make a class final",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is not a valid type of variable in Java?",
+        "options": [
+            {
+                "text": "Local variable",
+                "value": "a"
+            },
+            {
+                "text": "Instance variable",
+                "value": "b"
+            },
+            {
+                "text": "Global variable",
+                "value": "c"
+            },
+            {
+                "text": "Class variable",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the output of: System.out.println(\"Hello\".substring(1, 3));",
+        "options": [
+            {
+                "text": "He",
+                "value": "a"
+            },
+            {
+                "text": "el",
+                "value": "b"
+            },
+            {
+                "text": "ll",
+                "value": "c"
+            },
+            {
+                "text": "lo",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which keyword is used to create a package?",
+        "options": [
+            {
+                "text": "package",
+                "value": "a"
+            },
+            {
+                "text": "import",
+                "value": "b"
+            },
+            {
+                "text": "class",
+                "value": "c"
+            },
+            {
+                "text": "static",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the 'volatile' keyword?",
+        "options": [
+            {
+                "text": "To indicate that a variable may change asynchronously",
+                "value": "a"
+            },
+            {
+                "text": "To make a variable constant",
+                "value": "b"
+            },
+            {
+                "text": "To prevent thread interference",
+                "value": "c"
+            },
+            {
+                "text": "To allow variable overriding",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is not a valid way to create a thread-safe class?",
+        "options": [
+            {
+                "text": "Using synchronized methods",
+                "value": "a"
+            },
+            {
+                "text": "Using volatile variables",
+                "value": "b"
+            },
+            {
+                "text": "Using the Thread class",
+                "value": "c"
+            },
+            {
+                "text": "Using the Runnable interface",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of: System.out.println(1 + 2 + \"3\" + 4 + 5);",
+        "options": [
+            {
+                "text": "3345",
+                "value": "a"
+            },
+            {
+                "text": "12345",
+                "value": "b"
+            },
+            {
+                "text": "3345",
+                "value": "c"
+            },
+            {
+                "text": "12345",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to start a thread?",
+        "options": [
+            {
+                "text": "run()",
+                "value": "a"
+            },
+            {
+                "text": "start()",
+                "value": "b"
+            },
+            {
+                "text": "execute()",
+                "value": "c"
+            },
+            {
+                "text": "begin()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the 'transient' keyword?",
+        "options": [
+            {
+                "text": "To indicate that a variable should not be serialized",
+                "value": "a"
+            },
+            {
+                "text": "To make a variable temporary",
+                "value": "b"
+            },
+            {
+                "text": "To prevent variable initialization",
+                "value": "c"
+            },
+            {
+                "text": "To allow variable transmission",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is not a valid annotation in Java?",
+        "options": [
+            {
+                "text": "@Override",
+                "value": "a"
+            },
+            {
+                "text": "@Deprecated",
+                "value": "b"
+            },
+            {
+                "text": "@SuppressWarnings",
+                "value": "c"
+            },
+            {
+                "text": "@Function",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of: System.out.println(9 / 2);",
+        "options": [
+            {
+                "text": "4",
+                "value": "a"
+            },
+            {
+                "text": "4.5",
+                "value": "b"
+            },
+            {
+                "text": "4.0",
+                "value": "c"
+            },
+            {
+                "text": "5",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to generate a random number?",
+        "options": [
+            {
+                "text": "Math.random()",
+                "value": "a"
+            },
+            {
+                "text": "Random.nextInt()",
+                "value": "b"
+            },
+            {
+                "text": "Both a and b",
+                "value": "c"
+            },
+            {
+                "text": "Neither a nor b",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the 'assert' keyword?",
+        "options": [
+            {
+                "text": "To test assumptions about the program",
+                "value": "a"
+            },
+            {
+                "text": "To throw an exception",
+                "value": "b"
+            },
+            {
+                "text": "To check for null values",
+                "value": "c"
+            },
+            {
+                "text": "To create assertions",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is not a valid way to create a string?",
+        "options": [
+            {
+                "text": "String s = \"Hello\";",
+                "value": "a"
+            },
+            {
+                "text": "String s = new String(\"Hello\");",
+                "value": "b"
+            },
+            {
+                "text": "String s = new String();",
+                "value": "c"
+            },
+            {
+                "text": "String s = String.create(\"Hello\");",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the output of: System.out.println(\"Hello\".toUpperCase());",
+        "options": [
+            {
+                "text": "HELLO",
+                "value": "a"
+            },
+            {
+                "text": "hello",
+                "value": "b"
+            },
+            {
+                "text": "Hello",
+                "value": "c"
+            },
+            {
+                "text": "Compilation error",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which keyword is used to return a value from a method?",
+        "options": [
+            {
+                "text": "return",
+                "value": "a"
+            },
+            {
+                "text": "void",
+                "value": "b"
+            },
+            {
+                "text": "break",
+                "value": "c"
+            },
+            {
+                "text": "exit",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the 'strictfp' keyword?",
+        "options": [
+            {
+                "text": "To ensure floating-point calculations are platform-independent",
+                "value": "a"
+            },
+            {
+                "text": "To make floating-point calculations faster",
+                "value": "b"
+            },
+            {
+                "text": "To restrict floating-point precision",
+                "value": "c"
+            },
+            {
+                "text": "To allow floating-point operations",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is not a valid Java feature?",
+        "options": [
+            {
+                "text": "Platform independence",
+                "value": "a"
+            },
+            {
+                "text": "Object-oriented programming",
+                "value": "b"
+            },
+            {
+                "text": "Pointer arithmetic",
+                "value": "c"
+            },
+            {
+                "text": "Automatic memory management",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the primary difference between Java applications and applets?",
+        "options": [
+            {
+                "text": "Applications run in a browser, applets run standalone",
+                "value": "a"
+            },
+            {
+                "text": "Applets run in a browser, applications run standalone",
+                "value": "b"
+            },
+            {
+                "text": "Applications are written in Java, applets are not",
+                "value": "c"
+            },
+            {
+                "text": "Applets are faster than applications",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which HTML tag is used to embed a Java applet in a web page?",
+        "options": [
+            {
+                "text": "<APPLET>",
+                "value": "a"
+            },
+            {
+                "text": "<JAVA>",
+                "value": "b"
+            },
+            {
+                "text": "<EMBED>",
+                "value": "c"
+            },
+            {
+                "text": "<OBJECT>",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What attributes are required in the <APPLET> tag?",
+        "options": [
+            {
+                "text": "CODE, WIDTH, HEIGHT",
+                "value": "a"
+            },
+            {
+                "text": "NAME, CODE, SIZE",
+                "value": "b"
+            },
+            {
+                "text": "CLASS, WIDTH, HEIGHT",
+                "value": "c"
+            },
+            {
+                "text": "CODEBASE, NAME, SIZE",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is called first when an applet is loaded?",
+        "options": [
+            {
+                "text": "start()",
+                "value": "a"
+            },
+            {
+                "text": "init()",
+                "value": "b"
+            },
+            {
+                "text": "paint()",
+                "value": "c"
+            },
+            {
+                "text": "run()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the paint() method in an applet?",
+        "options": [
+            {
+                "text": "To initialize the applet",
+                "value": "a"
+            },
+            {
+                "text": "To draw graphics on the screen",
+                "value": "b"
+            },
+            {
+                "text": "To start the applet execution",
+                "value": "c"
+            },
+            {
+                "text": "To handle user input",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which class must an applet extend?",
+        "options": [
+            {
+                "text": "JavaApplet",
+                "value": "a"
+            },
+            {
+                "text": "Applet",
+                "value": "b"
+            },
+            {
+                "text": "JApplet",
+                "value": "c"
+            },
+            {
+                "text": "Application",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the CODEBASE attribute in the <APPLET> tag?",
+        "options": [
+            {
+                "text": "To specify the name of the applet class",
+                "value": "a"
+            },
+            {
+                "text": "To specify the directory where the applet code is located",
+                "value": "b"
+            },
+            {
+                "text": "To set the width of the applet",
+                "value": "c"
+            },
+            {
+                "text": "To set the height of the applet",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which method is called when an applet is terminated?",
+        "options": [
+            {
+                "text": "stop()",
+                "value": "a"
+            },
+            {
+                "text": "destroy()",
+                "value": "b"
+            },
+            {
+                "text": "exit()",
+                "value": "c"
+            },
+            {
+                "text": "end()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the default layout manager for an applet?",
+        "options": [
+            {
+                "text": "BorderLayout",
+                "value": "a"
+            },
+            {
+                "text": "FlowLayout",
+                "value": "b"
+            },
+            {
+                "text": "GridLayout",
+                "value": "c"
+            },
+            {
+                "text": "CardLayout",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which package contains the Applet class?",
+        "options": [
+            {
+                "text": "java.applet",
+                "value": "a"
+            },
+            {
+                "text": "java.awt",
+                "value": "b"
+            },
+            {
+                "text": "java.swing",
+                "value": "c"
+            },
+            {
+                "text": "java.lang",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the getParameter() method in applets?",
+        "options": [
+            {
+                "text": "To get system parameters",
+                "value": "a"
+            },
+            {
+                "text": "To get parameters passed from the HTML page",
+                "value": "b"
+            },
+            {
+                "text": "To get method parameters",
+                "value": "c"
+            },
+            {
+                "text": "To get class parameters",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which method is used to display text in an applet?",
+        "options": [
+            {
+                "text": "drawText()",
+                "value": "a"
+            },
+            {
+                "text": "drawString()",
+                "value": "b"
+            },
+            {
+                "text": "showText()",
+                "value": "c"
+            },
+            {
+                "text": "displayText()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the update() method in applets?",
+        "options": [
+            {
+                "text": "To update the applet's state",
+                "value": "a"
+            },
+            {
+                "text": "To clear the screen and call paint()",
+                "value": "b"
+            },
+            {
+                "text": "To update parameters",
+                "value": "c"
+            },
+            {
+                "text": "To refresh the display",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which class is used to handle graphics in applets?",
+        "options": [
+            {
+                "text": "Graphics",
+                "value": "a"
+            },
+            {
+                "text": "Draw",
+                "value": "b"
+            },
+            {
+                "text": "Canvas",
+                "value": "c"
+            },
+            {
+                "text": "Image",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is double buffering used for in applets?",
+        "options": [
+            {
+                "text": "To improve security",
+                "value": "a"
+            },
+            {
+                "text": "To reduce flickering in animations",
+                "value": "b"
+            },
+            {
+                "text": "To increase speed",
+                "value": "c"
+            },
+            {
+                "text": "To handle double clicks",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which method is used to load images in an applet?",
+        "options": [
+            {
+                "text": "loadImage()",
+                "value": "a"
+            },
+            {
+                "text": "getImage()",
+                "value": "b"
+            },
+            {
+                "text": "fetchImage()",
+                "value": "c"
+            },
+            {
+                "text": "loadPicture()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the MediaTracker class in applets?",
+        "options": [
+            {
+                "text": "To track media files",
+                "value": "a"
+            },
+            {
+                "text": "To track loading of images and other media",
+                "value": "b"
+            },
+            {
+                "text": "To play media files",
+                "value": "c"
+            },
+            {
+                "text": "To manage media resources",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which method is used to play audio in an applet?",
+        "options": [
+            {
+                "text": "playAudio()",
+                "value": "a"
+            },
+            {
+                "text": "play()",
+                "value": "b"
+            },
+            {
+                "text": "sound()",
+                "value": "c"
+            },
+            {
+                "text": "audioPlay()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the init() method in an applet?",
+        "options": [
+            {
+                "text": "To initialize the applet's variables",
+                "value": "a"
+            },
+            {
+                "text": "To start the applet's execution",
+                "value": "b"
+            },
+            {
+                "text": "To paint the applet",
+                "value": "c"
+            },
+            {
+                "text": "To handle user input",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is called when an applet becomes visible?",
+        "options": [
+            {
+                "text": "init()",
+                "value": "a"
+            },
+            {
+                "text": "start()",
+                "value": "b"
+            },
+            {
+                "text": "paint()",
+                "value": "c"
+            },
+            {
+                "text": "show()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the stop() method in an applet?",
+        "options": [
+            {
+                "text": "To stop the applet's execution",
+                "value": "a"
+            },
+            {
+                "text": "To pause the applet when it's not visible",
+                "value": "b"
+            },
+            {
+                "text": "To terminate the applet",
+                "value": "c"
+            },
+            {
+                "text": "To hide the applet",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which class is used to handle events in applets?",
+        "options": [
+            {
+                "text": "Event",
+                "value": "a"
+            },
+            {
+                "text": "ActionEvent",
+                "value": "b"
+            },
+            {
+                "text": "AWTEvent",
+                "value": "c"
+            },
+            {
+                "text": "EventObject",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the repaint() method in applets?",
+        "options": [
+            {
+                "text": "To repaint the entire applet",
+                "value": "a"
+            },
+            {
+                "text": "To request a repaint of the applet",
+                "value": "b"
+            },
+            {
+                "text": "To refresh the screen",
+                "value": "c"
+            },
+            {
+                "text": "To update the graphics",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which method is used to handle mouse clicks in applets?",
+        "options": [
+            {
+                "text": "mouseClick()",
+                "value": "a"
+            },
+            {
+                "text": "mousePressed()",
+                "value": "b"
+            },
+            {
+                "text": "handleMouse()",
+                "value": "c"
+            },
+            {
+                "text": "clickMouse()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the getCodeBase() method in applets?",
+        "options": [
+            {
+                "text": "To get the base URL of the applet",
+                "value": "a"
+            },
+            {
+                "text": "To get the code base directory",
+                "value": "b"
+            },
+            {
+                "text": "To get the applet's code",
+                "value": "c"
+            },
+            {
+                "text": "To get the document base",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to get the document base of an applet?",
+        "options": [
+            {
+                "text": "getDocumentBase()",
+                "value": "a"
+            },
+            {
+                "text": "getBase()",
+                "value": "b"
+            },
+            {
+                "text": "getDocBase()",
+                "value": "c"
+            },
+            {
+                "text": "getPageBase()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the showStatus() method in applets?",
+        "options": [
+            {
+                "text": "To show the applet's status",
+                "value": "a"
+            },
+            {
+                "text": "To display a message in the browser's status bar",
+                "value": "b"
+            },
+            {
+                "text": "To show the applet's state",
+                "value": "c"
+            },
+            {
+                "text": "To display status information",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which method is used to resize an applet?",
+        "options": [
+            {
+                "text": "setSize()",
+                "value": "a"
+            },
+            {
+                "text": "resize()",
+                "value": "b"
+            },
+            {
+                "text": "changeSize()",
+                "value": "c"
+            },
+            {
+                "text": "adjustSize()",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the getAppletInfo() method?",
+        "options": [
+            {
+                "text": "To get information about the applet",
+                "value": "a"
+            },
+            {
+                "text": "To return information about the applet",
+                "value": "b"
+            },
+            {
+                "text": "To get system information",
+                "value": "c"
+            },
+            {
+                "text": "To return applet parameters",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which method is used to get a reference to an applet by name?",
+        "options": [
+            {
+                "text": "getApplet()",
+                "value": "a"
+            },
+            {
+                "text": "getAppletByName()",
+                "value": "b"
+            },
+            {
+                "text": "findApplet()",
+                "value": "c"
+            },
+            {
+                "text": "locateApplet()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the getAppletContext() method?",
+        "options": [
+            {
+                "text": "To get the applet's context",
+                "value": "a"
+            },
+            {
+                "text": "To get the applet's environment",
+                "value": "b"
+            },
+            {
+                "text": "To get the browser context",
+                "value": "c"
+            },
+            {
+                "text": "To get the applet's container",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which interface is used for applets that need to run in a thread?",
+        "options": [
+            {
+                "text": "Runnable",
+                "value": "a"
+            },
+            {
+                "text": "Threadable",
+                "value": "b"
+            },
+            {
+                "text": "Executable",
+                "value": "c"
+            },
+            {
+                "text": "RunnableApplet",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the run() method in a threaded applet?",
+        "options": [
+            {
+                "text": "To execute the applet's main logic",
+                "value": "a"
+            },
+            {
+                "text": "To run the applet in a separate thread",
+                "value": "b"
+            },
+            {
+                "text": "To start the applet",
+                "value": "c"
+            },
+            {
+                "text": "To handle threading",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to create a thread in an applet?",
+        "options": [
+            {
+                "text": "new Thread()",
+                "value": "a"
+            },
+            {
+                "text": "createThread()",
+                "value": "b"
+            },
+            {
+                "text": "makeThread()",
+                "value": "c"
+            },
+            {
+                "text": "buildThread()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the suspend() method in applet threading?",
+        "options": [
+            {
+                "text": "To temporarily stop a thread",
+                "value": "a"
+            },
+            {
+                "text": "To pause thread execution",
+                "value": "b"
+            },
+            {
+                "text": "To suspend the applet",
+                "value": "c"
+            },
+            {
+                "text": "To halt thread execution",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to resume a suspended thread?",
+        "options": [
+            {
+                "text": "resume()",
+                "value": "a"
+            },
+            {
+                "text": "continue()",
+                "value": "b"
+            },
+            {
+                "text": "restart()",
+                "value": "c"
+            },
+            {
+                "text": "start()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the yield() method in threading?",
+        "options": [
+            {
+                "text": "To yield CPU time to other threads",
+                "value": "a"
+            },
+            {
+                "text": "To stop the thread",
+                "value": "b"
+            },
+            {
+                "text": "To pause the thread",
+                "value": "c"
+            },
+            {
+                "text": "To exit the thread",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to check if a thread is alive?",
+        "options": [
+            {
+                "text": "isAlive()",
+                "value": "a"
+            },
+            {
+                "text": "isRunning()",
+                "value": "b"
+            },
+            {
+                "text": "checkAlive()",
+                "value": "c"
+            },
+            {
+                "text": "threadAlive()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the join() method in threading?",
+        "options": [
+            {
+                "text": "To wait for a thread to die",
+                "value": "a"
+            },
+            {
+                "text": "To join two threads",
+                "value": "b"
+            },
+            {
+                "text": "To combine threads",
+                "value": "c"
+            },
+            {
+                "text": "To merge threads",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which exception is thrown when a thread is interrupted?",
+        "options": [
+            {
+                "text": "InterruptedException",
+                "value": "a"
+            },
+            {
+                "text": "ThreadException",
+                "value": "b"
+            },
+            {
+                "text": "InterruptException",
+                "value": "c"
+            },
+            {
+                "text": "ThreadInterruptedException",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the synchronized keyword in threading?",
+        "options": [
+            {
+                "text": "To prevent thread interference",
+                "value": "a"
+            },
+            {
+                "text": "To synchronize threads",
+                "value": "b"
+            },
+            {
+                "text": "To make methods thread-safe",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which class is used to handle synchronization?",
+        "options": [
+            {
+                "text": "Synchronized",
+                "value": "a"
+            },
+            {
+                "text": "Lock",
+                "value": "b"
+            },
+            {
+                "text": "Object",
+                "value": "c"
+            },
+            {
+                "text": "Monitor",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of the wait() method in threading?",
+        "options": [
+            {
+                "text": "To make a thread wait",
+                "value": "a"
+            },
+            {
+                "text": "To wait for notification",
+                "value": "b"
+            },
+            {
+                "text": "To pause thread execution",
+                "value": "c"
+            },
+            {
+                "text": "To halt the thread",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which method is used to notify a waiting thread?",
+        "options": [
+            {
+                "text": "notify()",
+                "value": "a"
+            },
+            {
+                "text": "signal()",
+                "value": "b"
+            },
+            {
+                "text": "wake()",
+                "value": "c"
+            },
+            {
+                "text": "alert()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the notifyAll() method?",
+        "options": [
+            {
+                "text": "To notify all waiting threads",
+                "value": "a"
+            },
+            {
+                "text": "To wake up all threads",
+                "value": "b"
+            },
+            {
+                "text": "To signal all threads",
+                "value": "c"
+            },
+            {
+                "text": "To alert all threads",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which interface is used for implementing threads in applets?",
+        "options": [
+            {
+                "text": "Runnable",
+                "value": "a"
+            },
+            {
+                "text": "Thread",
+                "value": "b"
+            },
+            {
+                "text": "Run",
+                "value": "c"
+            },
+            {
+                "text": "Execute",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the start() method in threading?",
+        "options": [
+            {
+                "text": "To start thread execution",
+                "value": "a"
+            },
+            {
+                "text": "To begin the thread",
+                "value": "b"
+            },
+            {
+                "text": "To launch the thread",
+                "value": "c"
+            },
+            {
+                "text": "To initiate thread execution",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to set a thread's priority?",
+        "options": [
+            {
+                "text": "setPriority()",
+                "value": "a"
+            },
+            {
+                "text": "priority()",
+                "value": "b"
+            },
+            {
+                "text": "changePriority()",
+                "value": "c"
+            },
+            {
+                "text": "adjustPriority()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the getPriority() method?",
+        "options": [
+            {
+                "text": "To get a thread's priority",
+                "value": "a"
+            },
+            {
+                "text": "To check thread priority",
+                "value": "b"
+            },
+            {
+                "text": "To retrieve priority level",
+                "value": "c"
+            },
+            {
+                "text": "To examine thread priority",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to set a thread's name?",
+        "options": [
+            {
+                "text": "setName()",
+                "value": "a"
+            },
+            {
+                "text": "name()",
+                "value": "b"
+            },
+            {
+                "text": "changeName()",
+                "value": "c"
+            },
+            {
+                "text": "adjustName()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the getName() method?",
+        "options": [
+            {
+                "text": "To get a thread's name",
+                "value": "a"
+            },
+            {
+                "text": "To retrieve thread name",
+                "value": "b"
+            },
+            {
+                "text": "To check thread name",
+                "value": "c"
+            },
+            {
+                "text": "To examine thread name",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to make a thread sleep?",
+        "options": [
+            {
+                "text": "sleep()",
+                "value": "a"
+            },
+            {
+                "text": "wait()",
+                "value": "b"
+            },
+            {
+                "text": "pause()",
+                "value": "c"
+            },
+            {
+                "text": "rest()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the interrupt() method?",
+        "options": [
+            {
+                "text": "To interrupt a thread",
+                "value": "a"
+            },
+            {
+                "text": "To stop a thread",
+                "value": "b"
+            },
+            {
+                "text": "To halt a thread",
+                "value": "c"
+            },
+            {
+                "text": "To pause a thread",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to check if a thread is interrupted?",
+        "options": [
+            {
+                "text": "isInterrupted()",
+                "value": "a"
+            },
+            {
+                "text": "interrupted()",
+                "value": "b"
+            },
+            {
+                "text": "checkInterrupted()",
+                "value": "c"
+            },
+            {
+                "text": "Both a and b",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the purpose of the setDaemon() method?",
+        "options": [
+            {
+                "text": "To set a thread as a daemon thread",
+                "value": "a"
+            },
+            {
+                "text": "To make a thread a background thread",
+                "value": "b"
+            },
+            {
+                "text": "To set thread as daemon",
+                "value": "c"
+            },
+            {
+                "text": "All of the above",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "Which method is used to check if a thread is a daemon?",
+        "options": [
+            {
+                "text": "isDaemon()",
+                "value": "a"
+            },
+            {
+                "text": "daemon()",
+                "value": "b"
+            },
+            {
+                "text": "checkDaemon()",
+                "value": "c"
+            },
+            {
+                "text": "isDaemonThread()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the activeCount() method?",
+        "options": [
+            {
+                "text": "To count active threads",
+                "value": "a"
+            },
+            {
+                "text": "To get the number of active threads",
+                "value": "b"
+            },
+            {
+                "text": "To check thread activity",
+                "value": "c"
+            },
+            {
+                "text": "To count running threads",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which method is used to get the current thread?",
+        "options": [
+            {
+                "text": "currentThread()",
+                "value": "a"
+            },
+            {
+                "text": "getCurrentThread()",
+                "value": "b"
+            },
+            {
+                "text": "thisThread()",
+                "value": "c"
+            },
+            {
+                "text": "getThread()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the dumpStack() method?",
+        "options": [
+            {
+                "text": "To print a stack trace",
+                "value": "a"
+            },
+            {
+                "text": "To dump the stack",
+                "value": "b"
+            },
+            {
+                "text": "To show the stack",
+                "value": "c"
+            },
+            {
+                "text": "To display stack information",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to enumerate threads?",
+        "options": [
+            {
+                "text": "enumerate()",
+                "value": "a"
+            },
+            {
+                "text": "listThreads()",
+                "value": "b"
+            },
+            {
+                "text": "getThreads()",
+                "value": "c"
+            },
+            {
+                "text": "showThreads()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the holdLock() method?",
+        "options": [
+            {
+                "text": "To check if a thread holds a lock",
+                "value": "a"
+            },
+            {
+                "text": "To verify lock ownership",
+                "value": "b"
+            },
+            {
+                "text": "To check lock status",
+                "value": "c"
+            },
+            {
+                "text": "To examine lock possession",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to get all stack traces?",
+        "options": [
+            {
+                "text": "getAllStackTraces()",
+                "value": "a"
+            },
+            {
+                "text": "getStackTraces()",
+                "value": "b"
+            },
+            {
+                "text": "allStackTraces()",
+                "value": "c"
+            },
+            {
+                "text": "stackTraces()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the getState() method?",
+        "options": [
+            {
+                "text": "To get a thread's state",
+                "value": "a"
+            },
+            {
+                "text": "To check thread state",
+                "value": "b"
+            },
+            {
+                "text": "To retrieve state information",
+                "value": "c"
+            },
+            {
+                "text": "To examine thread status",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to get a thread's ID?",
+        "options": [
+            {
+                "text": "getId()",
+                "value": "a"
+            },
+            {
+                "text": "getThreadId()",
+                "value": "b"
+            },
+            {
+                "text": "id()",
+                "value": "c"
+            },
+            {
+                "text": "threadId()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the getThreadGroup() method?",
+        "options": [
+            {
+                "text": "To get a thread's group",
+                "value": "a"
+            },
+            {
+                "text": "To retrieve thread group information",
+                "value": "b"
+            },
+            {
+                "text": "To check thread membership",
+                "value": "c"
+            },
+            {
+                "text": "To examine thread grouping",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to get a thread's context class loader?",
+        "options": [
+            {
+                "text": "getContextClassLoader()",
+                "value": "a"
+            },
+            {
+                "text": "getClassLoader()",
+                "value": "b"
+            },
+            {
+                "text": "contextClassLoader()",
+                "value": "c"
+            },
+            {
+                "text": "classLoader()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the setContextClassLoader() method?",
+        "options": [
+            {
+                "text": "To set a thread's context class loader",
+                "value": "a"
+            },
+            {
+                "text": "To change the class loader",
+                "value": "b"
+            },
+            {
+                "text": "To modify the loader",
+                "value": "c"
+            },
+            {
+                "text": "To adjust the class loader",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to get a thread's uncaught exception handler?",
+        "options": [
+            {
+                "text": "getUncaughtExceptionHandler()",
+                "value": "a"
+            },
+            {
+                "text": "getExceptionHandler()",
+                "value": "b"
+            },
+            {
+                "text": "uncaughtExceptionHandler()",
+                "value": "c"
+            },
+            {
+                "text": "exceptionHandler()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the setUncaughtExceptionHandler() method?",
+        "options": [
+            {
+                "text": "To set a thread's uncaught exception handler",
+                "value": "a"
+            },
+            {
+                "text": "To change exception handling",
+                "value": "b"
+            },
+            {
+                "text": "To modify exception handler",
+                "value": "c"
+            },
+            {
+                "text": "To adjust exception handling",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to get the default uncaught exception handler?",
+        "options": [
+            {
+                "text": "getDefaultUncaughtExceptionHandler()",
+                "value": "a"
+            },
+            {
+                "text": "getDefaultExceptionHandler()",
+                "value": "b"
+            },
+            {
+                "text": "defaultUncaughtExceptionHandler()",
+                "value": "c"
+            },
+            {
+                "text": "defaultExceptionHandler()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the setDefaultUncaughtExceptionHandler() method?",
+        "options": [
+            {
+                "text": "To set the default uncaught exception handler",
+                "value": "a"
+            },
+            {
+                "text": "To change default exception handling",
+                "value": "b"
+            },
+            {
+                "text": "To modify default handler",
+                "value": "c"
+            },
+            {
+                "text": "To adjust default exception handling",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the primary security restriction placed on Java applets?",
+        "options": [
+            {
+                "text": "They cannot read or write to the local disk",
+                "value": "a"
+            },
+            {
+                "text": "They cannot connect to any network",
+                "value": "b"
+            },
+            {
+                "text": "They cannot display graphics",
+                "value": "c"
+            },
+            {
+                "text": "They cannot use threads",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which Java feature ensures that applets cannot execute programs on the local system?",
+        "options": [
+            {
+                "text": "Bytecode verification",
+                "value": "a"
+            },
+            {
+                "text": "Security manager",
+                "value": "b"
+            },
+            {
+                "text": "Garbage collection",
+                "value": "c"
+            },
+            {
+                "text": "Exception handling",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the purpose of the CODEBASE attribute in the <APPLET> tag?",
+        "options": [
+            {
+                "text": "To specify the directory where the applet class files are stored",
+                "value": "a"
+            },
+            {
+                "text": "To name the main applet class",
+                "value": "b"
+            },
+            {
+                "text": "To set the applet's width and height",
+                "value": "c"
+            },
+            {
+                "text": "To pass parameters to the applet",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is used to retrieve parameters passed from an HTML page to an applet?",
+        "options": [
+            {
+                "text": "getParameter()",
+                "value": "a"
+            },
+            {
+                "text": "getAttribute()",
+                "value": "b"
+            },
+            {
+                "text": "getValue()",
+                "value": "c"
+            },
+            {
+                "text": "getParam()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the main advantage of using threads in Java applets?",
+        "options": [
+            {
+                "text": "To perform multiple operations simultaneously without freezing the user interface",
+                "value": "a"
+            },
+            {
+                "text": "To make applets run faster",
+                "value": "b"
+            },
+            {
+                "text": "To improve security",
+                "value": "c"
+            },
+            {
+                "text": "To reduce memory usage",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which Java class is used to draw graphics in an applet?",
+        "options": [
+            {
+                "text": "Graphics",
+                "value": "a"
+            },
+            {
+                "text": "Draw",
+                "value": "b"
+            },
+            {
+                "text": "Canvas",
+                "value": "c"
+            },
+            {
+                "text": "Painter",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the purpose of the repaint() method in Java applets?",
+        "options": [
+            {
+                "text": "To request that the applet be redrawn",
+                "value": "a"
+            },
+            {
+                "text": "To change the applet's color scheme",
+                "value": "b"
+            },
+            {
+                "text": "To reload the applet from the server",
+                "value": "c"
+            },
+            {
+                "text": "To reset the applet's parameters",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which method is called automatically when an applet needs to be displayed or redisplayed?",
+        "options": [
+            {
+                "text": "paint()",
+                "value": "a"
+            },
+            {
+                "text": "draw()",
+                "value": "b"
+            },
+            {
+                "text": "show()",
+                "value": "c"
+            },
+            {
+                "text": "display()",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the primary difference between applications and applets in Java?",
+        "options": [
+            {
+                "text": "Applications run standalone, applets run in a browser",
+                "value": "a"
+            },
+            {
+                "text": "Applications are faster than applets",
+                "value": "b"
+            },
+            {
+                "text": "Applets can use graphics but applications cannot",
+                "value": "c"
+            },
+            {
+                "text": "Applications require a main() method but applets do not",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which Java feature allows applets to be platform-independent?",
+        "options": [
+            {
+                "text": "Bytecode and Java Virtual Machine",
+                "value": "a"
+            },
+            {
+                "text": "The Java compiler",
+                "value": "b"
+            },
+            {
+                "text": "Java class libraries",
+                "value": "c"
+            },
+            {
+                "text": "The HTML <APPLET> tag",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    }
+]

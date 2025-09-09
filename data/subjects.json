@@ -1,0 +1,322 @@
+[ 
+    {
+        "id": "graphic-design",
+        "name": "Graphic Design",
+        "icon": "fa-palette",
+        "description": "Learn the fundamentals of visual communication and design principles.",
+        "tests": [
+            {
+                "id": "gd-test1",
+                "name": "Step1",
+                "description": "Evaluate your basic design knowledge with this introductory test.",
+                "timeLimit": "30 minutes",
+                "questionCount": 50 
+            },
+            {
+                "id": "gd-test2",
+                "name": "Step2",
+                "description": "Assess your understanding of color principles and applications.",
+                "timeLimit": "45 minutes",
+                "questionCount": 70
+            },
+            {
+                "id": "gd-test3",
+                "name": "Step3",
+                "description": "Test your knowledge of fonts and text layout techniques.",
+                "timeLimit": "70 minutes",
+                "questionCount": 100
+            }
+        ]
+    },
+    {
+        "id": "web-development",
+        "name": "Web Development",
+        "icon": "fa-code",
+        "description": "Master the skills to build modern websites and web applications.",
+        "tests": [
+            {
+                "id": "wd-test1",
+                "name": "Step1",
+                "description": "Test your knowledge of HTML markup language fundamentals.",
+                "timeLimit": "30 minutes",
+                "questionCount": 50
+            },
+            {
+                "id": "wd-test2",
+                "name": "Step2",
+                "description": "Evaluate your CSS skills for styling web pages.",
+                "timeLimit": "45 minutes",
+                "questionCount": 70
+            },
+            {
+                "id": "wd-test3",
+                "name": "Step3",
+                "description": "Assess your understanding of core JavaScript concepts.",
+                "timeLimit": "70 minutes",
+                "questionCount": 100
+            }
+        ]
+    },
+    {
+        "id": "digital-marketing",
+        "name": "Digital Marketing",
+        "icon": "fa-bullhorn",
+        "description": "Learn to promote brands and connect with customers online.",
+        "tests": [
+            {
+                "id": "dm-test1",
+                "name": "Test1",
+                "description": "Test your knowledge of search engine optimization basics.",
+                "timeLimit": "30 minutes",
+                "questionCount": 50
+            },
+            {
+                "id": "dm-test2",
+                "name": "Test2",
+                "description": "Evaluate your understanding of social media strategies.",
+                "timeLimit": "50 minutes",
+                "questionCount": 70
+            },
+            {
+                "id": "dm-test3",
+                "name": "Test3",
+                "description": "Assess your knowledge of creating valuable content.",
+                "timeLimit": "70 minutes",
+                "questionCount": 100
+            }
+        ]
+    },
+    {
+        "id": "rscit",
+        "name": "RS-CIT",
+        "icon": "fa-certificate",
+        "description": "Basic computer knowledge certification course.",
+        "tests": [
+            {
+                "id": "rscit-test1",
+                "name": "Step1",
+                "description": "Test your basic computer knowledge.",
+                "timeLimit": "30 minutes",
+                "questionCount": 50
+            },
+            {
+                "id": "rscit-test2",
+                "name": "Step2",
+                "description": "Evaluate your understanding of internet concepts.",
+                "timeLimit": "45 minutes",
+                "questionCount": 70
+            },
+            {
+                "id": "rscit-test3",
+                "name": "Step3",
+                "description": "Assess your knowledge of office productivity software.",
+                "timeLimit": "70 minutes",
+                "questionCount": 100
+            }
+        ]
+    },
+    {
+        "id": "python-programming",
+        "name": "Python Programming",
+        "icon": "fa-brands fa-python",
+        "description": "Learn the fundamentals of Python programming.",
+        "tests": [
+            {
+                "id": "pp-test1",
+                "name": "Step1",
+                "description": "Test your basic Python knowledge.",
+                "timeLimit": "30 minutes",
+                "questionCount": 50
+            },
+            {
+                "id": "pp-test2",
+                "name": "Step2",
+                "description": "Test your intermediate Python knowledge.",
+                "timeLimit": "45 minutes",
+                "questionCount": 50
+            },
+            {
+                "id": "pp-test3",
+                "name": "Step3",
+                "description": "Test your advanced Python knowledge.",
+                "timeLimit": "70 minutes",
+                "questionCount": 100
+            }
+        ]
+    },
+    {
+        "id": "php",
+        "name": "PHP",
+        "icon": "fa-brands fa-php",
+        "description": "Learn the fundamentals of PHP programming.",
+        "tests": [
+            {
+                "id": "php-test1",
+                "name": "Step1",
+                "description": "Test your basic PHP knowledge.",
+                "timeLimit": "30 minutes",
+                "questionCount": 50
+            },
+            {
+                "id": "php-test2",
+                "name": "Step2",
+                "description": "Test your intermediate PHP knowledge.",
+                "timeLimit": "45 minutes",
+                "questionCount": 70
+            },
+            {
+                "id": "php-test3",
+                "name": "Step3",
+                "description": "Test your advanced PHP knowledge.",
+                "timeLimit": "70 minutes",
+                "questionCount": 100
+            }
+        ]
+    },
+    {
+        "id": "java",
+        "name": "Java",
+        "icon": "fa-brands fa-java",
+        "description": "Learn the fundamentals of Java programming.",
+        "tests": [
+            {
+                "id": "java-test1",
+                "name": "Step1",
+                "description": "Test your basic Java knowledge.",
+                "timeLimit": "30 minutes",
+                "questionCount": 50
+            },
+            {
+                "id": "java-test2",
+                "name": "Step2",
+                "description": "Test your intermediate Java knowledge.",
+                "timeLimit": "45 minutes",
+                "questionCount": 70
+            },
+            {
+                "id": "java-test3",
+                "name": "Step3",
+                "description": "Test your advanced Java knowledge.",
+                "timeLimit": "70 minutes",
+                "questionCount": 100
+            }
+        ]
+    },
+    {
+        "id": "excel",
+        "name": "Excel",
+        "icon": "fa-solid fa-file-excel",
+        "description": "Learn the fundamentals of Microsoft Excel.",
+        "tests": [
+            {
+                "id": "excel-test1",
+                "name": "Step1",
+                "description": "Test your basic Excel knowledge.",
+                "timeLimit": "30 minutes",
+                "questionCount": 50
+            },
+            {
+                "id": "excel-test2",
+                "name": "Step2",
+                "description": "Test your intermediate Excel knowledge.",
+                "timeLimit": "45 minutes",
+                "questionCount": 70
+            },
+            {
+                "id": "excel-test3",
+                "name": "Step3",
+                "description": "Test your advanced Excel knowledge.",
+                "timeLimit": "70 minutes",
+                "questionCount": 100
+            }
+        ]
+    },
+    {
+        "id": "basic-computer",
+        "name": "Basic Computer",
+        "icon": "fa-solid fa-computer",
+        "description": "Learn the fundamentals of computers.",
+        "tests": [
+            {
+                "id": "bc-test1",
+                "name": "Step1",
+                "description": "Test your basic computer knowledge.",
+                "timeLimit": "30 minutes",
+                "questionCount": 50
+            },
+            {
+                "id": "bc-test2",
+                "name": "Step2",
+                "description": "Test your intermediate computer knowledge.",
+                "timeLimit": "45 minutes",
+                "questionCount": 70
+            },
+            {
+                "id": "bc-test3",
+                "name": "Step3",
+                "description": "Test your advanced computer knowledge.",
+                "timeLimit": "70 minutes",
+                "questionCount": 100
+            }
+        ]
+    },
+    {
+        "id": "tally",
+        "name": "Tally",
+        "icon": "fa-solid fa-calculator",
+        "description": "Learn the fundamentals of Tally.",
+        "tests": [
+            {
+                "id": "tally-test1",
+                "name": "Step1",
+                "description": "Test your basic Tally knowledge.",
+                "timeLimit": "30 minutes",
+                "questionCount": 50
+            },
+            {
+                "id": "tally-test2",
+                "name": "Step2",
+                "description": "Test your intermediate Tally knowledge.",
+                "timeLimit": "45 minutes",
+                "questionCount": 70
+            },
+            {
+                "id": "tally-test3",
+                "name": "Step3",
+                "description": "Test your advanced Tally knowledge.",
+                "timeLimit": "70 minutes",
+                "questionCount": 100
+            }
+        ]
+    },
+    {
+        "id": "wordpress",
+        "name": "Wordpress",
+        "icon": "fa-brands fa-wordpress",
+        "description": "Learn the fundamentals of Wordpress.",
+        "tests": [
+            {
+                "id": "wp-test1",
+                "name": "Step1",
+                "description": "Test your basic Wordpress knowledge.",
+                "timeLimit": "30 minutes",
+                "questionCount": 50
+            },
+            {
+                "id": "wp-test2",
+                "name": "Step2",
+                "description": "Test your intermediate Wordpress knowledge.",
+                "timeLimit": "45 minutes",
+                "questionCount": 70
+            },
+            {
+                "id": "wp-test3",
+                "name": "Step3",
+                "description": "Test your advanced Wordpress knowledge.",
+                "timeLimit": "70 minutes",
+                "questionCount": 100
+            }
+        ]
+    }
+    
+]

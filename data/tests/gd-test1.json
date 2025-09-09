@@ -1,0 +1,1102 @@
+[
+    {
+        "text": "What does the acronym 'CMYK' stand for in the context of print design?",
+        "options": [
+            {
+                "text": "Computer, Magenta, Yellow, Keyline",
+                "value": "a"
+            },
+            {
+                "text": "Cyan, Magenta, Yellow, Black (Key)",
+                "value": "b"
+            },
+            {
+                "text": "Color, Mode, Yellow, Black",
+                "value": "c"
+            },
+            {
+                "text": "Creative, Magenta, Yellow, Key",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which color model is primarily used for digital screens like monitors and phones?",
+        "options": [
+            {
+                "text": "CMYK",
+                "value": "a"
+            },
+            {
+                "text": "RAL",
+                "value": "b"
+            },
+            {
+                "text": "Pantone",
+                "value": "c"
+            },
+            {
+                "text": "RGB",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the main characteristic of a vector graphic?",
+        "options": [
+            {
+                "text": "It uses mathematical paths and can be scaled infinitely without losing quality.",
+                "value": "a"
+            },
+            {
+                "text": "It is made of pixels and can become blurry when scaled up.",
+                "value": "b"
+            },
+            {
+                "text": "It is always a photograph.",
+                "value": "c"
+            },
+            {
+                "text": "It has a very large file size.",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which principle of design refers to the equal distribution of visual weight in a composition?",
+        "options": [
+            {
+                "text": "Balance",
+                "value": "a"
+            },
+            {
+                "text": "Contrast",
+                "value": "b"
+            },
+            {
+                "text": "Proximity",
+                "value": "c"
+            },
+            {
+                "text": "Repetition",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "In typography, what is the term for the adjustment of space between two specific characters?",
+        "options": [
+            {
+                "text": "Leading",
+                "value": "a"
+            },
+            {
+                "text": "Tracking",
+                "value": "b"
+            },
+            {
+                "text": "Kerning",
+                "value": "c"
+            },
+            {
+                "text": "Spacing",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the primary purpose of a 'bleed' in a print layout?",
+        "options": [
+            {
+                "text": "To add a decorative border to the design",
+                "value": "a"
+            },
+            {
+                "text": "To ensure color prints to the edge of the paper after trimming",
+                "value": "b"
+            },
+            {
+                "text": "To indicate where to fold the document",
+                "value": "c"
+            },
+            {
+                "text": "To mark the safe area for text",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which file format is ideal for a logo that needs to be scaled for both a business card and a billboard?",
+        "options": [
+            {
+                "text": "JPG",
+                "value": "a"
+            },
+            {
+                "text": "PNG",
+                "value": "b"
+            },
+            {
+                "text": "AI (Adobe Illustrator)",
+                "value": "c"
+            },
+            {
+                "text": "PSD",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What does the 'Z-pattern' describe in layout design?",
+        "options": [
+            {
+                "text": "A method for creating zigzag lines",
+                "value": "a"
+            },
+            {
+                "text": "The natural path the human eye follows when scanning a page",
+                "value": "b"
+            },
+            {
+                "text": "A technique for folding brochures",
+                "value": "c"
+            },
+            {
+                "text": "A specific color grading effect",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is a complementary color pair?",
+        "options": [
+            {
+                "text": "Red and Green",
+                "value": "a"
+            },
+            {
+                "text": "Blue and Green",
+                "value": "b"
+            },
+            {
+                "text": "Red and Orange",
+                "value": "c"
+            },
+            {
+                "text": "Purple and Pink",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the 'rule of thirds'?",
+        "options": [
+            {
+                "text": "A law stating a design must have three elements",
+                "value": "a"
+            },
+            {
+                "text": "A guideline that divides an image into a 3x3 grid to place key elements",
+                "value": "b"
+            },
+            {
+                "text": "A rule for using only three colors in a design",
+                "value": "c"
+            },
+            {
+                "text": "A principle for creating triple-fold brochures",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "In Adobe Photoshop, which tool is best for making precise selections around an object with high contrast edges?",
+        "options": [
+            {
+                "text": "Brush Tool",
+                "value": "a"
+            },
+            {
+                "text": "Magic Wand Tool",
+                "value": "b"
+            },
+            {
+                "text": "Magnetic Lasso Tool",
+                "value": "c"
+            },
+            {
+                "text": "Eraser Tool",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of a 'style guide' in branding?",
+        "options": [
+            {
+                "text": "To teach employees how to dress",
+                "value": "a"
+            },
+            {
+                "text": "To ensure consistency in the use of logos, colors, and typography",
+                "value": "b"
+            },
+            {
+                "text": "To guide users on how to use a product",
+                "value": "c"
+            },
+            {
+                "text": "To list the company's financial goals",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is a serif font?",
+        "options": [
+            {
+                "text": "Arial",
+                "value": "a"
+            },
+            {
+                "text": "Helvetica",
+                "value": "b"
+            },
+            {
+                "text": "Times New Roman",
+                "value": "c"
+            },
+            {
+                "text": "Calibri",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is 'negative space' in a composition?",
+        "options": [
+            {
+                "text": "The area dominated by the main subject",
+                "value": "a"
+            },
+            {
+                "text": "Space that has a negative emotional impact",
+                "value": "b"
+            },
+            {
+                "text": "A photography term for underexposed areas",
+                "value": "c"
+            },
+            {
+                "text": "The empty or open space around and between subjects",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "A design that uses different elements to create visual interest and drama is employing which principle?",
+        "options": [
+            {
+                "text": "Contrast",
+                "value": "a"
+            },
+            {
+                "text": "Alignment",
+                "value": "b"
+            },
+            {
+                "text": "Repetition",
+                "value": "c"
+            },
+            {
+                "text": "Proximity",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is the standard resolution (DPI) for high-quality print materials?",
+        "options": [
+            {
+                "text": "72 DPI",
+                "value": "a"
+            },
+            {
+                "text": "150 DPI",
+                "value": "b"
+            },
+            {
+                "text": "300 DPI",
+                "value": "c"
+            },
+            {
+                "text": "600 DPI",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "Which tool in Adobe Illustrator is used to create and manipulate points and paths?",
+        "options": [
+            {
+                "text": "Brush Tool",
+                "value": "a"
+            },
+            {
+                "text": "Pen Tool",
+                "value": "b"
+            },
+            {
+                "text": "Shape Tool",
+                "value": "c"
+            },
+            {
+                "text": "Eyedropper Tool",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What does 'UX' stand for in design?",
+        "options": [
+            {
+                "text": "User Experience",
+                "value": "a"
+            },
+            {
+                "text": "Universal X-height",
+                "value": "b"
+            },
+            {
+                "text": "Ultimate Export",
+                "value": "c"
+            },
+            {
+                "text": "Uniform X-axis",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "For a web graphic that requires a transparent background, which file format should you use?",
+        "options": [
+            {
+                "text": "JPG",
+                "value": "a"
+            },
+            {
+                "text": "GIF",
+                "value": "b"
+            },
+            {
+                "text": "PNG",
+                "value": "c"
+            },
+            {
+                "text": "BMP",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the term for the height of lowercase letters, excluding ascenders and descenders?",
+        "options": [
+            {
+                "text": "Cap Height",
+                "value": "a"
+            },
+            {
+                "text": "X-height",
+                "value": "b"
+            },
+            {
+                "text": "Ascender",
+                "value": "c"
+            },
+            {
+                "text": "Baseline",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which design software is primarily vector-based?",
+        "options": [
+            {
+                "text": "Adobe Photoshop",
+                "value": "a"
+            },
+            {
+                "text": "Adobe Lightroom",
+                "value": "b"
+            },
+            {
+                "text": "Adobe InDesign",
+                "value": "c"
+            },
+            {
+                "text": "Adobe Illustrator",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the primary function of a 'mock-up'?",
+        "options": [
+            {
+                "text": "To serve as the final, printed version of a design",
+                "value": "a"
+            },
+            {
+                "text": "To test the color accuracy of a printer",
+                "value": "b"
+            },
+            {
+                "text": "To act as a rough, initial sketch of an idea",
+                "value": "c"
+            },
+            {
+                "text": "To provide a realistic preview of how a design will look in context",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "A triadic color scheme uses colors that are...",
+        "options": [
+            {
+                "text": "Next to each other on the color wheel",
+                "value": "a"
+            },
+            {
+                "text": "Opposite each other on the color wheel",
+                "value": "b"
+            },
+            {
+                "text": "Evenly spaced around the color wheel",
+                "value": "c"
+            },
+            {
+                "text": "Different shades of the same hue",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "In Adobe InDesign, what are 'Master Pages' used for?",
+        "options": [
+            {
+                "text": "To create the most important page of a document",
+                "value": "a"
+            },
+            {
+                "text": "To apply consistent layout elements (like page numbers) to multiple pages",
+                "value": "b"
+            },
+            {
+                "text": "To design the cover page",
+                "value": "c"
+            },
+            {
+                "text": "To export the final PDF",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is 'leading'?",
+        "options": [
+            {
+                "text": "The vertical space between lines of text",
+                "value": "a"
+            },
+            {
+                "text": "The adjustment of space between characters",
+                "value": "b"
+            },
+            {
+                "text": "The first line of a paragraph",
+                "value": "c"
+            },
+            {
+                "text": "A type of metal used in traditional printing",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which principle involves grouping related items close together?",
+        "options": [
+            {
+                "text": "Proximity",
+                "value": "a"
+            },
+            {
+                "text": "Alignment",
+                "value": "b"
+            },
+            {
+                "text": "Contrast",
+                "value": "c"
+            },
+            {
+                "text": "Repetition",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What does 'DPI' stand for?",
+        "options": [
+            {
+                "text": "Drawing Precision Indicator",
+                "value": "a"
+            },
+            {
+                "text": "Designs Per Image",
+                "value": "b"
+            },
+            {
+                "text": "Digital Pixel Input",
+                "value": "c"
+            },
+            {
+                "text": "Dots Per Inch",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "A grayscale image contains...",
+        "options": [
+            {
+                "text": "Only black and white pixels",
+                "value": "a"
+            },
+            {
+                "text": "Only shades of gray, from black to white",
+                "value": "b"
+            },
+            {
+                "text": "A full spectrum of colors",
+                "value": "c"
+            },
+            {
+                "text": "Only cyan, magenta, and yellow",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is the main goal of the 'thumbnailing' stage in the design process?",
+        "options": [
+            {
+                "text": "To create the final, high-resolution artwork",
+                "value": "a"
+            },
+            {
+                "text": "To apply special effects to an image",
+                "value": "b"
+            },
+            {
+                "text": "To reduce the file size of an image for the web",
+                "value": "c"
+            },
+            {
+                "text": "To quickly explore and sketch out multiple composition ideas",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which of these is a common use for Adobe InDesign?",
+        "options": [
+            {
+                "text": "Photo retouching",
+                "value": "a"
+            },
+            {
+                "text": "Logo design",
+                "value": "b"
+            },
+            {
+                "text": "Page layout for multi-page documents like magazines",
+                "value": "c"
+            },
+            {
+                "text": "Creating vector illustrations",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What does 'Rasterize' mean in Photoshop?",
+        "options": [
+            {
+                "text": "To convert a vector layer into pixels",
+                "value": "a"
+            },
+            {
+                "text": "To apply a blur effect",
+                "value": "b"
+            },
+            {
+                "text": "To change the image mode to CMYK",
+                "value": "c"
+            },
+            {
+                "text": "To sharpen an image",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "A monochromatic color scheme uses...",
+        "options": [
+            {
+                "text": "Colors opposite each other on the wheel",
+                "value": "a"
+            },
+            {
+                "text": "Colors next to each other on the wheel",
+                "value": "b"
+            },
+            {
+                "text": "Three colors evenly spaced on the wheel",
+                "value": "c"
+            },
+            {
+                "text": "Variations in lightness and saturation of a single hue",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is a 'vector path'?",
+        "options": [
+            {
+                "text": "A pre-made graphic element",
+                "value": "a"
+            },
+            {
+                "text": "A line defined by a mathematical equation",
+                "value": "b"
+            },
+            {
+                "text": "The route a viewer's eye takes through a design",
+                "value": "c"
+            },
+            {
+                "text": "A filter in Photoshop",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which file format is best for preserving layers and editability in Photoshop?",
+        "options": [
+            {
+                "text": "JPG",
+                "value": "a"
+            },
+            {
+                "text": "PNG",
+                "value": "b"
+            },
+            {
+                "text": "PSD",
+                "value": "c"
+            },
+            {
+                "text": "GIF",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is 'UI' design focused on?",
+        "options": [
+            {
+                "text": "The visual and interactive elements of a product's interface",
+                "value": "a"
+            },
+            {
+                "text": "The overall feel and user journey of a product",
+                "value": "b"
+            },
+            {
+                "text": "The backend programming of a website",
+                "value": "c"
+            },
+            {
+                "text": "The market research before a product is built",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "The 'Warp Tool' in Illustrator is used to...",
+        "options": [
+            {
+                "text": "Create straight lines",
+                "value": "a"
+            },
+            {
+                "text": "Select specific anchor points",
+                "value": "b"
+            },
+            {
+                "text": "Change the color of an object",
+                "value": "c"
+            },
+            {
+                "text": "Distort and reshape vector objects",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is 'tracking' in typography?",
+        "options": [
+            {
+                "text": "The vertical space between lines",
+                "value": "a"
+            },
+            {
+                "text": "The uniform adjustment of spacing between all characters in a block of text",
+                "value": "b"
+            },
+            {
+                "text": "The space between two specific characters",
+                "value": "c"
+            },
+            {
+                "text": "Following the history of a font",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "A design that feels stable and symmetrical is said to have...",
+        "options": [
+            {
+                "text": "Asymmetrical Balance",
+                "value": "a"
+            },
+            {
+                "text": "Radial Balance",
+                "value": "b"
+            },
+            {
+                "text": "Off-Balance",
+                "value": "c"
+            },
+            {
+                "text": "Symmetrical Balance",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "What is the 'Eyedropper Tool' used for?",
+        "options": [
+            {
+                "text": "To sample colors from an image",
+                "value": "a"
+            },
+            {
+                "text": "To remove red-eye from photos",
+                "value": "b"
+            },
+            {
+                "text": "To create water droplets",
+                "value": "c"
+            },
+            {
+                "text": "To zoom into an image",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "Which of these is a design element?",
+        "options": [
+            {
+                "text": "Balance",
+                "value": "a"
+            },
+            {
+                "text": "Contrast",
+                "value": "b"
+            },
+            {
+                "text": "Line",
+                "value": "c"
+            },
+            {
+                "text": "Proximity",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is a 'glyph'?",
+        "options": [
+            {
+                "text": "A unit of measurement in typography",
+                "value": "a"
+            },
+            {
+                "text": "A specific shape or representation of a character",
+                "value": "b"
+            },
+            {
+                "text": "A type of serif",
+                "value": "c"
+            },
+            {
+                "text": "A spelling error in typeset text",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "The 'Layers' panel in design software allows you to...",
+        "options": [
+            {
+                "text": "Change the resolution of the image",
+                "value": "a"
+            },
+            {
+                "text": "Organize and work on different elements of a design independently",
+                "value": "b"
+            },
+            {
+                "text": "Apply filters to the entire image",
+                "value": "c"
+            },
+            {
+                "text": "Print the document",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is 'saturation'?",
+        "options": [
+            {
+                "text": "The intensity or purity of a color",
+                "value": "a"
+            },
+            {
+                "text": "The lightness or darkness of a color",
+                "value": "b"
+            },
+            {
+                "text": "The name of a color family (e.g., red, blue)",
+                "value": "c"
+            },
+            {
+                "text": "A color mixing mode in Photoshop",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "A 'die-cut' in printing refers to...",
+        "options": [
+            {
+                "text": "The process of mixing ink colors",
+                "value": "a"
+            },
+            {
+                "text": "The resolution of the printed image",
+                "value": "b"
+            },
+            {
+                "text": "A custom shape cut into paper using a metal die",
+                "value": "c"
+            },
+            {
+                "text": "The binding method for a book",
+                "value": "d"
+            }
+        ],
+        "correct": "c"
+    },
+    {
+        "text": "What is the purpose of a 'call to action' (CTA) in a design?",
+        "options": [
+            {
+                "text": "To provide contact information",
+                "value": "a"
+            },
+            {
+                "text": "To prompt the viewer to take a specific action (e.g., 'Buy Now')",
+                "value": "b"
+            },
+            {
+                "text": "To describe the features of a product",
+                "value": "c"
+            },
+            {
+                "text": "To display the company logo",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "Which tool would you use to smoothly blend two colors together in Photoshop?",
+        "options": [
+            {
+                "text": "Eraser Tool",
+                "value": "a"
+            },
+            {
+                "text": "Gradient Tool",
+                "value": "b"
+            },
+            {
+                "text": "Type Tool",
+                "value": "c"
+            },
+            {
+                "text": "Crop Tool",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "What is 'whitespace' (or negative space)?",
+        "options": [
+            {
+                "text": "Space that must be colored white",
+                "value": "a"
+            },
+            {
+                "text": "A background with no texture",
+                "value": "b"
+            },
+            {
+                "text": "The margin around a document",
+                "value": "c"
+            },
+            {
+                "text": "The empty areas in a design that help define and organize elements",
+                "value": "d"
+            }
+        ],
+        "correct": "d"
+    },
+    {
+        "text": "A PDF is often the preferred format for sending a design to a client or printer because...",
+        "options": [
+            {
+                "text": "It preserves fonts, formatting, and images across different devices",
+                "value": "a"
+            },
+            {
+                "text": "It is always the smallest file size",
+                "value": "b"
+            },
+            {
+                "text": "It allows the client to easily edit the text",
+                "value": "c"
+            },
+            {
+                "text": "It is the only format printers accept",
+                "value": "d"
+            }
+        ],
+        "correct": "a"
+    },
+    {
+        "text": "What is 'whitespace' (or negative space)?",
+        "options": [
+            {
+                "text": "Space that must be colored white",
+                "value": "a"
+            },
+            {
+                "text": "The empty areas in a design that help define and organize elements",
+                "value": "b"
+            },
+            {
+                "text": "The margin around a document",
+                "value": "c"
+            },
+            {
+                "text": "A background with no texture",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    },
+    {
+        "text": "A PDF is often the preferred format for sending a design to a client or printer because...",
+        "options": [
+            {
+                "text": "It is always the smallest file size",
+                "value": "a"
+            },
+            {
+                "text": "It preserves fonts, formatting, and images across different devices",
+                "value": "b"
+            },
+            {
+                "text": "It allows the client to easily edit the text",
+                "value": "c"
+            },
+            {
+                "text": "It is the only format printers accept",
+                "value": "d"
+            }
+        ],
+        "correct": "b"
+    }
+]
