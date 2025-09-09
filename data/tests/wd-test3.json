@@ -1,48 +1,25 @@
 [
     {
-        "text": "Which HTML tag is used to define an internal stylesheet?",
-        "options": [
-            {
-                "text": "<css>",
-                "value": "a"
-            },
-            {
-                "text": "<style>",
-                "value": "b"
-            },
-            {
-                "text": "<script>",
-                "value": "c"
-            },
-            {
-                "text": "<link>",
-                "value": "d"
-            }
-        ],
-        "correct": "b"
-    },
-    {
-        "text": "Which of the following is NOT a way to add JavaScript to a webpage?",
-        "options": [
-            {
-                "text": "Within an individual HTML event attribute",
-                "value": "a"
-            },
-            {
-                "text": "Within separate <script> elements",
-                "value": "b"
-            },
-            {
-                "text": "In external script files linked with a <link> tag",
-                "value": "c"
-            },
-            {
-                "text": "In external script files linked with a <script> tag",
-                "value": "d"
-            }
-        ],
-        "correct": "c"
-    },
+    "text": "Which HTML tag is used to define an internal stylesheet?",
+    "options": [
+        { "text": "&lt;css&gt;", "value": "a" },
+        { "text": "&lt;style&gt;", "value": "b" },
+        { "text": "&lt;script&gt;", "value": "c" },
+        { "text": "&lt;link&gt;", "value": "d" }
+    ],
+    "correct": "b"
+},
+{
+    "text": "Which of the following is NOT a way to add JavaScript to a webpage?",
+    "options": [
+        { "text": "Within an individual HTML event attribute", "value": "a" },
+        { "text": "Within separate &lt;script&gt; elements", "value": "b" },
+        { "text": "In external script files linked with a &lt;link&gt; tag", "value": "c" },
+        { "text": "In external script files linked with a &lt;script&gt; tag", "value": "d" }
+    ],
+    "correct": "c"
+}
+,
     {
         "text": "Which CSS property controls the text size?",
         "options": [
@@ -153,28 +130,17 @@
         ],
         "correct": "c"
     },
-    {
-        "text": "How is a single-line comment written in JavaScript?",
-        "options": [
-            {
-                "text": "<!-- This is a comment -->",
-                "value": "a"
-            },
-            {
-                "text": "/* This is a comment */",
-                "value": "b"
-            },
-            {
-                "text": "// This is a comment",
-                "value": "c"
-            },
-            {
-                "text": "' This is a comment",
-                "value": "d"
-            }
-        ],
-        "correct": "c"
-    },
+   {
+    "text": "How is a single-line comment written in JavaScript?",
+    "options": [
+        { "text": "&lt;!-- This is a comment --&gt;", "value": "a" },
+        { "text": "/* This is a comment */", "value": "b" },
+        { "text": "// This is a comment", "value": "c" },
+        { "text": "' This is a comment", "value": "d" }
+    ],
+    "correct": "c"
+}
+,
     {
         "text": "How do you add a background color for all <h1> elements?",
         "options": [
@@ -197,28 +163,17 @@
         ],
         "correct": "b"
     },
-    {
-        "text": "How is a multi-line comment written in JavaScript?",
-        "options": [
-            {
-                "text": "<!-- This is a comment -->",
-                "value": "a"
-            },
-            {
-                "text": "/* This is a comment */",
-                "value": "b"
-            },
-            {
-                "text": "// This is a comment",
-                "value": "c"
-            },
-            {
-                "text": "''' This is a comment '''",
-                "value": "d"
-            }
-        ],
-        "correct": "b"
-    },
+   {
+    "text": "How is a multi-line comment written in JavaScript?",
+    "options": [
+        { "text": "&lt;!-- This is a comment --&gt;", "value": "a" },
+        { "text": "/* This is a comment */", "value": "b" },
+        { "text": "// This is a comment", "value": "c" },
+        { "text": "''' This is a comment '''", "value": "d" }
+    ],
+    "correct": "b"
+}
+,
     {
         "text": "Which CSS property is used to change the text color of an element?",
         "options": [
@@ -1056,27 +1011,16 @@
         "correct": "b"
     },
     {
-        "text": "Which HTML5 element is used to specify independent, self-contained content?",
-        "options": [
-            {
-                "text": "<section>",
-                "value": "a"
-            },
-            {
-                "text": "<article>",
-                "value": "b"
-            },
-            {
-                "text": "<independent>",
-                "value": "c"
-            },
-            {
-                "text": "<content>",
-                "value": "d"
-            }
-        ],
-        "correct": "b"
-    },
+    "text": "Which HTML5 element is used to specify independent, self-contained content?",
+    "options": [
+        { "text": "&lt;section&gt;", "value": "a" },
+        { "text": "&lt;article&gt;", "value": "b" },
+        { "text": "&lt;independent&gt;", "value": "c" },
+        { "text": "&lt;content&gt;", "value": "d" }
+    ],
+    "correct": "b"
+}
+,
     {
         "text": "What is the purpose of a JavaScript statement?",
         "options": [
@@ -1100,27 +1044,16 @@
         "correct": "b"
     },
     {
-        "text": "Which HTML5 element is used to specify content aside from the page content?",
-        "options": [
-            {
-                "text": "<sidebar>",
-                "value": "a"
-            },
-            {
-                "text": "<aside>",
-                "value": "b"
-            },
-            {
-                "text": "<content>",
-                "value": "c"
-            },
-            {
-                "text": "<section>",
-                "value": "d"
-            }
-        ],
-        "correct": "b"
-    },
+    "text": "Which HTML5 element is used to specify content aside from the page content?",
+    "options": [
+        { "text": "&lt;sidebar&gt;", "value": "a" },
+        { "text": "&lt;aside&gt;", "value": "b" },
+        { "text": "&lt;content&gt;", "value": "c" },
+        { "text": "&lt;section&gt;", "value": "d" }
+    ],
+    "correct": "b"
+}
+,
     {
         "text": "What character is used to separate multiple JavaScript statements on the same line?",
         "options": [
@@ -1144,27 +1077,16 @@
         "correct": "c"
     },
     {
-        "text": "Which HTML5 element is used to define navigation links?",
-        "options": [
-            {
-                "text": "<navigate>",
-                "value": "a"
-            },
-            {
-                "text": "<links>",
-                "value": "b"
-            },
-            {
-                "text": "<nav>",
-                "value": "c"
-            },
-            {
-                "text": "<navigation>",
-                "value": "d"
-            }
-        ],
-        "correct": "c"
-    },
+    "text": "Which HTML5 element is used to define navigation links?",
+    "options": [
+        { "text": "&lt;navigate&gt;", "value": "a" },
+        { "text": "&lt;links&gt;", "value": "b" },
+        { "text": "&lt;nav&gt;", "value": "c" },
+        { "text": "&lt;navigation&gt;", "value": "d" }
+    ],
+    "correct": "c"
+}
+,
     {
         "text": "What are curly brackets { } used for in JavaScript?",
         "options": [
@@ -1188,27 +1110,16 @@
         "correct": "d"
     },
     {
-        "text": "Which HTML5 element is used to define a header for a document or section?",
-        "options": [
-            {
-                "text": "<top>",
-                "value": "a"
-            },
-            {
-                "text": "<header>",
-                "value": "b"
-            },
-            {
-                "text": "<head>",
-                "value": "c"
-            },
-            {
-                "text": "<section-header>",
-                "value": "d"
-            }
-        ],
-        "correct": "b"
-    },
+    "text": "Which HTML5 element is used to define a header for a document or section?",
+    "options": [
+        { "text": "&lt;top&gt;", "value": "a" },
+        { "text": "&lt;header&gt;", "value": "b" },
+        { "text": "&lt;head&gt;", "value": "c" },
+        { "text": "&lt;section-header&gt;", "value": "d" }
+    ],
+    "correct": "b"
+}
+,
     {
         "text": "Which of the following is a JavaScript reserved word used for statement control?",
         "options": [
@@ -1232,27 +1143,16 @@
         "correct": "d"
     },
     {
-        "text": "Which HTML5 element is used to define a footer for a document or section?",
-        "options": [
-            {
-                "text": "<bottom>",
-                "value": "a"
-            },
-            {
-                "text": "<footer>",
-                "value": "b"
-            },
-            {
-                "text": "<end>",
-                "value": "c"
-            },
-            {
-                "text": "<section-footer>",
-                "value": "d"
-            }
-        ],
-        "correct": "b"
-    },
+    "text": "Which HTML5 element is used to define a footer for a document or section?",
+    "options": [
+        { "text": "&lt;bottom&gt;", "value": "a" },
+        { "text": "&lt;footer&gt;", "value": "b" },
+        { "text": "&lt;end&gt;", "value": "c" },
+        { "text": "&lt;section-footer&gt;", "value": "d" }
+    ],
+    "correct": "b"
+}
+,
     {
         "text": "What keyword is used to define a JavaScript function?",
         "options": [
@@ -1320,27 +1220,16 @@
         "correct": "b"
     },
     {
-        "text": "What is the correct HTML element for the largest heading?",
-        "options": [
-            {
-                "text": "<h6>",
-                "value": "a"
-            },
-            {
-                "text": "<head>",
-                "value": "b"
-            },
-            {
-                "text": "<heading>",
-                "value": "c"
-            },
-            {
-                "text": "<h1>",
-                "value": "d"
-            }
-        ],
-        "correct": "d"
-    },
+    "text": "What is the correct HTML element for the largest heading?",
+    "options": [
+        { "text": "&lt;h6&gt;", "value": "a" },
+        { "text": "&lt;head&gt;", "value": "b" },
+        { "text": "&lt;heading&gt;", "value": "c" },
+        { "text": "&lt;h1&gt;", "value": "d" }
+    ],
+    "correct": "d"
+}
+,
     {
         "text": "What keyword is used inside a function to stop its execution and return a value?",
         "options": [
@@ -1364,27 +1253,16 @@
         "correct": "c"
     },
     {
-        "text": "What is the correct HTML element to define important text?",
-        "options": [
-            {
-                "text": "<important>",
-                "value": "a"
-            },
-            {
-                "text": "<b>",
-                "value": "b"
-            },
-            {
-                "text": "<strong>",
-                "value": "c"
-            },
-            {
-                "text": "<i>",
-                "value": "d"
-            }
-        ],
-        "correct": "c"
-    },
+    "text": "What is the correct HTML element to define important text?",
+    "options": [
+        { "text": "&lt;important&gt;", "value": "a" },
+        { "text": "&lt;b&gt;", "value": "b" },
+        { "text": "&lt;strong&gt;", "value": "c" },
+        { "text": "&lt;i&gt;", "value": "d" }
+    ],
+    "correct": "c"
+}
+,
     {
         "text": "What is the difference between func and func() in code?",
         "options": [
@@ -1408,27 +1286,16 @@
         "correct": "a"
     },
     {
-        "text": "What is the correct HTML element to define emphasized text?",
-        "options": [
-            {
-                "text": "<em>",
-                "value": "a"
-            },
-            {
-                "text": "<italic>",
-                "value": "b"
-            },
-            {
-                "text": "<i>",
-                "value": "c"
-            },
-            {
-                "text": "<strong>",
-                "value": "d"
-            }
-        ],
-        "correct": "a"
-    },
+    "text": "What is the correct HTML element to define emphasized text?",
+    "options": [
+        { "text": "&lt;em&gt;", "value": "a" },
+        { "text": "&lt;italic&gt;", "value": "b" },
+        { "text": "&lt;i&gt;", "value": "c" },
+        { "text": "&lt;strong&gt;", "value": "d" }
+    ],
+    "correct": "a"
+}
+,
     {
         "text": "What is event handling in JavaScript?",
         "options": [
@@ -1540,27 +1407,16 @@
         "correct": "a"
     },
     {
-        "text": "How can you open a link in a new tab/browser window?",
-        "options": [
-            {
-                "text": "<a href=\"url\" target=\"_new\">",
-                "value": "a"
-            },
-            {
-                "text": "<a href=\"url\" new>",
-                "value": "b"
-            },
-            {
-                "text": "<a href=\"url\" target=\"_blank\">",
-                "value": "c"
-            },
-            {
-                "text": "<a href=\"url\" target=\"new\">",
-                "value": "d"
-            }
-        ],
-        "correct": "c"
-    },
+    "text": "How can you open a link in a new tab/browser window?",
+    "options": [
+        { "text": "&lt;a href=\"url\" target=\"_new\"&gt;", "value": "a" },
+        { "text": "&lt;a href=\"url\" new&gt;", "value": "b" },
+        { "text": "&lt;a href=\"url\" target=\"_blank\"&gt;", "value": "c" },
+        { "text": "&lt;a href=\"url\" target=\"new\"&gt;", "value": "d" }
+    ],
+    "correct": "c"
+}
+,
     {
         "text": "What is the root node of the HTML DOM tree?",
         "options": [
@@ -1584,27 +1440,16 @@
         "correct": "d"
     },
     {
-        "text": "Which of these elements are all <table> elements?",
-        "options": [
-            {
-                "text": "<table><head><tfoot>",
-                "value": "a"
-            },
-            {
-                "text": "<table><tr><td>",
-                "value": "b"
-            },
-            {
-                "text": "<table><tr><tt>",
-                "value": "c"
-            },
-            {
-                "text": "<thead><body><tr>",
-                "value": "d"
-            }
-        ],
-        "correct": "b"
-    },
+    "text": "Which of these elements are all &lt;table&gt; elements?",
+    "options": [
+        { "text": "&lt;table&gt;&lt;head&gt;&lt;tfoot&gt;", "value": "a" },
+        { "text": "&lt;table&gt;&lt;tr&gt;&lt;td&gt;", "value": "b" },
+        { "text": "&lt;table&gt;&lt;tr&gt;&lt;tt&gt;", "value": "c" },
+        { "text": "&lt;thead&gt;&lt;body&gt;&lt;tr&gt;", "value": "d" }
+    ],
+    "correct": "b"
+}
+,
     {
         "text": "Which method is most commonly used to access a specific HTML element in the DOM?",
         "options": [
@@ -1627,28 +1472,17 @@
         ],
         "correct": "c"
     },
-    {
-        "text": "What is the correct HTML for making a checkbox?",
-        "options": [
-            {
-                "text": "<check>",
-                "value": "a"
-            },
-            {
-                "text": "<input type=\"check\">",
-                "value": "b"
-            },
-            {
-                "text": "<checkbox>",
-                "value": "c"
-            },
-            {
-                "text": "<input type=\"checkbox\">",
-                "value": "d"
-            }
-        ],
-        "correct": "d"
-    },
+   {
+    "text": "What is the correct HTML for making a checkbox?",
+    "options": [
+        { "text": "&lt;check&gt;", "value": "a" },
+        { "text": "&lt;input type=\"check\"&gt;", "value": "b" },
+        { "text": "&lt;checkbox&gt;", "value": "c" },
+        { "text": "&lt;input type=\"checkbox\"&gt;", "value": "d" }
+    ],
+    "correct": "d"
+}
+,
     {
         "text": "What property is used to change the text content inside an HTML element?",
         "options": [
@@ -1672,27 +1506,16 @@
         "correct": "d"
     },
     {
-        "text": "What is the correct HTML for making a text input field?",
-        "options": [
-            {
-                "text": "<input type=\"textfield\">",
-                "value": "a"
-            },
-            {
-                "text": "<textinput type=\"text\">",
-                "value": "b"
-            },
-            {
-                "text": "<input type=\"text\">",
-                "value": "c"
-            },
-            {
-                "text": "<textfield>",
-                "value": "d"
-            }
-        ],
-        "correct": "c"
-    },
+    "text": "What is the correct HTML for making a text input field?",
+    "options": [
+        { "text": "&lt;input type=\"textfield\"&gt;", "value": "a" },
+        { "text": "&lt;textinput type=\"text\"&gt;", "value": "b" },
+        { "text": "&lt;input type=\"text\"&gt;", "value": "c" },
+        { "text": "&lt;textfield&gt;", "value": "d" }
+    ],
+    "correct": "c"
+}
+,
     {
         "text": "Which method is used to create a new HTML element?",
         "options": [
@@ -1715,28 +1538,17 @@
         ],
         "correct": "c"
     },
-    {
-        "text": "What is the correct HTML for making a drop-down list?",
-        "options": [
-            {
-                "text": "<list>",
-                "value": "a"
-            },
-            {
-                "text": "<input type=\"list\">",
-                "value": "b"
-            },
-            {
-                "text": "<select>",
-                "value": "c"
-            },
-            {
-                "text": "<input type=\"dropdown\">",
-                "value": "d"
-            }
-        ],
-        "correct": "c"
-    },
+  {
+    "text": "What is the correct HTML for making a drop-down list?",
+    "options": [
+        { "text": "&lt;list&gt;", "value": "a" },
+        { "text": "&lt;input type=\"list\"&gt;", "value": "b" },
+        { "text": "&lt;select&gt;", "value": "c" },
+        { "text": "&lt;input type=\"dropdown\"&gt;", "value": "d" }
+    ],
+    "correct": "c"
+}
+,
     {
         "text": "What is a NodeList?",
         "options": [
@@ -1759,28 +1571,17 @@
         ],
         "correct": "c"
     },
-    {
-        "text": "What is the correct HTML for making a text area?",
-        "options": [
-            {
-                "text": "<input type=\"textarea\">",
-                "value": "a"
-            },
-            {
-                "text": "<textarea>",
-                "value": "b"
-            },
-            {
-                "text": "<input type=\"textbox\">",
-                "value": "c"
-            },
-            {
-                "text": "<text>",
-                "value": "d"
-            }
-        ],
-        "correct": "b"
-    },
+   {
+    "text": "What is the correct HTML for making a text area?",
+    "options": [
+        { "text": "&lt;input type=\"textarea\"&gt;", "value": "a" },
+        { "text": "&lt;textarea&gt;", "value": "b" },
+        { "text": "&lt;input type=\"textbox\"&gt;", "value": "c" },
+        { "text": "&lt;text&gt;", "value": "d" }
+    ],
+    "correct": "b"
+}
+,
     {
         "text": "What is the correct syntax to write 'Hello' into the browser's console?",
         "options": [
@@ -1848,27 +1649,16 @@
         "correct": "c"
     },
     {
-        "text": "What is the correct HTML for inserting a background image? (Using CSS is better practice)",
-        "options": [
-            {
-                "text": "<body bg=\"background.gif\">",
-                "value": "a"
-            },
-            {
-                "text": "<background img=\"background.gif\">",
-                "value": "b"
-            },
-            {
-                "text": "<body style=\"background-image:url('background.gif')\">",
-                "value": "c"
-            },
-            {
-                "text": "<body background=\"background.gif\">",
-                "value": "d"
-            }
-        ],
-        "correct": "c"
-    },
+    "text": "What is the correct HTML for inserting a background image? (Using CSS is better practice)",
+    "options": [
+        { "text": "&lt;body bg=\"background.gif\"&gt;", "value": "a" },
+        { "text": "&lt;background img=\"background.gif\"&gt;", "value": "b" },
+        { "text": "&lt;body style=\"background-image:url('background.gif')\"&gt;", "value": "c" },
+        { "text": "&lt;body background=\"background.gif\"&gt;", "value": "d" }
+    ],
+    "correct": "c"
+}
+,
     {
         "text": "What character set does JavaScript use?",
         "options": [
@@ -1891,28 +1681,17 @@
         ],
         "correct": "b"
     },
-    {
-        "text": "Which HTML element defines the title of a document?",
-        "options": [
-            {
-                "text": "<meta>",
-                "value": "a"
-            },
-            {
-                "text": "<title>",
-                "value": "b"
-            },
-            {
-                "text": "<head>",
-                "value": "c"
-            },
-            {
-                "text": "<document-title>",
-                "value": "d"
-            }
-        ],
-        "correct": "b"
-    },
+  {
+    "text": "Which HTML element defines the title of a document?",
+    "options": [
+        { "text": "&lt;meta&gt;", "value": "a" },
+        { "text": "&lt;title&gt;", "value": "b" },
+        { "text": "&lt;head&gt;", "value": "c" },
+        { "text": "&lt;document-title&gt;", "value": "d" }
+    ],
+    "correct": "b"
+}
+,
     {
         "text": "Which naming convention is commonly used for variables in JavaScript?",
         "options": [
@@ -1980,27 +1759,16 @@
         "correct": "b"
     },
     {
-        "text": "What is the correct HTML element for playing video files?",
-        "options": [
-            {
-                "text": "<media>",
-                "value": "a"
-            },
-            {
-                "text": "<video>",
-                "value": "b"
-            },
-            {
-                "text": "<movie>",
-                "value": "c"
-            },
-            {
-                "text": "<clip>",
-                "value": "d"
-            }
-        ],
-        "correct": "b"
-    },
+    "text": "What is the correct HTML element for playing video files?",
+    "options": [
+        { "text": "&lt;media&gt;", "value": "a" },
+        { "text": "&lt;video&gt;", "value": "b" },
+        { "text": "&lt;movie&gt;", "value": "c" },
+        { "text": "&lt;clip&gt;", "value": "d" }
+    ],
+    "correct": "b"
+}
+,
     {
         "text": "Which global function is used to evaluate a string as JavaScript code?",
         "options": [
@@ -2023,28 +1791,17 @@
         ],
         "correct": "c"
     },
-    {
-        "text": "What is the correct HTML element for playing audio files?",
-        "options": [
-            {
-                "text": "<music>",
-                "value": "a"
-            },
-            {
-                "text": "<audio>",
-                "value": "b"
-            },
-            {
-                "text": "<sound>",
-                "value": "c"
-            },
-            {
-                "text": "<mp3>",
-                "value": "d"
-            }
-        ],
-        "correct": "b"
-    },
+   {
+    "text": "What is the correct HTML element for playing audio files?",
+    "options": [
+        { "text": "&lt;music&gt;", "value": "a" },
+        { "text": "&lt;audio&gt;", "value": "b" },
+        { "text": "&lt;sound&gt;", "value": "c" },
+        { "text": "&lt;mp3&gt;", "value": "d" }
+    ],
+    "correct": "b"
+}
+,
     {
         "text": "What is the result of String(null)?",
         "options": [
@@ -2067,28 +1824,17 @@
         ],
         "correct": "b"
     },
-    {
-        "text": "Which HTML element is used to specify a header for a document or section?",
-        "options": [
-            {
-                "text": "<head>",
-                "value": "a"
-            },
-            {
-                "text": "<header>",
-                "value": "b"
-            },
-            {
-                "text": "<top>",
-                "value": "c"
-            },
-            {
-                "text": "<section>",
-                "value": "d"
-            }
-        ],
-        "correct": "b"
-    },
+   {
+    "text": "Which HTML element is used to specify a header for a document or section?",
+    "options": [
+        { "text": "&lt;head&gt;", "value": "a" },
+        { "text": "&lt;header&gt;", "value": "b" },
+        { "text": "&lt;top&gt;", "value": "c" },
+        { "text": "&lt;section&gt;", "value": "d" }
+    ],
+    "correct": "b"
+}
+,
     {
         "text": "What is the result of Number(undefined)?",
         "options": [
@@ -2112,27 +1858,16 @@
         "correct": "c"
     },
     {
-        "text": "Which HTML element is used to specify a footer for a document or section?",
-        "options": [
-            {
-                "text": "<bottom>",
-                "value": "a"
-            },
-            {
-                "text": "<footer>",
-                "value": "b"
-            },
-            {
-                "text": "<foot>",
-                "value": "c"
-            },
-            {
-                "text": "<section>",
-                "value": "d"
-            }
-        ],
-        "correct": "b"
-    },
+    "text": "Which HTML element is used to specify a footer for a document or section?",
+    "options": [
+        { "text": "&lt;bottom&gt;", "value": "a" },
+        { "text": "&lt;footer&gt;", "value": "b" },
+        { "text": "&lt;foot&gt;", "value": "c" },
+        { "text": "&lt;section&gt;", "value": "d" }
+    ],
+    "correct": "b"
+}
+,
     {
         "text": "What is the result of Boolean([]) (an empty array)?",
         "options": [
@@ -2155,28 +1890,17 @@
         ],
         "correct": "b"
     },
-    {
-        "text": "What is the correct HTML element for defining important text?",
-        "options": [
-            {
-                "text": "<important>",
-                "value": "a"
-            },
-            {
-                "text": "<b>",
-                "value": "b"
-            },
-            {
-                "text": "<strong>",
-                "value": "c"
-            },
-            {
-                "text": "<i>",
-                "value": "d"
-            }
-        ],
-        "correct": "c"
-    },
+   {
+    "text": "What is the correct HTML element for defining important text?",
+    "options": [
+        { "text": "&lt;important&gt;", "value": "a" },
+        { "text": "&lt;b&gt;", "value": "b" },
+        { "text": "&lt;strong&gt;", "value": "c" },
+        { "text": "&lt;i&gt;", "value": "d" }
+    ],
+    "correct": "c"
+}
+,
     {
         "text": "What is the result of Number([10]) (an array with one number)?",
         "options": [

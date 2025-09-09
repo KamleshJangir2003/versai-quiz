@@ -21,23 +21,24 @@
         ],
         "correct": "b"
     },
+   
     {
-        "text": "Which of these is a valid <!DOCTYPE> declaration for HTML5?",
+        "text": "Which of these is a valid &lt;!DOCTYPE&gt; declaration for HTML5?",
         "options": [
             {
-                "text": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 5.0//EN\">",
+                "text": "&lt;!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 5.0//EN\"&gt;",
                 "value": "a"
             },
             {
-                "text": "<!DOCTYPE html>",
+                "text": "&lt;!DOCTYPE html&gt;",
                 "value": "b"
             },
             {
-                "text": "<!DOCTYPE HTML5>",
+                "text": "&lt;!DOCTYPE HTML5&gt;",
                 "value": "c"
             },
             {
-                "text": "<DOCTYPE html>",
+                "text": "&lt;DOCTYPE html&gt;",
                 "value": "d"
             }
         ],
@@ -47,19 +48,19 @@
         "text": "Which tag is the root element of an HTML page?",
         "options": [
             {
-                "text": "<!DOCTYPE>",
+                "text": "&lt;!DOCTYPE&gt;",
                 "value": "a"
             },
             {
-                "text": "<body>",
+                "text": "&lt;body&gt;",
                 "value": "b"
             },
             {
-                "text": "<html>",
+                "text": "&lt;html&gt;",
                 "value": "c"
             },
             {
-                "text": "<head>",
+                "text": "&lt;head&gt;",
                 "value": "d"
             }
         ],
@@ -69,19 +70,19 @@
         "text": "Which element contains meta information about the HTML document?",
         "options": [
             {
-                "text": "<head>",
+                "text": "&lt;head&gt;",
                 "value": "a"
             },
             {
-                "text": "<meta>",
+                "text": "&lt;meta&gt;",
                 "value": "b"
             },
             {
-                "text": "<title>",
+                "text": "&lt;title&gt;",
                 "value": "c"
             },
             {
-                "text": "<info>",
+                "text": "&lt;info&gt;",
                 "value": "d"
             }
         ],
@@ -91,19 +92,19 @@
         "text": "Which element specifies a title for the document?",
         "options": [
             {
-                "text": "<meta>",
+                "text": "&lt;meta&gt;",
                 "value": "a"
             },
             {
-                "text": "<head>",
+                "text": "&lt;head&gt;",
                 "value": "b"
             },
             {
-                "text": "<title>",
+                "text": "&lt;title&gt;",
                 "value": "c"
             },
             {
-                "text": "<document-title>",
+                "text": "&lt;document-title&gt;",
                 "value": "d"
             }
         ],
@@ -113,222 +114,26 @@
         "text": "Which element contains the visible content of the HTML document?",
         "options": [
             {
-                "text": "<visible>",
+                "text": "&lt;visible&gt;",
                 "value": "a"
             },
             {
-                "text": "<main>",
+                "text": "&lt;main&gt;",
                 "value": "b"
             },
             {
-                "text": "<content>",
+                "text": "&lt;content&gt;",
                 "value": "c"
             },
             {
-                "text": "<body>",
+                "text": "&lt;body&gt;",
                 "value": "d"
             }
         ],
         "correct": "d"
-    },
-    {
-        "text": "What is the correct HTML for creating a hyperlink to Nematrian's homepage?",
-        "options": [
-            {
-                "text": "<a href=\"https://www.nematrian.com\">Nematrian</a>",
-                "value": "a"
-            },
-            {
-                "text": "<a url=\"https://www.nematrian.com\">Nematrian</a>",
-                "value": "b"
-            },
-            {
-                "text": "<a>https://www.nematrian.com</a>",
-                "value": "c"
-            },
-            {
-                "text": "<link src=\"https://www.nematrian.com\">Nematrian</link>",
-                "value": "d"
-            }
-        ],
-        "correct": "a"
-    },
-    {
-        "text": "How can you open a link in a new tab/browser window?",
-        "options": [
-            {
-                "text": "<a href=\"url\" target=\"_new\">",
-                "value": "a"
-            },
-            {
-                "text": "<a href=\"url\" new>",
-                "value": "b"
-            },
-            {
-                "text": "<a href=\"url\" target=\"_blank\">",
-                "value": "c"
-            },
-            {
-                "text": "<a href=\"url\" target=\"new\">",
-                "value": "d"
-            }
-        ],
-        "correct": "c"
-    },
-    {
-        "text": "Which is the correct HTML for making an image?",
-        "options": [
-            {
-                "text": "<img src=\"image.gif\" alt=\"MyImage\">",
-                "value": "a"
-            },
-            {
-                "text": "<img href=\"image.gif\" alt=\"MyImage\">",
-                "value": "b"
-            },
-            {
-                "text": "<image src=\"image.gif\" alt=\"MyImage\">",
-                "value": "c"
-            },
-            {
-                "text": "<img alt=\"MyImage\">image.gif</img>",
-                "value": "d"
-            }
-        ],
-        "correct": "a"
-    },
-    {
-        "text": "What is the correct HTML for making a text input field?",
-        "options": [
-            {
-                "text": "<input type=\"text\">",
-                "value": "a"
-            },
-            {
-                "text": "<textinput type=\"text\">",
-                "value": "b"
-            },
-            {
-                "text": "<input type=\"textfield\">",
-                "value": "c"
-            },
-            {
-                "text": "<textfield>",
-                "value": "d"
-            }
-        ],
-        "correct": "a"
-    },
-    {
-        "text": "What is the correct HTML for making a drop-down list?",
-        "options": [
-            {
-                "text": "<list>",
-                "value": "a"
-            },
-            {
-                "text": "<input type=\"list\">",
-                "value": "b"
-            },
-            {
-                "text": "<select>",
-                "value": "c"
-            },
-            {
-                "text": "<input type=\"dropdown\">",
-                "value": "d"
-            }
-        ],
-        "correct": "c"
-    },
-    {
-        "text": "What is the correct HTML for making a text area?",
-        "options": [
-            {
-                "text": "<input type=\"textarea\">",
-                "value": "a"
-            },
-            {
-                "text": "<textarea>",
-                "value": "b"
-            },
-            {
-                "text": "<input type=\"textbox\">",
-                "value": "c"
-            },
-            {
-                "text": "<text>",
-                "value": "d"
-            }
-        ],
-        "correct": "b"
-    },
-    {
-        "text": "What is the correct HTML for inserting a background image? (Old method, not recommended with CSS)",
-        "options": [
-            {
-                "text": "<body bg=\"background.gif\">",
-                "value": "a"
-            },
-            {
-                "text": "<background img=\"background.gif\">",
-                "value": "b"
-            },
-            {
-                "text": "<body style=\"background-image:url('background.gif')\">",
-                "value": "c"
-            },
-            {
-                "text": "<body background=\"background.gif\">",
-                "value": "d"
-            }
-        ],
-        "correct": "c"
-    },
-    {
-        "text": "Which HTML element defines important text? (Bold)",
-        "options": [
-            {
-                "text": "<b>",
-                "value": "a"
-            },
-            {
-                "text": "<important>",
-                "value": "b"
-            },
-            {
-                "text": "<strong>",
-                "value": "c"
-            },
-            {
-                "text": "<i>",
-                "value": "d"
-            }
-        ],
-        "correct": "a"
-    },
-    {
-        "text": "Which HTML element defines emphasized text? (Italic)",
-        "options": [
-            {
-                "text": "<strong>",
-                "value": "a"
-            },
-            {
-                "text": "<italic>",
-                "value": "b"
-            },
-            {
-                "text": "<i>",
-                "value": "c"
-            },
-            {
-                "text": "<em>",
-                "value": "d"
-            }
-        ],
-        "correct": "d"
-    },
+    }
+
+,
     {
         "text": "How do you add a background color for all <h1> elements?",
         "options": [
@@ -417,7 +222,7 @@
         ],
         "correct": "a"
     },
-    {
+     {
         "text": "Where in an HTML document is the correct place to refer to an external style sheet?",
         "options": [
             {
@@ -425,15 +230,15 @@
                 "value": "a"
             },
             {
-                "text": "In the <head> section",
+                "text": "In the &lt;head&gt; section",
                 "value": "b"
             },
             {
-                "text": "In the <body> section",
+                "text": "In the &lt;body&gt; section",
                 "value": "c"
             },
             {
-                "text": "In the <footer> section",
+                "text": "In the &lt;footer&gt; section",
                 "value": "d"
             }
         ],
@@ -443,19 +248,19 @@
         "text": "Which HTML tag is used to define an internal style sheet?",
         "options": [
             {
-                "text": "<style>",
+                "text": "&lt;style&gt;",
                 "value": "a"
             },
             {
-                "text": "<css>",
+                "text": "&lt;css&gt;",
                 "value": "b"
             },
             {
-                "text": "<script>",
+                "text": "&lt;script&gt;",
                 "value": "c"
             },
             {
-                "text": "<link>",
+                "text": "&lt;link&gt;",
                 "value": "d"
             }
         ],
@@ -593,28 +398,29 @@
         ],
         "correct": "c"
     },
-    {
-        "text": "What is the correct CSS syntax for making all the <span> elements bold?",
-        "options": [
-            {
-                "text": "span {text-size:bold;}",
-                "value": "a"
-            },
-            {
-                "text": "span {font-weight:bold;}",
-                "value": "b"
-            },
-            {
-                "text": "<span style=\"text-size:bold;\">",
-                "value": "c"
-            },
-            {
-                "text": "<span style=\"font-size:bold;\">",
-                "value": "d"
-            }
-        ],
-        "correct": "b"
-    },
+   {
+    "text": "What is the correct CSS syntax for making all the &lt;span&gt; elements bold?",
+    "options": [
+        {
+            "text": "span {text-size:bold;}",
+            "value": "a"
+        },
+        {
+            "text": "span {font-weight:bold;}",
+            "value": "b"
+        },
+        {
+            "text": "&lt;span style=\"text-size:bold;\"&gt;",
+            "value": "c"
+        },
+        {
+            "text": "&lt;span style=\"font-size:bold;\"&gt;",
+            "value": "d"
+        }
+    ],
+    "correct": "b"
+}
+,
     {
         "text": "How do you display hyperlinks without an underline?",
         "options": [
@@ -1232,71 +1038,36 @@
         "correct": "a"
     },
     {
-        "text": "Which HTML5 element is used to specify independent, self-contained content?",
-        "options": [
-            {
-                "text": "<section>",
-                "value": "a"
-            },
-            {
-                "text": "<article>",
-                "value": "b"
-            },
-            {
-                "text": "<independent>",
-                "value": "c"
-            },
-            {
-                "text": "<content>",
-                "value": "d"
-            }
-        ],
-        "correct": "b"
-    },
-    {
-        "text": "Which HTML5 element is used to specify content aside from the page content?",
-        "options": [
-            {
-                "text": "<sidebar>",
-                "value": "a"
-            },
-            {
-                "text": "<aside>",
-                "value": "b"
-            },
-            {
-                "text": "<content>",
-                "value": "c"
-            },
-            {
-                "text": "<section>",
-                "value": "d"
-            }
-        ],
-        "correct": "b"
-    },
-    {
-        "text": "Which HTML5 element is used to define navigation links?",
-        "options": [
-            {
-                "text": "<navigate>",
-                "value": "a"
-            },
-            {
-                "text": "<links>",
-                "value": "b"
-            },
-            {
-                "text": "<nav>",
-                "value": "c"
-            },
-            {
-                "text": "<navigation>",
-                "value": "d"
-            }
-        ],
-        "correct": "c"
-    },
+    "text": "Which HTML5 element is used to specify independent, self-contained content?",
+    "options": [
+        { "text": "&lt;section&gt;", "value": "a" },
+        { "text": "&lt;article&gt;", "value": "b" },
+        { "text": "&lt;independent&gt;", "value": "c" },
+        { "text": "&lt;content&gt;", "value": "d" }
+    ],
+    "correct": "b"
+},
+{
+    "text": "Which HTML5 element is used to specify content aside from the page content?",
+    "options": [
+        { "text": "&lt;sidebar&gt;", "value": "a" },
+        { "text": "&lt;aside&gt;", "value": "b" },
+        { "text": "&lt;content&gt;", "value": "c" },
+        { "text": "&lt;section&gt;", "value": "d" }
+    ],
+    "correct": "b"
+},
+{
+    "text": "Which HTML5 element is used to define navigation links?",
+    "options": [
+        { "text": "&lt;navigate&gt;", "value": "a" },
+        { "text": "&lt;links&gt;", "value": "b" },
+        { "text": "&lt;nav&gt;", "value": "c" },
+        { "text": "&lt;navigation&gt;", "value": "d" }
+    ],
+    "correct": "c"
+}
+,
     {
         "text": "Which global property represents a value that is not a number?",
         "options": [
