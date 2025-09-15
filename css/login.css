@@ -31,7 +31,7 @@
 
 body {
     background-color: var(--versaiwhite2);
-    background: linear-gradient(to right, #e2e2e2, var(--versaiblue));
+    background:white;
     display: flex;
     align-items: center;
     justify-content: center;

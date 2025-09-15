@@ -2,8 +2,6 @@
 session_start();
 include 'db.php';
 
-$message = ""; // message store karne ke liye
-
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email    = mysqli_real_escape_string($conn, $_POST['email']);
     $password = mysqli_real_escape_string($conn, $_POST['password']);
@@ -16,20 +14,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         // password verify
         if (password_verify($password, $row['password'])) {
+            // session set
             $_SESSION['user_id']    = $row['id'];
             $_SESSION['user_name']  = $row['username'];
             $_SESSION['user_email'] = $row['email'];
 
-            // ✅ success message
-            $message = "<p style='color:green;'>✅ Login Successful! Redirecting...</p>";
-            
-            // 2 second baad redirect
-            header("refresh:2; url=subjects.php");
+            echo "<script>alert('✅ Login Successful'); window.location='subjects.php';</script>";
         } else {
-            $message = "<p style='color:red;'>❌ Invalid Password</p>";
+            echo "<script>alert('❌ Invalid Password'); window.location='login.html';</script>";
         }
     } else {
-        $message = "<p style='color:red;'>❌ No account found with this email</p>";
+        echo "<script>alert('❌ No account found with this email'); window.location='login.html';</script>";
     }
 }
 ?>
