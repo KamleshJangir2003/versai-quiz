@@ -20,9 +20,50 @@ if (!isset($_SESSION['user_id'])) {
 </head>
 
 <body>
+    <div class="header">
+        <img src="images/versailogo.png" alt="Versai Academy Logo">
+    
     <div class="hamburger-menu" id="hamburger-menu">
         <i class="fas fa-bars"></i>
+        
     </div>
+    </div>
+    <style>
+       /* Default (desktop/tablet) पर header छुपा दो */
+.header {
+    display: none;
+}
+
+/* ✅ सिर्फ phone view (max-width: 768px तक) पर दिखे */
+@media (max-width: 768px) {
+    .header {
+        display: flex;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 70px;
+        background-color: #fff;
+        border-bottom: 1px solid #ddd;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 20px;
+        z-index: 1000;
+    }
+
+    .header img {
+        height: 50px;
+        width: auto;
+    }
+
+    .hamburger-menu {
+        margin-left: 270px; /* margin हटा दिया ताकि right में align रहे */
+        font-size: 26px;
+        cursor: pointer;
+    }
+}
+
+    </style>
     <div class="sidebar">
         <div class="logo">
             <a href="index.html">
