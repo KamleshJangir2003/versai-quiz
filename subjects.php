@@ -82,9 +82,57 @@ if (!isset($_SESSION['user_id'])) {
         </div>
 
         <div class="sidebar-menu">
+                     <!-- Add logout button here -->
+    <button class="logout-btn" onclick="logout()">
+        <i class="fas fa-sign-out-alt"></i>
+        Logout
+    </button>
             <h3 id="subject-heading">SELECT SUBJECT</h3>
+    
+    <script>
+// Add this logout function in your existing JavaScript
+function logout() {
+    if (confirm('Are you sure you want to logout?')) {
+        // Clear any stored data
+        localStorage.clear();
+        sessionStorage.clear();
+        
+        // Redirect to logout.php to destroy session
+        window.location.href = 'logout.php';
+    }
+}
+</script>
+<!-- Add this CSS in your <style> section or subjects.css file -->
+<style>
+.logout-btn {
+    width: 90%;
+    margin: 10px auto 20px auto;
+    padding: 10px 15px;
+    background: #6c5ce7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    transition: background-color 0.3s;
+}
+
+.logout-btn:hover {
+    background: #852c8e;
+}
+
+.logout-btn i {
+    font-size: 16px;
+}
+</style>
             <ul id="subject-list">
                 <!-- Subjects will be loaded here by JavaScript -->
+              
             </ul>
 
             <!-- This will show only when a subject is selected -->
@@ -99,6 +147,7 @@ if (!isset($_SESSION['user_id'])) {
                 </button>
             </div>
         </div>
+        
     </div>
 
     <div class="main-content">
