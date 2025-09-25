@@ -1,17 +1,17 @@
 <?php
 session_start();
-include '../db.php'; // adjust path if needed
+include '../db.php';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $username = $_POST['username'];
     $password = $_POST['password'];
 
-    // Admin table se check
     $sql = "SELECT * FROM admin WHERE username = '$username' AND password = MD5('$password')";
     $result = mysqli_query($conn, $sql);
 
     if (mysqli_num_rows($result) == 1) {
         $_SESSION['admin'] = $username;
+        $_SESSION['success_msg'] = "Login Successful! Welcome, $username."; // success message
         header("Location: ../admin-dashboard.php");
         exit();
     } else {
@@ -19,6 +19,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 

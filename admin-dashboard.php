@@ -34,6 +34,18 @@ if ($result_exams->num_rows > 0) {
     $row_exams = $result_exams->fetch_assoc();
     $total_exams = $row_exams['total_exams'];
 }
+if (!isset($_SESSION['admin'])) {
+    header("Location: admin-login.php");
+    exit();
+}
+
+// Success message show karna
+if (isset($_SESSION['success_msg'])) {
+    echo '<div id="successMsg" style="padding:10px; background-color:#d4edda; color:#155724; border:1px solid #c3e6cb; border-radius:5px; margin-bottom:15px;">'
+         . $_SESSION['success_msg'] .
+         '</div>';
+    unset($_SESSION['success_msg']); // message remove after showing
+}
 
 $conn->close();
 ?>
@@ -201,5 +213,16 @@ $conn->close();
             });
         });
     </script>
+    <script>
+    // 5 seconds ke baad fade out
+    setTimeout(function() {
+        var msg = document.getElementById('successMsg');
+        if(msg){
+            msg.style.transition = "opacity 0.5s ease";
+            msg.style.opacity = '0';
+            setTimeout(function(){ msg.remove(); }, 500); // DOM se remove kar de
+        }
+    }, 5000);
+</script>
 </body>
 </html>
