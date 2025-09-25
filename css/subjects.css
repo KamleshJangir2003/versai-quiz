@@ -282,7 +282,7 @@ body {
 }
 
 .submit-btn {
-    background-color: #e74c3c;
+    background-color: #5649d1;
     color: white;
     border: none;
     padding: 12px 25px;
@@ -296,7 +296,7 @@ body {
 }
 
 .submit-btn:hover {
-    background-color: #c0392b;
+    background-color: #812B8f;
     transform: translateY(-2px);
 }
 
@@ -445,7 +445,7 @@ body {
 }
 
 .modal-btn.confirm {
-    background-color: #e74c3c;
+    background-color: #ea6c9a;
     color: white;
     border: none;
 }
