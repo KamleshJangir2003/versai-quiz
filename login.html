@@ -44,7 +44,11 @@
                 </div>
                 <span>or use your email password</span>
                   <input type="email" name="email" placeholder="Email" required>
-    <input type="password" name="password" placeholder="Password" required>
+<div class="password-container">
+    <input type="password" name="password" id="signin-password" placeholder="Password" required>
+    <i class='bx bx-show' id="togglePassword" style="cursor:pointer;"></i>
+</div>
+
               <a href="forgot_password.php">Forget Your Password?</a>
 
                <button type="submit">Sign In</button>
@@ -66,5 +70,16 @@
         </div>
     </div>
 </body>
+<script>
+const togglePassword = document.getElementById('togglePassword');
+const passwordInput = document.getElementById('signin-password');
+
+togglePassword.addEventListener('click', () => {
+    const type = passwordInput.type === 'password' ? 'text' : 'password';
+    passwordInput.type = type;
+    togglePassword.classList.toggle('bx-show');
+    togglePassword.classList.toggle('bx-hide'); // Change icon
+});
+</script>
 
 </html>
